@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ecf8702f1b14e4e3",
+        "id": "1e9598a1ee410cf5",
         "type": "tabs",
         "children": [
           {
-            "id": "fe549e972e6c0704",
+            "id": "58d7eb6b19a96e49",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/40分钟学会Codex！“零基础”终级教程～【附完整文档】.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "40分钟学会Codex！“零基础”终级教程～【附完整文档】"
             }
           }
         ]
@@ -190,8 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe549e972e6c0704",
+  "active": "58d7eb6b19a96e49",
   "lastOpenFiles": [
+    "Clippings/40分钟学会Codex！“零基础”终级教程～【附完整文档】.md",
+    "Clippings",
+    "未命名.canvas",
+    "2026-06-09.md",
+    "未命名.base",
     "ip获客/README 1.md",
     "Qiao-今日思考/代办清单.md",
     "Qiao-今日思考/2026年5月28日-代办清单.md",
@@ -205,12 +214,9 @@
     "同步",
     "标签体系说明",
     "Scripts",
-    "Excalidraw",
-    "Excalidraw/scripts",
     "00-Inbox.md",
     "ip获客/2-第二节-系统全景.md",
     "ip获客/2026-05-27.md",
-    "未命名.canvas",
     "2026-05-27.md",
     "传承家族文化的会议讨论-文稿-转写结果.md",
     "未命名 1.md"
