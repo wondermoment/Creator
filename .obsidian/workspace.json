@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/40分钟学会Codex！“零基础”终级教程～【附完整文档】.md",
+                "file": "Qiao-今日思考/代办清单.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "40分钟学会Codex！“零基础”终级教程～【附完整文档】"
+              "title": "代办清单"
+            }
+          },
+          {
+            "id": "c738739b2fdb67dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Qiao-今日思考/2026年6月22日.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026年6月22日"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,15 +209,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58d7eb6b19a96e49",
+  "active": "c738739b2fdb67dd",
   "lastOpenFiles": [
+    "Qiao-今日思考/代办清单.md",
+    "Qiao-今日思考/2026年6月22日.md",
     "Clippings/40分钟学会Codex！“零基础”终级教程～【附完整文档】.md",
     "Clippings",
     "未命名.canvas",
     "2026-06-09.md",
     "未命名.base",
     "ip获客/README 1.md",
-    "Qiao-今日思考/代办清单.md",
     "Qiao-今日思考/2026年5月28日-代办清单.md",
     "ip获客/README.md",
     "00-Inbox/未命名.md",
