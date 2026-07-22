@@ -1,1 +1,5 @@
-{}
+{
+  "attachmentFolderPath": "附件",
+  "openBehavior": "new",
+  "newFileLocation": "folder"
+}
