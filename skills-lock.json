@@ -1,0 +1,220 @@
+{
+  "version": 1,
+  "skills": {
+    "add-agent": {
+      "source": "../AI-Skills-Sources/compabob-main/.claude/skills",
+      "sourceType": "local",
+      "computedHash": "667f00640ed0cd9fb95eaba0720a0c185f6ae5a8ac06df05096eb402142f00ad"
+    },
+    "algorithmic-art": {
+      "source": "../AI-Skills-Sources/skills-main",
+      "sourceType": "local",
+      "computedHash": "b2ca295de7f9c86c444f1fa21239e22e0eb7013ced1c652169b9402cc96ff744"
+    },
+    "brand-guidelines": {
+      "source": "../AI-Skills-Sources/skills-main",
+      "sourceType": "local",
+      "computedHash": "e48840db6ea772ceecdb68b4e50f8cc77e2534b7580aeaf4a6fe6ee7bd845d7d"
+    },
+    "build-list": {
+      "source": "../AI-Skills-Sources/compabob-main/.claude/skills",
+      "sourceType": "local",
+      "computedHash": "0489a65689d6c7757b7c6e67855640526483d713f8c5030477180969c571355f"
+    },
+    "canvas-design": {
+      "source": "../AI-Skills-Sources/skills-main",
+      "sourceType": "local",
+      "computedHash": "3fa7ea60170023ad8268bf9fd734ea75dd404279a2ef8ddf5abaa1102ad8e5f4"
+    },
+    "chart-tufte": {
+      "source": "../AI-Skills-Sources/compabob-main/.claude/skills",
+      "sourceType": "local",
+      "computedHash": "4778ca8c6dfe45047adc64d62f950012d663f999bb5c3fe4196d62867623a174"
+    },
+    "claude-api": {
+      "source": "../AI-Skills-Sources/skills-main",
+      "sourceType": "local",
+      "computedHash": "5d603b46ca25b1ecf73b6e610dee5f44015d1df183c025ed18511fa518292d99"
+    },
+    "defuddle": {
+      "source": "../AI-Skills-Sources/obsidian-skills-main",
+      "sourceType": "local",
+      "computedHash": "0ed68bc3e818ba0e6b8d192357ea3daaf552a3893f8854e7fd43c06831f91323"
+    },
+    "doc-coauthoring": {
+      "source": "../AI-Skills-Sources/skills-main",
+      "sourceType": "local",
+      "computedHash": "b964e4c3ffe13f66f76dd7919073e60c7aec622cd8a8363bb36323188100cf8e"
+    },
+    "document-export": {
+      "source": "../AI-Skills-Sources/compabob-main/.claude/skills",
+      "sourceType": "local",
+      "computedHash": "ef0bd3c7b443e972a71d6a9349268aa35bb2e72b91fa0a80a6e1fa4f18515c43"
+    },
+    "docx": {
+      "source": "../AI-Skills-Sources/skills-main",
+      "sourceType": "local",
+      "computedHash": "59c70107f8eae818bdfca7da685a6e4111aa519638b667775b794cb74987ec47"
+    },
+    "frontend-design": {
+      "source": "../AI-Skills-Sources/skills-main",
+      "sourceType": "local",
+      "computedHash": "4eabc66183767153e404b39d1b839b1c37f2d82d86f0a0d7e880a579d8d62336"
+    },
+    "handover": {
+      "source": "../AI-Skills-Sources/compabob-main/.claude/skills",
+      "sourceType": "local",
+      "computedHash": "31550c25655929713f0a9cb855da7010fd09be76fb032810942d5c750893cc27"
+    },
+    "index-memory": {
+      "source": "../AI-Skills-Sources/compabob-main/.claude/skills",
+      "sourceType": "local",
+      "computedHash": "7e3ff511e9e65e3914740acc0c61fb2dc11bde500a27b3290a416cc88edd3157"
+    },
+    "internal-comms": {
+      "source": "../AI-Skills-Sources/skills-main",
+      "sourceType": "local",
+      "computedHash": "0bdc8867452b7ab9ef6167f6b0db2025ce5fb03773d3f85efcef2dfeb9d4976d"
+    },
+    "json-canvas": {
+      "source": "../AI-Skills-Sources/obsidian-skills-main",
+      "sourceType": "local",
+      "computedHash": "56cbac74a93e4fba97f4d44bccfdeaae89e545b223f47df392c7705e01e6c543"
+    },
+    "log-decision": {
+      "source": "../AI-Skills-Sources/compabob-main/.claude/skills",
+      "sourceType": "local",
+      "computedHash": "9754eedb6550e766697bf509a016d991a575c84a534337264cc2c24e70fe0966"
+    },
+    "mcp-builder": {
+      "source": "../AI-Skills-Sources/skills-main",
+      "sourceType": "local",
+      "computedHash": "826e46adf81e1372282e205c34e1a2ee876e72148007726e4a2512599d2fef7b"
+    },
+    "mcp-debug": {
+      "source": "../AI-Skills-Sources/compabob-main/.claude/skills",
+      "sourceType": "local",
+      "computedHash": "55aec7a47c33f476cf42b34879d15fe6b3b3abdf365c3c2850cf56c45d5f0371"
+    },
+    "meeting-prep": {
+      "source": "../AI-Skills-Sources/compabob-main/.claude/skills",
+      "sourceType": "local",
+      "computedHash": "d63438d86907689c6cbe6b03df1d7e3259e655a2f66dbbc1faf30305bf9f3c0d"
+    },
+    "memory-debt": {
+      "source": "../AI-Skills-Sources/compabob-main/.claude/skills",
+      "sourceType": "local",
+      "computedHash": "5a81b77666689fa870b7bc001d4598ac70ac22d3bddd16a2ef07863a1d319ae8"
+    },
+    "merge-contacts": {
+      "source": "../AI-Skills-Sources/compabob-main/.claude/skills",
+      "sourceType": "local",
+      "computedHash": "54b3303f47a64a728f59dc4b88053b1cc3bf2d2e11e75778db2e50f1357860b5"
+    },
+    "morning-brief": {
+      "source": "../AI-Skills-Sources/compabob-main/.claude/skills",
+      "sourceType": "local",
+      "computedHash": "ef88467b5ad2e35e26c5bf4e6a5be68f5f0dd0e3e24190b531da27196312f201"
+    },
+    "obsidian-ai-setup": {
+      "source": "../AI-Skills-Sources/obsidian-ai-setup-main",
+      "sourceType": "local",
+      "computedHash": "30c2d8ec5b6546509d56e23887c1603e425d36c21d2c6b8008e112aa93ed5ff9"
+    },
+    "obsidian-bases": {
+      "source": "../AI-Skills-Sources/obsidian-skills-main",
+      "sourceType": "local",
+      "computedHash": "65db029661f38daadc8b8eb755bd7b96011336f49bdc11e966ec7fd157d8f125"
+    },
+    "obsidian-cli": {
+      "source": "../AI-Skills-Sources/obsidian-skills-main",
+      "sourceType": "local",
+      "computedHash": "f46ae626875f7e47c410c2ee93896c4526024ebe127719e8fb430261b5677edc"
+    },
+    "obsidian-markdown": {
+      "source": "../AI-Skills-Sources/obsidian-skills-main",
+      "sourceType": "local",
+      "computedHash": "0f47297035d7824e7bf0f1984e8145a59a123e2258b5d54c9ac9642f9f77e177"
+    },
+    "obsidian-second-brain": {
+      "source": "../AI-Skills-Sources/obsidian-second-brain-main",
+      "sourceType": "local",
+      "computedHash": "0d612a103a873bea14086542d25e2941497af3bd74f5a42068ff68efca9802b4"
+    },
+    "pdf": {
+      "source": "../AI-Skills-Sources/skills-main",
+      "sourceType": "local",
+      "computedHash": "cfbc539377088ca7e44a813b30c306327385bbd973cd7a721e1743f60837dd62"
+    },
+    "post-call": {
+      "source": "../AI-Skills-Sources/compabob-main/.claude/skills",
+      "sourceType": "local",
+      "computedHash": "0d245af392d812cf40a0bea0833d80cddca9b36b8a8f4a2bb65b559c99206293"
+    },
+    "pptx": {
+      "source": "../AI-Skills-Sources/skills-main",
+      "sourceType": "local",
+      "computedHash": "82eaf5daede5a1779aa17ccf06597cb209a0c2bd41d3a2f18bd45e0301a387fb"
+    },
+    "reflect": {
+      "source": "../AI-Skills-Sources/compabob-main/.claude/skills",
+      "sourceType": "local",
+      "computedHash": "bc21a2945edbe81cc8d30e861b7137036b57a56acc4040c53b37988d20bedb13"
+    },
+    "skill-creator": {
+      "source": "../AI-Skills-Sources/skills-main",
+      "sourceType": "local",
+      "computedHash": "5ea13a6d9f0d4bb694405d79acd00cadec0d21bb138c4dd10fcf3c500cb835c2"
+    },
+    "slack-gif-creator": {
+      "source": "../AI-Skills-Sources/skills-main",
+      "sourceType": "local",
+      "computedHash": "fab4fcfcaed371071069d61a3ab94dff15d10d36403ff269d147ea986cd98083"
+    },
+    "system-audit": {
+      "source": "../AI-Skills-Sources/compabob-main/.claude/skills",
+      "sourceType": "local",
+      "computedHash": "32f075e65e5daf82ace31278c2118141f0a04a220577b0b71cf86c11543e9c7c"
+    },
+    "tasks": {
+      "source": "../AI-Skills-Sources/compabob-main/.claude/skills",
+      "sourceType": "local",
+      "computedHash": "350a692f903eaae2b2c271f8afbc3bc3bea8d23eb6cbed0c89ae2fa0d321f399"
+    },
+    "template-skill": {
+      "source": "../AI-Skills-Sources/skills-main",
+      "sourceType": "local",
+      "computedHash": "38c88f722b574a922311d334a70c2008a2a5b896f06eaa75516d716e5725b26f"
+    },
+    "theme-factory": {
+      "source": "../AI-Skills-Sources/skills-main",
+      "sourceType": "local",
+      "computedHash": "598ddfa9784ae2a8c55be5dbb047b98564d875dea6f4669168a87ae1ea1a4ed3"
+    },
+    "visual-explainer": {
+      "source": "../AI-Skills-Sources/compabob-main/.claude/skills",
+      "sourceType": "local",
+      "computedHash": "228685ba9d909356296a83d17fbdf39dc8ca269d89d06ecc6e05a8f69d695573"
+    },
+    "web-artifacts-builder": {
+      "source": "../AI-Skills-Sources/skills-main",
+      "sourceType": "local",
+      "computedHash": "d52d422ead3fa26859a6af129609841a8536b230a2d649f86e61771d063e05e2"
+    },
+    "webapp-testing": {
+      "source": "../AI-Skills-Sources/skills-main",
+      "sourceType": "local",
+      "computedHash": "ad5b1fc52807e9afa4635e59218a026b164dc58b6c3f41b0f7c644dcd6ccf572"
+    },
+    "weekly-review": {
+      "source": "../AI-Skills-Sources/compabob-main/.claude/skills",
+      "sourceType": "local",
+      "computedHash": "402bdfc6b0efcdee387c24c3430dd062ff2f24bea464981775fdc779b321e108"
+    },
+    "xlsx": {
+      "source": "../AI-Skills-Sources/skills-main",
+      "sourceType": "local",
+      "computedHash": "f5945e6e76dc7c178375e5cdf3140959b30cbcd4570ec3dc62296812259fc38d"
+    }
+  }
+}

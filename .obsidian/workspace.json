@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Qiao-今日思考/代办清单.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "代办清单"
+              "title": "未命名"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -174,6 +176,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "2b22664983a04fb4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 5
@@ -184,6 +196,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -194,10 +210,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d8cbbac3370334",
+  "active": "58d7eb6b19a96e49",
   "lastOpenFiles": [
-    "未命名.base",
     "Qiao-今日思考/代办清单.md",
+    "未命名.md",
+    "未命名.base",
     "Qiao-今日思考/2026年5月28日-代办清单.md",
     "Qiao-今日思考/2026年6月22日.md",
     "00-Inbox/老尚的短视频逐字稿.md",
