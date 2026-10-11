@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "vaultId": "sha256:ac9e23aefc934d092e53d5f3c7c44e5dc89f71b4b87e61b062299289c6406469",
+  "entries": [
+    {
+      "conversationId": "conversation-1791732547921-rp26iq",
+      "piSessionId": "01a12b95-0158-7ac7-8a36-bcc0a54e9257",
+      "vaultId": "sha256:ac9e23aefc934d092e53d5f3c7c44e5dc89f71b4b87e61b062299289c6406469",
+      "title": "新会话",
+      "status": "active",
+      "defaultMemoryMode": "normal",
+      "createdAt": 1791732547922,
+      "updatedAt": 1791732547922,
+      "sessionFile": "C:\\Users\\pc02a\\Creator\\.obsidian\\plugins\\codex-echoink\\pi-agent-product-v1\\vaults\\07b7cf4738288136951e54cfa3a62844d89ca86cd8cc553b61f2ca3c86401376\\sessions\\echoink-1791732547923-05d5f590-9a3b-4564-aaba-de537e61574a.jsonl"
+    }
+  ],
+  "drafts": [],
+  "diagnostics": []
+}

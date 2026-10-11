@@ -10,7 +10,8 @@
       "tags": "writing, brainstorming",
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/gpt-3-prompt-templates",
-      "installed": false
+      "installed": false,
+      "downloads": 0
     },
     "dalle": {
       "packageId": "dalle",
@@ -22,7 +23,8 @@
       "tags": "photo, dalle-2, dalle-3",
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/tg-dalle-package",
-      "installed": false
+      "installed": false,
+      "downloads": 0
     },
     "huggingface": {
       "packageId": "huggingface",
@@ -34,7 +36,8 @@
       "tags": "writing, brainstorming, huggingface",
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/huggingface",
-      "installed": false
+      "installed": false,
+      "downloads": 0
     },
     "awesomePrompts": {
       "packageId": "awesomePrompts",
@@ -46,7 +49,8 @@
       "tags": "writing, brainstorming, awesome",
       "authorUrl": "https://github.com/f/awesome-chatgpt-prompts",
       "repo": "text-gen/awesome-tg-package",
-      "installed": false
+      "installed": false,
+      "downloads": 0
     },
     "tts": {
       "packageId": "tts",
@@ -58,7 +62,8 @@
       "tags": "TTS, Speak",
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/TTS",
-      "installed": false
+      "installed": false,
+      "downloads": 0
     },
     "vision": {
       "packageId": "vision",
@@ -69,7 +74,9 @@
       "author": "Noureddine",
       "tags": "OpenAI,markdown,gpt-4-vision,vision,images",
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
-      "repo": "text-gen/tg-vision"
+      "repo": "text-gen/tg-vision",
+      "installed": false,
+      "downloads": 0
     },
     "smartConnections": {
       "packageId": "smartConnections",
@@ -80,7 +87,9 @@
       "author": "Noureddine",
       "tags": "smartConnections,smart-connections",
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
-      "repo": "text-gen/tg-smartConnections"
+      "repo": "text-gen/tg-smartConnections",
+      "installed": false,
+      "downloads": 0
     },
     "Experimental": {
       "packageId": "Experimental",
@@ -92,7 +101,8 @@
       "tags": "experiments",
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/experimental-package",
-      "installed": false
+      "installed": false,
+      "downloads": 0
     },
     "testExtension": {
       "core": true,
@@ -108,7 +118,8 @@
       "repo": "text-gen/gpt-3-prompt-templates",
       "folderName": "testExtension",
       "price": 20,
-      "installed": false
+      "installed": false,
+      "downloads": 0
     },
     "excalidraw": {
       "packageId": "excalidraw",
@@ -122,7 +133,9 @@
       "repo": "text-gen/tg-excalidraw",
       "core": true,
       "folderName": "excalidrawPackage",
-      "price": 2
+      "price": 2,
+      "installed": false,
+      "downloads": 0
     }
   },
   "resources": {},

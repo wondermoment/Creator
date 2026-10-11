@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "vaultId": "sha256:ac9e23aefc934d092e53d5f3c7c44e5dc89f71b4b87e61b062299289c6406469",
+  "revision": 2,
+  "records": [],
+  "tombstones": [],
+  "updatedAt": 1791732604386,
+  "fixedFileHashes": {
+    "agent": "9cffb9af3350421996b7c77fa0fa0302aa303fc6b7c116ad2e081c262b834528",
+    "user": "3b7056368ef8510b3b532f6d2344e84a3e16e99dd0a925d04d680a491c40cd43"
+  }
+}
