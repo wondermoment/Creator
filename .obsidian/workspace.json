@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "346bf256719c1065",
@@ -229,7 +228,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "860b9cac153de13b",
+  "active": "42d8cbbac3370334",
   "lastOpenFiles": [
     "未命名 2.canvas",
     "2026-10-11.md",
@@ -242,7 +241,7 @@
     "Qiao-今日思考/2026年5月28日-代办清单.md",
     "Qiao-今日思考/2026年6月22日.md",
     "00-Inbox/老尚的短视频逐字稿.md",
-    "04-Projects/未命名",
+    "04-Projects/产品开发",
     "Clippings/40分钟学会Codex！“零基础”终级教程～【附完整文档】.md",
     "Clippings",
     "2026-06-09.md",
