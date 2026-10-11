@@ -1,0 +1,22 @@
+{
+  "id": "hou-4",
+  "requested_title": "绝佳时间",
+  "query": "Life Time Russell Foster",
+  "checked": "2026-10-06",
+  "sources": [
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL25338281W",
+      "title": "Life Time",
+      "authors": [
+        "Russell Foster"
+      ],
+      "year": 2022,
+      "description": "",
+      "subjects": []
+    }
+  ],
+  "errors": [
+    "Wikipedia: HTTP Error 429: Too Many Requests"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "seconds": 12.22,
+  "answer": "你想改良哪一道家常菜？",
+  "meta": {
+    "model": null,
+    "usage": {
+      "prompt_tokens": 15690,
+      "completion_tokens": 14,
+      "cached_input_tokens": 0
+    },
+    "estimated_cost": null,
+    "currency": "",
+    "transport": "codex_local",
+    "price_basis": "ChatGPT 套餐 Codex 用量；不换算 API 费用，非离线模型"
+  },
+  "trace": [
+    {
+      "returncode": 0,
+      "reconnecting": false,
+      "websocket_fallback": false
+    }
+  ],
+  "scope": "Synthetic question; isolated process transport options, no provider config file or real user data changes"
+}

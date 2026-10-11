@@ -1,0 +1,129 @@
+{
+  "method": "Local Codex native image_gen using ChatGPT login; one original per item; only WebP conversion, no compositing",
+  "model_version": "not independently verified",
+  "prompt": "output/imagegen/testing-remaining-prompt.txt",
+  "exit_code": 0,
+  "items": [
+    {
+      "id": "test-family",
+      "source": "C:/Users/pc02a/Creator/04-Projects/geo-platform/.runtime/codex-local/generated_images/01a10c0b-fef2-7080-9a34-6ea9c1e5a2af/exec-aed43aec-14a7-48cb-b560-8e5b98d165e3.png",
+      "output": "C:/Users/pc02a/Creator/04-Projects/creator-platform/frontend/assets/testing/test-family-science.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "source_sha256": "c9160f68c9b603fbae8b8439c92aec02091a866a6a471c7d05fae3821e4e622a",
+      "visual_review": "Each original inspected individually; theme and text reviewed, no medical certification."
+    },
+    {
+      "id": "test-gut",
+      "source": "C:/Users/pc02a/Creator/04-Projects/geo-platform/.runtime/codex-local/generated_images/01a10c0b-fef2-7080-9a34-6ea9c1e5a2af/exec-54a22a49-8ed9-4ede-bce0-2c6ba93dbbcb.png",
+      "output": "C:/Users/pc02a/Creator/04-Projects/creator-platform/frontend/assets/testing/test-gut-science.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "source_sha256": "1f179b8298ef7ecf0ae0b120b57b041dee2a55342238c32122a00e0ee3e24057",
+      "visual_review": "Each original inspected individually; theme and text reviewed, no medical certification."
+    },
+    {
+      "id": "test-oral",
+      "source": "C:/Users/pc02a/Creator/04-Projects/geo-platform/.runtime/codex-local/generated_images/01a10c0b-fef2-7080-9a34-6ea9c1e5a2af/exec-db41c680-0c61-4e8f-b827-3f4f1fc0035e.png",
+      "output": "C:/Users/pc02a/Creator/04-Projects/creator-platform/frontend/assets/testing/test-oral-science.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "source_sha256": "11b02de2fbe2068800fc9b2a3536aa6abf70709fc8094fc54dae1f100d046bb7",
+      "visual_review": "Each original inspected individually; theme and text reviewed, no medical certification."
+    },
+    {
+      "id": "test-nad",
+      "source": "C:/Users/pc02a/Creator/04-Projects/geo-platform/.runtime/codex-local/generated_images/01a10c0b-fef2-7080-9a34-6ea9c1e5a2af/exec-039cee79-e59c-43dc-b389-c1aea61104e8.png",
+      "output": "C:/Users/pc02a/Creator/04-Projects/creator-platform/frontend/assets/testing/test-nad-science.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "source_sha256": "34980c79629bb535e5b7cdcdab731b568a61ce05bc5b0cc1cc2e470bcad1eee8",
+      "visual_review": "Each original inspected individually; theme and text reviewed, no medical certification."
+    },
+    {
+      "id": "test-organic-acids",
+      "source": "C:/Users/pc02a/Creator/04-Projects/geo-platform/.runtime/codex-local/generated_images/01a10c0b-fef2-7080-9a34-6ea9c1e5a2af/exec-d7074e85-8be4-4258-9d79-28d8c9c3d5b8.png",
+      "output": "C:/Users/pc02a/Creator/04-Projects/creator-platform/frontend/assets/testing/test-organic-acids-science.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "source_sha256": "e227d33ccf2ee077de13b1f27891e97c15cc81ce11f6024113b02cd5ee2500c5",
+      "visual_review": "Each original inspected individually; theme and text reviewed, no medical certification."
+    },
+    {
+      "id": "test-chronic",
+      "source": "C:/Users/pc02a/Creator/04-Projects/geo-platform/.runtime/codex-local/generated_images/01a10c0b-fef2-7080-9a34-6ea9c1e5a2af/exec-b4e3c3b8-4d6b-4c4b-bdb5-8d0ec3e54ff7.png",
+      "output": "C:/Users/pc02a/Creator/04-Projects/creator-platform/frontend/assets/testing/test-chronic-science.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "source_sha256": "d3bb47f3428551b9c6d8abce36f439681ec81faf489ad8003b24ed48aa802711",
+      "visual_review": "Each original inspected individually; theme and text reviewed, no medical certification."
+    },
+    {
+      "id": "test-male",
+      "source": "C:/Users/pc02a/Creator/04-Projects/geo-platform/.runtime/codex-local/generated_images/01a10c0b-fef2-7080-9a34-6ea9c1e5a2af/exec-080b7582-c08c-4563-b083-31d53108e837.png",
+      "output": "C:/Users/pc02a/Creator/04-Projects/creator-platform/frontend/assets/testing/test-male-science.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "source_sha256": "9a75dde3138c80a7a8f107f08a330b44753bdfdb701873d1af2b5f26f9a65199",
+      "visual_review": "Each original inspected individually; theme and text reviewed, no medical certification."
+    },
+    {
+      "id": "test-female",
+      "source": "C:/Users/pc02a/Creator/04-Projects/geo-platform/.runtime/codex-local/generated_images/01a10c0b-fef2-7080-9a34-6ea9c1e5a2af/exec-c974aa9a-515d-441e-bd52-72144cad2737.png",
+      "output": "C:/Users/pc02a/Creator/04-Projects/creator-platform/frontend/assets/testing/test-female-science.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "source_sha256": "32bfe48fdc747a9197f63f31fbc84c0e28e70d6c2b3ea244322146b5e948042a",
+      "visual_review": "Each original inspected individually; theme and text reviewed, no medical certification."
+    },
+    {
+      "id": "test-immune",
+      "source": "C:/Users/pc02a/Creator/04-Projects/geo-platform/.runtime/codex-local/generated_images/01a10c0b-fef2-7080-9a34-6ea9c1e5a2af/exec-41e0f318-ce87-459d-9602-807c03346a30.png",
+      "output": "C:/Users/pc02a/Creator/04-Projects/creator-platform/frontend/assets/testing/test-immune-science.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "source_sha256": "1adaa4acd7b1c2aad74b1222b3126605ab38424759d44585f4a10470ab0ea8eb",
+      "visual_review": "Each original inspected individually; theme and text reviewed, no medical certification."
+    },
+    {
+      "id": "test-environment",
+      "source": "C:/Users/pc02a/Creator/04-Projects/geo-platform/.runtime/codex-local/generated_images/01a10c0b-fef2-7080-9a34-6ea9c1e5a2af/exec-03581e30-7c2c-412f-882f-57c1a49c9af0.png",
+      "output": "C:/Users/pc02a/Creator/04-Projects/creator-platform/frontend/assets/testing/test-environment-science.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "source_sha256": "9810d99cb04adbd4b0268dc9301ee85985cc21c741d4cbf7c5f7480b358b5050",
+      "visual_review": "Each original inspected individually; theme and text reviewed, no medical certification."
+    },
+    {
+      "id": "test-elements",
+      "source": "C:/Users/pc02a/Creator/04-Projects/geo-platform/.runtime/codex-local/generated_images/01a10c0b-fef2-7080-9a34-6ea9c1e5a2af/exec-6938a0b4-8f78-426c-9b73-cdbb80f70a0c.png",
+      "output": "C:/Users/pc02a/Creator/04-Projects/creator-platform/frontend/assets/testing/test-elements-science.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "source_sha256": "f8a31e9df4651d52b366ed17f156586643b9a64236b4c1870aeb3307c62c2218",
+      "visual_review": "Each original inspected individually; theme and text reviewed, no medical certification."
+    }
+  ]
+}

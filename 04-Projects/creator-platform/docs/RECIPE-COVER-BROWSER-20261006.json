@@ -1,0 +1,20 @@
+[
+  {
+    "loaded": true,
+    "route": "#diet/tofu-wrap",
+    "src": "/static/assets/recipes/tofu-wrap-step-4.webp",
+    "steps": 4,
+    "title": "彩蔬豆腐全麦卷",
+    "topButtons": 1,
+    "visible": true
+  },
+  {
+    "loaded": true,
+    "route": "#diet/egg-corn",
+    "src": "/static/assets/recipes/egg-corn-step-4.webp",
+    "steps": 4,
+    "title": "玉米蔬菜蒸蛋餐",
+    "topButtons": 1,
+    "visible": true
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "source_id": "a9d57673d1586b469df0f4d7",
+  "source_revision": 2,
+  "title": "隔离验收105：分镜导入示例",
+  "aspect": "landscape",
+  "engine": "remotion",
+  "scenes": [
+    {
+      "text": "先核对材料",
+      "asset_id": "",
+      "seconds": 3,
+      "start": 0.0
+    },
+    {
+      "text": "再验证工况边界",
+      "asset_id": "",
+      "seconds": 9,
+      "start": 0.0
+    }
+  ],
+  "revision": 1,
+  "source_snapshot": {
+    "title": "隔离验收105：分镜导入示例",
+    "revision": 2,
+    "body_sha256": "92f8546ccb1b4a1373a30ba807165e70ac3910d53f9dcf2d7ed782aab453b21b"
+  },
+  "created_by": "4a09d09c6eb3869aa432a85a"
+}

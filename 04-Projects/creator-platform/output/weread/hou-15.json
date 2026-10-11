@@ -1,0 +1,83 @@
+{
+  "book": {
+    "id": "hou-15",
+    "number": 15,
+    "title": "DNA：生命的秘密",
+    "category": "基因",
+    "author": "James D. Watson、Andrew Berry"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=DNA%EF%BC%9A%E7%94%9F%E5%91%BD%E7%9A%84%E7%A7%98%E5%AF%86",
+  "results": [
+    {
+      "title": "DNA：生命的秘密",
+      "author": "詹姆斯·沃森 安德鲁·贝瑞",
+      "url": "https://weread.qq.com/web/bookDetail/3e832b405d148d3e85e2d59"
+    },
+    {
+      "title": "生命的秘密：弗兰克林、沃森、克里克和DNA双螺旋结构的发现（思想会）",
+      "author": "[美]霍华德·马克尔",
+      "url": "https://weread.qq.com/web/reader/adc32670813aba2e6g011f81"
+    },
+    {
+      "title": "该死，拉锁卡住了（读书文丛）",
+      "author": "王一方",
+      "url": "https://weread.qq.com/web/reader/c0432e3071822eafc04c81e"
+    },
+    {
+      "title": "后资本主义生活：财富的意义、经济的未来与货币的时间理论（财之道丛书）",
+      "author": "[美]乔治·吉尔德",
+      "url": "https://weread.qq.com/web/reader/9c832080813ab94f8g0171bd"
+    },
+    {
+      "title": "如何阅读西方经典",
+      "author": "苏珊·怀斯·鲍尔",
+      "url": "https://weread.qq.com/web/reader/7b0325f0813ab7f89g0121db"
+    },
+    {
+      "title": "天才向左，疯子向右（下）：躁郁症与影响世界的人",
+      "author": "凯·雷德菲尔德·杰米森",
+      "url": "https://weread.qq.com/web/reader/13e32e105ae2a013e2c48a9"
+    },
+    {
+      "title": "北京四中人文课：生物：育生命之真善美",
+      "author": "陈月艳",
+      "url": "https://weread.qq.com/web/reader/fef32eb0813ab6d95g0133a8"
+    },
+    {
+      "title": "中国改革开放新时期年鉴（2010年）",
+      "author": "王振川主编",
+      "url": "https://weread.qq.com/web/reader/eb632ad0729bfe19eb6f95b"
+    },
+    {
+      "title": "衔尾蛇之圆",
+      "author": "桑德尔·拜斯",
+      "url": "https://weread.qq.com/web/reader/7e0324f0813ab6e07g01236d"
+    },
+    {
+      "title": "高中文学经典导读（第二辑）",
+      "author": "石骏 杨赢主编",
+      "url": "https://weread.qq.com/web/reader/b5232ec071f0132cb52614b"
+    },
+    {
+      "title": "数学真好玩",
+      "author": "樱井进",
+      "url": "https://weread.qq.com/web/reader/f3132f805deea9f31652e0c"
+    },
+    {
+      "title": "数学真好玩（新版）",
+      "author": "樱井进",
+      "url": "https://weread.qq.com/web/reader/845321b0729e575d84581e8"
+    },
+    {
+      "title": "手绘版植物塑造的人类史：烤肉还是烤土豆",
+      "author": "史军",
+      "url": "https://weread.qq.com/web/reader/f7232ba0813aba154g0129d5"
+    },
+    {
+      "title": "小故事学大知识，让孩子爱上“数理化”（套装3册)",
+      "author": "左卷健男 [日]樱井进等",
+      "url": "https://weread.qq.com/web/reader/ad6321407182826aad6a310"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "protein": {
+    "source": "C:/Users/pc02a/Creator/04-Projects/geo-platform/.runtime/codex-local/generated_images/01a108ae-993c-7761-913c-730e0a222fb7/exec-1a6e8379-d53c-496c-a18b-68c66dfb1aa3.png",
+    "target": "frontend/assets/nutrients/protein-flow-3-middle-aged.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "review": "Native reference edit inspected: middle-aged subject, preserved other character, scene, Chinese heading and watercolor style."
+  },
+  "calcium": {
+    "source": "C:/Users/pc02a/Creator/04-Projects/geo-platform/.runtime/codex-local/generated_images/01a108af-3b29-7313-8722-67111e807f7f/exec-7a3b899b-40cd-4c3e-bd2c-dcfcfcc993ae.png",
+    "target": "frontend/assets/nutrients/calcium-flow-3-middle-aged.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "review": "Native reference edit inspected: middle-aged subject, preserved other character, scene, Chinese heading and watercolor style."
+  }
+}

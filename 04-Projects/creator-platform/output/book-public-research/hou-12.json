@@ -1,0 +1,43 @@
+{
+  "id": "hou-12",
+  "requested_title": "衰老生物学",
+  "query": "Biology of Aging Roger McDonald",
+  "checked": "2026-10-06",
+  "sources": [
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL20651341W",
+      "title": "Biology of aging",
+      "authors": [
+        "Roger B. McDonald"
+      ],
+      "year": 2013,
+      "description": "",
+      "subjects": [
+        "Cells",
+        "Aging",
+        "Longevity",
+        "Physiology, pathological"
+      ]
+    },
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL21238049W",
+      "title": "Biology of Aging",
+      "authors": [
+        "Roger B. McDonald"
+      ],
+      "year": 2013,
+      "description": "",
+      "subjects": [
+        "Aging",
+        "Cells",
+        "Longevity",
+        "Physiology, pathological"
+      ]
+    }
+  ],
+  "errors": [
+    "Wikipedia: HTTP Error 429: Too Many Requests"
+  ]
+}

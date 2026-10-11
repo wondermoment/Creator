@@ -1,0 +1,74 @@
+[
+  {
+    "name": "cinematography",
+    "repo": "fal-ai-community/skills",
+    "sha": "9ca850412943251fc9a466c4c29fdaf7a303a3d8",
+    "path": "D:\\Codex\\skills\\cinematography",
+    "files": 4,
+    "verification": "source hashes and installed bytes match"
+  },
+  {
+    "name": "storytelling",
+    "repo": "fal-ai-community/skills",
+    "sha": "9ca850412943251fc9a466c4c29fdaf7a303a3d8",
+    "path": "D:\\Codex\\skills\\storytelling",
+    "files": 4,
+    "verification": "source hashes and installed bytes match"
+  },
+  {
+    "name": "genmedia",
+    "repo": "fal-ai-community/skills",
+    "sha": "9ca850412943251fc9a466c4c29fdaf7a303a3d8",
+    "path": "D:\\Codex\\skills\\genmedia",
+    "files": 2,
+    "verification": "source hashes and installed bytes match"
+  },
+  {
+    "name": "model-routing",
+    "repo": "fal-ai-community/skills",
+    "sha": "9ca850412943251fc9a466c4c29fdaf7a303a3d8",
+    "path": "D:\\Codex\\skills\\model-routing",
+    "files": 1,
+    "verification": "source hashes and installed bytes match"
+  },
+  {
+    "name": "video-prompting-guide",
+    "repo": "inference-sh/skills",
+    "sha": "0aabdc6f47f757b772515265e4710452834c8696",
+    "path": "D:\\Codex\\skills\\video-prompting-guide",
+    "files": 1,
+    "verification": "source hashes and installed bytes match"
+  },
+  {
+    "name": "storyboard-creation",
+    "repo": "inference-sh/skills",
+    "sha": "0aabdc6f47f757b772515265e4710452834c8696",
+    "path": "D:\\Codex\\skills\\storyboard-creation",
+    "files": 1,
+    "verification": "source hashes and installed bytes match"
+  },
+  {
+    "name": "ai-video-generation",
+    "repo": "inference-sh/skills",
+    "sha": "0aabdc6f47f757b772515265e4710452834c8696",
+    "path": "D:\\Codex\\skills\\ai-video-generation",
+    "files": 1,
+    "verification": "source hashes and installed bytes match"
+  },
+  {
+    "name": "video-editing",
+    "repo": "affaan-m/ecc",
+    "sha": "ef648e01899ba3e8dc6371642deaaf64b4477775",
+    "path": "D:\\Codex\\skills\\video-editing",
+    "files": 13,
+    "verification": "source hashes and installed bytes match"
+  },
+  {
+    "name": "scientific-visualization",
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "sha": "92ace75ac21efe19a620434e0ca4e356081fe807",
+    "path": "D:\\Codex\\skills\\scientific-visualization",
+    "files": 18,
+    "verification": "source hashes and installed bytes match"
+  }
+]

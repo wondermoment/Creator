@@ -1,0 +1,515 @@
+Manifold 管路焊后表面处理技术及工艺
+0551-65329295
+首页
+关于华清
+华清简介
+华清三大基地
+华清竞争力
+企业文化
+产品及主营业务
+新能源液冷新材料
+表面处理专有技术及产品
+航空航天零部件加工
+镁合金表面处理加工
+碳纤维等非金属材料金属化加工
+池州华清高科镁基新材料及表面处理产业园
+电镀加工服务
+新闻中心
+华清新闻
+行业动态
+市场活动
+信息公开
+液冷百科
+镁合金资讯
+表面处理资讯
+服务支持
+服务理念
+常见问题
+诊疗式一体化服务
+问题反馈
+人力发展
+社会招聘
+校园招聘
+员工生活
+员工天地
+联系我们
+联系我们
+X
+首页
+关于华清
+产品及主营业务
+新闻中心
+服务支持
+人力发展
+联系我们
+联系电话：
+0551-65329295
+华清简介
+华清三大基地
+华清竞争力
+企业文化
+新能源液冷新材料
+表面处理专有技术及产品
+航空航天零部件加工
+镁合金表面处理加工
+碳纤维等非金属材料金属化加工
+池州华清高科镁基新材料及表面处理产业园
+电镀加工服务
+华清新闻
+行业动态
+市场活动
+信息公开
+液冷百科
+镁合金资讯
+表面处理资讯
+服务理念
+常见问题
+诊疗式一体化服务
+问题反馈
+社会招聘
+校园招聘
+员工生活
+员工天地
+联系我们
+华清新闻
+行业动态
+市场活动
+信息公开
+液冷百科
+镁合金资讯
+表面处理资讯
+Manifold 管路焊后表面处理技术及工艺
+发布日期：2026-09-28 浏览次数：25
+研发团队：合肥华清高科表面技术研发中心
+Manifold
+管路表面处理技术项目组
+依托单位：合肥华清高科表面技术有限公司（安徽
+合肥
+230000
+）
+联系方式：电话
+15956911638
+｜邮箱
+664520171@qq.com
+摘要
+Manifold
+（液冷歧管）是数据中心冷板式与浸没式液冷系统的核心分流部件，通常由
+316L/304L
+不锈钢经氩弧焊或激光焊拼焊成型，内腔直接承载去离子水–乙二醇冷却液。焊接热循环会破坏焊区钝化膜、诱发晶间贫铬，并造成表面氧化与粗糙度恶化，直接威胁部件长期服役中的耐蚀性、洁净度与零泄漏可靠性。本文系统阐述
+Manifold
+焊后表面处理的核心目标与工艺难点，对比酸洗钝化与电解抛光两条技术路线的原理特点、适用场景及质量控制要求，为数据中心液冷部件的洁净制造提供工程参考。
+关键词
+：
+Manifold
+；液冷歧管；焊后表面处理；酸洗钝化；电解抛光；洁净度控制
+一、技术应用背景
+随着
+AI
+算力密度持续攀升，数据中心冷却方式正从传统风冷向液冷加速迭代。作为液冷系统的
+"
+血管枢纽
+"
+，
+Manifold
+负责将冷却液均匀分配至每个机柜与冷板，其内部流道的表面状态直接决定流阻特性、颗粒脱落水平、离子析出速率与长期运行可靠性。
+典型
+Manifold
+由
+316L
+或
+304L
+不锈钢管材与板材经氩弧焊或激光焊拼焊成多流道一体结构，焊后不可避免地存在氧化色层、焊渣飞溅、内毛刺及热影响区贫铬带。焊后表面处理须实现以下四大目标：
+1.
+恢复焊区钝化膜
+：重建不锈钢表面富
+Cr
+₂
+O
+₃ 防护层；
+2.
+抑制晶间腐蚀
+：消除敏化热影响区的贫铬晶界；
+3.
+降低内外表面粗糙度
+：减少颗粒挂壁与微生物附着；
+4.
+控制颗粒与离子析出
+：满足头部客户氦检漏率
+<1
+×
+10
+⁻⁹
+mbar
+·
+L/s
+、颗粒洁净度
+<50
+μ
+m
+的准入要求。
+依据客户等级与应用场景，可分别选用酸洗钝化或电解抛光两条技术路线。
+二、焊后表面处理的核心难点
+不锈钢焊后表面处理并非简单的
+"
+酸洗即可
+"
+，而是面临多重耦合难点。
+（一）焊区氧化皮与热变色去除
+氩弧焊热输入较大，焊道及热影响区会形成蓝灰色至深褐色的氧化色层，主要由
+Fe
+₃
+O
+₄、
+Cr
+₂
+O
+₃ 及尖晶石型复合氧化物构成。该氧化层结构致密、与基体结合牢固，常规酸洗难以彻底清除。
+（二）晶间腐蚀敏感性
+304L/316L
+焊接热影响区在
+450
+～
+850
+℃ 敏化区间停留时，
+Cr
+₂₃
+C
+₆ 沿晶界析出导致晶界贫铬，在含氯环境中极易诱发晶间腐蚀。焊后须按
+ASTM A262 Practice A
+进行草酸浸蚀检验，确认无晶界沟槽。
+（三）游离铁污染控制
+不锈钢加工与焊接过程中，工具铁屑及碳钢磨粒可能嵌入表面形成游离铁源，在冷却液环境中迅速引发点蚀与锈斑。因此，全过程禁止使用碳钢刷及普通钢丝工具，最终须以铁氰化钾蓝点试验验证无游离铁残留。
+（四）内表面洁净度与颗粒控制
+Manifold
+内腔结构复杂、流道狭长，处理后残留的酸液、金属屑及磨料颗粒会在液冷系统中长期循环，堵塞冷板微通道或污染冷却液。终洗须采用去离子水（电导率 ≤
+1
+μ
+S/cm
+），并进行颗粒计数，满足
+ISO 16232 / VDA 19
+洁净度等级要求。
+三、表面处理工艺方案
+（一）前处理：焊后清洁与保护
+前处理是保证钝化或电解抛光效果的前提，须按序完成四道工序：
+1.
+清渣去氧化皮
+：采用不锈钢丝刷或尼龙磨片清除焊渣、飞溅及厚重氧化皮，严禁使用碳钢工具；
+2.
+脱脂清洗
+：使用无硅、无氯清洗剂去除油污与机加工冷却液残留，禁用含氯溶剂以防点蚀；
+3.
+工装遮蔽
+：对密封面、螺纹及快插接口实施遮蔽，防止处理后尺寸超差；
+4.
+内腔检查
+：目视确认内腔无金属屑及可见异物。
+（二）方案
+A
+：酸洗钝化（常规项目）
+酸洗钝化适用于一般工业级液冷
+Manifold
+，核心作用是去除表面游离铁与贫铬氧化层，促使不锈钢表面重新生成富
+Cr
+₂
+O
+₃ 钝化膜。工艺依据
+ASTM A967
+及
+ASTM A380
+标准执行，处理后以去离子水彻底冲洗至中性，再经洁净热风干燥。
+酸洗钝化后外观应呈均匀银白色或哑光，无彩虹色热变色、无锈斑及酸液残留。该路线投资省、节拍快，是常规工况下的首选方案。
+（三）方案
+B
+：电解抛光（
+EP
+，高端升级）
+电解抛光适用于头部客户、高洁净度要求或长寿命设计的
+Manifold
+。
+EP
+以专用酸系电解液为介质，对工件表面实施微观电化学整平：与机械抛光不同，
+EP
+在溶解微观峰顶的同时去除表面畸变层，可获得半镜面至镜面光洁表面。
+工艺控制要点如下：
+l
+EP
+单边去除量须严格受控，不得削弱管壁或密封面强度；
+l
+处理后内表面
+Ra
+≤
+0.8
+μ
+m
+、外表面
+Ra
+≤
+1.6
+μ
+m
+；
+l
+后处理流程：逐级去离子水冲洗（终水电导率
+≤
+1
+μ
+S/cm
+）→ 中和 → 超纯水终洗 → 洁净干燥；
+l
+处理后须复核密封面、螺纹及快插接口尺寸，确保落在图纸公差范围内。
+（四）两种方案工艺对比
+表
+1
+酸洗钝化与电解抛光工艺对比
+（五）合肥华清高科全流程工艺方案
+合肥华清高科表面技术有限公司（合肥华清高科表面技术研发中心）具备从焊后前处理、酸洗钝化到电解抛光的全流程服务能力，可为不同洁净度等级的
+Manifold
+管路提供
+"
+工艺评审—方案设计—加工实施—检测验证—质量交付
+"
+一体化解决方案。
+全流程工艺路线如下：
+1.
+工艺评审与方案设计
+：结合客户材质（
+304L/316L
+）、焊接方式（氩弧焊
+/
+激光焊）、内腔结构与洁净度要求，确定酸洗钝化或电解抛光路线及验收标准；
+2.
+焊后前处理
+：采用不锈钢专用工具清除焊渣、飞溅及氧化皮，全程杜绝碳钢工具污染，严格执行脱脂与去污检查；
+3.
+酸洗钝化或电解抛光实施
+：常规工业级项目按
+ASTM A967/A380
+实施酸洗钝化；高端洁净级项目按
+ASTM B912/ISO 15730
+实施电解抛光，重点管控内腔流道与焊接死角区域的覆盖与时间参数；
+4.
+多级纯水清洗与干燥
+：多级去离子水漂洗去除残留酸液与杂质离子，再以氮气吹扫干燥，确保内腔无积液、无颗粒残留；
+5.
+检测验证
+：提供铁氰化钾蓝点试验、粗糙度测定、冲洗液颗粒计数、离子析出（
+ICP-MS
+）、晶间腐蚀（
+ASTM A262
+）及氦质谱检漏等配套检测，出具完整工艺与检验报告；
+6.
+包装交付
+：内腔充氮保护、端口密封，采用洁净包装，防止运输途中二次污染。
+方案优势：全流程自主实施、单点责任、工艺可追溯；研发中心从材质与腐蚀机理层面提供技术支持；建立
+"
+首件全检
++
+批量抽检
+"
+质量体系，确保
+Manifold
+达成高洁净、低离子析出与稳定钝化的一致性要求。
+四、关键质量控制与验收
+Manifold
+表面处理验收须覆盖外观、游离铁、粗糙度、颗粒洁净度、离子析出、晶间腐蚀及氦检漏率七大维度，具体要求见表
+2
+。
+表
+2
+关键质量特性与验收标准
+返工管理
+：酸洗钝化或电解抛光不合格时允许返工一次，以避免反复处理导致壁厚损失与敏化累积。
+包装要求
+：处理完成后须确保内腔干燥、端口洁净封堵，采用防尘洁净包装，防止转运及装配过程中发生二次铁污染或颗粒引入。
+五、典型应用场景
+1.
+数据中心液冷
+Manifold
+：冷板式与浸没式液冷分流管路，支撑
+PUE <1.1
+的高效散热与
+7
+×
+24 h
+无故障运行；
+2.
+储能与储能集装箱液冷系统
+：电池包冷却分流管路，要求极低离子析出，以保障电池安全与循环寿命；
+3.
+氢能与燃料电池冷却
+：双极板及电堆冷却回路，对氯、硫离子残留实行零容忍；
+4.
+半导体制造超纯水系统
+：高洁净度流体分配管路，要求内表面
+Ra
+≤
+0.4
+μ
+m
+级别，电解抛光为强制工艺。
+六、结语
+Manifold
+焊后表面处理是数据中心液冷系统从
+"
+能用
+"
+迈向
+"
+可靠、长寿命、高洁净
+"
+的关键工艺环节。酸洗钝化以经济方式恢复钝化膜、去除游离铁，满足常规工业级需求；电解抛光通过微观电化学整平同步实现低粗糙度、高洁净度与优异钝化，代表高端液冷部件的升级方向。合肥华清高科具备从焊后前处理、酸洗钝化到电解抛光的全流程服务能力，可依据客户等级、洁净度要求与预算灵活匹配工艺路线，为数据中心液冷、储能、氢能等领域的不锈钢焊接管路提供稳定、合规、可追溯的表面处理整体解决方案。
+Surface Treatment Technology and Process for Welded Manifold Piping
+Abstract
+The manifold is the core flow-distribution component of cold-plate and immersion liquid-cooling systems in data centers. It is fabricated from 316L/304L stainless steel by TIG or laser welding, and its internal channels directly carry deionized water–glycol coolant. The welding thermal cycle destroys the passivation film in the weld zone, induces intergranular chromium depletion, and degrades the surface finish—directly compromising long-term corrosion resistance, cleanliness, and zero-leakage reliability. This paper presents the core objectives and key challenges of post-weld surface treatment for manifolds, compares acid pickling passivation and electropolishing in terms of principles, application scenarios, and quality-control requirements, and provides an engineering reference for clean manufacturing of data-center liquid-cooling components.
+Keywords
+: manifold; liquid cooling; post-weld surface treatment; pickling passivation; electropolishing; cleanliness control
+1. Technical Application Background
+Driven by the continuous surge in AI computing density, data-center cooling is shifting rapidly from traditional air cooling to liquid cooling. As the "vascular hub" of the liquid-cooling system, the manifold distributes coolant uniformly to every rack and cold plate; the surface condition of its internal channels directly determines flow resistance, particle shedding, ion leaching rate, and long-term operational reliability.
+A typical manifold is fabricated from 316L or 304L stainless-steel tubing and plate by TIG or laser welding into an integrated multi-channel structure, which inevitably leaves heat tint, weld spatter, internal burrs, and chromium-depleted bands in the heat-affected zone. Post-weld surface treatment must achieve four objectives:
+1.
+Restore the passivation film
+in the weld zone by rebuilding the Cr₂O₃-rich protective layer;
+2.
+Suppress intergranular corrosion
+by eliminating chromium-depleted grain boundaries in the sensitized heat-affected zone;
+3.
+Reduce internal and external surface roughness
+to minimize particle adhesion and microbial attachment;
+4.
+Control long-term particle shedding and ion leaching
+to meet leading customers' requirements of helium leak rate <1×10⁻⁹ mbar·L/s and particle cleanliness <50 μm.
+Depending on the customer grade and application scenario, two technical routes are available: acid pickling passivation and electropolishing.
+2. Core Challenges of Post-Weld Surface Treatment
+Post-weld surface treatment of stainless steel is by no means a trivial "pickling-and-done" operation; it involves several coupled challenges.
+2.1 Removal of weld oxide scale and heat tint
+TIG welding involves high heat input, forming blue-gray to dark-brown oxide layers on the weld bead and heat-affected zone, composed mainly of Fe₃O₄, Cr₂O₃, and spinel-type complex oxides. These layers are dense and tightly bonded to the substrate, making thorough removal by conventional pickling difficult.
+2.2 Intergranular corrosion susceptibility
+When the 304L/316L heat-affected zone dwells in the 450–850 °C sensitization range, Cr₂₃C₆ precipitates along grain boundaries and depletes chromium, rendering the material highly susceptible to intergranular corrosion in chloride-containing environments. Post-weld oxalic acid etching per ASTM A262 Practice A is mandatory to confirm the absence of grain-boundary grooves.
+2.3 Free-iron contamination control
+During machining and welding, tool iron particles and carbon-steel grit may embed in the surface, creating free-iron sites that rapidly initiate pitting and rust stains in the coolant environment. Carbon-steel brushes and ordinary steel-wire tools are strictly prohibited throughout the process, and final verification by the potassium ferricyanide blue-spot test must confirm no free-iron residue.
+2.4 Internal cleanliness and particle control
+Manifolds feature complex internal geometry and long, narrow flow channels; residual acid, metal chips, and abrasive particles after treatment would circulate indefinitely in the liquid-cooling loop, potentially blocking cold-plate microchannels or contaminating the coolant. Final rinsing must use deionized water (conductivity ≤1 μS/cm) with particle counting to meet ISO 16232 / VDA 19 cleanliness requirements.
+3. Surface Treatment Process Schemes
+3.1 Pretreatment: post-weld cleaning and protection
+Pretreatment is the prerequisite for effective passivation or electropolishing and must be completed in the following sequence:
+1.
+Slag and scale removal
+: remove weld spatter and heavy oxide scale with stainless-steel wire brushes or nylon abrasive pads; carbon-steel tools are strictly prohibited;
+2.
+Degreasing
+: remove oil and machining-coolant residue with silicone-free, chloride-free detergents; chloride-containing solvents are banned to prevent pitting;
+3.
+Masking
+: mask sealing surfaces, threads, and quick-connect fittings with dedicated tooling to prevent dimensional deviation after treatment;
+4.
+Internal inspection
+: visually confirm the absence of metal chips and visible foreign matter in internal channels.
+3.2 Scheme A: acid pickling passivation (standard)
+Acid pickling passivation is suitable for general industrial-grade liquid-cooling manifolds. Its core function is to remove surface free iron and chromium-depleted oxide layers, regenerating a Cr₂O₃-rich passivation film on the stainless-steel surface. The process is performed in accordance with ASTM A967 and ASTM A380, followed by thorough deionized-water rinsing to neutrality and clean hot-air drying. After treatment, the appearance should be uniformly silver-white or matte, free of rainbow heat tint, rust spots, and acid residue. Low capital investment and fast cycle time make this route the preferred choice for standard service conditions.
+3.3 Scheme B: electropolishing (EP, premium)
+Electropolishing is recommended for manifolds serving leading customers, high-cleanliness applications, or long-life designs. EP employs a specialized acid-based electrolyte to perform microscopic electrochemical leveling of the workpiece surface. Unlike mechanical polishing, EP dissolves microscopic peaks while simultaneously removing the surface deformed layer, yielding a semi-mirror to mirror finish. Key process controls:
+l
+The unilateral EP removal amount must be strictly controlled without compromising tube-wall or sealing-surface strength;
+l
+After treatment, internal surface Ra ≤0.8 μm and external surface Ra ≤1.6 μm are required;
+l
+Post-treatment sequence: cascaded deionized-water rinsing (final water conductivity ≤1 μS/cm) → neutralization → ultrapure-water final rinse → clean drying;
+l
+After EP, the dimensions of sealing surfaces, threads, and quick-connect fittings must be re-verified to remain within drawing tolerances.
+3.4 Comparison of the two schemes
+Table 1 Comparison of pickling passivation and electropolishing
+3.5 Hefei Huaqing Hi-Tech full-process solution
+Hefei Huaqing Hi-Tech Surface Technology Co., Ltd. (Huaqing Hi-Tech Surface Technology R&D Center) provides full-process service capability from post-weld pretreatment and pickling passivation to electropolishing, offering an integrated solution of "process review—scheme design—processing implementation—inspection & verification—quality delivery" for manifolds of various cleanliness grades.
+The full-process route is as follows:
+1.
+Process review and scheme design
+: based on the material (304L/316L), welding method (TIG/laser), internal geometry, and cleanliness requirements, determine the pickling passivation or electropolishing route and acceptance criteria;
+2.
+Post-weld pretreatment
+: remove weld spatter and oxide scale with stainless-steel-specific tools, strictly avoid carbon-steel contamination, and perform degreasing and decontamination checks;
+3.
+Pickling passivation or electropolishing
+: standard industrial-grade projects follow ASTM A967/A380; premium cleanliness projects follow ASTM B912/ISO 15730, with focused control of coverage and time parameters in internal channels and weld corner zones;
+4.
+Multi-stage DI-water rinsing and drying
+: multi-stage deionized-water rinsing removes residual acid and ionic contaminants, followed by nitrogen-purge drying to ensure a dry, particle-free internal cavity;
+5.
+Inspection and verification
+: supporting tests include the potassium ferricyanide blue-spot test, roughness measurement, rinse-water particle counting, ion leaching (ICP-MS), intergranular corrosion (ASTM A262), and helium mass-spectrometry leak detection, with complete process and inspection reports;
+6.
+Packaging and delivery
+: internal nitrogen protection, port sealing, and clean packaging to prevent secondary contamination during transport.
+Advantages: full-process in-house implementation with single-point accountability and traceable process records; technical support from the R&D center covering materials and corrosion mechanisms; and a quality system combining full inspection of first articles with batch sampling, ensuring manifolds consistently meet high-cleanliness, low-ion-leaching, and stable passivation requirements.
+4. Key Quality Control and Acceptance
+Acceptance of manifold surface treatment must cover seven dimensions: appearance, free iron, roughness, particle cleanliness, ion leaching, intergranular corrosion, and helium leak rate, as detailed in Table 2.
+Table 2 Key quality characteristics and acceptance criteria
+Rework management
+: if pickling passivation or electropolishing fails, one rework cycle is permitted to avoid wall-thickness loss and cumulative sensitization from repeated treatment.
+Packaging
+: after treatment, internal channels must be thoroughly dried and ports cleanly capped; components are packed in dust-free clean packaging to prevent secondary iron contamination or particle introduction during handling and assembly.
+5. Typical Application Scenarios
+1.
+Data-center liquid-cooling manifolds
+: cold-plate and immersion cooling distribution piping, supporting PUE <1.1 efficient heat dissipation and 7×24 h uninterrupted operation;
+2.
+Energy storage and storage-container liquid-cooling systems
+: battery-pack cooling distribution piping requiring extremely low ion leaching to ensure battery safety and cycle life;
+3.
+Hydrogen energy and fuel-cell cooling
+: bipolar-plate and stack cooling loops with zero tolerance for chloride and sulfate residues;
+4.
+Semiconductor ultrapure-water systems
+: high-cleanliness fluid distribution piping requiring internal Ra ≤0.4 μm, where electropolishing is mandatory.
+6. Conclusion
+Post-weld surface treatment of manifolds is the critical process that elevates data-center liquid-cooling systems from merely "functional" to "reliable, long-life, and high-cleanliness". Pickling passivation economically restores the passivation film and removes free iron for standard industrial requirements, while electropolishing achieves low roughness, high cleanliness, and superior passivation simultaneously through microscopic electrochemical leveling—representing the upgrade path for premium liquid-cooling components. Hefei Huaqing Hi-Tech offers full-process capabilities spanning post-weld pretreatment, pickling passivation, and electropolishing, with flexible process selection tailored to customer grade, cleanliness requirements, and budget, delivering stable, compliant, and traceable surface-treatment solutions for stainless-steel welded piping in data-center liquid cooling, energy storage, hydrogen energy, and related fields.
+上一篇：无
+下一篇：
+铜箔表面处理技术及应用
+关注公众号
+0551-65329295
+hqgk@hqhf.com
+合肥市高新区宁西路1666号
+关于华清
+华清简介
+华清三大基地
+华清竞争力
+企业文化
+产品及主营业务
+新能源液冷新材料
+表面处理专有技术及产品
+航空航天零部件加工
+镁合金表面处理加工
+碳纤维等非金属材料金属化加工
+池州华清高科镁基新材料及表面处理产业园
+表面处理新材料
+表面处理专有技术及产品
+电镀加工服务
+新闻中心
+华清新闻
+行业动态
+市场活动
+信息公开
+液冷百科
+镁合金资讯
+表面处理资讯
+服务支持
+服务理念
+常见问题
+诊疗式一体化服务
+问题反馈
+人力发展
+社会招聘
+校园招聘
+员工生活
+员工天地
+版权所有：合肥华清高科表面技术股份有限公司
+免责声明
+营业执照
+皖ICP备06007378号-2
+备案号：
+皖ICP备06007378号-2
+版权所有：合肥华清高科表面技术股份有限公司
+免责声明
+营业执照
+皖ICP备06007378号-2
+返回顶部

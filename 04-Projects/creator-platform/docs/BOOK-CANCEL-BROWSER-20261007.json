@@ -1,0 +1,647 @@
+{
+  "scope": "Native Edge dialog/fetch plus synthetic HTTP server; production frontend functions; no real project backend or model",
+  "checks": [
+    {
+      "phase": "history",
+      "action": "close",
+      "pass": true,
+      "aborted": [
+        {
+          "url": "/api/books/a/history",
+          "aborted": true,
+          "rejected": true,
+          "bodyRejected": false
+        }
+      ],
+      "requests": [
+        {
+          "path": "/api/books/a/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b/chat",
+          "method": "POST"
+        }
+      ],
+      "page_errors": []
+    },
+    {
+      "phase": "history",
+      "action": "replace",
+      "pass": true,
+      "aborted": [
+        {
+          "url": "/api/books/a/history",
+          "aborted": true,
+          "rejected": true,
+          "bodyRejected": false
+        }
+      ],
+      "requests": [
+        {
+          "path": "/api/books/a/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b/chat",
+          "method": "POST"
+        }
+      ],
+      "page_errors": []
+    },
+    {
+      "phase": "status",
+      "action": "close",
+      "pass": true,
+      "aborted": [
+        {
+          "url": "/api/books/a",
+          "aborted": true,
+          "rejected": true,
+          "bodyRejected": false
+        }
+      ],
+      "requests": [
+        {
+          "path": "/api/books/a/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/a",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b/chat",
+          "method": "POST"
+        }
+      ],
+      "page_errors": []
+    },
+    {
+      "phase": "status",
+      "action": "replace",
+      "pass": true,
+      "aborted": [
+        {
+          "url": "/api/books/a",
+          "aborted": true,
+          "rejected": true,
+          "bodyRejected": false
+        }
+      ],
+      "requests": [
+        {
+          "path": "/api/books/a/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/a",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b/chat",
+          "method": "POST"
+        }
+      ],
+      "page_errors": []
+    },
+    {
+      "phase": "reload",
+      "action": "close",
+      "pass": true,
+      "aborted": [
+        {
+          "url": "/api/books/a",
+          "aborted": true,
+          "rejected": true,
+          "bodyRejected": false
+        }
+      ],
+      "requests": [
+        {
+          "path": "/api/books/a/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/a",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/a",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b/chat",
+          "method": "POST"
+        }
+      ],
+      "page_errors": []
+    },
+    {
+      "phase": "reload",
+      "action": "replace",
+      "pass": true,
+      "aborted": [
+        {
+          "url": "/api/books/a",
+          "aborted": true,
+          "rejected": true,
+          "bodyRejected": false
+        }
+      ],
+      "requests": [
+        {
+          "path": "/api/books/a/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/a",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/a",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b/chat",
+          "method": "POST"
+        }
+      ],
+      "page_errors": []
+    },
+    {
+      "phase": "upload",
+      "action": "close",
+      "pass": true,
+      "aborted": [
+        {
+          "url": "/api/books/a/source",
+          "aborted": true,
+          "rejected": true,
+          "bodyRejected": false
+        }
+      ],
+      "requests": [
+        {
+          "path": "/api/books/a/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/a",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/a/source",
+          "method": "POST"
+        },
+        {
+          "path": "/api/books/b/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b/chat",
+          "method": "POST"
+        }
+      ],
+      "page_errors": []
+    },
+    {
+      "phase": "upload",
+      "action": "replace",
+      "pass": true,
+      "aborted": [
+        {
+          "url": "/api/books/a/source",
+          "aborted": true,
+          "rejected": true,
+          "bodyRejected": false
+        }
+      ],
+      "requests": [
+        {
+          "path": "/api/books/a/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/a",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/a/source",
+          "method": "POST"
+        },
+        {
+          "path": "/api/books/b/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b/chat",
+          "method": "POST"
+        }
+      ],
+      "page_errors": []
+    },
+    {
+      "phase": "upload-body",
+      "action": "close",
+      "pass": true,
+      "aborted": [
+        {
+          "url": "/api/books/a/source",
+          "aborted": true,
+          "rejected": false,
+          "bodyRejected": true,
+          "headers": true
+        }
+      ],
+      "requests": [
+        {
+          "path": "/api/books/a/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/a",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/a/source",
+          "method": "POST"
+        },
+        {
+          "path": "/api/books/b/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b/chat",
+          "method": "POST"
+        }
+      ],
+      "page_errors": []
+    },
+    {
+      "phase": "upload-body",
+      "action": "replace",
+      "pass": true,
+      "aborted": [
+        {
+          "url": "/api/books/a/source",
+          "aborted": true,
+          "rejected": false,
+          "bodyRejected": true,
+          "headers": true
+        }
+      ],
+      "requests": [
+        {
+          "path": "/api/books/a/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/a",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/a/source",
+          "method": "POST"
+        },
+        {
+          "path": "/api/books/b/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b/chat",
+          "method": "POST"
+        }
+      ],
+      "page_errors": []
+    },
+    {
+      "phase": "upload-status",
+      "action": "close",
+      "pass": true,
+      "aborted": [
+        {
+          "url": "/api/books/a",
+          "aborted": true,
+          "rejected": true,
+          "bodyRejected": false
+        }
+      ],
+      "requests": [
+        {
+          "path": "/api/books/a/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/a",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/a/source",
+          "method": "POST"
+        },
+        {
+          "path": "/api/books/a",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b/chat",
+          "method": "POST"
+        }
+      ],
+      "page_errors": []
+    },
+    {
+      "phase": "upload-status",
+      "action": "replace",
+      "pass": true,
+      "aborted": [
+        {
+          "url": "/api/books/a",
+          "aborted": true,
+          "rejected": true,
+          "bodyRejected": false
+        }
+      ],
+      "requests": [
+        {
+          "path": "/api/books/a/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/a",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/a/source",
+          "method": "POST"
+        },
+        {
+          "path": "/api/books/a",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b/chat",
+          "method": "POST"
+        }
+      ],
+      "page_errors": []
+    },
+    {
+      "phase": "chat",
+      "action": "close",
+      "pass": true,
+      "aborted": [
+        {
+          "url": "/api/books/a/chat",
+          "aborted": true,
+          "rejected": true,
+          "bodyRejected": false
+        }
+      ],
+      "requests": [
+        {
+          "path": "/api/books/a/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/a",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/a/chat",
+          "method": "POST"
+        },
+        {
+          "path": "/api/books/b/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b/chat",
+          "method": "POST"
+        }
+      ],
+      "page_errors": []
+    },
+    {
+      "phase": "chat",
+      "action": "replace",
+      "pass": true,
+      "aborted": [
+        {
+          "url": "/api/books/a/chat",
+          "aborted": true,
+          "rejected": true,
+          "bodyRejected": false
+        }
+      ],
+      "requests": [
+        {
+          "path": "/api/books/a/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/a",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/a/chat",
+          "method": "POST"
+        },
+        {
+          "path": "/api/books/b/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b/chat",
+          "method": "POST"
+        }
+      ],
+      "page_errors": []
+    },
+    {
+      "phase": "chat-body",
+      "action": "close",
+      "pass": true,
+      "aborted": [
+        {
+          "url": "/api/books/a/chat",
+          "aborted": true,
+          "rejected": false,
+          "bodyRejected": true,
+          "headers": true
+        }
+      ],
+      "requests": [
+        {
+          "path": "/api/books/a/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/a",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/a/chat",
+          "method": "POST"
+        },
+        {
+          "path": "/api/books/b/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b/chat",
+          "method": "POST"
+        }
+      ],
+      "page_errors": []
+    },
+    {
+      "phase": "chat-body",
+      "action": "replace",
+      "pass": true,
+      "aborted": [
+        {
+          "url": "/api/books/a/chat",
+          "aborted": true,
+          "rejected": false,
+          "bodyRejected": true,
+          "headers": true
+        }
+      ],
+      "requests": [
+        {
+          "path": "/api/books/a/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/a",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/a/chat",
+          "method": "POST"
+        },
+        {
+          "path": "/api/books/b/history",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b",
+          "method": "GET"
+        },
+        {
+          "path": "/api/books/b/chat",
+          "method": "POST"
+        }
+      ],
+      "page_errors": []
+    }
+  ],
+  "source_sha256": {
+    "app.js": "15fe42b24c5681534df7e5ac7ac2b79ba0736db4261bc0b587102d8931c7b166",
+    "book-reader.js": "6a1be3c95dfc9794c52a57b1566a0e8793e02093545fabafdfd25cfa96b8b819",
+    "coach-chat.js": "c86df5e7c2d327cadf3e83ae30799669995480f3a39d335bbaa4d38c7c89dcd7",
+    "chat-format.js": "f541588263d62fe20d5ea382880f250281ddaf9629db7561e1db65225727bd2f",
+    "request-errors.js": "f40252342743878313a43c5eea985a3373bc32ee5b7f9a0b38f9e6732a0f188b"
+  },
+  "browser": "154.0.4258.53",
+  "pass": true,
+  "limitations": [
+    "Synthetic server and page, not full product/backend integration",
+    "No actual PDF indexing/cloud model/persistent writes",
+    "No measured production cancellation latency or backend task/resource termination"
+  ]
+}

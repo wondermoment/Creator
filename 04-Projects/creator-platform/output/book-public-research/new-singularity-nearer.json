@@ -1,0 +1,32 @@
+{
+  "id": "new-singularity-nearer",
+  "requested_title": "奇点更近",
+  "query": "The Singularity Is Nearer Ray Kurzweil",
+  "checked": "2026-10-06",
+  "sources": [
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL42839671W",
+      "title": "The Singularity is Nearer",
+      "authors": [
+        "Ray Kurzweil"
+      ],
+      "year": 2024,
+      "description": "Twenty years on Kurzweil goes back to the well to see how far the water has risen.",
+      "subjects": [
+        "artificial intelligence",
+        "bioengineering",
+        "(near) futureology",
+        "nanotechnology",
+        "neurohacking"
+      ]
+    },
+    {
+      "type": "encyclopedia_candidate",
+      "url": "https://en.wikipedia.org/wiki/The_Singularity_Is_Nearer",
+      "title": "The Singularity Is Nearer",
+      "text": "The Singularity Is Nearer: When We Merge with AI is a nonfiction book by futurist Ray Kurzweil. It is the sequel to his 2005 bestseller, The Singularity Is Near. The book was released on June 25, 2024. Kurzweil reiterates two key dates from the earlier book, which predicted that artificial intelligence (AI) would reach human intelligence by 2029 and that people would merge with machines by 2045, an event he calls \"The Singularity\".\n\n\n== Content ==\nIn an interview with Society for Science and Science News, Kurzweil said the book would contain a chapter \"that shows [...] how dramatically every aspect of human life has improved over the decades and over the centuries\". He added, \"Some people find this frightening. But [the Singularity] is going to be beautiful and will expand our consciousness in ways we can barely imagine, like a person who is deaf hearing the most exquisite symphony for the first time.\"\n\n\n== Development ==\nThe book was initially scheduled to be released in 2021, but was delayed till 2022 and then 2024.\nWhen asked in a 2024 interview with The Guardian why he wrote the book, Kurzweil answered: \"The Singularity Is Near talked about the future, but 20 years ago, when people didn't know what AI was\", and \"It is time to take a look again both at the progress we've made [...] and the coming breakthroughs.\"\n\n\n== Reception ==\nIn The Washington Post, Becca Rothfeld wrote that The Singularity Is Nearer is \"daunting to summarize [...] because it is so careless and careening\", adding, \"Far from the sort of disciplined treatise we might expect from a veteran programmer, this book is a welter of free associations and shameless simplifications.\" According to Rothfeld, Kurzweil \"ventures into foreign territory, with unfortunate results.\" She wrote, \"At times, Kurzweil's prophecies read like passages from messianic religious texts.\"\n\n\n== References ==\n\n\n== External links ==\nOfficial website\nThe Singularity Is Nearer on the website of the publisher"
+    }
+  ],
+  "errors": []
+}

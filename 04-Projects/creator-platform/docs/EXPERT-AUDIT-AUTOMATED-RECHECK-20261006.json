@@ -1,0 +1,22 @@
+[
+  {
+    "exit": 0,
+    "output": "PASS: four researcher click routes, six turns each; context retained after history limit, identity/contraindication/emergency boundaries and no automatic sends. Network mocked.",
+    "suite": "research-chat-flow"
+  },
+  {
+    "exit": 0,
+    "output": "PASS: 12 nutrient click routes × 7 turns; source, drug cautions and evidence limits retained beyond history cap; 36 contextual starters do not auto-send. Synthetic only.",
+    "suite": "nutrient-chat-flow"
+  },
+  {
+    "exit": 0,
+    "output": "PASS: 25 testing consultations x 7 turns retain reference/limitations/pricing/urgency context across history limit; sources visible, starters draft-only, no stale topic carryover. Synthetic only.",
+    "suite": "testing-chat-flow"
+  },
+  {
+    "exit": 0,
+    "output": "All seven skill export/runtime tasks and full shared policy parity passed",
+    "suite": "coach-skill-parity"
+  }
+]

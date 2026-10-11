@@ -1,0 +1,34 @@
+{
+  "book": {
+    "id": "new-we-are-as-gods",
+    "number": 53,
+    "title": "吾辈如神",
+    "category": "AI与未来",
+    "edition": "",
+    "author": "彼得·戴曼迪斯、史蒂芬·科特勒"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E5%90%BE%E8%BE%88%E5%A6%82%E7%A5%9E",
+  "results": [
+    {
+      "title": "吾辈如神：重构AI时代的生存力与胜任力",
+      "author": "[美] 彼得·戴曼迪斯 史蒂芬·科特勒",
+      "url": "https://weread.qq.com/web/bookDetail/a5d324e0811ea781cg0139cd"
+    },
+    {
+      "title": "证券市场周刊（2026年第28期）",
+      "author": "证券市场周刊",
+      "url": "https://weread.qq.com/web/reader/e9032fe0813abbc8fg018c39"
+    },
+    {
+      "title": "财经（2026年第19期）",
+      "author": "财经",
+      "url": "https://weread.qq.com/web/reader/c3032730813abc0c5g017fc1"
+    },
+    {
+      "title": "通往内在之路：荣格给内耗人的治愈处方",
+      "author": "曹义宁Yino",
+      "url": "https://weread.qq.com/web/reader/a9e32ee0813abbf6fg013bd2"
+    }
+  ]
+}

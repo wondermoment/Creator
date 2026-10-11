@@ -1,0 +1,38 @@
+{
+  "book": {
+    "id": "hou-40",
+    "number": 40,
+    "title": "情绪的毒 身体知道",
+    "category": "运动心理",
+    "author": "作者信息待核对"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E6%83%85%E7%BB%AA%E7%9A%84%E6%AF%92%20%E8%BA%AB%E4%BD%93%E7%9F%A5%E9%81%93",
+  "results": [
+    {
+      "title": "情绪的毒：身体知道",
+      "author": "自凝心平",
+      "url": "https://weread.qq.com/web/reader/a3c327b07260a42ca3c9aaf"
+    },
+    {
+      "title": "情緒的毒, 身體知道: 從身體找到控制情緒的開關, 跟生氣、不安、悲傷、憂鬱、恐懼說再見, 啟動",
+      "author": "自凝心平",
+      "url": "https://weread.qq.com/web/bookDetail/06c321d0811e68b38g011fb9"
+    },
+    {
+      "title": "每个孩子都能像花儿一样开放",
+      "author": "尹建莉",
+      "url": "https://weread.qq.com/web/reader/90032760813ab763eg014265"
+    },
+    {
+      "title": "原来人生所有的治愈都是自愈：芳香生活24小时完全解决方案",
+      "author": "李纹",
+      "url": "https://weread.qq.com/web/reader/aa632f30813aba1d5g014293"
+    },
+    {
+      "title": "体象学说：一门临床进阶与治未病的体质课",
+      "author": "俞若熙",
+      "url": "https://weread.qq.com/web/reader/f8132ab0813aba0abg010c2b"
+    }
+  ]
+}

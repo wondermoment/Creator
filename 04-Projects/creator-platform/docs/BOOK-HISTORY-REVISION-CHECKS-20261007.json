@@ -1,0 +1,30 @@
+{
+  "command": [
+    "C:/Program Files/Python312/python.exe",
+    "-X",
+    "utf8",
+    "-m",
+    "unittest",
+    "backend.test_book_history_revision",
+    "backend.test_book_chat_disconnect",
+    "backend.test_book_context",
+    "backend.test_book_evidence",
+    "backend.test_book_chat_input",
+    "-v"
+  ],
+  "exit": 0,
+  "output": "test_bookmark_and_other_book_updates_do_not_invalidate_context (backend.test_book_history_revision.BookHistoryRevisionTests.test_bookmark_and_other_book_updates_do_not_invalidate_context) ... ok\ntest_overlapping_requests_commit_only_one_complete_turn (backend.test_book_history_revision.BookHistoryRevisionTests.test_overlapping_requests_commit_only_one_complete_turn) ... ok\ntest_same_id_and_timestamp_content_edit_is_a_conflict (backend.test_book_history_revision.BookHistoryRevisionTests.test_same_id_and_timestamp_content_edit_is_a_conflict) ... ok\ntest_second_insert_failure_rolls_back_first_and_releases_lock (backend.test_book_history_revision.BookHistoryRevisionTests.test_second_insert_failure_rolls_back_first_and_releases_lock) ... ok\ntest_connected_http_request_still_saves_complete_turn (backend.test_book_chat_disconnect.BookChatDisconnectTests.test_connected_http_request_still_saves_complete_turn) ... ok\ntest_native_disconnect_during_generation_leaves_history_unchanged (backend.test_book_chat_disconnect.BookChatDisconnectTests.test_native_disconnect_during_generation_leaves_history_unchanged) ... ok\ntest_post_generation_disconnect_discards_both_turn_rows (backend.test_book_chat_disconnect.BookChatDisconnectTests.test_post_generation_disconnect_discards_both_turn_rows) ... ok\ntest_pre_generation_disconnect_does_not_call_model_or_save (backend.test_book_chat_disconnect.BookChatDisconnectTests.test_pre_generation_disconnect_does_not_call_model_or_save) ... ok\ntest_early_restrictions_survive_irrelevant_topic_ranking (backend.test_book_context.BookContextTests.test_early_restrictions_survive_irrelevant_topic_ranking) ... ok\ntest_history_limits_fail_before_model_or_write (backend.test_book_context.BookContextTests.test_history_limits_fail_before_model_or_write) ... ok\ntest_bad_refs_and_invalid_answers_do_not_append_history (backend.test_book_evidence.BookEvidenceTests.test_bad_refs_and_invalid_answers_do_not_append_history) ... ok\ntest_excerpts_and_stored_memory_never_become_system_instruction (backend.test_book_evidence.BookEvidenceTests.test_excerpts_and_stored_memory_never_become_system_instruction) ... ok\ntest_inline_page_or_paragraph_format_is_accepted (backend.test_book_evidence.BookEvidenceTests.test_inline_page_or_paragraph_format_is_accepted) ... ok\ntest_safety_and_insufficient_evidence_need_no_forced_citation (backend.test_book_evidence.BookEvidenceTests.test_safety_and_insufficient_evidence_need_no_forced_citation) ... ok\ntest_save_retry_is_idempotent_and_scoped_to_book (backend.test_book_evidence.BookEvidenceTests.test_save_retry_is_idempotent_and_scoped_to_book) ... ok\ntest_valid_refs_and_sources_persist (backend.test_book_evidence.BookEvidenceTests.test_valid_refs_and_sources_persist) ... ok\ntest_history_bound (backend.test_book_chat_input.BookChatInputTest.test_history_bound) ... ok\ntest_system_history_rejected (backend.test_book_chat_input.BookChatInputTest.test_system_history_rejected) ... ok\n\n----------------------------------------------------------------------\nRan 18 tests in 1.432s\n\nOK\n",
+  "threaded_followup": {
+    "command": [
+      "C:/Program Files/Python312/python.exe",
+      "-X",
+      "utf8",
+      "-m",
+      "unittest",
+      "backend.test_book_history_revision",
+      "-v"
+    ],
+    "exit": 0,
+    "output": "test_bookmark_and_other_book_updates_do_not_invalidate_context (backend.test_book_history_revision.BookHistoryRevisionTests.test_bookmark_and_other_book_updates_do_not_invalidate_context) ... ok\ntest_overlapping_requests_commit_only_one_complete_turn (backend.test_book_history_revision.BookHistoryRevisionTests.test_overlapping_requests_commit_only_one_complete_turn) ... ok\ntest_same_id_and_timestamp_content_edit_is_a_conflict (backend.test_book_history_revision.BookHistoryRevisionTests.test_same_id_and_timestamp_content_edit_is_a_conflict) ... ok\ntest_second_insert_failure_rolls_back_first_and_releases_lock (backend.test_book_history_revision.BookHistoryRevisionTests.test_second_insert_failure_rolls_back_first_and_releases_lock) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.185s\n\nOK\n"
+  }
+}

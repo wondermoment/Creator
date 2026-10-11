@@ -1,0 +1,35 @@
+[
+  {
+    "id": "walnut-buckwheat",
+    "path": "frontend\\assets\\recipes\\walnut-buckwheat-step-4.webp",
+    "size": [
+      620,
+      620
+    ],
+    "sha256": "b6ace1f3125d758258abaf4cb77bbb4e57f3eebe8974b426f2a365cddac64771",
+    "original_generation": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a10747-d0a0-7541-ae22-8f5144d3dcf4\\exec-e597633d-3315-4ea1-ad64-173d0dbec642.png",
+    "reuse": "existing finished-dish panel, no new generation"
+  },
+  {
+    "id": "tofu-wrap",
+    "path": "frontend\\assets\\recipes\\tofu-wrap-step-4.webp",
+    "size": [
+      620,
+      620
+    ],
+    "sha256": "f7a80483849255c02dea11c33e0002482f8a0019b58d517e912ff384b0b760cc",
+    "original_generation": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a10747-d0a0-7541-ae22-8f5144d3dcf4\\exec-ff4ab2b0-0222-4b7f-8aef-610e3f15ef19.png",
+    "reuse": "existing finished-dish panel, no new generation"
+  },
+  {
+    "id": "egg-corn",
+    "path": "frontend\\assets\\recipes\\egg-corn-step-4.webp",
+    "size": [
+      620,
+      620
+    ],
+    "sha256": "1940074b173884014b21a6c1fecdf921cedf7ab9e3b8e35cde8facdd5c11eae4",
+    "original_generation": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a10747-d0a0-7541-ae22-8f5144d3dcf4\\exec-4f8d0062-1c5c-4d71-b699-5da7cb8e4e51.png",
+    "reuse": "existing finished-dish panel, no new generation"
+  }
+]

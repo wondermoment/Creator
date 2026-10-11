@@ -1,0 +1,18 @@
+{
+  "old_pid": 9116,
+  "before": {
+    ".runtime\\creator.db": "773640336e3289725c5f83e4f052c4c1bd23936a7a7b96ee5fd63f63f80044d8",
+    ".runtime\\book-sources\\memory.db": "4343f68b7d20f13be99017b3a2d15a44a4b1f29640909e2845d396196403e01a"
+  },
+  "new_pid": 28656,
+  "after": {
+    ".runtime\\creator.db": "773640336e3289725c5f83e4f052c4c1bd23936a7a7b96ee5fd63f63f80044d8",
+    ".runtime\\book-sources\\memory.db": "4343f68b7d20f13be99017b3a2d15a44a4b1f29640909e2845d396196403e01a"
+  },
+  "persistent_files_unchanged": true,
+  "get_status": {
+    "/": 200,
+    "/openapi.json": 200
+  },
+  "book_chat_sha256": "060e9496f0bb002000ae9db5613bb00ba19c841f26347a7a17ec54ce473d7d25"
+}

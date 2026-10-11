@@ -1,0 +1,31 @@
+{
+  "id": "hou-19",
+  "requested_title": "线粒体与生命的意义",
+  "query": "Power Sex Suicide Nick Lane",
+  "checked": "2026-10-06",
+  "sources": [
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL7998481W",
+      "title": "Power, Sex, Suicide",
+      "authors": [
+        "Nick Lane"
+      ],
+      "year": 2005,
+      "description": "\"Today, mitochondria are central to research into human prehistory, genetic diseases, cell suicide, fertility, ageing, bioenergetics, sex, and the eukaryotic cell. Piecing together puzzles from the forefront of research, this book paints a sweeping canvas that will thrill all who are interested in biology, while also contributing to evolutionary thinking and debate. This is a book full of insights into the nature and evolution of life, and should be read by anyone who wants to know why we're here.\"--Jacket.",
+      "subjects": [
+        "Energy metabolism",
+        "Mitochondrial DNA",
+        "Evolution",
+        "Mitochondria",
+        "Eukaryotic cells",
+        "Dna",
+        "Cytology",
+        "Molecular Evolution"
+      ]
+    }
+  ],
+  "errors": [
+    "Wikipedia: HTTP Error 429: Too Many Requests"
+  ]
+}

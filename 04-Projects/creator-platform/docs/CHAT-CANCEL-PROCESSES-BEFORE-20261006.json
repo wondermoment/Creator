@@ -1,0 +1,21 @@
+{
+  "observed": "2026-10-05T22:48:48.3343103Z",
+  "phase": "request active before close",
+  "processes": [
+    {
+      "ProcessId": 52544,
+      "ParentProcessId": 23712,
+      "Name": "node.exe"
+    },
+    {
+      "ProcessId": 42328,
+      "ParentProcessId": 52544,
+      "Name": "conhost.exe"
+    },
+    {
+      "ProcessId": 31356,
+      "ParentProcessId": 52544,
+      "Name": "codex.exe"
+    }
+  ]
+}

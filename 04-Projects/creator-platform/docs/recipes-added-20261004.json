@@ -1,0 +1,388 @@
+[
+  {
+    "id": "berry-yogurt",
+    "name": "蓝莓酸奶燕麦杯",
+    "type": "抗炎饮食",
+    "time": 8,
+    "occasion": "早餐",
+    "ingredients": [
+      "无糖原味酸奶150 g",
+      "即食燕麦30 g",
+      "蓝莓60 g",
+      "南瓜子10 g"
+    ],
+    "steps": [
+      "蓝莓洗净沥干，准备干净杯子。",
+      "酸奶与即食燕麦拌匀，按包装说明确认燕麦可直接食用。",
+      "铺上蓝莓与南瓜子；立即食用或冷藏后当天吃完。"
+    ],
+    "note": "含乳；可换无糖强化豆酸奶。燕麦需避麸质者选择认证产品。",
+    "desc": "早餐 · 无糖原味酸奶、即食燕麦、蓝莓的日常搭配。",
+    "illustrated": true,
+    "source": "https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/",
+    "sourceNote": "参考哈佛 Healthy Eating Plate 的全谷、蔬果与蛋白质搭配原则，由無龄岛原创设计；不是该机构原版菜谱或背书。"
+  },
+  {
+    "id": "mackerel-rice",
+    "name": "柠檬青花鱼糙米盘",
+    "type": "抗炎饮食",
+    "time": 25,
+    "occasion": "午晚餐",
+    "ingredients": [
+      "青花鱼净鱼肉120 g",
+      "熟糙米150 g",
+      "西兰花150 g",
+      "胡萝卜80 g",
+      "橄榄油5 g、柠檬少量"
+    ],
+    "steps": [
+      "鱼肉去刺，用少量柠檬调味；蔬菜切块。",
+      "烤箱预热200°C，鱼肉烤约15—20分钟并确认中心达到63°C，按厚度延长。",
+      "蔬菜蒸熟，糙米彻底热透后装盘，淋橄榄油。"
+    ],
+    "note": "含鱼；鱼肉冷藏保存，注意鱼刺。时间按已煮熟糙米计算。",
+    "desc": "午晚餐 · 青花鱼净鱼肉、熟糙米、西兰花的日常搭配。",
+    "illustrated": true,
+    "source": "https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/",
+    "sourceNote": "参考哈佛 Healthy Eating Plate 的全谷、蔬果与蛋白质搭配原则，由無龄岛原创设计；不是该机构原版菜谱或背书。"
+  },
+  {
+    "id": "edamame-quinoa",
+    "name": "毛豆南瓜藜麦碗",
+    "type": "抗炎饮食",
+    "time": 25,
+    "occasion": "午晚餐",
+    "ingredients": [
+      "干藜麦50 g",
+      "去皮毛豆80 g",
+      "南瓜120 g",
+      "菠菜100 g",
+      "植物油5 g"
+    ],
+    "steps": [
+      "藜麦冲洗后按包装加水，煮约15分钟至熟。",
+      "南瓜切块蒸软；毛豆沸水煮至熟透。",
+      "菠菜焯熟沥干，与藜麦、南瓜和毛豆拌匀，加少量油调味。"
+    ],
+    "note": "含大豆。毛豆不可生食；藜麦以包装烹调时间为准。",
+    "desc": "午晚餐 · 干藜麦、去皮毛豆、南瓜的日常搭配。",
+    "illustrated": true,
+    "source": "https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/",
+    "sourceNote": "参考哈佛 Healthy Eating Plate 的全谷、蔬果与蛋白质搭配原则，由無龄岛原创设计；不是该机构原版菜谱或背书。"
+  },
+  {
+    "id": "walnut-buckwheat",
+    "name": "核桃菌菇荞麦面",
+    "type": "抗炎饮食",
+    "time": 20,
+    "occasion": "午晚餐",
+    "ingredients": [
+      "荞麦面干60 g",
+      "北豆腐120 g",
+      "鲜菌菇100 g",
+      "小白菜120 g",
+      "核桃10 g、植物油5 g"
+    ],
+    "steps": [
+      "豆腐切块、菌菇切片，核桃切碎。",
+      "少油炒香菌菇，加水和豆腐煮至熟透，再下小白菜。",
+      "另锅按包装把面煮熟，与汤菜同盛，撒核桃。"
+    ],
+    "note": "含大豆、核桃；市售荞麦面常含小麦。只用可靠来源的食用菌。",
+    "desc": "午晚餐 · 荞麦面干、北豆腐、鲜菌菇的日常搭配。",
+    "illustrated": true,
+    "source": "https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/",
+    "sourceNote": "参考哈佛 Healthy Eating Plate 的全谷、蔬果与蛋白质搭配原则，由無龄岛原创设计；不是该机构原版菜谱或背书。"
+  },
+  {
+    "id": "red-bean-oats",
+    "name": "红豆燕麦暖粥",
+    "type": "植物饮食",
+    "time": 15,
+    "occasion": "早餐",
+    "ingredients": [
+      "熟红豆80 g",
+      "燕麦40 g",
+      "无糖豆奶200 ml",
+      "梨半个",
+      "水适量"
+    ],
+    "steps": [
+      "梨洗净切丁；红豆使用已经完全煮熟的无糖豆。",
+      "燕麦与豆奶、水小火煮约8分钟，注意搅拌。",
+      "放入红豆与梨丁，加热至沸并略煮，无需额外加糖。"
+    ],
+    "note": "含大豆；所列时间不含干红豆浸泡和煮熟时间。搭配按个人食量调整。",
+    "desc": "早餐 · 熟红豆、燕麦、无糖豆奶的日常搭配。",
+    "illustrated": true,
+    "source": "https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/",
+    "sourceNote": "参考哈佛 Healthy Eating Plate 的全谷、蔬果与蛋白质搭配原则，由無龄岛原创设计；不是该机构原版菜谱或背书。"
+  },
+  {
+    "id": "tofu-wrap",
+    "name": "彩蔬豆腐全麦卷",
+    "type": "植物饮食",
+    "time": 20,
+    "occasion": "午晚餐",
+    "ingredients": [
+      "全麦饼1张约60 g",
+      "北豆腐150 g",
+      "胡萝卜60 g",
+      "紫甘蓝60 g",
+      "黄瓜60 g",
+      "植物油5 g"
+    ],
+    "steps": [
+      "豆腐切条少油煎熟；胡萝卜和紫甘蓝切丝炒熟。",
+      "黄瓜洗净切条，全麦饼按包装加热。",
+      "饼上放豆腐和蔬菜，卷紧切段，调味汁少量另放。"
+    ],
+    "note": "含大豆、小麦。免疫力较弱者可把黄瓜换成熟蔬菜。",
+    "desc": "午晚餐 · 全麦饼、北豆腐、胡萝卜的日常搭配。",
+    "illustrated": true,
+    "source": "https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/",
+    "sourceNote": "参考哈佛 Healthy Eating Plate 的全谷、蔬果与蛋白质搭配原则，由無龄岛原创设计；不是该机构原版菜谱或背书。"
+  },
+  {
+    "id": "lentil-curry",
+    "name": "红扁豆花椰菜轻咖喱",
+    "type": "植物饮食",
+    "time": 30,
+    "occasion": "午晚餐",
+    "ingredients": [
+      "干红扁豆50 g",
+      "花椰菜150 g",
+      "番茄120 g",
+      "熟糙米120 g",
+      "植物油5 g、咖喱粉少量"
+    ],
+    "steps": [
+      "扁豆冲洗，花椰菜切小朵，番茄切块。",
+      "少油炒番茄，加扁豆、咖喱粉和水，小火煮约20分钟至豆软熟。",
+      "加入花椰菜煮熟，搭配热透的糙米。"
+    ],
+    "note": "咖喱粉检查配料与过敏原。不用奶油也能有香气；时间按熟米饭计算。",
+    "desc": "午晚餐 · 干红扁豆、花椰菜、番茄的日常搭配。",
+    "illustrated": true,
+    "source": "https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/",
+    "sourceNote": "参考哈佛 Healthy Eating Plate 的全谷、蔬果与蛋白质搭配原则，由無龄岛原创设计；不是该机构原版菜谱或背书。"
+  },
+  {
+    "id": "sweetpotato-chickpea",
+    "name": "烤红薯鹰嘴豆碗",
+    "type": "植物饮食",
+    "time": 35,
+    "occasion": "午晚餐",
+    "ingredients": [
+      "红薯150 g",
+      "熟鹰嘴豆120 g",
+      "西兰花150 g",
+      "橄榄油5 g",
+      "柠檬少量"
+    ],
+    "steps": [
+      "红薯刷洗切块，拌少量油，200°C烤约25—30分钟至软熟。",
+      "鹰嘴豆冲洗沥干，加少量水加热；西兰花蒸熟。",
+      "三种食材盛碗，以少量柠檬调味。"
+    ],
+    "note": "使用完全煮熟或罐装熟豆。红薯作为主食，不替代这餐的蔬菜。",
+    "desc": "午晚餐 · 红薯、熟鹰嘴豆、西兰花的日常搭配。",
+    "illustrated": true,
+    "source": "https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/",
+    "sourceNote": "参考哈佛 Healthy Eating Plate 的全谷、蔬果与蛋白质搭配原则，由無龄岛原创设计；不是该机构原版菜谱或背书。"
+  },
+  {
+    "id": "sardine-pasta",
+    "name": "番茄沙丁鱼全麦意面",
+    "type": "地中海饮食",
+    "time": 20,
+    "occasion": "午晚餐",
+    "ingredients": [
+      "全麦意面干60 g",
+      "低盐沙丁鱼罐头80 g",
+      "番茄200 g",
+      "菠菜100 g",
+      "橄榄油5 g"
+    ],
+    "steps": [
+      "意面按包装煮熟；番茄切块，菠菜洗净。",
+      "少油煮软番茄，加入沥干的沙丁鱼，加热至热透。",
+      "放入菠菜煮熟，拌入意面，用香草调味。"
+    ],
+    "note": "含鱼、小麦。选择较低钠罐头，骨刺按个人咀嚼吞咽能力处理。",
+    "desc": "午晚餐 · 全麦意面干、低盐沙丁鱼罐头、番茄的日常搭配。",
+    "illustrated": true,
+    "source": "https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/",
+    "sourceNote": "参考哈佛 Healthy Eating Plate 的全谷、蔬果与蛋白质搭配原则，由無龄岛原创设计；不是该机构原版菜谱或背书。"
+  },
+  {
+    "id": "whitebean-soup",
+    "name": "白豆蔬菜意式汤",
+    "type": "地中海饮食",
+    "time": 25,
+    "occasion": "午晚餐",
+    "ingredients": [
+      "熟白豆150 g",
+      "番茄150 g",
+      "西葫芦100 g",
+      "胡萝卜60 g",
+      "全麦面包1片",
+      "橄榄油5 g"
+    ],
+    "steps": [
+      "蔬菜切丁，罐装白豆冲洗沥干。",
+      "用油炒香胡萝卜，放番茄、西葫芦和水，煮约12分钟。",
+      "加入熟白豆继续煮约5分钟至热透，搭配全麦面包。"
+    ],
+    "note": "含小麦。使用熟豆；不要用未煮熟干豆直接替代。",
+    "desc": "午晚餐 · 熟白豆、番茄、西葫芦的日常搭配。",
+    "illustrated": true,
+    "source": "https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/",
+    "sourceNote": "参考哈佛 Healthy Eating Plate 的全谷、蔬果与蛋白质搭配原则，由無龄岛原创设计；不是该机构原版菜谱或背书。"
+  },
+  {
+    "id": "lemon-chicken",
+    "name": "柠檬香草鸡肉烤盘",
+    "type": "地中海饮食",
+    "time": 35,
+    "occasion": "午晚餐",
+    "ingredients": [
+      "去皮鸡肉120 g",
+      "土豆120 g",
+      "彩椒100 g",
+      "西葫芦120 g",
+      "橄榄油5 g、柠檬与香草少量"
+    ],
+    "steps": [
+      "鸡肉和蔬菜分别处理，土豆切小块，避免生鸡肉污染即食食物。",
+      "土豆拌油先入200°C烤箱约10分钟，再加入鸡肉和彩椒、西葫芦。",
+      "继续烤约20分钟，鸡肉中心达到74°C后取出，按厚度适当延长。"
+    ],
+    "note": "处理生鸡肉后清洁手、刀和砧板。土豆计入主食，按食量增减。",
+    "desc": "午晚餐 · 去皮鸡肉、土豆、彩椒的日常搭配。",
+    "illustrated": true,
+    "source": "https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/",
+    "sourceNote": "参考哈佛 Healthy Eating Plate 的全谷、蔬果与蛋白质搭配原则，由無龄岛原创设计；不是该机构原版菜谱或背书。"
+  },
+  {
+    "id": "egg-tomato-pan",
+    "name": "番茄菠菜焖蛋",
+    "type": "地中海饮食",
+    "time": 20,
+    "occasion": "早餐 / 轻午餐",
+    "ingredients": [
+      "鸡蛋2个",
+      "番茄200 g",
+      "菠菜100 g",
+      "洋葱30 g",
+      "全麦面包1片",
+      "橄榄油5 g"
+    ],
+    "steps": [
+      "洋葱切丁少油炒软，加入番茄块和少量水炖软。",
+      "加菠菜煮软，拨出两处空隙打入鸡蛋。",
+      "盖锅小火焖至蛋白与蛋黄凝固，搭配全麦面包。"
+    ],
+    "note": "含蛋、小麦。孕妇、老人及免疫力低下者尤其应避免溏心蛋。",
+    "desc": "早餐 / 轻午餐 · 鸡蛋、番茄、菠菜的日常搭配。",
+    "illustrated": true,
+    "source": "https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/",
+    "sourceNote": "参考哈佛 Healthy Eating Plate 的全谷、蔬果与蛋白质搭配原则，由無龄岛原创设计；不是该机构原版菜谱或背书。"
+  },
+  {
+    "id": "shrimp-tofu",
+    "name": "冬瓜虾仁豆腐汤饭",
+    "type": "中式均衡",
+    "time": 20,
+    "occasion": "午晚餐",
+    "ingredients": [
+      "虾仁80 g",
+      "北豆腐100 g",
+      "冬瓜200 g",
+      "熟杂粮饭150 g",
+      "植物油5 g、姜少量"
+    ],
+    "steps": [
+      "虾仁去虾线，豆腐和冬瓜切块。",
+      "少油炒姜，加水与冬瓜煮软，加入豆腐。",
+      "加入虾仁煮至不透明且中心熟透，搭配热透杂粮饭。"
+    ],
+    "note": "含甲壳类、大豆。虾过敏者可改为鸡蛋并充分煮熟。",
+    "desc": "午晚餐 · 虾仁、北豆腐、冬瓜的日常搭配。",
+    "illustrated": true,
+    "source": "https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/",
+    "sourceNote": "参考哈佛 Healthy Eating Plate 的全谷、蔬果与蛋白质搭配原则，由無龄岛原创设计；不是该机构原版菜谱或背书。"
+  },
+  {
+    "id": "chicken-mushroom",
+    "name": "香菇蒸鸡配杂粮饭",
+    "type": "中式均衡",
+    "time": 30,
+    "occasion": "午晚餐",
+    "ingredients": [
+      "去皮鸡腿肉120 g",
+      "鲜香菇100 g",
+      "小白菜150 g",
+      "熟杂粮饭150 g",
+      "植物油5 g、姜丝适量"
+    ],
+    "steps": [
+      "鸡肉切薄块，鲜香菇洗净切片，与姜丝放入浅盘。",
+      "水开后蒸约20分钟，确认鸡肉中心达到74°C，不足则延长。",
+      "青菜炒熟，杂粮饭热透后搭配，酱汁少量另放。"
+    ],
+    "note": "生熟分开，按鸡块厚度调整时间；不建议以颜色代替中心温度判断。",
+    "desc": "午晚餐 · 去皮鸡腿肉、鲜香菇、小白菜的日常搭配。",
+    "illustrated": true,
+    "source": "https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/",
+    "sourceNote": "参考哈佛 Healthy Eating Plate 的全谷、蔬果与蛋白质搭配原则，由無龄岛原创设计；不是该机构原版菜谱或背书。"
+  },
+  {
+    "id": "sesame-spinach",
+    "name": "芝麻菠菜豆腐杂粮碗",
+    "type": "中式均衡",
+    "time": 15,
+    "occasion": "午晚餐",
+    "ingredients": [
+      "北豆腐150 g",
+      "菠菜180 g",
+      "熟杂粮饭150 g",
+      "熟芝麻5 g",
+      "植物油5 g"
+    ],
+    "steps": [
+      "豆腐切块，在不粘锅中少油煎至熟透。",
+      "菠菜洗净焯熟后沥干，与豆腐一起盛碗。",
+      "米饭加热透，撒熟芝麻，低钠酱油少量另放。"
+    ],
+    "note": "含大豆、芝麻，酱油可能含小麦。肾病或需限制钾、蛋白者需个别调整。",
+    "desc": "午晚餐 · 北豆腐、菠菜、熟杂粮饭的日常搭配。",
+    "illustrated": true,
+    "source": "https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/",
+    "sourceNote": "参考哈佛 Healthy Eating Plate 的全谷、蔬果与蛋白质搭配原则，由無龄岛原创设计；不是该机构原版菜谱或背书。"
+  },
+  {
+    "id": "egg-corn",
+    "name": "玉米蔬菜蒸蛋餐",
+    "type": "中式均衡",
+    "time": 25,
+    "occasion": "早餐 / 午餐",
+    "ingredients": [
+      "鸡蛋2个",
+      "熟玉米粒100 g",
+      "胡萝卜60 g",
+      "西兰花100 g",
+      "温水约150 ml"
+    ],
+    "steps": [
+      "鸡蛋打散加温水；胡萝卜切小丁，与熟玉米一同加入。",
+      "放入浅碗，水开后中小火蒸约15—20分钟至中心完全凝固。",
+      "西兰花另蒸熟搭配；按食量增加全麦面包或其他主食。"
+    ],
+    "note": "含蛋。容器深浅会影响蒸制时间，确认中间熟透再食用。",
+    "desc": "早餐 / 午餐 · 鸡蛋、熟玉米粒、胡萝卜的日常搭配。",
+    "illustrated": true,
+    "source": "https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/",
+    "sourceNote": "参考哈佛 Healthy Eating Plate 的全谷、蔬果与蛋白质搭配原则，由無龄岛原创设计；不是该机构原版菜谱或背书。"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "date_local": "2026-10-08",
+  "command": "python -X utf8 -m unittest backend.test_book_history_provenance backend.test_book_source_revision backend.test_book_history_revision backend.test_book_chat_disconnect backend.test_book_upload_disconnect backend.test_book_parser backend.test_book_upload backend.test_book_evidence backend.test_book_context",
+  "exit_code": 0,
+  "output": ".........................................\n----------------------------------------------------------------------\nRan 41 tests in 5.049s\n\nOK\n",
+  "real_model_called": false,
+  "test_data": "synthetic model responses and temporary source/SQLite files",
+  "runtime_restart": "not executed: automatic approval rejected command, blocked by policy",
+  "running_fix_verified": false
+}

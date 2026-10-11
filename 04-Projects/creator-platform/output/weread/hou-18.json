@@ -1,0 +1,33 @@
+{
+  "book": {
+    "id": "hou-18",
+    "number": 18,
+    "title": "细胞简史",
+    "category": "细胞",
+    "author": "陈涛"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E7%BB%86%E8%83%9E%E7%AE%80%E5%8F%B2",
+  "results": [
+    {
+      "title": "细胞简史",
+      "author": "程林",
+      "url": "https://weread.qq.com/web/reader/cae32e2072a813c8caeb6a1"
+    },
+    {
+      "title": "细胞简史（图文本）",
+      "author": "程林 瞿子健",
+      "url": "https://weread.qq.com/web/reader/9d132720813ab8608g016584"
+    },
+    {
+      "title": "高考现代文阅读答题模板",
+      "author": "高考阅读编委会",
+      "url": "https://weread.qq.com/web/reader/88b32fb0813abb1e8g014d22"
+    },
+    {
+      "title": "通信简史：从遗传编码到量子信息",
+      "author": "杨义先 钮心忻",
+      "url": "https://weread.qq.com/web/reader/4d4321107205520e4d4a54b"
+    }
+  ]
+}

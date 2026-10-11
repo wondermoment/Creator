@@ -1,0 +1,83 @@
+{
+  "book": {
+    "id": "hou-25",
+    "number": 25,
+    "title": "癌症·防御",
+    "category": "癌症",
+    "author": "作者信息待核对"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E7%99%8C%E7%97%87%C2%B7%E9%98%B2%E5%BE%A1",
+  "results": [
+    {
+      "title": "癌症·防御  李治中著",
+      "author": "李治中",
+      "url": "https://weread.qq.com/web/bookDetail/f4f32f80811e75357g0108b6"
+    },
+    {
+      "title": "长寿：逆转和延缓衰老的科学饮食（上下册）",
+      "author": "迈克尔·格雷格",
+      "url": "https://weread.qq.com/web/reader/ea232aa0813aba50fg015668"
+    },
+    {
+      "title": "每个人的战争：抵御癌症的有效生活方式",
+      "author": "大卫·赛尔旺-施莱伯",
+      "url": "https://weread.qq.com/web/reader/2a9328005e040e2a9417352"
+    },
+    {
+      "title": "癌症天敌：免疫治疗的突破与希望",
+      "author": "李治中",
+      "url": "https://weread.qq.com/web/reader/680329c0813abb7a9g0147c6"
+    },
+    {
+      "title": "觉醒吧！我的基因",
+      "author": "[日]宝岛社",
+      "url": "https://weread.qq.com/web/reader/0c332fd0813abac2ag019ff8"
+    },
+    {
+      "title": "万物生辉——科学照亮未知之境",
+      "author": "王丽华 梁偲 张显明",
+      "url": "https://weread.qq.com/web/reader/89832b50813aba7bdg017cec"
+    },
+    {
+      "title": "自然的悖论——合理与荒谬并存的进化之路",
+      "author": "弗雷德里克·托马 米歇尔·雷蒙",
+      "url": "https://weread.qq.com/web/reader/93332880813ab82bbg014cf6"
+    },
+    {
+      "title": "营养圣经",
+      "author": "帕特里克•霍尔福德",
+      "url": "https://weread.qq.com/web/reader/7b032730813ab70afg0109a6"
+    },
+    {
+      "title": "决定健康的999个细节",
+      "author": "张雪松",
+      "url": "https://weread.qq.com/web/reader/62d32bc05a55c062d8d1f00"
+    },
+    {
+      "title": "吃出自愈力",
+      "author": "[美]威廉·李",
+      "url": "https://weread.qq.com/web/reader/a88324c0725a7caca88f137"
+    },
+    {
+      "title": "一个健康吃货的自我修养（套装共4册）",
+      "author": "[美]威廉·李 邱锦伶 董峰",
+      "url": "https://weread.qq.com/web/reader/2ec32f00726905132ec115d"
+    },
+    {
+      "title": "吃对食物健康来",
+      "author": "王志艳",
+      "url": "https://weread.qq.com/web/reader/01b32dd0813abb905g0136a4"
+    },
+    {
+      "title": "摘要及学习指南之癌症篇",
+      "author": "利民·邓",
+      "url": "https://weread.qq.com/web/reader/b88327e071e1264bb88b11f"
+    },
+    {
+      "title": "驱动人生的模式：乐观者和悲观者成功的路径",
+      "author": "[美]海蒂·格兰特·霍尔沃森  [美]E.托里·希金斯",
+      "url": "https://weread.qq.com/web/reader/cbe32730813ab930bg01383a"
+    }
+  ]
+}

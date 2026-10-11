@@ -1,0 +1,47 @@
+{
+  "method": "Native image_gen through ChatGPT-login Codex, no API key; no cropping or compositing",
+  "modelVersion": "Not verified",
+  "prompt": "output/imagegen/testing-science-prompt.txt",
+  "images": [
+    {
+      "id": "test-telomere",
+      "original": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a10a3d-5314-7e21-a3ae-ec753ebdbbc7\\exec-612dc37c-0c66-4719-affa-16426767457d.png",
+      "file": "frontend\\assets\\testing\\test-telomere-science.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "review": "Chinese labels and 4 chromosome end caps reviewed; simplified explanatory scene, not actual assay workflow"
+    },
+    {
+      "id": "test-methylation",
+      "original": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a10a3d-5314-7e21-a3ae-ec753ebdbbc7\\exec-77f0afee-5b7f-4ac6-8b10-5558fe6ce33c.png",
+      "file": "frontend\\assets\\testing\\test-methylation-science.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "review": "Chinese text reviewed; molecular marks and model/report charts conceptual only, no actual measured data"
+    },
+    {
+      "id": "test-igg",
+      "original": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a10a3d-5314-7e21-a3ae-ec753ebdbbc7\\exec-4deb6004-f3b2-448b-a257-290c379397a9.png",
+      "file": "frontend\\assets\\testing\\test-igg-science.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "review": "Chinese labels and no exclusion recommendation reviewed; neutral illustrative report without actual values"
+    },
+    {
+      "id": "test-ige",
+      "original": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a10a3d-5314-7e21-a3ae-ec753ebdbbc7\\exec-f1e62c3c-82e7-432d-85e8-84f9bddf92ad.png",
+      "file": "frontend\\assets\\testing\\test-ige-science.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "review": "Chinese labels reviewed; simplified IgE surface receptor mechanism separated from report and clinical discussion; positive not equated with clinical allergy"
+    }
+  ]
+}

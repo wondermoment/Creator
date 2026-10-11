@@ -1,0 +1,17 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert');
+const listeners={},nodes=new Map();
+const node=k=>{if(!nodes.has(k))nodes.set(k,{innerHTML:'',value:'',addEventListener(){},classList:{add(){},remove(){}},querySelector:node});return nodes.get(k);};
+const context=vm.createContext({console,Intl,Date,URL,URLSearchParams,Map,Set,document:{querySelector:node,addEventListener(t,f){(listeners[t]??=[]).push(f)},hidden:false},window:{addEventListener(){}},location:{hash:'#brand?section=voice'},localStorage:{getItem(){return null}},setInterval(){},setTimeout(){},clearTimeout(){},fetch(){throw Error('unexpected request')}});
+for(const f of ['app','planning','knowledge','manager','leads','delivery','sample','experts','qa','brand'])vm.runInContext(fs.readFileSync(`static/${f}.js`,'utf8'),context);
+vm.runInContext(`pid='a';me={};state={project:{name:'企业A'},role:'owner',brand:[{version:3,voice:'原有风格'}],knowledge:[],faq:[],execution:[]};`,context);
+let html=vm.runInContext('brandPage()',context);assert(html.includes('原有风格'));assert(html.includes('保存新版本'));assert(html.includes('编辑基于 v3'));
+vm.runInContext(`pid='b';state.project.name='企业B';state.brand=[{version:1,voice:'其他企业风格'}]`,context);
+html=vm.runInContext('brandPage()',context);assert(html.includes('其他企业风格'));assert(!html.includes('原有风格'));
+vm.runInContext(`pid='a';qaSession().query='保留企业A问题';pid='b'`,context);assert.equal(vm.runInContext('qaSession().query',context),'');
+vm.runInContext(`pid='a'`,context);assert.equal(vm.runInContext('qaSession().query',context),'保留企业A问题');
+let submits=0,prevents=0;const button={disabled:false},form={querySelector:()=>button,requestSubmit(){submits++}};
+const fire=extra=>{const e={target:{id:'expert-message',closest:()=>form},key:'Enter',preventDefault(){prevents++},...extra};for(const fn of listeners.keydown||[])fn(e)};
+fire({shiftKey:true});fire({isComposing:true});fire({keyCode:229});assert.equal(submits,0);
+fire({});assert.equal(submits,1);assert.equal(prevents,1);
+button.disabled=true;fire({});assert.equal(submits,1);
+console.log('PASS: independent brand editor, enterprise-scoped drafts, Enter send, Shift+Enter, IME and busy protection');

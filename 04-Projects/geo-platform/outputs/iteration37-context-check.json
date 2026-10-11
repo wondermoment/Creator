@@ -1,0 +1,16 @@
+{
+  "baseline_job": "350f37c956162414f22ec34f",
+  "method": "read-only replay; no model call",
+  "selection": {
+    "mode": "excerpts",
+    "original_chars": 45080,
+    "sent_chars": 12000,
+    "budget_chars": 12000,
+    "selected_paragraphs": 141,
+    "omitted_sources": 1
+  },
+  "body_reduction_percent": 73.4,
+  "full_source_json_chars": 47620,
+  "projected_source_json_chars": 21850,
+  "exact_offsets_checked": true
+}

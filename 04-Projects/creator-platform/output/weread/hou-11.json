@@ -1,0 +1,68 @@
+{
+  "book": {
+    "id": "hou-11",
+    "number": 11,
+    "title": "长寿的习惯",
+    "category": "长寿抗衰",
+    "author": "日译书作者待核对"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E9%95%BF%E5%AF%BF%E7%9A%84%E4%B9%A0%E6%83%AF",
+  "results": [
+    {
+      "title": "长寿的习惯",
+      "author": "铃木祐",
+      "url": "https://weread.qq.com/web/reader/3d232140813ab781ag016055"
+    },
+    {
+      "title": "那些活了很久的人都有些“坏习惯”：大数据揭示的长寿秘密",
+      "author": "哈利·奥夫冈 埃里克·奥夫冈",
+      "url": "https://weread.qq.com/web/reader/d7a32410813ab69f6g018d4b"
+    },
+    {
+      "title": "百岁老人的长寿习惯",
+      "author": "叶舟",
+      "url": "https://weread.qq.com/web/reader/43b32890813aba78fg010ee3"
+    },
+    {
+      "title": "快乐长寿的38个生活习惯",
+      "author": "May牛山",
+      "url": "https://weread.qq.com/web/bookDetail/fa132350811e272aag0101f9"
+    },
+    {
+      "title": "饮食术2：实践宝典",
+      "author": "牧田善二",
+      "url": "https://weread.qq.com/web/reader/06532c80728bb609065bef4"
+    },
+    {
+      "title": "中医养生大成",
+      "author": "陈涤平",
+      "url": "https://weread.qq.com/web/reader/1a43279071a180c51a4cb34"
+    },
+    {
+      "title": "愤怒的笑声：劳马剧作三种及其评论（劳马作品集）",
+      "author": "劳马 等",
+      "url": "https://weread.qq.com/web/reader/ff6326c0813ab75d0g014fad"
+    },
+    {
+      "title": "中医药文化智慧",
+      "author": "谢英彪 黄衍 顾宁 许宏兵",
+      "url": "https://weread.qq.com/web/reader/f1a32ff0813ab8a29g014e9a"
+    },
+    {
+      "title": "手脚按摩诊病大全",
+      "author": "张衡山",
+      "url": "https://weread.qq.com/web/reader/47932930813ab8d61g015dcf"
+    },
+    {
+      "title": "王火文集·第九卷：西窗烛 带露摘花",
+      "author": "王火",
+      "url": "https://weread.qq.com/web/reader/e3732ca05df648e37c1ad91"
+    },
+    {
+      "title": "智慧父亲的七项修炼",
+      "author": "胡洪军 胡正栋",
+      "url": "https://weread.qq.com/web/reader/164320a0813ab9b41g014f6b"
+    }
+  ]
+}

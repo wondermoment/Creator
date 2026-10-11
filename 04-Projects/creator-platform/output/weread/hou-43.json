@@ -1,0 +1,233 @@
+{
+  "book": {
+    "id": "hou-43",
+    "number": 43,
+    "title": "当下的力量",
+    "category": "运动心理",
+    "author": "Eckhart Tolle"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E5%BD%93%E4%B8%8B%E7%9A%84%E5%8A%9B%E9%87%8F",
+  "results": [
+    {
+      "title": "当下的力量（白金版）",
+      "author": "埃克哈特·托利",
+      "url": "https://weread.qq.com/web/reader/5b932bd05cf3215b92b7cd5"
+    },
+    {
+      "title": "当下的力量（珍藏版）",
+      "author": "埃克哈特·托利",
+      "url": "https://weread.qq.com/web/reader/402322c053a0a44020d6c2b"
+    },
+    {
+      "title": "当下的力量",
+      "author": "黄国峰",
+      "url": "https://weread.qq.com/web/reader/8c032a80813ab697eg0196a0"
+    },
+    {
+      "title": "当下的力量",
+      "author": "约瑟夫·纽顿",
+      "url": "https://weread.qq.com/web/reader/bdb328e071bf48acbdbf1df"
+    },
+    {
+      "title": "当下的力量+当下的力量实践手册（白金版）（全集）",
+      "author": "埃克哈特·托利著 张德芬审校",
+      "url": "https://weread.qq.com/web/reader/f7b326a05d052cf7b9677a6"
+    },
+    {
+      "title": "当下的力量实践手册（白金版）",
+      "author": "埃克哈特·托利",
+      "url": "https://weread.qq.com/web/reader/26b320e05d065726b7c0a86"
+    },
+    {
+      "title": "当下的力量实践手册",
+      "author": "埃克哈特·托利",
+      "url": "https://weread.qq.com/web/reader/57d32b2053a62f57d73c899"
+    },
+    {
+      "title": "一本书读懂《当下的力量》",
+      "author": "刘洋",
+      "url": "https://weread.qq.com/web/reader/f8f326c0813aba04dg012bc5"
+    },
+    {
+      "title": "正念地活：拥抱当下的力量",
+      "author": "[美]乔恩·卡巴金",
+      "url": "https://weread.qq.com/web/reader/ef132470813ab9055g014ed9"
+    },
+    {
+      "title": "当下的力量2",
+      "author": "[德]埃克哈特·托利",
+      "url": "https://weread.qq.com/web/bookDetail/bda32bf0811e556bag0157c3"
+    },
+    {
+      "title": "唤醒情商：不失控的情绪管理能量书",
+      "author": "陈爱芬",
+      "url": "https://weread.qq.com/web/reader/8da32490716593188daee57"
+    },
+    {
+      "title": "武志红温暖系列作品（套装共8册）",
+      "author": "武志红",
+      "url": "https://weread.qq.com/web/reader/059329e0725176430598f2d"
+    },
+    {
+      "title": "女性修身养颜必读书系（套装共16册）",
+      "author": "戴尔·卡耐基 孙玉梅 韩佳冰 吴菲菲 苏兰教主等",
+      "url": "https://weread.qq.com/web/reader/53e329507186241c53e7bbc"
+    },
+    {
+      "title": "武志红心理学套装（共四册）",
+      "author": "武志红",
+      "url": "https://weread.qq.com/web/reader/4de3251071691c424de41d5"
+    },
+    {
+      "title": "朗达·拜恩：身心灵实修指南系列（全7册）",
+      "author": "朗达·拜恩",
+      "url": "https://weread.qq.com/web/reader/88332f70727fd1288831a8d"
+    },
+    {
+      "title": "秘密：终极奥秘",
+      "author": "朗达·拜恩",
+      "url": "https://weread.qq.com/web/reader/38932c30727d82363892ac5"
+    },
+    {
+      "title": "朴素相拥",
+      "author": "郭峻峰 段媛 孙丹",
+      "url": "https://weread.qq.com/web/reader/59b322d0813ab8e02g01164b"
+    },
+    {
+      "title": "情绪由我",
+      "author": "蒂博·默里斯",
+      "url": "https://weread.qq.com/web/reader/2e2323f0813ab78dag018e45"
+    },
+    {
+      "title": "引爆高效能：脑神经科学如何激活生命能量",
+      "author": "Stacey 沐瑶著",
+      "url": "https://weread.qq.com/web/reader/7b332e40813abb64cg010b5b"
+    },
+    {
+      "title": "身体知道答案（珍藏版）",
+      "author": "武志红",
+      "url": "https://weread.qq.com/web/reader/02c32050813ab67cdg01422a"
+    },
+    {
+      "title": "为何越爱越孤独（2023版）",
+      "author": "武志红",
+      "url": "https://weread.qq.com/web/reader/01032630813ab7893g010085"
+    },
+    {
+      "title": "为何越爱越孤独（升级版）",
+      "author": "武志红",
+      "url": "https://weread.qq.com/web/reader/f54322c05e2f97f54b81ea9"
+    },
+    {
+      "title": "大师们的写作课：好文笔是读出来的（增订版）",
+      "author": "舒明月",
+      "url": "https://weread.qq.com/web/reader/70132d10813ab9a20g019e8f"
+    },
+    {
+      "title": "每一种孤独都有陪伴",
+      "author": "武志红",
+      "url": "https://weread.qq.com/web/reader/81832bd057f18b818a91497"
+    },
+    {
+      "title": "热爱是一切问题的答案",
+      "author": "杜杰平 著",
+      "url": "https://weread.qq.com/web/reader/d7b32260813ab9e30g0166a9"
+    },
+    {
+      "title": "闭上眼睛，你才会看见",
+      "author": "Ceci 兹舞",
+      "url": "https://weread.qq.com/web/reader/7c032230813ab7f92g010c25"
+    },
+    {
+      "title": "善读：企业家如何在阅读中精进成长",
+      "author": "总裁读书会",
+      "url": "https://weread.qq.com/web/reader/3f0324b0813ab90f3g015813"
+    },
+    {
+      "title": "哲学系女巫笔记",
+      "author": "栗莉茱",
+      "url": "https://weread.qq.com/web/reader/ce632ee0813abbec3g014eb8"
+    },
+    {
+      "title": "吸引力法则大全集（超值金版）",
+      "author": "陈荣赋 袁钰编著",
+      "url": "https://weread.qq.com/web/reader/ef932dc0551ac1ef9f7c789"
+    },
+    {
+      "title": "风暴中的宁静：正念转化焦虑、抑郁及失眠之苦",
+      "author": "冯晓东",
+      "url": "https://weread.qq.com/web/reader/cd932a60813abb228g0110e2"
+    },
+    {
+      "title": "人人都有拖延症：99个战胜拖延症的小技巧",
+      "author": "陈海涛",
+      "url": "https://weread.qq.com/web/reader/db932ab071f94acadb96db4"
+    },
+    {
+      "title": "阅读照亮教育",
+      "author": "谢云",
+      "url": "https://weread.qq.com/web/reader/8423270071695a0e842f670"
+    },
+    {
+      "title": "让催眠走进生活——你不知道的得觉催眠",
+      "author": "格桑泽仁",
+      "url": "https://weread.qq.com/web/reader/31132de0813ab96ecg011cd0"
+    },
+    {
+      "title": "放下的奇迹（普通人对抗焦虑的法宝）",
+      "author": "[英]约翰·珀基斯",
+      "url": "https://weread.qq.com/web/reader/f6c32980813abbc4cg013e87"
+    },
+    {
+      "title": "跳出仓鼠之轮：放松，别想太多了",
+      "author": "[加]谢尔盖·马奎斯",
+      "url": "https://weread.qq.com/web/reader/c8c32220813ab9600g013549"
+    },
+    {
+      "title": "瑜伽经禅修要诀",
+      "author": "夕阳",
+      "url": "https://weread.qq.com/web/reader/140323a05d0d791408e8772"
+    },
+    {
+      "title": "阿尔法交易者：实现股票超额收益的思维和方法",
+      "author": "[美]布伦特·唐纳利",
+      "url": "https://weread.qq.com/web/reader/01f32a60813abb0aag015ef8"
+    },
+    {
+      "title": "做一个情绪稳定的成年人",
+      "author": "星蔓编著",
+      "url": "https://weread.qq.com/web/reader/41d32160813ab9a8fg015b84"
+    },
+    {
+      "title": "战胜强迫症 心理学导师专家李宏夫实践案例 经典方法",
+      "author": "李宏夫",
+      "url": "https://weread.qq.com/web/reader/65332e607207c4316537bb2"
+    },
+    {
+      "title": "觉知：通向身心合一的心智成长",
+      "author": "丹尼尔·J. 西格尔",
+      "url": "https://weread.qq.com/web/reader/7b832720813aba057g016ee2"
+    },
+    {
+      "title": "我与我：养育你的内在小孩",
+      "author": "冰千里",
+      "url": "https://weread.qq.com/web/reader/f74327f0813ab9e04g012c41"
+    },
+    {
+      "title": "意外同居：四个女人的临时生活日记",
+      "author": "雪门",
+      "url": "https://weread.qq.com/web/reader/88e32230813aba381g012af1"
+    },
+    {
+      "title": "U型理论：感知正在生成的未来（全新升级版）",
+      "author": "奥托·夏莫",
+      "url": "https://weread.qq.com/web/reader/4c3327005ae27f4c3c9fb1b"
+    },
+    {
+      "title": "高效压力管理法（套装共3册）",
+      "author": "米修·斯托罗尼 马克·克洛普利 道格·亨施",
+      "url": "https://weread.qq.com/web/reader/730328f07263f8257304a82"
+    }
+  ]
+}

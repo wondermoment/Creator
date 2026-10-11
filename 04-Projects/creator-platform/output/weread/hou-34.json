@@ -1,0 +1,73 @@
+{
+  "book": {
+    "id": "hou-34",
+    "number": 34,
+    "title": "肠道菌群与衰老",
+    "category": "微生物",
+    "author": "编者信息待核对"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E8%82%A0%E9%81%93%E8%8F%8C%E7%BE%A4%E4%B8%8E%E8%A1%B0%E8%80%81",
+  "results": [
+    {
+      "title": "菌群大脑：肠道微生物影响大脑和身心健康的惊人真相",
+      "author": "[美]戴维·珀尔马特  [美]克里斯廷·洛伯格",
+      "url": "https://weread.qq.com/web/reader/08b32d50717c266708b2b77"
+    },
+    {
+      "title": "逆龄饮食：逆转慢性疾病与衰老的再生医学新成果",
+      "author": "安德烈亚斯·乔普",
+      "url": "https://weread.qq.com/web/reader/82c32560813ab83a7g0113df"
+    },
+    {
+      "title": "肠道藏着心理的秘密：肠道与心理综合征饮食疗法",
+      "author": "娜塔莎·坎贝尔-麦克布莱德",
+      "url": "https://weread.qq.com/web/reader/bdf321f0813ab9d07g019fcd"
+    },
+    {
+      "title": "不是你，是你的荷尔蒙：从根源上抵御衰老与守护健康的荷尔蒙平衡方案",
+      "author": "妮基·威廉姆斯",
+      "url": "https://weread.qq.com/web/reader/f49325e0813ab72b6g017ce6"
+    },
+    {
+      "title": "从容的告别：如何面对终将到来的衰老与死亡",
+      "author": "肯·希尔曼",
+      "url": "https://weread.qq.com/web/reader/d0d32550813ab7010g013d68"
+    },
+    {
+      "title": "健康长寿：延缓衰老的科学与行动",
+      "author": "科林·罗斯 李华民",
+      "url": "https://weread.qq.com/web/reader/85432750813ab7a80g01378d"
+    },
+    {
+      "title": "与衰老和解，是我对自己的滋养（轻成长）",
+      "author": "索析 编",
+      "url": "https://weread.qq.com/web/reader/24b32b80813abb246g018f0b"
+    },
+    {
+      "title": "益生菌生理功能与健康",
+      "author": "刘振民 主编",
+      "url": "https://weread.qq.com/web/reader/c83329b0813abbc1dg01624d"
+    },
+    {
+      "title": "中华健康管理学（第2版）",
+      "author": "中国健康促进基金会",
+      "url": "https://weread.qq.com/web/reader/aaf329d0813aba112g018088"
+    },
+    {
+      "title": "老年医学",
+      "author": "于普林",
+      "url": "https://weread.qq.com/web/reader/a463243071a55baea464a9c"
+    },
+    {
+      "title": "寓医于食：中国人的饮食智慧",
+      "author": "赵霖 鲍善芬",
+      "url": "https://weread.qq.com/web/reader/af232f70813aba00eg0193fb"
+    },
+    {
+      "title": "妇产科学新进展——妇产科的检查与检验",
+      "author": "郎景和",
+      "url": "https://weread.qq.com/web/reader/46e32f00813abc197g015d57"
+    }
+  ]
+}

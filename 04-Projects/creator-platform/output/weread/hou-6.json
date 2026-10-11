@@ -1,0 +1,33 @@
+{
+  "book": {
+    "id": "hou-6",
+    "number": 6,
+    "title": "长寿：当人类不再衰老",
+    "category": "长寿抗衰",
+    "author": "David Sinclair、Matthew LaPlante"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E9%95%BF%E5%AF%BF%EF%BC%9A%E5%BD%93%E4%BA%BA%E7%B1%BB%E4%B8%8D%E5%86%8D%E8%A1%B0%E8%80%81",
+  "results": [
+    {
+      "title": "长寿：当人类不再衰老",
+      "author": "大卫·辛克莱 马修·拉普兰特",
+      "url": "https://weread.qq.com/web/reader/5fe320b072a435255fe15ab"
+    },
+    {
+      "title": "少生病的老年：唤醒你的健康长寿基因",
+      "author": "卡米洛·里科尔迪",
+      "url": "https://weread.qq.com/web/reader/b2f32bc0813ab85c1g0185c8"
+    },
+    {
+      "title": "女性幸福密码——写给闺密的20封信",
+      "author": "宸冰",
+      "url": "https://weread.qq.com/web/reader/08432e90813ab89d1g01917f"
+    },
+    {
+      "title": "信睿周报·第18辑（第103-108辑）",
+      "author": "周尚意 龙星如 尤西·帕里卡 谢立黎 顾凡及 袁璟 朱坤容",
+      "url": "https://weread.qq.com/web/reader/c0332e90813ab9c86g018699"
+    }
+  ]
+}

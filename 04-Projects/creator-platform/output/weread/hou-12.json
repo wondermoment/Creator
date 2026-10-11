@@ -1,0 +1,218 @@
+{
+  "book": {
+    "id": "hou-12",
+    "number": 12,
+    "title": "衰老生物学",
+    "category": "长寿抗衰",
+    "author": "Roger B. McDonald"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E8%A1%B0%E8%80%81%E7%94%9F%E7%89%A9%E5%AD%A6",
+  "results": [
+    {
+      "title": "衰老生物学",
+      "author": "麦克唐纳 B. 罗杰",
+      "url": "https://weread.qq.com/web/bookDetail/c8b326a0811e33589g018bd9"
+    },
+    {
+      "title": "失窃的头脑",
+      "author": "[美]卡尔·赫鲁普",
+      "url": "https://weread.qq.com/web/reader/e8132890813abb7e2g011a96"
+    },
+    {
+      "title": "信睿周报·第18辑（第103-108辑）",
+      "author": "周尚意 龙星如 尤西·帕里卡 谢立黎 顾凡及 袁璟 朱坤容",
+      "url": "https://weread.qq.com/web/reader/c0332e90813ab9c86g018699"
+    },
+    {
+      "title": "健康长寿：延缓衰老的科学与行动",
+      "author": "科林·罗斯 李华民",
+      "url": "https://weread.qq.com/web/reader/85432750813ab7a80g01378d"
+    },
+    {
+      "title": "医学抗衰老",
+      "author": "范巨峰 赵启明",
+      "url": "https://weread.qq.com/web/reader/6b532b4071a552896b5f2fc"
+    },
+    {
+      "title": "不老王国",
+      "author": "[美]史蒂文·奥斯塔德",
+      "url": "https://weread.qq.com/web/reader/a8232a00813abbcc8g014357"
+    },
+    {
+      "title": "思考衰老——探索中医药的抗衰老方法",
+      "author": "谭长涛",
+      "url": "https://weread.qq.com/web/reader/86832a10813aba553g0123ad"
+    },
+    {
+      "title": "长寿：当人类不再衰老",
+      "author": "大卫·辛克莱 马修·拉普兰特",
+      "url": "https://weread.qq.com/web/reader/5fe320b072a435255fe15ab"
+    },
+    {
+      "title": "老年医学（第3版）",
+      "author": "刘晓红 陈彪主编",
+      "url": "https://weread.qq.com/web/reader/a8f32bb0729957b9a8fd766"
+    },
+    {
+      "title": "欺骗时间——科学、性与衰老",
+      "author": "罗杰·戈斯登",
+      "url": "https://weread.qq.com/web/reader/d2f32a30813ab82b8g0169ce"
+    },
+    {
+      "title": "真年龄：人类衰老的新科学",
+      "author": "[美]摩根·莱文",
+      "url": "https://weread.qq.com/web/reader/85f32b00813abb46dg011e44"
+    },
+    {
+      "title": "美容化妆品探秘（第二版）",
+      "author": "谢珍茗 主编",
+      "url": "https://weread.qq.com/web/reader/f1a32970813abbbd2g012897"
+    },
+    {
+      "title": "老年疾病防治指南解读.第二卷",
+      "author": "李小鹰  董碧蓉",
+      "url": "https://weread.qq.com/web/reader/3c332960813abc11ag018a54"
+    },
+    {
+      "title": "新发展格局：从经济领域到非经济领域：加速启动“五位一体”新发展格局的构建",
+      "author": "李海舰 孙博文 朱兰",
+      "url": "https://weread.qq.com/web/reader/01b32250813ab8e53g015e0b"
+    },
+    {
+      "title": "美容化妆品探秘",
+      "author": "谢珍茗主编",
+      "url": "https://weread.qq.com/web/reader/e9432f3071c963ece94f580"
+    },
+    {
+      "title": "早老症：治疗与前沿技术创新",
+      "author": "毛建华 刘志红",
+      "url": "https://weread.qq.com/web/reader/12e32a40813abb298g014b5a"
+    },
+    {
+      "title": "我在医学院教过的谎言",
+      "author": "[美]罗伯特·勒夫金",
+      "url": "https://weread.qq.com/web/reader/9bb328f0813abb3f9g012774"
+    },
+    {
+      "title": "护肤的秘密",
+      "author": "吕恒欣 傅欣慧",
+      "url": "https://weread.qq.com/web/reader/102320e0813ab7c0fg012b13"
+    },
+    {
+      "title": "抗衰大脑",
+      "author": "[美]马克·米尔斯坦",
+      "url": "https://weread.qq.com/web/reader/bab32e50813abb3d1g0100ff"
+    },
+    {
+      "title": "皮肤表观生理学",
+      "author": "董银卯 孟宏 马来记",
+      "url": "https://weread.qq.com/web/reader/b9032dd071899a23b90655f"
+    },
+    {
+      "title": "永远的爱犬",
+      "author": "罗德尼·哈比卜 卡伦·肖·贝克尔",
+      "url": "https://weread.qq.com/web/reader/d0b322d0813ab77a4g013026"
+    },
+    {
+      "title": "奇点将至",
+      "author": "本·戈策尔",
+      "url": "https://weread.qq.com/web/reader/470323e07193f24647057ed"
+    },
+    {
+      "title": "2025世界前沿技术发展报告",
+      "author": "国务院发展研究中心国际技术经济研究所",
+      "url": "https://weread.qq.com/web/reader/c6b32620813abb126g011e2b"
+    },
+    {
+      "title": "成为成人——老年心理学005",
+      "author": "刘烨",
+      "url": "https://weread.qq.com/web/reader/99b32910813abb9dcg0146a7"
+    },
+    {
+      "title": "空腹自愈力：用好身体的修复开关",
+      "author": "孙海夏",
+      "url": "https://weread.qq.com/web/reader/09f32460813abb8b8g014710"
+    },
+    {
+      "title": "饮食术2：实践宝典",
+      "author": "牧田善二",
+      "url": "https://weread.qq.com/web/reader/06532c80728bb609065bef4"
+    },
+    {
+      "title": "生酮饮食：低碳水、高脂肪饮食完全指南",
+      "author": "[美]吉米·摩尔  [美]埃里克·韦斯特曼",
+      "url": "https://weread.qq.com/web/reader/da1326007198b78eda1f934"
+    },
+    {
+      "title": "解码生物电",
+      "author": "[美]萨莉·埃迪",
+      "url": "https://weread.qq.com/web/reader/95b322b0813ab9f7eg0111bb"
+    },
+    {
+      "title": "中华健康管理学（第2版）",
+      "author": "中国健康促进基金会",
+      "url": "https://weread.qq.com/web/reader/aaf329d0813aba112g018088"
+    },
+    {
+      "title": "爱犬长寿密码+永远的爱犬",
+      "author": "[美]罗德尼·哈比卜  [美]卡伦·肖·贝克尔",
+      "url": "https://weread.qq.com/web/reader/90032a90813ab9b49g011ef7"
+    },
+    {
+      "title": "知识的边界",
+      "author": "戴维•温伯格",
+      "url": "https://weread.qq.com/web/reader/01332960813ab6837g01293e"
+    },
+    {
+      "title": "卵巢衰老",
+      "author": "王世宣主编",
+      "url": "https://weread.qq.com/web/reader/78232ab07299577a7829606"
+    },
+    {
+      "title": "百年好活",
+      "author": "李兰陵",
+      "url": "https://weread.qq.com/web/reader/e0632660813abc1bdg01954c"
+    },
+    {
+      "title": "炉边夜话：人生健康长寿沉淀智慧",
+      "author": "札·陶克彤",
+      "url": "https://weread.qq.com/web/reader/af8320d0813abb9c3g01811c"
+    },
+    {
+      "title": "年龄革命",
+      "author": "谢尔盖·扬",
+      "url": "https://weread.qq.com/web/reader/9c732990813ab7fccg0102e8"
+    },
+    {
+      "title": "化妆品植物原料开发与应用",
+      "author": "董银卯 李丽 刘宇红 邱显荣编著",
+      "url": "https://weread.qq.com/web/reader/1b2322d071c95e9f1b2ff40"
+    },
+    {
+      "title": "美容化妆品学（十三五）",
+      "author": "谷建梅 孟宏",
+      "url": "https://weread.qq.com/web/reader/71c32ee0813ab7678g010e4a"
+    },
+    {
+      "title": "最后一个人类",
+      "author": "马克·奥康奈尔",
+      "url": "https://weread.qq.com/web/reader/1ea32a40717dd5371ea30c9"
+    },
+    {
+      "title": "免疫",
+      "author": "[美] 里欧·尼索拉",
+      "url": "https://weread.qq.com/web/reader/d02323e0813ab8741g0131d1"
+    },
+    {
+      "title": "知识的繁荣与危机",
+      "author": "[美]戴维·温伯格",
+      "url": "https://weread.qq.com/web/reader/8c8324c0813abac23g0151b9"
+    },
+    {
+      "title": "百科知识2024-11B",
+      "author": "百科知识",
+      "url": "https://weread.qq.com/web/reader/e9e32a10813abb955g0114e0"
+    }
+  ]
+}

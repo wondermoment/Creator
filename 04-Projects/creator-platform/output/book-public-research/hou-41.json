@@ -1,0 +1,53 @@
+{
+  "id": "hou-41",
+  "requested_title": "持续的幸福",
+  "query": "Flourish Martin Seligman",
+  "checked": "2026-10-06",
+  "sources": [
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL19664526W",
+      "title": "Flourish",
+      "authors": [
+        "Martin Elias Pete Seligman"
+      ],
+      "year": 2011,
+      "description": "",
+      "subjects": [
+        "Satisfaction",
+        "Positive psychology",
+        "Well-being",
+        "Self-actualization (psychology)",
+        "Happiness",
+        "Psychology",
+        "Conduct of life",
+        "Emotions",
+        "Management",
+        "Personal development",
+        "Self Concept",
+        "Vie professionnelle",
+        "Vie privée",
+        "Développement personnel",
+        "Qualité de la vie"
+      ]
+    },
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL15444712W",
+      "title": "Flourish",
+      "authors": [
+        "Martin Elias Pete Seligman"
+      ],
+      "year": 2011,
+      "description": "",
+      "subjects": [
+        "Satisfaction",
+        "Positive psychology",
+        "Well-being"
+      ]
+    }
+  ],
+  "errors": [
+    "Wikipedia: HTTP Error 429: Too Many Requests"
+  ]
+}

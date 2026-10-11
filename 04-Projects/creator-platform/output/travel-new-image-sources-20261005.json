@@ -1,0 +1,20 @@
+[
+  {
+    "destination": "rugao",
+    "original_url": "http://wlt.jiangsu.gov.cn/yunbohui/uploads/2023/05/12-10.png",
+    "output": "frontend/assets/travel/rugao-official.webp",
+    "rights": "Public-source attribution only; commercial permission not confirmed"
+  },
+  {
+    "destination": "tengchong",
+    "original_url": "https://omo-oss-image.thefastimg.com/portal-saas/pg2026062210383963841/cms/image/d9543054-b672-42cb-8932-334ea10bbe02.jpg",
+    "output": "frontend/assets/travel/tengchong-official.webp",
+    "rights": "Public-source attribution only; commercial permission not confirmed"
+  },
+  {
+    "destination": "pingtan",
+    "original_url": "https://wlt.fujian.gov.cn/zwgk/ztzl/fjsjplyc/ptzhsyqbgc/201908/W020200605652740821724.jpg",
+    "output": "frontend/assets/travel/pingtan-official.webp",
+    "rights": "Public-source attribution only; commercial permission not confirmed"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "repo": "coreyhaines31/marketingskills",
+  "sha": "13c3832512b629bcf0226c99036ab434f53ff5b0",
+  "license": "MIT",
+  "paths": [
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/skill-request.yml",
+    "skills/ai-seo/SKILL.md",
+    "skills/ai-seo/evals/evals.json",
+    "skills/ai-seo/references/agent-readiness.md",
+    "skills/ai-seo/references/citations-vs-recommendations.md",
+    "skills/ai-seo/references/content-patterns.md",
+    "skills/ai-seo/references/content-types.md",
+    "skills/ai-seo/references/format-volatility.md",
+    "skills/ai-seo/references/linkedin-ai-citations.md",
+    "skills/ai-seo/references/okf.md",
+    "skills/ai-seo/references/platform-ranking-factors.md",
+    "skills/ai-seo/references/positioning-and-consensus.md",
+    "skills/ai-seo/references/youtube-ai-citations.md",
+    "skills/referrals/references/viral-mechanisms.md",
+    "skills/seo-audit/SKILL.md",
+    "skills/seo-audit/evals/evals.json",
+    "skills/seo-audit/references/ai-writing-detection.md",
+    "skills/seo-audit/references/international-seo.md"
+  ]
+}

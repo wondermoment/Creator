@@ -1,0 +1,63 @@
+{
+  "book": {
+    "id": "hou-24",
+    "number": 24,
+    "title": "癌症传：众病之王",
+    "category": "癌症",
+    "author": "悉达多·穆克吉"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E7%99%8C%E7%97%87%E4%BC%A0%EF%BC%9A%E4%BC%97%E7%97%85%E4%B9%8B%E7%8E%8B",
+  "results": [
+    {
+      "title": "悉达多·穆克吉生命三部曲（《细胞传》《基因传》《癌症传·众病之王》）",
+      "author": "[美]悉达多·穆克吉",
+      "url": "https://weread.qq.com/web/reader/886323b0813ab95d0g0196ac"
+    },
+    {
+      "title": "30分钟读懂《众病之王：癌症传》",
+      "author": "Fiberead 利民·邓",
+      "url": "https://weread.qq.com/web/reader/63a324f07187eabc63a78dd"
+    },
+    {
+      "title": "众病之王：癌症传",
+      "author": "悉达多·穆克吉",
+      "url": "https://weread.qq.com/web/bookDetail/352324c059b441352e0936c"
+    },
+    {
+      "title": "超越百岁：长寿的科学与艺术",
+      "author": "[美]彼得·阿提亚",
+      "url": "https://weread.qq.com/web/reader/12f326c0813ab8d88g015fdf"
+    },
+    {
+      "title": "薛定谔的猫：一切都是思考层次的问题",
+      "author": "何圣君",
+      "url": "https://weread.qq.com/web/reader/00f323e0813ab8bd0g0115b5"
+    },
+    {
+      "title": "艰难时期的好经济学：破解全球发展难题的行动方案",
+      "author": "[美]阿比吉特·班纳吉  [法]埃斯特·迪弗洛",
+      "url": "https://weread.qq.com/web/reader/69f32ae0813abb263g0153c7"
+    },
+    {
+      "title": "逃离不平等：健康、财富及不平等的起源（第二版）",
+      "author": "[英]安格斯·迪顿",
+      "url": "https://weread.qq.com/web/reader/0323201059b903032944d68"
+    },
+    {
+      "title": "镜中的鹦鹉：我们有可能进化成鸟类吗？",
+      "author": "安东·马丁诺-特鲁斯维尔",
+      "url": "https://weread.qq.com/web/reader/ba932a10813ab8779g0187ab"
+    },
+    {
+      "title": "精进成长：如何成就高效人生",
+      "author": "张加一",
+      "url": "https://weread.qq.com/web/reader/9ed32a00813ab9e8fg012f21"
+    },
+    {
+      "title": "“乳”影随“形”: 乳腺癌患者放疗指南",
+      "author": "沈捷",
+      "url": "https://weread.qq.com/web/reader/97832360813ab97e6g019cec"
+    }
+  ]
+}

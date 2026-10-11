@@ -1,0 +1,27 @@
+{
+  "method": "Native image_gen through ChatGPT login, two independent calls; format conversion only, no compositing",
+  "modelVersion": "Not verified",
+  "prompt": "output/imagegen/testing-amh-vitd-prompt.txt",
+  "images": [
+    {
+      "id": "test-amh",
+      "original": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a10ab3-a0fc-76b3-8da7-43a714a12995\\exec-1787b518-01cf-4d2d-ba20-a8bdf0cf793f.png",
+      "file": "frontend\\assets\\testing\\test-amh-science.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "review": "Follicular cells, neutral report and pregnancy-prediction limitation reviewed; simplified anatomy, not personal counts."
+    },
+    {
+      "id": "test-vitd",
+      "original": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a10ab3-a0fc-76b3-8da7-43a714a12995\\exec-131dacbe-11a7-4aea-9760-baae2e689f60.png",
+      "file": "frontend\\assets\\testing\\test-vitd-science.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "review": "25(OH)D label, health background and not-higher-is-better footer reviewed; no dose or universal screening claims."
+    }
+  ]
+}

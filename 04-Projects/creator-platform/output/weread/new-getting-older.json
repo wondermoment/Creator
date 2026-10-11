@@ -1,0 +1,64 @@
+{
+  "book": {
+    "id": "new-getting-older",
+    "number": 54,
+    "title": "变老之前要知道的事",
+    "category": "健康养老",
+    "edition": "广东人民出版社",
+    "author": "露西·波洛克（Lucy Pollock）"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E5%8F%98%E8%80%81%E4%B9%8B%E5%89%8D%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%8B",
+  "results": [
+    {
+      "title": "《奥德赛》为什么伟大：看诺兰电影你需要知道的事情",
+      "author": "黑鸟",
+      "url": "https://weread.qq.com/web/reader/cee32980813abbdc3g0154d7"
+    },
+    {
+      "title": "你不知道的旧社会（老天津的那些事儿）",
+      "author": "林希",
+      "url": "https://weread.qq.com/web/reader/fea32d70813ab7cf0g010846"
+    },
+    {
+      "title": "人不要脸，天下无敌！你不知道的历史故事X你该知道的厚黑规则",
+      "author": "李祐元 长贵",
+      "url": "https://weread.qq.com/web/reader/bde32e2072a8feefbde92e6"
+    },
+    {
+      "title": "四十岁才明白的事，恨不得三十岁就知道",
+      "author": "张峻滔",
+      "url": "https://weread.qq.com/web/reader/71232a60813abba50g0167ee"
+    },
+    {
+      "title": "销售就是要玩转情商：99%的人都不知道的销售软技巧",
+      "author": "科林·斯坦利",
+      "url": "https://weread.qq.com/web/reader/41b329805df7df41ba680f7"
+    },
+    {
+      "title": "早点知道会幸福的那些事：百岁奶奶的人生建议",
+      "author": "[美]格莱迪斯·麦克格雷",
+      "url": "https://weread.qq.com/web/reader/ae932cf0813ab950fg0198ae"
+    },
+    {
+      "title": "双相情感障碍：你和你家人需要知道的",
+      "author": "戴维·J.米克罗维兹",
+      "url": "https://weread.qq.com/web/reader/a7632750813ab6fd1g01112c"
+    },
+    {
+      "title": "我不想知道的事",
+      "author": "[英]德博拉·利维",
+      "url": "https://weread.qq.com/web/reader/d4932d20813ab9959g010df7"
+    },
+    {
+      "title": "关于东野圭吾，那些你不知道的事（轻纪实）",
+      "author": "《人物》杂志 赖祐萱",
+      "url": "https://weread.qq.com/web/reader/82e324e0813abbd47g0175e5"
+    },
+    {
+      "title": "女人趁早要知道3：做有心计的优雅女人",
+      "author": "吴静雅",
+      "url": "https://weread.qq.com/web/reader/5d8327605cc8755d882f931"
+    }
+  ]
+}

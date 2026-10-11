@@ -1,0 +1,231 @@
+[
+  {
+    "route": "travel",
+    "backTop": 1,
+    "brokenLoadedImages": [],
+    "headings": [
+      "去远方，也回到自己。",
+      "下一站，向阳出发",
+      "值得慢下来的地方"
+    ],
+    "overflow": false,
+    "staleHealthLabel": false,
+    "textLength": 987
+  },
+  {
+    "route": "calm",
+    "backTop": 1,
+    "brokenLoadedImages": [],
+    "headings": [
+      "动静之间，照顾好自己。",
+      "自然站立，先学会松下来"
+    ],
+    "overflow": false,
+    "staleHealthLabel": false,
+    "textLength": 414
+  },
+  {
+    "route": "diet",
+    "backTop": 1,
+    "brokenLoadedImages": [],
+    "headings": [
+      "把好好吃饭，过成日常。",
+      "多一点植物，多一些生活的滋味。",
+      "今天，想吃点什么？"
+    ],
+    "overflow": false,
+    "staleHealthLabel": false,
+    "textLength": 1972
+  },
+  {
+    "route": "data",
+    "backTop": 1,
+    "brokenLoadedImages": [],
+    "headings": [
+      "我的健康中枢",
+      "长寿健康管理助手",
+      "我的设备",
+      "四个维度，慢慢优化",
+      "身体指标",
+      "心率变异性趋势"
+    ],
+    "overflow": false,
+    "staleHealthLabel": false,
+    "textLength": 718
+  },
+  {
+    "route": "experts",
+    "backTop": 1,
+    "brokenLoadedImages": [],
+    "headings": [
+      "让长期健康，有人同行。",
+      "侯博士",
+      "Mary 林博士",
+      "张展晖",
+      "曼总",
+      "我的预约意向"
+    ],
+    "overflow": false,
+    "staleHealthLabel": false,
+    "textLength": 570
+  },
+  {
+    "route": "shop",
+    "backTop": 1,
+    "brokenLoadedImages": [],
+    "headings": [
+      "好好生活，从认真选择开始。",
+      "日常所需，值得细细挑选。",
+      "好物选品目录"
+    ],
+    "overflow": false,
+    "staleHealthLabel": false,
+    "textLength": 2446
+  },
+  {
+    "route": "account",
+    "backTop": 1,
+    "brokenLoadedImages": [],
+    "headings": [
+      "我的生活与健康",
+      "我的专家咨询意向",
+      "我的客服咨询与进度",
+      "我的出行意向",
+      "我的收藏",
+      "购买记录"
+    ],
+    "overflow": false,
+    "staleHealthLabel": false,
+    "textLength": 488
+  },
+  {
+    "route": "admin",
+    "backTop": 1,
+    "brokenLoadedImages": [],
+    "headings": [
+      "运营工作总览",
+      "精准长寿 · 视频课程",
+      "客服咨询收件箱",
+      "先处理这些事"
+    ],
+    "overflow": false,
+    "staleHealthLabel": false,
+    "textLength": 451
+  },
+  {
+    "route": "clients",
+    "backTop": 1,
+    "brokenLoadedImages": [],
+    "headings": [
+      "客户档案"
+    ],
+    "overflow": false,
+    "staleHealthLabel": false,
+    "textLength": 236
+  },
+  {
+    "route": "work",
+    "backTop": 1,
+    "brokenLoadedImages": [],
+    "headings": [
+      "把关注，给需要的人。",
+      "待复核建议",
+      "了解近期睡眠与恢复情况",
+      "跟进队列",
+      "当前客户 · 林女士"
+    ],
+    "overflow": false,
+    "staleHealthLabel": false,
+    "textLength": 328
+  },
+  {
+    "route": "commerce",
+    "backTop": 1,
+    "brokenLoadedImages": [],
+    "headings": [
+      "商城与代理后台",
+      "商品上架工作台",
+      "客服咨询收件箱",
+      "测试商品与库存",
+      "代理关系",
+      "测试订单"
+    ],
+    "overflow": false,
+    "staleHealthLabel": false,
+    "textLength": 952
+  },
+  {
+    "route": "operations",
+    "backTop": 1,
+    "brokenLoadedImages": [],
+    "headings": [
+      "运营与接入清单",
+      "Skill 质量标准",
+      "内容运营",
+      "专家服务",
+      "商品运营",
+      "代理结算"
+    ],
+    "overflow": false,
+    "staleHealthLabel": false,
+    "textLength": 529
+  },
+  {
+    "route": "reports",
+    "backTop": 1,
+    "brokenLoadedImages": [],
+    "headings": [
+      "报告档案",
+      "我的体检与检测报告"
+    ],
+    "overflow": false,
+    "staleHealthLabel": false,
+    "textLength": 165
+  },
+  {
+    "route": "plan",
+    "backTop": 1,
+    "brokenLoadedImages": [],
+    "headings": [
+      "跟进与复盘",
+      "健康管理目标",
+      "跟进任务",
+      "档案时间线"
+    ],
+    "overflow": false,
+    "staleHealthLabel": false,
+    "textLength": 412
+  },
+  {
+    "backTop": 1,
+    "brokenLoadedImages": [],
+    "headings": [
+      "我的长寿知识库",
+      "我的摘录与笔记",
+      "已收藏的 AI 交流",
+      ""
+    ],
+    "overflow": false,
+    "route": "knowledge",
+    "staleHealthLabel": false,
+    "textLength": 230
+  },
+  {
+    "backTop": 1,
+    "brokenLoadedImages": [],
+    "headings": [
+      "林女士，你好。",
+      "看见身体的变化",
+      "身体的日常信号",
+      "心率变异性趋势",
+      "健管师与你",
+      "我的数据来源",
+      "每一份报告，都有迹可循",
+      ""
+    ],
+    "overflow": false,
+    "route": "home",
+    "staleHealthLabel": false,
+    "textLength": 712
+  }
+]

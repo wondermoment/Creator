@@ -1,0 +1,28 @@
+{
+  "book": {
+    "id": "hou-5",
+    "number": 5,
+    "title": "生命：非常的世界",
+    "category": "生命基础",
+    "author": "作者信息待核对"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E7%94%9F%E5%91%BD%EF%BC%9A%E9%9D%9E%E5%B8%B8%E7%9A%84%E4%B8%96%E7%95%8C",
+  "results": [
+    {
+      "title": "生命：非常的世界（BBC 科普三部曲）",
+      "author": "[英]玛莎·霍姆斯  [英]迈克尔·冈顿",
+      "url": "https://weread.qq.com/web/reader/96b32150813ab88a7g016146"
+    },
+    {
+      "title": "江苏出版年鉴（2020）",
+      "author": "«江苏出版年鉴»编写组",
+      "url": "https://weread.qq.com/web/reader/96f32dd0813ab7c8cg016164"
+    },
+    {
+      "title": "审辩式思维：创生激荡心灵的课堂",
+      "author": "田树林 刘强",
+      "url": "https://weread.qq.com/web/reader/2ce325b0813ab9120g011e7b"
+    }
+  ]
+}

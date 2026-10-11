@@ -1,0 +1,62 @@
+{
+  "clp-diagnostic": {
+    "url": "https://cliniquelaprairie.com/wp-content/uploads/2026/05/Health-Diagnostic-Clinique-La-Prairie-scaled.jpg",
+    "originalSize": [
+      2560,
+      1463
+    ],
+    "license": "Public official site; commercial permission not verified",
+    "checked": "2026-10-05",
+    "integrated": false,
+    "review": "Abstract bubbles, rejected as facility image"
+  },
+  "lanserhof-sylt": {
+    "url": "https://glide.lanserhof.com/containers/images/resorts/sylt/patrickgraf/lanserhof-sylt-patrickgraf-3.jpg/1f1989c2ce32f5575ffabd0bcc667285/lanserhof-sylt-patrickgraf-3.jpg",
+    "originalSize": [
+      1920,
+      1920
+    ],
+    "license": "Public official site; commercial permission not verified",
+    "checked": "2026-10-05",
+    "integrated": true
+  },
+  "clp-montreux": {
+    "source": "https://cliniquelaprairie.com/wp-content/uploads/2025/07/CLP-M02.png",
+    "originalSize": [
+      1439,
+      901
+    ],
+    "savedSize": [
+      1439,
+      901
+    ],
+    "rights": "Commercial permission pending",
+    "integrated": false,
+    "review": "Landscape only, not selected"
+  },
+  "clp-residence": {
+    "source": "https://cliniquelaprairie.com/wp-content/uploads/2025/07/2024_10_19_LA-PRAIRIE_0532-copie.png",
+    "page": "https://cliniquelaprairie.com/destinations/switzerland-montreux/",
+    "originalSize": [
+      1440,
+      901
+    ],
+    "savedSize": [
+      1440,
+      901
+    ],
+    "rights": "Commercial permission pending",
+    "integrated": false,
+    "review": "Dark candidate, not selected"
+  },
+  "clp-lake": {
+    "source": "https://cliniquelaprairie.com/wp-content/uploads/2023/11/VIEW-2021-5-1024x682.jpg",
+    "page": "https://cliniquelaprairie.com/destinations/switzerland-montreux/",
+    "size": [
+      1024,
+      682
+    ],
+    "rights": "Commercial permission pending",
+    "integrated": true
+  }
+}

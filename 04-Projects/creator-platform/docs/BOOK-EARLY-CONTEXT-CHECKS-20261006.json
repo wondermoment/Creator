@@ -1,0 +1,74 @@
+[
+  {
+    "command": [
+      "D:/Program Files/nodejs/node.exe",
+      "tests/book-reader-async.cjs"
+    ],
+    "exit": 0,
+    "output": "PASS: malformed answers/evidence never enter history; both reading routes preserve draft/prior turns and recover; malformed initial history reloads; SQLite saved 0/1 accepted.\nPASS: public-book long conversations retain early user restrictions; old backend answer rejected, same payload retry and capacity limit explicit.\nPASS: startup GET timeouts/manual retry/draft preservation/late and cross-book isolation; clean book header without consent/urgent panels.\nPASS: both reading routes have bounded wait, direct-send/duplicate guards, draft recovery, no automatic retry, late-answer isolation and source-history reminder; existing routes pass. Synthetic only.\n"
+  },
+  {
+    "command": [
+      "D:/Program Files/nodejs/node.exe",
+      "tests/book-upload-async.cjs"
+    ],
+    "exit": 0,
+    "output": "PASS: upload validation, bounded transport/body parsing, duplicate/send guards, confirmed vs uncertain outcomes, manual status recovery, persistent warning, draft/file preservation and cross-book isolation. No real network, model, files or data changed.\n"
+  },
+  {
+    "command": [
+      "D:/Program Files/nodejs/node.exe",
+      "tests/book-public-sources.cjs"
+    ],
+    "exit": 0,
+    "output": "Public references: safe links, escaped text, original-source compatibility passed\n"
+  },
+  {
+    "command": [
+      "D:/Program Files/nodejs/node.exe",
+      "tests/modal-stream-replace.cjs"
+    ],
+    "exit": 0,
+    "output": "PASS: six coach/book/form replacement routes abort old stream; stale deltas blocked, new draft/reply intact, fullscreen and timers cleaned. Synthetic only.\n"
+  },
+  {
+    "command": [
+      "D:/Program Files/nodejs/node.exe",
+      "tests/coach-async.cjs"
+    ],
+    "exit": 0,
+    "output": "PASS: draft/retry/stale-window/IME/timeout guards, context guard and safe reply formatting across success, follow-up and failure. Synthetic only.\n"
+  },
+  {
+    "command": [
+      "D:/Program Files/nodejs/node.exe",
+      "tests/coach-stream-ui.cjs"
+    ],
+    "exit": 0,
+    "output": "PASS: coach streaming, all 7 routes, partial/retry/history, safe formatting, stale-window and long-context guards\n"
+  },
+  {
+    "command": [
+      "D:/Program Files/nodejs/node.exe",
+      "--check",
+      "frontend/book-reader.js"
+    ],
+    "exit": 0,
+    "output": ""
+  },
+  {
+    "command": [
+      "C:/Program Files/Python312/python.exe",
+      "-X",
+      "utf8",
+      "-m",
+      "unittest",
+      "backend.test_book_context",
+      "backend.test_book_evidence",
+      "backend.test_book_chat_input",
+      "backend.test_book_public_knowledge"
+    ],
+    "exit": 0,
+    "output": "............\n----------------------------------------------------------------------\nRan 12 tests in 0.569s\n\nOK\n"
+  }
+]

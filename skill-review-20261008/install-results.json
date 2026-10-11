@@ -1,0 +1,36 @@
+[
+  {
+    "repo": "adithya-s-k/manim_skill",
+    "sha": "cef045011722d285692e3381d12d4d637da56e18",
+    "names": [
+      "manim-composer",
+      "manimce-best-practices"
+    ],
+    "exit_code": 0,
+    "stdout": "Installed manim-composer to D:/Codex/skills\\manim-composer\nInstalled manimce-best-practices to D:/Codex/skills\\manimce-best-practices\n",
+    "stderr": ""
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "sha": "92ace75ac21efe19a620434e0ca4e356081fe807",
+    "names": [
+      "scientific-visualization"
+    ],
+    "exit_code": 4294967295,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "repo": "remotion-dev/skills",
+    "sha": "32b241b97f4e0e4ab61fe9a41b05e6e64503f8c5",
+    "names": [
+      "remotion-create",
+      "remotion-captions",
+      "remotion-render",
+      "remotion-multimedia"
+    ],
+    "exit_code": 0,
+    "stdout": "Installed remotion-create to D:/Codex/skills\\remotion-create\nInstalled remotion-captions to D:/Codex/skills\\remotion-captions\nInstalled remotion-render to D:/Codex/skills\\remotion-render\nInstalled remotion-multimedia to D:/Codex/skills\\remotion-multimedia\n",
+    "stderr": ""
+  }
+]

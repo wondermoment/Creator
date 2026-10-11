@@ -1,0 +1,23 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert');
+const listeners={},notices=[],calls=[],pending=[];
+const button={},form={id:'repurpose-form',querySelector:()=>button,querySelectorAll:()=>[]};
+const ctx=vm.createContext({Map,Set,JSON,Date,crypto:require('crypto').webcrypto,epoch:1,pid:'p',me:{identity:'a'},state:{content:[]},document:{addEventListener(t,f){(listeners[t]??=[]).push(f)}},page:()=> 'repurpose',$:()=>form,canEdit:()=>true,refresh:async()=>{},toast:s=>notices.push(s),syncManager:()=>{}});
+vm.runInContext(fs.readFileSync('static/repurpose.js','utf8'),ctx);
+const run=s=>vm.runInContext(s,ctx);run('refresh=async()=>{}');
+ctx.formSubmit=(_,fn)=>{const d=JSON.parse(run('JSON.stringify(repurposeDraft())'));const p=fn({get:k=>d[k],getAll:()=>d.formats});pending.push(p);return p;};
+ctx.api=(_,__,body)=>new Promise(resolve=>calls.push({body,resolve}));
+const fire=()=>listeners.submit[0]({target:form,preventDefault(){}});
+const settle=async i=>{await pending[i];await Promise.resolve();};
+(async()=>{
+ run("Object.assign(repurposeDraft(),{topic:'旧选题',formats:['article','moments']})");fire();
+ ctx.epoch++;run("clearRepurposeSession();Object.assign(repurposeDraft(),{topic:'新选题',formats:['community']})");
+ fire();assert.equal(calls.length,2,'relogin must permit a new batch without waiting for old response');
+ calls[0].resolve({id:'old'});await settle(0);
+ assert.equal(calls.length,2,'old batch cannot enqueue remaining formats in new session');
+ assert(run("repurposeSending.has('p')"),'old cleanup must retain new batch busy marker');
+ assert.deepEqual(JSON.parse(run('JSON.stringify(repurposeDraft().formats)')),['community']);
+ assert.equal(notices.length,0,'old batch must not show completion in new session');
+ calls[1].resolve({id:'new'});await settle(1);
+ assert.equal(run('repurposeDraft().formats.length'),0);assert(!run("repurposeSending.has('p')"));
+ assert.equal(notices.length,1);console.log('PASS: relogin stops old batch; new selection, busy marker and completion stay independent');
+})().catch(e=>{console.error(e);process.exitCode=1});

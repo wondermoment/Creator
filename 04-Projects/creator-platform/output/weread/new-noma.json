@@ -1,0 +1,19 @@
+{
+  "book": {
+    "id": "new-noma",
+    "number": 46,
+    "title": "NOMA餐厅发酵指南",
+    "category": "新增阅读",
+    "edition": "René Redzepi / David Zilber · 广东旅游出版社 · 用户提供实拍书封",
+    "author": "René Redzepi、David Zilber"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=NOMA%E9%A4%90%E5%8E%85%E5%8F%91%E9%85%B5%E6%8C%87%E5%8D%97",
+  "results": [
+    {
+      "title": "NOMA餐厅发酵指南",
+      "author": "勒内·雷泽皮 埃文·宋 摄影 保拉·特克斯勒 绘",
+      "url": "https://weread.qq.com/web/bookDetail/98d327b0811e7ef67g014d1b"
+    }
+  ]
+}

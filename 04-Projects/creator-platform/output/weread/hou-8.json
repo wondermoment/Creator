@@ -1,0 +1,28 @@
+{
+  "book": {
+    "id": "hou-8",
+    "number": 8,
+    "title": "老而不衰的科学",
+    "category": "长寿抗衰",
+    "author": "Andrew Steele"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E8%80%81%E8%80%8C%E4%B8%8D%E8%A1%B0%E7%9A%84%E7%A7%91%E5%AD%A6",
+  "results": [
+    {
+      "title": "老而不衰的科学",
+      "author": "安德鲁·斯蒂尔",
+      "url": "https://weread.qq.com/web/bookDetail/d3632650813ab7bcfg017793"
+    },
+    {
+      "title": "科学养老那些事儿",
+      "author": "广发基金管理有限公司编著",
+      "url": "https://weread.qq.com/web/reader/bee32070813abb88dg01083a"
+    },
+    {
+      "title": "揭秘老年衰弱",
+      "author": "奚慧琴 严玉茹 胡耀敏",
+      "url": "https://weread.qq.com/web/reader/50632c40813abb10fg012bf2"
+    }
+  ]
+}

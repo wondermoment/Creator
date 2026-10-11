@@ -1,0 +1,18 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert/strict');
+const c={URL,document:{addEventListener(){}}};vm.createContext(c);vm.runInContext(fs.readFileSync('frontend/chat-format.js','utf8'),c);vm.runInContext(fs.readFileSync('frontend/book-reader.js','utf8'),c);
+const text='**一句话理解：发酵是有条件的转化。**\n\n### 1. 底层框架\n\n- **原料提供什么？** 糖、蛋白质和脂肪。\n- **谁来转化？** 微生物和酶。\n\n### 2. 第一性原理\n\n1. 控制环境，影响微生物竞争。\n2. 风味与安全需要分别判断。\n\n普通段落保留 2 * 3、C# 和 [S1]。';
+const html=c.readingAnswer(text);
+assert(html.includes('<h3>1. 底层框架</h3>'));assert(html.includes('<strong>原料提供什么？</strong>'));
+assert(html.includes('<ul>'));assert(html.includes('<ol>'));assert(!html.includes('###'));assert(!html.includes('**'));
+assert(html.includes('2 * 3、C# 和 [S1]'));
+assert.equal((c.readingAnswer('1. 第一项\n\n2. 第二项').match(/<ol>/g)||[]).length,1,'Blank lines must not restart ordered lists');
+const attack=c.readingAnswer('### <img src=x onerror=alert(1)>\n**<script>alert(1)</script>**\n[x](javascript:alert(1))');
+assert(!attack.includes('<img'));assert(!attack.includes('<script'));assert(!attack.includes('<a '));assert(attack.includes('&lt;script&gt;'));
+const source=c.chatAnswer('依据：[**综述**](https://doi.org/10.1016/S0140-6736(18)31809-9) 与 [机构](https://example.org/?a=1&b=2)。');
+assert(source.includes('<a href="https://doi.org/10.1016/S0140-6736(18)31809-9"'));
+assert(source.includes('<strong>综述</strong></a>'));
+assert(source.includes('a=1&amp;b=2'));
+assert.equal((source.match(/rel="noopener noreferrer"/g)||[]).length,2);
+for(const text of ['[x](data:text/html,test)','[x](https://user:secret@example.org)','[x](https://example.org/" onclick="x)','[x](java\nscript:alert(1))'])assert(!c.chatAnswer(text).includes('<a '));
+assert(c.chatAnswer('[<img src=x onerror=x>](https://example.org)').includes('&lt;img'));
+console.log('PASS: paragraphs/bold/safe source links rendered; DOI parentheses preserved; HTML, unsafe schemes, credentials and attribute injection inert.');

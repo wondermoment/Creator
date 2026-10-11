@@ -1,0 +1,16 @@
+{
+  "count": 1706,
+  "sha256": "ec00e24c2ba535505b9fca6f1d8bce3f7c4345bd13f1aa781b0f8dd5d1fa3525",
+  "actual_model": "gpt-6-sol",
+  "usage": {
+    "prompt_tokens": 17850,
+    "completion_tokens": 957,
+    "cached_input_tokens": 0
+  },
+  "sample_count": 1,
+  "scenes": 8,
+  "seconds": 60,
+  "browser_saved": true,
+  "video_rendered": false,
+  "transport_note": "Isolated fixture HTTP request replaced with authorized Codex text generation; no real example.com request. Fixture source generator label may read test-model; actual provider metadata is model-meta.json."
+}

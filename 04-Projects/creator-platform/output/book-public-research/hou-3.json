@@ -1,0 +1,47 @@
+{
+  "id": "hou-3",
+  "requested_title": "人体简史",
+  "query": "The Body Bill Bryson",
+  "checked": "2026-10-06",
+  "sources": [
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL20333471W",
+      "title": "The Body",
+      "authors": [
+        "Bill Bryson"
+      ],
+      "year": 2019,
+      "description": "Bill Bryson once again proves himself to be an incomparable com- panion as he guides us through the human body—how it functions, its remarkable ability to heal itself, and (unfortunately) the ways it can fail. Full of extraordinary facts (your body made a million red blood cells since you started reading this) and irresistible Brysonesque an- ecdotes, The Body will lead you to a deeper understanding of the miracle that is life in general and you in particular.\r\n\r\nAs Bill Bryson writes, \"We pass our existence within this wobble of flesh and yet take it almost entirely for granted.\" The Body will cure that indifference with generous doses of wondrous, compulsively read- able facts and information. As oddictive as it is comprehensive, this is Bryson at his very best, a must-read owner's manual for every body.",
+      "subjects": [
+        "Human anatomy",
+        "Human physiology",
+        "Anatomy",
+        "SCIENCE / Life Sciences / Human Anatomy & Physiology",
+        "MEDICAL / Anatomy",
+        "HUMOR / General",
+        "Physiology",
+        "Human body",
+        "nyt:combined-print-and-e-book-nonfiction=2019-11-03",
+        "New York Times bestseller",
+        "New York Times reviewed",
+        "nyt:paperback-nonfiction=2021-02-14"
+      ]
+    },
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL34335393W",
+      "title": "Really Short Journey Through the Body",
+      "authors": [
+        "Bill Bryson",
+        "Emma Young"
+      ],
+      "year": 2023,
+      "description": "",
+      "subjects": []
+    }
+  ],
+  "errors": [
+    "Wikipedia: HTTP Error 429: Too Many Requests"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "book": {
+    "id": "new-microbiome-master-key",
+    "number": 50,
+    "title": "终身活力：用微生物组开启全面健康",
+    "category": "微生物",
+    "edition": "华龄出版社",
+    "author": "布雷特·芬利、杰西卡·芬利"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E7%BB%88%E8%BA%AB%E6%B4%BB%E5%8A%9B%EF%BC%9A%E7%94%A8%E5%BE%AE%E7%94%9F%E7%89%A9%E7%BB%84%E5%BC%80%E5%90%AF%E5%85%A8%E9%9D%A2%E5%81%A5%E5%BA%B7",
+  "results": [
+    {
+      "title": "终身活力（一部写给所有人的微生物组抗衰指南）",
+      "author": "[加]布雷特·芬利  [加]杰西卡·芬利",
+      "url": "https://weread.qq.com/web/reader/aa132510813abbfddg012fa2"
+    }
+  ]
+}

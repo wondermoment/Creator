@@ -1,0 +1,47 @@
+{
+  "method": "Native image_gen via ChatGPT login, four independent calls; format conversion only, no cropping/compositing",
+  "modelVersion": "Not verified",
+  "prompt": "output/imagegen/testing-genetics-prompt.txt",
+  "images": [
+    {
+      "id": "test-exome",
+      "original": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a10a73-dad8-71b2-adb7-14eae4fb768c\\exec-35f32383-99ee-4336-a069-33509e3b4856.png",
+      "file": "frontend\\assets\\testing\\test-exome-science.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "review": "Coding-region schematic, scope limitation and Chinese labels reviewed."
+    },
+    {
+      "id": "test-genome",
+      "original": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a10a73-dad8-71b2-adb7-14eae4fb768c\\exec-84414136-75f6-4f06-b81a-684dc8eebe6f.png",
+      "file": "frontend\\assets\\testing\\test-genome-science.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "review": "Broader scope, neutral schematic charts and consent labels reviewed; privacy lock is not a security certification."
+    },
+    {
+      "id": "test-alcohol",
+      "original": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a10a73-dad8-71b2-adb7-14eae4fb768c\\exec-b4b7414f-b9c9-4f91-87b0-cdc4813974b6.png",
+      "file": "frontend\\assets\\testing\\test-alcohol-science.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "review": "Ethanol to acetaldehyde to acetate arrow direction and five unique labels reviewed; no safe dose claims."
+    },
+    {
+      "id": "test-mthfr",
+      "original": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a10a73-dad8-71b2-adb7-14eae4fb768c\\exec-ae4d050a-c476-4a1c-a077-02c40e1a2469.png",
+      "file": "frontend\\assets\\testing\\test-mthfr-science.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "review": "Common variation, folate and clinical context reviewed; no individual dose or inevitable deficiency claims."
+    }
+  ]
+}

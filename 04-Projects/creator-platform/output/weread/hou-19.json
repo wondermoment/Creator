@@ -1,0 +1,68 @@
+{
+  "book": {
+    "id": "hou-19",
+    "number": 19,
+    "title": "线粒体与生命的意义",
+    "category": "细胞",
+    "author": "Nick Lane"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E7%BA%BF%E7%B2%92%E4%BD%93%E4%B8%8E%E7%94%9F%E5%91%BD%E7%9A%84%E6%84%8F%E4%B9%89",
+  "results": [
+    {
+      "title": "生命的礼物（关于爱、死亡和存在的意义）",
+      "author": "[美]欧文·D.亚隆 [美]玛丽莲·亚隆",
+      "url": "https://weread.qq.com/web/reader/96a32be0813ab7daag0186d6"
+    },
+    {
+      "title": "活出生命的意义",
+      "author": "[奥]维克多·弗兰克尔",
+      "url": "https://weread.qq.com/web/reader/1b532700813abbfdbg01779d"
+    },
+    {
+      "title": "生命的意义",
+      "author": "[法]亨利·柏格森",
+      "url": "https://weread.qq.com/web/reader/1c932dc0715e274e1c92013"
+    },
+    {
+      "title": "生命的意义",
+      "author": "威尔·杜兰特",
+      "url": "https://weread.qq.com/web/reader/0c732d40724d5dcf0c7d1d1"
+    },
+    {
+      "title": "妈妈及生命的意义",
+      "author": "[美]欧文·亚隆",
+      "url": "https://weread.qq.com/web/reader/362328105d0ef83627fb851"
+    },
+    {
+      "title": "活出生命的意义",
+      "author": "[奥]阿尔弗雷德·阿德勒",
+      "url": "https://weread.qq.com/web/reader/b6532ce0813abb68cg017846"
+    },
+    {
+      "title": "中年的意义：生命的蜕变",
+      "author": "大卫·班布里基",
+      "url": "https://weread.qq.com/web/reader/c8f32b707200b25bc8f8c85"
+    },
+    {
+      "title": "大图景：论生命的起源、意义和宇宙本身",
+      "author": "肖恩·卡罗尔",
+      "url": "https://weread.qq.com/web/reader/8e232f2071a2c74a8e2e099"
+    },
+    {
+      "title": "弗兰克尔自传：活出生命的意义",
+      "author": "[奥]维克多·弗兰克尔",
+      "url": "https://weread.qq.com/web/reader/d7232ad071f8efefd72ca86"
+    },
+    {
+      "title": "人间值得：在苦难中寻找生命的意义",
+      "author": "[美]玛莎·M.莱恩汉",
+      "url": "https://weread.qq.com/web/reader/183324e0813ab89ecg0120dd"
+    },
+    {
+      "title": "大脑能量",
+      "author": "[美]克里斯托弗·帕尔默",
+      "url": "https://weread.qq.com/web/reader/e50329c0813ab907ag018fc9"
+    }
+  ]
+}

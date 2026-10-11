@@ -1,0 +1,82 @@
+[
+  {
+    "path": "skills/embedded-captions/modes/cinematic/README.md",
+    "ok": true
+  },
+  {
+    "path": "skills/embedded-captions/modes/cinematic/_archive/champion/spec.md",
+    "ok": true
+  },
+  {
+    "path": "skills/embedded-captions/modes/cinematic/_archive/champion/template.html",
+    "ok": true
+  },
+  {
+    "path": "skills/embedded-captions/modes/cinematic/_archive/memory-wall/spec.md",
+    "ok": true
+  },
+  {
+    "path": "skills/embedded-captions/modes/cinematic/_archive/memory-wall/template.html",
+    "ok": true
+  },
+  {
+    "path": "skills/embedded-captions/scripts/render-and-composite.sh",
+    "ok": true
+  },
+  {
+    "path": "skills/embedded-captions/scripts/render-theme.sh",
+    "ok": true
+  },
+  {
+    "path": "skills/hyperframes-animation/rules/chromatic-glitch.md",
+    "ok": true
+  },
+  {
+    "path": "skills/hyperframes-animation/rules/control-target-sync.md",
+    "ok": true
+  },
+  {
+    "path": "skills/motion-graphics/categories/news/module.md",
+    "ok": true
+  },
+  {
+    "path": "skills/remotion-best-practices/remotion-captions/transcribe-captions.md",
+    "ok": true
+  },
+  {
+    "path": "skills/remotion-best-practices/remotion-create/REFERENCE.md",
+    "ok": true
+  },
+  {
+    "path": "skills/remotion-markup/remotion-maps/techniques/maptiler/TECHNIQUE.md",
+    "ok": true
+  },
+  {
+    "path": "skills/remotion-markup/remotion-maps/techniques/maptiler/assets/CountryLabel.tsx",
+    "ok": true
+  },
+  {
+    "path": "skills/remotion-markup/remotion-maps/techniques/maptiler/assets/MapTilerVectorElement.ts",
+    "ok": true
+  },
+  {
+    "path": "skills/remotion-markup/remotion-maps/techniques/maptiler/assets/RiverReveal.tsx",
+    "ok": true
+  },
+  {
+    "path": "skills/animate-text/assets/specs/bottom-up-letters.json",
+    "ok": true
+  },
+  {
+    "path": "skills/animate-text/assets/specs/depth-parallax-words.json",
+    "ok": true
+  },
+  {
+    "path": "skills/animate-text/assets/specs/fade-through.json",
+    "ok": true
+  },
+  {
+    "path": "skills/animate-text/assets/specs/focus-blur-resolve.json",
+    "ok": true
+  }
+]

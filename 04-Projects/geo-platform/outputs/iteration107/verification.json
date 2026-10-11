@@ -1,0 +1,9 @@
+{
+  "real_model": "gpt-6-sol",
+  "turns": 2,
+  "fixture_only": true,
+  "original_preserved": true,
+  "verification_replays_saved_outputs": true,
+  "publications": 0,
+  "project": "3950347388e79657b369b11f"
+}

@@ -1,0 +1,16 @@
+{
+  "articles": 483,
+  "empty_text": 25,
+  "short_or_image_dominated_under_100_characters": 30,
+  "total_text_characters": 771508,
+  "families_rule_assisted": {
+    "其他/待人工归类": 177,
+    "事件/成果": 29,
+    "信息公开（不作写作范本）": 30,
+    "技术/应用": 227,
+    "问题/选型": 19,
+    "招聘（不作技术写作范本）": 1
+  },
+  "note": "自动规则归类和关键词次数用于检索，不是技术事实核查或逐篇人工评价。正文为空或极短时保留图片URL，未做OCR。",
+  "distinct_normalized_text_or_image_sets": 474
+}

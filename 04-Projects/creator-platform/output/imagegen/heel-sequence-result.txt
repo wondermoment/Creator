@@ -1,0 +1,5 @@
+Generated image absolute path:
+
+```text
+C:\Users\pc02a\Creator\04-Projects\geo-platform\.runtime\codex-local\generated_images\01a1064b-a387-7742-b6ca-80498d5f2e1a\exec-c30bf421-70c6-4321-bbe5-3135b31f37a8.png
+```

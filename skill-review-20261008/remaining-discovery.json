@@ -1,0 +1,448 @@
+{
+  "video-editing": {
+    "query": "video-editing",
+    "searchType": "fuzzy",
+    "searchVersion": "algolia",
+    "skills": [
+      {
+        "id": "101-skills/superpowers/ai-video-generation",
+        "source": "101-skills/superpowers",
+        "skillId": "ai-video-generation",
+        "name": "ai-video-generation",
+        "installs": 694282
+      },
+      {
+        "id": "qu-skills/superpowers/ai-video-generation",
+        "source": "qu-skills/superpowers",
+        "skillId": "ai-video-generation",
+        "name": "ai-video-generation",
+        "installs": 378315
+      },
+      {
+        "id": "magentosh/superpowers/ai-video-generation",
+        "source": "magentosh/superpowers",
+        "skillId": "ai-video-generation",
+        "name": "ai-video-generation",
+        "installs": 324800
+      },
+      {
+        "id": "skills-shell/superpowers/ai-video-generation",
+        "source": "skills-shell/superpowers",
+        "skillId": "ai-video-generation",
+        "name": "ai-video-generation",
+        "installs": 233774
+      },
+      {
+        "id": "its-a-skill-issue/superpowers/ai-video-generation",
+        "source": "its-a-skill-issue/superpowers",
+        "skillId": "ai-video-generation",
+        "name": "ai-video-generation",
+        "installs": 226921
+      },
+      {
+        "id": "bankai-skills/superpowers/ai-video-generation",
+        "source": "bankai-skills/superpowers",
+        "skillId": "ai-video-generation",
+        "name": "ai-video-generation",
+        "installs": 212345
+      }
+    ],
+    "count": 6,
+    "duration_ms": 636,
+    "timings_ms": {
+      "rate_limit": 491.2718159999931,
+      "flags": 1.2127999999793246,
+      "visibility": 34.137412999989465,
+      "retrieval": 388.06721099995775,
+      "algolia_processing": 159,
+      "repositories": 243.61861499998486,
+      "ranking": 2.7450909999897704,
+      "search": 636,
+      "total": 1127.1941179999849
+    },
+    "provider_duration_ms": 388.06721099995775
+  },
+  "cinematography": {
+    "query": "cinematography",
+    "searchType": "fuzzy",
+    "searchVersion": "algolia",
+    "skills": [
+      {
+        "id": "fal-ai-community/skills/cinematography",
+        "source": "fal-ai-community/skills",
+        "skillId": "cinematography",
+        "name": "cinematography",
+        "installs": 893
+      },
+      {
+        "id": "arjun988/blender-skills/camera-cinematography",
+        "source": "arjun988/blender-skills",
+        "skillId": "camera-cinematography",
+        "name": "camera-cinematography",
+        "installs": 186
+      },
+      {
+        "id": "anil-matcha/open-dots/muapi-cinema-director",
+        "source": "anil-matcha/open-dots",
+        "skillId": "muapi-cinema-director",
+        "name": "muapi-cinema-director",
+        "installs": 2941
+      },
+      {
+        "id": "praveenspeaks/cinematic-script-writer/cinematic-script-writer",
+        "source": "praveenspeaks/cinematic-script-writer",
+        "skillId": "cinematic-script-writer",
+        "name": "cinematic-script-writer",
+        "installs": 827
+      },
+      {
+        "id": "anil-matcha/open-dots/muapi-jewelry-product-video",
+        "source": "anil-matcha/open-dots",
+        "skillId": "muapi-jewelry-product-video",
+        "name": "muapi-jewelry-product-video",
+        "installs": 656
+      },
+      {
+        "id": "thepexcel/agent-skills/graphic-designer",
+        "source": "thepexcel/agent-skills",
+        "skillId": "graphic-designer",
+        "name": "graphic-designer",
+        "installs": 398
+      }
+    ],
+    "count": 6,
+    "duration_ms": 289,
+    "timings_ms": {
+      "rate_limit": 12.69427999999607,
+      "flags": 1.2574679999961518,
+      "visibility": 8.01933799998369,
+      "retrieval": 249.44412800000282,
+      "algolia_processing": 170,
+      "repositories": 35.369736000022385,
+      "ranking": 2.81492099998286,
+      "search": 289,
+      "total": 301.8746309999842
+    },
+    "provider_duration_ms": 249.44412800000282
+  },
+  "storytelling": {
+    "query": "storytelling",
+    "searchType": "fuzzy",
+    "searchVersion": "algolia",
+    "skills": [
+      {
+        "id": "wshobson/agents/data-storytelling",
+        "source": "wshobson/agents",
+        "skillId": "data-storytelling",
+        "name": "data-storytelling",
+        "installs": 15962
+      },
+      {
+        "id": "ghaida/intent/storytelling",
+        "source": "ghaida/intent",
+        "skillId": "storytelling",
+        "name": "storytelling",
+        "installs": 2535
+      },
+      {
+        "id": "bergside/awesome-design-skills/storytelling",
+        "source": "bergside/awesome-design-skills",
+        "skillId": "storytelling",
+        "name": "storytelling",
+        "installs": 1797
+      },
+      {
+        "id": "refoundai/lenny-skills/brand-storytelling",
+        "source": "refoundai/lenny-skills",
+        "skillId": "brand-storytelling",
+        "name": "brand-storytelling",
+        "installs": 2567
+      },
+      {
+        "id": "mengto/skills/cinematic-scroll-storytelling",
+        "source": "mengto/skills",
+        "skillId": "cinematic-scroll-storytelling",
+        "name": "cinematic-scroll-storytelling",
+        "installs": 1668
+      },
+      {
+        "id": "mengto/skills/gsap-scrolltrigger-storytelling",
+        "source": "mengto/skills",
+        "skillId": "gsap-scrolltrigger-storytelling",
+        "name": "gsap-scrolltrigger-storytelling",
+        "installs": 1461
+      }
+    ],
+    "count": 6,
+    "duration_ms": 264,
+    "timings_ms": {
+      "rate_limit": 25.10525400005281,
+      "flags": 1.216850999975577,
+      "visibility": 211.71773999999277,
+      "retrieval": 250.03136999998242,
+      "algolia_processing": 176,
+      "repositories": 10.569169000023976,
+      "ranking": 1.9539749999530613,
+      "search": 264,
+      "total": 289.1005470000673
+    },
+    "provider_duration_ms": 250.03136999998242
+  },
+  "video-prompting-guide": {
+    "query": "video-prompting-guide",
+    "searchType": "fuzzy",
+    "searchVersion": "algolia",
+    "skills": [
+      {
+        "id": "inference-sh/agent-skills/video-prompting-guide",
+        "source": "inference-sh/agent-skills",
+        "skillId": "video-prompting-guide",
+        "name": "video-prompting-guide",
+        "installs": 28
+      },
+      {
+        "id": "qu-skills/superpowers/video-prompting-guide",
+        "source": "qu-skills/superpowers",
+        "skillId": "video-prompting-guide",
+        "name": "video-prompting-guide",
+        "installs": 26
+      },
+      {
+        "id": "magentosh/superpowers/video-prompting-guide",
+        "source": "magentosh/superpowers",
+        "skillId": "video-prompting-guide",
+        "name": "video-prompting-guide",
+        "installs": 15
+      },
+      {
+        "id": "skills-shell/superpowers/video-prompting-guide",
+        "source": "skills-shell/superpowers",
+        "skillId": "video-prompting-guide",
+        "name": "video-prompting-guide",
+        "installs": 7
+      },
+      {
+        "id": "its-a-skill-issue/superpowers/video-prompting-guide",
+        "source": "its-a-skill-issue/superpowers",
+        "skillId": "video-prompting-guide",
+        "name": "video-prompting-guide",
+        "installs": 7
+      },
+      {
+        "id": "bankai-skills/superpowers/video-prompting-guide",
+        "source": "bankai-skills/superpowers",
+        "skillId": "video-prompting-guide",
+        "name": "video-prompting-guide",
+        "installs": 7
+      }
+    ],
+    "count": 6,
+    "duration_ms": 876,
+    "timings_ms": {
+      "rate_limit": 18.70178799983114,
+      "flags": 1.1105110000353307,
+      "visibility": 23.642659000121057,
+      "retrieval": 789.6247419998981,
+      "algolia_processing": 517,
+      "repositories": 66.68209999985993,
+      "ranking": 17.91339199966751,
+      "search": 876,
+      "total": 894.7080979999155
+    },
+    "provider_duration_ms": 789.6247419998981
+  },
+  "ai-video-generation": {
+    "query": "ai-video-generation",
+    "searchType": "fuzzy",
+    "searchVersion": "algolia",
+    "skills": [
+      {
+        "id": "101-skills/superpowers/ai-video-generation",
+        "source": "101-skills/superpowers",
+        "skillId": "ai-video-generation",
+        "name": "ai-video-generation",
+        "installs": 694282
+      },
+      {
+        "id": "qu-skills/superpowers/ai-video-generation",
+        "source": "qu-skills/superpowers",
+        "skillId": "ai-video-generation",
+        "name": "ai-video-generation",
+        "installs": 378315
+      },
+      {
+        "id": "prime-skills/runcomfy-agent-skills/ai-video-generation",
+        "source": "prime-skills/runcomfy-agent-skills",
+        "skillId": "ai-video-generation",
+        "name": "ai-video-generation",
+        "installs": 374305
+      },
+      {
+        "id": "magentosh/superpowers/ai-video-generation",
+        "source": "magentosh/superpowers",
+        "skillId": "ai-video-generation",
+        "name": "ai-video-generation",
+        "installs": 324800
+      },
+      {
+        "id": "skills-shell/superpowers/ai-video-generation",
+        "source": "skills-shell/superpowers",
+        "skillId": "ai-video-generation",
+        "name": "ai-video-generation",
+        "installs": 233774
+      },
+      {
+        "id": "its-a-skill-issue/superpowers/ai-video-generation",
+        "source": "its-a-skill-issue/superpowers",
+        "skillId": "ai-video-generation",
+        "name": "ai-video-generation",
+        "installs": 226921
+      }
+    ],
+    "count": 6,
+    "duration_ms": 1011,
+    "timings_ms": {
+      "rate_limit": 46.58847300000343,
+      "flags": 71.70401500000298,
+      "visibility": 8.41537999999855,
+      "retrieval": 883.4776760000095,
+      "algolia_processing": 515,
+      "repositories": 31.919347000002745,
+      "ranking": 19.57014199999685,
+      "search": 1011,
+      "total": 1057.383683
+    },
+    "provider_duration_ms": 883.4776760000095
+  },
+  "storyboard-creation": {
+    "query": "storyboard-creation",
+    "searchType": "fuzzy",
+    "searchVersion": "algolia",
+    "skills": [
+      {
+        "id": "inference-sh/skills/storyboard-creation",
+        "source": "inference-sh/skills",
+        "skillId": "storyboard-creation",
+        "name": "storyboard-creation",
+        "installs": 11
+      },
+      {
+        "id": "101-skills/superpowers/storyboard-creation",
+        "source": "101-skills/superpowers",
+        "skillId": "storyboard-creation",
+        "name": "storyboard-creation",
+        "installs": 44526,
+        "isDuplicate": true
+      },
+      {
+        "id": "qu-skills/superpowers/storyboard-creation",
+        "source": "qu-skills/superpowers",
+        "skillId": "storyboard-creation",
+        "name": "storyboard-creation",
+        "installs": 23897,
+        "isDuplicate": true
+      },
+      {
+        "id": "magentosh/superpowers/storyboard-creation",
+        "source": "magentosh/superpowers",
+        "skillId": "storyboard-creation",
+        "name": "storyboard-creation",
+        "installs": 20865,
+        "isDuplicate": true
+      },
+      {
+        "id": "skills-shell/superpowers/storyboard-creation",
+        "source": "skills-shell/superpowers",
+        "skillId": "storyboard-creation",
+        "name": "storyboard-creation",
+        "installs": 15124,
+        "isDuplicate": true
+      },
+      {
+        "id": "its-a-skill-issue/superpowers/storyboard-creation",
+        "source": "its-a-skill-issue/superpowers",
+        "skillId": "storyboard-creation",
+        "name": "storyboard-creation",
+        "installs": 14602,
+        "isDuplicate": true
+      }
+    ],
+    "count": 6,
+    "duration_ms": 289,
+    "timings_ms": {
+      "rate_limit": 11.656321000074968,
+      "flags": 1.309419000055641,
+      "visibility": 7.389334999956191,
+      "retrieval": 262.10523400013335,
+      "algolia_processing": 188,
+      "repositories": 22.22950699995272,
+      "ranking": 2.830113000003621,
+      "search": 289,
+      "total": 300.4616640000604
+    },
+    "provider_duration_ms": 262.10523400013335
+  },
+  "genmedia": {
+    "query": "genmedia",
+    "searchType": "fuzzy",
+    "searchVersion": "algolia",
+    "skills": [
+      {
+        "id": "genmedia-labs/skills/video-edit",
+        "source": "genmedia-labs/skills",
+        "skillId": "video-edit",
+        "name": "video-edit",
+        "installs": 13
+      },
+      {
+        "id": "genmedia-labs/skills/ai-video-generation",
+        "source": "genmedia-labs/skills",
+        "skillId": "ai-video-generation",
+        "name": "ai-video-generation",
+        "installs": 13
+      },
+      {
+        "id": "genmedia-labs/skills/image-to-video",
+        "source": "genmedia-labs/skills",
+        "skillId": "image-to-video",
+        "name": "image-to-video",
+        "installs": 13
+      },
+      {
+        "id": "genmedia-labs/skills/ai-image-generation",
+        "source": "genmedia-labs/skills",
+        "skillId": "ai-image-generation",
+        "name": "ai-image-generation",
+        "installs": 13
+      },
+      {
+        "id": "genmedia-labs/skills/seedance-2-5-image-to-video",
+        "source": "genmedia-labs/skills",
+        "skillId": "seedance-2-5-image-to-video",
+        "name": "seedance-2-5-image-to-video",
+        "installs": 13
+      },
+      {
+        "id": "genmedia-labs/skills/wan-3-0-prime-reference-to-video",
+        "source": "genmedia-labs/skills",
+        "skillId": "wan-3-0-prime-reference-to-video",
+        "name": "wan-3-0-prime-reference-to-video",
+        "installs": 13
+      }
+    ],
+    "count": 6,
+    "duration_ms": 291,
+    "timings_ms": {
+      "rate_limit": 15.882128999975976,
+      "flags": 1.2418799999868497,
+      "visibility": 6.9588020000373945,
+      "retrieval": 279.59652700001607,
+      "algolia_processing": 216,
+      "repositories": 8.584631000005174,
+      "ranking": 1.0771219999878667,
+      "search": 291,
+      "total": 306.6496449999977
+    },
+    "provider_duration_ms": 279.59652700001607
+  }
+}

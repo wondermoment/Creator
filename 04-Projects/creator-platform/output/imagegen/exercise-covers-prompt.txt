@@ -1,0 +1,9 @@
+Use native image_gen, one call per asset, to create SIX separate landscape 3:2 premium illustration covers for wellness exercise cards. Use attached image as identity and art-style reference: Cyber Qiao, purple short tousled hair, clear glasses, blue eyes, white T-shirt, purple sports shorts, white sneakers. Preserve this coherent polished anime/chibi style, beautifully shaded, complete anatomically coherent body, no stick figures, no pasted heads. Soft sunlight, minimal elegant ivory/lavender home or garden setting, generous breathing room, full body and equipment centrally framed so nothing cropped. No text, no labels, no borders, no collages. Covers are editorial illustrations, not clinical technique certification.
+Generate each separately:
+chair: character starting to rise from a stable wooden chair, both feet planted, torso leaning slightly forward, natural comfortable posture, sunlit living room.
+wall: side view character doing easy standing wall push-up, both palms on solid wall at chest height, feet planted, straight aligned torso, slightly bent elbows, minimal lavender room.
+row: character seated on a stable chair, gently rowing a resistance band attached to a secure wall anchor at waist height, elbows close to sides, no band aimed at face, bright home gym.
+heel: character holding a fixed sturdy kitchen counter with both hands, gently raising both heels, full body side view, calm ivory setting.
+walk: character taking a relaxed walk on a level garden path, graceful natural stride, morning greenery and golden light.
+break: character standing up beside a tidy desk and chair during a work break, relaxed shoulders and natural standing posture, warm sunlit window.
+Report each ID and its native generated image absolute path. Use only native image generation, no external APIs, no drawings via code. Do not edit website files.

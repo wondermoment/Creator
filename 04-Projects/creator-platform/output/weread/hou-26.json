@@ -1,0 +1,63 @@
+{
+  "book": {
+    "id": "hou-26",
+    "number": 26,
+    "title": "威廉姆斯内分泌学",
+    "category": "内分泌",
+    "author": "H. M. Kronenberg 等（图示第11版）"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E5%A8%81%E5%BB%89%E5%A7%86%E6%96%AF%E5%86%85%E5%88%86%E6%B3%8C%E5%AD%A6",
+  "results": [
+    {
+      "title": "威廉姆斯内分泌学",
+      "author": "HM Kronenberg/S Melmed/KS Polonsky/PR Larsen",
+      "url": "https://weread.qq.com/web/bookDetail/03c320c0811e1c8b0g014873"
+    },
+    {
+      "title": "内科学．内分泌代谢科分册（第2版）",
+      "author": "童南伟 肖海鹏",
+      "url": "https://weread.qq.com/web/reader/87732080813ab7949g017b93"
+    },
+    {
+      "title": "实用内科学（第15版）（下）",
+      "author": "林果为 王吉耀 葛均波",
+      "url": "https://weread.qq.com/web/reader/98132a1071a55a339819044"
+    },
+    {
+      "title": "仝小林新病机十九条：中医诊疗疾病新视角",
+      "author": "仝小林",
+      "url": "https://weread.qq.com/web/reader/edb32ad0813ab79fag017f87"
+    },
+    {
+      "title": "中医优势病种精准诊疗学",
+      "author": "何明丰 田华琴 林旋",
+      "url": "https://weread.qq.com/web/reader/a4d32750813abb9c8g0132cb"
+    },
+    {
+      "title": "科学星空下.工学篇.Ⅸ",
+      "author": "阮草  孟令耘 张亦旒",
+      "url": "https://weread.qq.com/web/reader/08932750813abbd76g0189a5"
+    },
+    {
+      "title": "药学监护典型案例分析（第2版）",
+      "author": "郭代红 朱曼 陈孟莉",
+      "url": "https://weread.qq.com/web/reader/1fe32a20813ab979cg012d42"
+    },
+    {
+      "title": "新病机十九条：中医诊疗疾病新视角",
+      "author": "仝小林",
+      "url": "https://weread.qq.com/web/reader/3ee321c0813ab76c4g0164a3"
+    },
+    {
+      "title": "实用青春期医学",
+      "author": "傅君芬",
+      "url": "https://weread.qq.com/web/reader/e4132c10813ab8992g011a4e"
+    },
+    {
+      "title": "检验与临床思维案例：内分泌疾病",
+      "author": "杜鲁涛 唱凯 李贵星 方琪",
+      "url": "https://weread.qq.com/web/reader/24a326e0813ab9e34g011bf3"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert');
+const ctx=vm.createContext({console});vm.runInContext(fs.readFileSync('static/video-script.js','utf8'),ctx);
+const parse=(body,format='short_video')=>{ctx.source={body,repurpose_format:format};return JSON.parse(JSON.stringify(vm.runInContext('videoScriptScenes(source)',ctx)))};
+const table='| 时间 | 口播 | 画面 | 字幕 |\n| --- | --- | --- | --- |\n| 0–3秒 | 旁白不冒充字幕 | 待拍实景 | 先核对材料 |\n| 3–12秒 | 讲述边界 | 待补报告 | 再核对工况 |';
+assert.deepEqual(parse(table).map(x=>[x.text,x.seconds,x.asset_id,x.start]),[['先核对材料',3,'',0],['再核对工况',9,'',0]]);
+assert.equal(parse('原始文章','article'),null);
+assert.throws(()=>parse('只有口播文字'),/分镜表/);
+assert.throws(()=>parse(table.replace('3–12','4–12')),/连续/);
+assert.throws(()=>parse(table.replace('3–12','3–16')),/3–12/);
+assert.throws(()=>parse(table.replace('先核对材料','字'.repeat(73))),/不会自动截断/);
+assert.throws(()=>parse(table+'\n\n'+table),/多份/);
+assert.equal(parse('| 时长 | 字幕 |\n| --- | --- |\n| 6秒 | **A** \\| B |')[0].text,'A | B');
+assert.throws(()=>parse('| 时长 | 字幕 |\n| --- | --- |\n'+Array(9).fill('| 6 | 字幕 |').join('\n')),/1–8/);
+console.log('PASS: explicit script timing and captions, no narration mixup, no silent truncation, no ambiguous table imports');

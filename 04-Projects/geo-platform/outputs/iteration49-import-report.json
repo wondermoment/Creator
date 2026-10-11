@@ -1,0 +1,17 @@
+{
+  "total": 179,
+  "inserted": 179,
+  "groups": {
+    "L1": 8,
+    "L2": 9,
+    "L3": 5,
+    "L4": 8,
+    "L5": 6,
+    "keyword": 31,
+    "technical": 40,
+    "scenario": 42,
+    "purchase": 30
+  },
+  "source_sha256": "7f957fae61de357946fb212237834a8a4d0447bbe004f03942bc2b39e134cfa6",
+  "customer_content_unchanged": true
+}

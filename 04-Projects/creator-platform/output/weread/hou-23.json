@@ -1,0 +1,223 @@
+{
+  "book": {
+    "id": "hou-23",
+    "number": 23,
+    "title": "功能医学",
+    "category": "功能医学",
+    "author": "Jeffrey S. Bland"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E5%8A%9F%E8%83%BD%E5%8C%BB%E5%AD%A6",
+  "results": [
+    {
+      "title": "功能医学概论",
+      "author": "曾强",
+      "url": "https://weread.qq.com/web/reader/2403280071a555272408e28"
+    },
+    {
+      "title": "功能医学新思维破解心血管病难题",
+      "author": "耿世钊",
+      "url": "https://weread.qq.com/web/reader/1ec320807198d74a1ecd68c"
+    },
+    {
+      "title": "功能医学临床实践：慢性病治疗圣经",
+      "author": "王冲 林高坤 官方霖",
+      "url": "https://weread.qq.com/web/bookDetail/11d32300811e41f9cg013425"
+    },
+    {
+      "title": "医学功能学科实验指导（第3版）",
+      "author": "朱大诚 黄丽萍",
+      "url": "https://weread.qq.com/web/reader/2e332260813ab925fg017669"
+    },
+    {
+      "title": "中华健康管理学（第2版）",
+      "author": "中国健康促进基金会",
+      "url": "https://weread.qq.com/web/reader/aaf329d0813aba112g018088"
+    },
+    {
+      "title": "细胞的奇迹：吃出来的免疫力",
+      "author": "特里·华尔斯 伊夫·亚当森",
+      "url": "https://weread.qq.com/web/reader/fe832ca0725f98f1fe84d03"
+    },
+    {
+      "title": "健康守护全书",
+      "author": "梁湛威",
+      "url": "https://weread.qq.com/web/reader/d9432db0813ab7158g0188ba"
+    },
+    {
+      "title": "免疫功能90天复原方案：从根源上构筑人体免疫防线的健康策略",
+      "author": "苏珊·布卢姆  米歇尔·本德",
+      "url": "https://weread.qq.com/web/reader/69632030813ab856ag01554c"
+    },
+    {
+      "title": "闪耀",
+      "author": "张萌",
+      "url": "https://weread.qq.com/web/reader/fa5323b0813aba2fdg0144ea"
+    },
+    {
+      "title": "逆转自体免疫疾病",
+      "author": "帕尔默·基波拉",
+      "url": "https://weread.qq.com/web/reader/56b32490813aba0d6g01972c"
+    },
+    {
+      "title": "免疫革命 : 如何从根本上抵御并逆转自身免疫性疾病",
+      "author": "[美]汤姆·奥布赖恩",
+      "url": "https://weread.qq.com/web/reader/c8932970813ab989eg016df4"
+    },
+    {
+      "title": "医学抗衰老",
+      "author": "范巨峰 赵启明",
+      "url": "https://weread.qq.com/web/reader/6b532b4071a552896b5f2fc"
+    },
+    {
+      "title": "桥本甲状腺炎90天治疗方案",
+      "author": "伊莎贝拉·温兹",
+      "url": "https://weread.qq.com/web/reader/76d32430813ab6d92g0145c0"
+    },
+    {
+      "title": "多囊卵巢综合征完全指南",
+      "author": "梁湛威",
+      "url": "https://weread.qq.com/web/reader/26432a50813ab715bg01208e"
+    },
+    {
+      "title": "失控的肾上腺：肾上腺功能90天复原方案",
+      "author": "[美]伊莎贝拉·温兹",
+      "url": "https://weread.qq.com/web/reader/f7332bc0813ab9b6bg01876d"
+    },
+    {
+      "title": "海南自由贸易港经典项目实证研究",
+      "author": "郑远强 于澄清 赵刘",
+      "url": "https://weread.qq.com/web/reader/94a32950813aba2e1g014bee"
+    },
+    {
+      "title": "轻断食",
+      "author": "陈春仪",
+      "url": "https://weread.qq.com/web/reader/f72322207210422ff724c4c"
+    },
+    {
+      "title": "健康管理学进展．2020",
+      "author": "曾强",
+      "url": "https://weread.qq.com/web/reader/6f632400813abc0d0g017593"
+    },
+    {
+      "title": "终结阿尔茨海默病实操手册——提升认知能力 逆转阿尔茨海默病的首套操作规程",
+      "author": "戴尔·E.布来得森",
+      "url": "https://weread.qq.com/web/reader/413324a0813ab749eg011775"
+    },
+    {
+      "title": "如果我有脊柱侧凸：脊柱侧凸完全指南和解决方案",
+      "author": "埃琳·迈尔斯",
+      "url": "https://weread.qq.com/web/reader/c2b32000813ab92b2g0144f8"
+    },
+    {
+      "title": "抗炎",
+      "author": "麦琪·伯格霍夫",
+      "url": "https://weread.qq.com/web/reader/12c32670813ab867cg015a0a"
+    },
+    {
+      "title": "健康中国行动实施精准解读",
+      "author": "王德 殷潇凡 谢正 王浩 鲍勇主编",
+      "url": "https://weread.qq.com/web/reader/db0323207260a440db0d737"
+    },
+    {
+      "title": "逆转阿尔兹海默病",
+      "author": "[美]希瑟·桑迪森",
+      "url": "https://weread.qq.com/web/reader/5f632f60813abc1cfg015284"
+    },
+    {
+      "title": "万病始于肠道",
+      "author": "杜玮南",
+      "url": "https://weread.qq.com/web/reader/03b32500813abb1bag013f5e"
+    },
+    {
+      "title": "思辨中医——一位西医眼中的《伤寒论》",
+      "author": "宋玉",
+      "url": "https://weread.qq.com/web/reader/77432110813ab7853g0185d1"
+    },
+    {
+      "title": "寻找爱情：女性精神觉醒的经典读本  （套装共15册）",
+      "author": "岸見一郎 古賀史健 小仓广 等",
+      "url": "https://weread.qq.com/web/reader/87532c10813ab70a1g010ab1"
+    },
+    {
+      "title": "终生成长",
+      "author": "陈韵棋主编",
+      "url": "https://weread.qq.com/web/reader/6c432a7072551c5b6c4e7b0"
+    },
+    {
+      "title": "失衡：为什么我们无法摆脱肥胖与慢性病",
+      "author": "马胜学",
+      "url": "https://weread.qq.com/web/reader/4c43286071543bf54c4c402"
+    },
+    {
+      "title": "终身免疫力",
+      "author": "海瑟·莫迪",
+      "url": "https://weread.qq.com/web/reader/bfc32e00813ab897fg011551"
+    },
+    {
+      "title": "桥本甲状腺炎90天营养方案",
+      "author": "伊莎贝拉·温兹",
+      "url": "https://weread.qq.com/web/reader/c0332d20813ab7155g0137ef"
+    },
+    {
+      "title": "孕产营养",
+      "author": "莉莉·尼科尔斯",
+      "url": "https://weread.qq.com/web/reader/619323a0813ab864cg019747"
+    },
+    {
+      "title": "终结阿尔茨海默病：全球首套预防与逆转老年痴呆的个性化程序",
+      "author": "戴尔·E.布来得森",
+      "url": "https://weread.qq.com/web/reader/c8432680716c50d6c84cf08"
+    },
+    {
+      "title": "抗炎自救：修复你的免疫力",
+      "author": "[美]莫妮卡·阿加瓦尔  [美]乔蒂·拉奥",
+      "url": "https://weread.qq.com/web/reader/18d32e10813abad21g010280"
+    },
+    {
+      "title": "更年有方：重塑肠道微生态，稳稳过好更年期",
+      "author": "[美]辛西娅·瑟洛",
+      "url": "https://weread.qq.com/web/reader/ea832100813abb8ebg014490"
+    },
+    {
+      "title": "安慰剂效应：TED临床医生带你体验心理暗示的强大力量",
+      "author": "莉萨·兰金",
+      "url": "https://weread.qq.com/web/reader/a6532c30813ab6fa0g01427a"
+    },
+    {
+      "title": "陆广莘学术传承文集",
+      "author": "李海玉 刘理想 郑齐",
+      "url": "https://weread.qq.com/web/reader/8ee32970813ab7deag01709c"
+    },
+    {
+      "title": "体重管理（互联网中医院医护人员培训系列教材）",
+      "author": "孙贵香  张冀东",
+      "url": "https://weread.qq.com/web/reader/5f432bf0813ab8e2cg015bab"
+    },
+    {
+      "title": "就算得了认知症，也能好好生活",
+      "author": "洪立 燕青",
+      "url": "https://weread.qq.com/web/reader/55f32f40813ab884ag016f85"
+    },
+    {
+      "title": "吃土：强健肠道、提升免疫的整体健康革命",
+      "author": "乔希·阿克斯",
+      "url": "https://weread.qq.com/web/reader/a4f324b0813ab71a4g0194d8"
+    },
+    {
+      "title": "一日两餐",
+      "author": "马克.西森",
+      "url": "https://weread.qq.com/web/reader/37832660813ab83f5g016e81"
+    },
+    {
+      "title": "主见",
+      "author": "[美]维克拉姆·曼沙拉马尼",
+      "url": "https://weread.qq.com/web/reader/d0a32ad0813aba5c1g015e7a"
+    },
+    {
+      "title": "写给大众的健康饮食指南：一日两餐 +超级食物+膳食纤维（全3册）",
+      "author": "马克·西森 [美]达林·奥利恩 [美]威尔·布尔西维茨",
+      "url": "https://weread.qq.com/web/reader/c5a326f0813ab763eg016b9a"
+    }
+  ]
+}

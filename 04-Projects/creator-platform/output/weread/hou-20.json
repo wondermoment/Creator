@@ -1,0 +1,38 @@
+{
+  "book": {
+    "id": "hou-20",
+    "number": 20,
+    "title": "端粒：年轻、健康、长寿的新科学",
+    "category": "细胞",
+    "author": "Elizabeth Blackburn、Elissa Epel"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E7%AB%AF%E7%B2%92%EF%BC%9A%E5%B9%B4%E8%BD%BB%E3%80%81%E5%81%A5%E5%BA%B7%E3%80%81%E9%95%BF%E5%AF%BF%E7%9A%84%E6%96%B0%E7%A7%91%E5%AD%A6",
+  "results": [
+    {
+      "title": "樊登推荐 端粒：年轻、健康、长寿的新科学",
+      "author": "伊丽莎白·布莱克本 [美]艾丽莎·伊帕尔",
+      "url": "https://weread.qq.com/web/bookDetail/b5832f50811e78bbcg019b38"
+    },
+    {
+      "title": "青诗白话道真言",
+      "author": "苏青",
+      "url": "https://weread.qq.com/web/reader/97732760813abb643g0127d5"
+    },
+    {
+      "title": "健康的迷思：压力文化中的心理创伤、疾病和疗愈",
+      "author": "[加]加博尔·马泰 [加]丹尼尔·马泰",
+      "url": "https://weread.qq.com/web/reader/d49327f0813ab9fe2g018be0"
+    },
+    {
+      "title": "闪耀",
+      "author": "张萌",
+      "url": "https://weread.qq.com/web/reader/fa5323b0813aba2fdg0144ea"
+    },
+    {
+      "title": "健康长寿：延缓衰老的科学与行动",
+      "author": "科林·罗斯 李华民",
+      "url": "https://weread.qq.com/web/reader/85432750813ab7a80g01378d"
+    }
+  ]
+}

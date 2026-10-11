@@ -1,0 +1,57 @@
+[
+  {
+    "id": "tangshan",
+    "days": 3,
+    "heading": "汤山，把周末留给一池温热",
+    "loaded": true,
+    "overflow": false,
+    "photo": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=900&q=80",
+    "sourceLinks": [
+      "http://www.jiangning.gov.cn/zjjn/jngk/cyjn/202212/t20221206_3777979.html"
+    ]
+  },
+  {
+    "id": "tengchong",
+    "days": 4,
+    "heading": "腾冲，在热海与山林间歇一歇",
+    "loaded": true,
+    "overflow": false,
+    "photo": "/static/assets/travel/tengchong-official.webp",
+    "sourceLinks": [
+      "http://www.chinaspa.cn/"
+    ]
+  },
+  {
+    "id": "pingtan",
+    "days": 3,
+    "heading": "平潭，石头厝里的海风日常",
+    "loaded": true,
+    "overflow": false,
+    "photo": "/static/assets/travel/pingtan-official.webp",
+    "sourceLinks": [
+      "https://wlt.fujian.gov.cn/zwgk/ztzl/fjsjplyc/ptzhsyqbgc/201908/t20190805_5294531.htm"
+    ]
+  },
+  {
+    "id": "dongshan",
+    "days": 3,
+    "heading": "东山岛，海边古镇慢慢逛",
+    "loaded": true,
+    "overflow": false,
+    "photo": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=900&q=80",
+    "sourceLinks": [
+      "https://wlt.fujian.gov.cn/wldt/btdt/202411/t20241122_6570623.htm"
+    ]
+  },
+  {
+    "id": "rugao",
+    "days": 3,
+    "heading": "如皋，从早茶与园林读懂慢生活",
+    "loaded": true,
+    "overflow": false,
+    "photo": "/static/assets/travel/rugao-official.webp",
+    "sourceLinks": [
+      "http://wlt.jiangsu.gov.cn/art/2023/10/26/art_91134_11343303.html"
+    ]
+  }
+]

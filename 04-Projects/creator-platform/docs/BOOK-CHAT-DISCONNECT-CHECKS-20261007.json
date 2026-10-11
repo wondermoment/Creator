@@ -1,0 +1,17 @@
+{
+  "command": [
+    "C:/Program Files/Python312/python.exe",
+    "-X",
+    "utf8",
+    "-m",
+    "unittest",
+    "backend.test_book_chat_disconnect",
+    "backend.test_book_context",
+    "backend.test_book_evidence",
+    "backend.test_book_chat_input",
+    "backend.test_book_upload_disconnect",
+    "-v"
+  ],
+  "exit": 0,
+  "output": "test_connected_http_request_still_saves_complete_turn (backend.test_book_chat_disconnect.BookChatDisconnectTests.test_connected_http_request_still_saves_complete_turn) ... ok\ntest_native_disconnect_during_generation_leaves_history_unchanged (backend.test_book_chat_disconnect.BookChatDisconnectTests.test_native_disconnect_during_generation_leaves_history_unchanged) ... ok\ntest_post_generation_disconnect_discards_both_turn_rows (backend.test_book_chat_disconnect.BookChatDisconnectTests.test_post_generation_disconnect_discards_both_turn_rows) ... ok\ntest_pre_generation_disconnect_does_not_call_model_or_save (backend.test_book_chat_disconnect.BookChatDisconnectTests.test_pre_generation_disconnect_does_not_call_model_or_save) ... ok\ntest_early_restrictions_survive_irrelevant_topic_ranking (backend.test_book_context.BookContextTests.test_early_restrictions_survive_irrelevant_topic_ranking) ... ok\ntest_history_limits_fail_before_model_or_write (backend.test_book_context.BookContextTests.test_history_limits_fail_before_model_or_write) ... ok\ntest_bad_refs_and_invalid_answers_do_not_append_history (backend.test_book_evidence.BookEvidenceTests.test_bad_refs_and_invalid_answers_do_not_append_history) ... ok\ntest_excerpts_and_stored_memory_never_become_system_instruction (backend.test_book_evidence.BookEvidenceTests.test_excerpts_and_stored_memory_never_become_system_instruction) ... ok\ntest_inline_page_or_paragraph_format_is_accepted (backend.test_book_evidence.BookEvidenceTests.test_inline_page_or_paragraph_format_is_accepted) ... ok\ntest_safety_and_insufficient_evidence_need_no_forced_citation (backend.test_book_evidence.BookEvidenceTests.test_safety_and_insufficient_evidence_need_no_forced_citation) ... ok\ntest_save_retry_is_idempotent_and_scoped_to_book (backend.test_book_evidence.BookEvidenceTests.test_save_retry_is_idempotent_and_scoped_to_book) ... ok\ntest_valid_refs_and_sources_persist (backend.test_book_evidence.BookEvidenceTests.test_valid_refs_and_sources_persist) ... ok\ntest_history_bound (backend.test_book_chat_input.BookChatInputTest.test_history_bound) ... ok\ntest_system_history_rejected (backend.test_book_chat_input.BookChatInputTest.test_system_history_rejected) ... ok\ntest_disconnect_after_parse_discards_result_but_connected_can_replace (backend.test_book_upload_disconnect.UploadDisconnectTests.test_disconnect_after_parse_discards_result_but_connected_can_replace) ... ok\ntest_disconnected_before_parse_preserves_source_and_closes_upload (backend.test_book_upload_disconnect.UploadDisconnectTests.test_disconnected_before_parse_preserves_source_and_closes_upload) ... ok\ntest_native_socket_disconnect_during_parse_does_not_commit (backend.test_book_upload_disconnect.UploadDisconnectTests.test_native_socket_disconnect_during_parse_does_not_commit) ... ok\n\n----------------------------------------------------------------------\nRan 17 tests in 1.181s\n\nOK\n"
+}

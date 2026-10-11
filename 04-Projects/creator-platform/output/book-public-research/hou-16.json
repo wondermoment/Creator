@@ -1,0 +1,36 @@
+{
+  "id": "hou-16",
+  "requested_title": "垃圾DNA",
+  "query": "Junk DNA Nessa Carey",
+  "checked": "2026-10-06",
+  "sources": [
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL19999322W",
+      "title": "Junk DNA",
+      "authors": [
+        "Nessa Carey"
+      ],
+      "year": 2015,
+      "description": "",
+      "subjects": [
+        "Genomics",
+        "DNA Insertion elements",
+        "Human genome",
+        "Non-coding RNA",
+        "Recombinant DNA",
+        "Eukaryotic cells",
+        "Gene therapy",
+        "Human gene mapping",
+        "Dna",
+        "Genomes",
+        "Human Genome",
+        "DNA",
+        "Long Now Manual for Civilization"
+      ]
+    }
+  ],
+  "errors": [
+    "Wikipedia: HTTP Error 429: Too Many Requests"
+  ]
+}

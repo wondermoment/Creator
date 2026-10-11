@@ -1,0 +1,218 @@
+{
+  "book": {
+    "id": "hou-4",
+    "number": 4,
+    "title": "绝佳时间",
+    "category": "生命基础",
+    "author": "Russell Foster"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E7%BB%9D%E4%BD%B3%E6%97%B6%E9%97%B4",
+  "results": [
+    {
+      "title": "绝佳时间：如何利用生物钟活得更健康",
+      "author": "[英]罗素·福斯特",
+      "url": "https://weread.qq.com/web/reader/05d32c00813ab8fa4g011951"
+    },
+    {
+      "title": "中国旅游摄影必拍的100个地方",
+      "author": "FUN视觉 雷波",
+      "url": "https://weread.qq.com/web/reader/0e9328105dfdd50e989e1ec"
+    },
+    {
+      "title": "提分",
+      "author": "廖恒",
+      "url": "https://weread.qq.com/web/reader/84332760813ab8005g017907"
+    },
+    {
+      "title": "时间管理手账",
+      "author": "劳拉·范德卡姆",
+      "url": "https://weread.qq.com/web/reader/bad323a05d0543badcb986f"
+    },
+    {
+      "title": "雪中悍刀行（全20册｜同名电视剧原著）",
+      "author": "烽火戏诸侯",
+      "url": "https://weread.qq.com/web/reader/45e32e105cbbdd45e162ff9"
+    },
+    {
+      "title": "人生财富靠康波",
+      "author": "周金涛",
+      "url": "https://weread.qq.com/web/reader/b5e325b0813ab989eg01578a"
+    },
+    {
+      "title": "侯海洋基层风云（全10册）",
+      "author": "小桥老树",
+      "url": "https://weread.qq.com/web/reader/ddd322f0813abb529g019905"
+    },
+    {
+      "title": "免疫力的真相",
+      "author": "[英]丹尼尔·M.戴维斯",
+      "url": "https://weread.qq.com/web/reader/277325c0813abbf5dg010ecd"
+    },
+    {
+      "title": "世界很喧嚣，做自己就好",
+      "author": "老杨的猫头鹰",
+      "url": "https://weread.qq.com/web/reader/27632660813ab79a8g016c04"
+    },
+    {
+      "title": "链接：商业、科学与生活的新思维（10周年纪念版）",
+      "author": "艾伯特·拉斯洛·巴拉巴西",
+      "url": "https://weread.qq.com/web/reader/ea432e905ae26aea4513256"
+    },
+    {
+      "title": "南迦巴瓦：神山下的集体救赎",
+      "author": "渭渠",
+      "url": "https://weread.qq.com/web/reader/20f32a00813abb343g019e25"
+    },
+    {
+      "title": "美了千年：杨雨品读古诗词",
+      "author": "杨雨",
+      "url": "https://weread.qq.com/web/reader/6f73289072781dc76f774b1"
+    },
+    {
+      "title": "灵魂的肉身",
+      "author": "[俄]柳德米拉·乌利茨卡娅",
+      "url": "https://weread.qq.com/web/reader/97f32750813abb7c9g018faf"
+    },
+    {
+      "title": "《海伯利安》作者丹西蒙斯经典作品集",
+      "author": "丹·西蒙斯",
+      "url": "https://weread.qq.com/web/reader/dca32ad0719bf6bddcaaeb4"
+    },
+    {
+      "title": "蜡烛图方法：从入门到精通（原书第2版）",
+      "author": "[美]斯蒂芬·W. 比加洛",
+      "url": "https://weread.qq.com/web/reader/4653239071eeef4b465744f"
+    },
+    {
+      "title": "雪球-基金专刊第2期｜看懂黄金的短期波动与长期投资逻辑",
+      "author": "雪球",
+      "url": "https://weread.qq.com/web/reader/88932570813abb31eg010916"
+    },
+    {
+      "title": "了不起的中国古建筑",
+      "author": "王国彬",
+      "url": "https://weread.qq.com/web/reader/9d732cc0813ab930bg012bc8"
+    },
+    {
+      "title": "图解：人体经络养生全书",
+      "author": "杨克新",
+      "url": "https://weread.qq.com/web/reader/f0a32fb0718f9a42f0a489d"
+    },
+    {
+      "title": "剑道独尊",
+      "author": "青石细语",
+      "url": "https://weread.qq.com/web/reader/88a32d70813ab89d3g019aec"
+    },
+    {
+      "title": "高质量读研：教你如何写论文、做科研",
+      "author": "张军平",
+      "url": "https://weread.qq.com/web/reader/8bf32e40813ab6ddfg015701"
+    },
+    {
+      "title": "如何阅读能让孩子受益一生",
+      "author": "莎拉·麦肯齐",
+      "url": "https://weread.qq.com/web/reader/a423241071f69a2ca4223de"
+    },
+    {
+      "title": "我是一棵小草",
+      "author": "杨章艳",
+      "url": "https://weread.qq.com/web/reader/1d5322a0813ab7b8ag010473"
+    },
+    {
+      "title": "剑尊",
+      "author": "青石细语",
+      "url": "https://weread.qq.com/web/reader/2ce32300813ab7791g010386"
+    },
+    {
+      "title": "雪中悍刀行6：扶摇上青天",
+      "author": "烽火戏诸侯",
+      "url": "https://weread.qq.com/web/reader/971323005cbe139713a7ac2"
+    },
+    {
+      "title": "孤独相伴：戈尔巴乔夫回忆录",
+      "author": "米哈伊尔·谢尔盖耶维奇·戈尔巴乔夫",
+      "url": "https://weread.qq.com/web/reader/3a532b405d046c3a52ec69f"
+    },
+    {
+      "title": "蒙台梭利早期教育法",
+      "author": "蒙台梭利",
+      "url": "https://weread.qq.com/web/reader/332324805def653325e9caf"
+    },
+    {
+      "title": "如何塑造孩子的大脑",
+      "author": "盖尔·格罗斯",
+      "url": "https://weread.qq.com/web/reader/d5a32ec0813ab81ffg010f4e"
+    },
+    {
+      "title": "人大附小的老师对家长说",
+      "author": "郑瑞芳",
+      "url": "https://weread.qq.com/web/reader/d4832eb0719072b6d483666"
+    },
+    {
+      "title": "讲好你的故事",
+      "author": "科里·罗森",
+      "url": "https://weread.qq.com/web/reader/b2032050813ab7f3bg0161e2"
+    },
+    {
+      "title": "绿茶女配",
+      "author": "芳瓜",
+      "url": "https://weread.qq.com/web/reader/0a232350813ab747cg012929"
+    },
+    {
+      "title": "6G：从通信到多能力融合的变革",
+      "author": "刘光毅  等",
+      "url": "https://weread.qq.com/web/reader/2a6324e0813ab873fg0146d0"
+    },
+    {
+      "title": "玛雅人为何“失算”了？",
+      "author": "美狄亚",
+      "url": "https://weread.qq.com/web/reader/77f323d05e1fbe77f0a2fb3"
+    },
+    {
+      "title": "昆虫记（经典译林）",
+      "author": "[法]法布尔",
+      "url": "https://weread.qq.com/web/reader/58c32fc05d105e58c29c7fe"
+    },
+    {
+      "title": "让孩子成为他自己：蒙台梭利家庭教育实战手册",
+      "author": "吴晓玲",
+      "url": "https://weread.qq.com/web/reader/66632b807192b32b6668aa6"
+    },
+    {
+      "title": "唐代小说《板桥三娘子》考",
+      "author": "冈田充博",
+      "url": "https://weread.qq.com/web/reader/ea532e40813ab69e9g013535"
+    },
+    {
+      "title": "丹凤城：女老板外逃后的官场替身",
+      "author": "王清平",
+      "url": "https://weread.qq.com/web/reader/76432a50813abb0fbg0139d5"
+    },
+    {
+      "title": "希望的原理（第二卷）（大学译丛）",
+      "author": "恩斯特·布洛赫",
+      "url": "https://weread.qq.com/web/reader/a7732d50726a670ea7703bf"
+    },
+    {
+      "title": "幸福小小步：和孩子一起做的21个幸福练习",
+      "author": "克里斯汀·卡特",
+      "url": "https://weread.qq.com/web/reader/b6d32bd0813ab7af8g010417"
+    },
+    {
+      "title": "昆虫记（译林名著精选）",
+      "author": "[法]法布尔",
+      "url": "https://weread.qq.com/web/reader/810325805e4849810dfbc80"
+    },
+    {
+      "title": "气象影视技术论文集（十）",
+      "author": "石曙卫",
+      "url": "https://weread.qq.com/web/reader/f16324b0813ab97f5g0104da"
+    },
+    {
+      "title": "捡垃圾与人生“回收”指南：如何通过行动重新认识生活",
+      "author": "[日]吉川充秀",
+      "url": "https://weread.qq.com/web/reader/04732970813ab981fg017ea9"
+    }
+  ]
+}

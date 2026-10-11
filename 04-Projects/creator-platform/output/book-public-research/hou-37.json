@@ -1,0 +1,30 @@
+{
+  "id": "hou-37",
+  "requested_title": "你的皮肤屏障90%可以靠营养修复",
+  "query": "The Beauty of Dirty Skin Whitney Bowe",
+  "checked": "2026-10-06",
+  "sources": [
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL19746017W",
+      "title": "The beauty of dirty skin",
+      "authors": [
+        "Whitney Bowe"
+      ],
+      "year": 2018,
+      "description": "Skin disorders beat out anxiety, depression, back pain, and diabetes as the number one reason Americans see their doctors. Unfortunately, the vast majority leave the office with the underlying conditions at the root of their skin issues unresolved. Bowe explains how many skin disorders are manifestations of irregularities originating in the gut. She encourages readers to focus on the microbiome, and highlights the connection between sleep, stress, diet, gastrointestinal health, and the look of your skin.",
+      "subjects": [
+        "Care and hygiene",
+        "Skin",
+        "Popular works",
+        "Diet therapy",
+        "Diseases",
+        "Skin, care and hygiene",
+        "Beauty, personal"
+      ]
+    }
+  ],
+  "errors": [
+    "Wikipedia: HTTP Error 429: Too Many Requests"
+  ]
+}

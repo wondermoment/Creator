@@ -1,0 +1,11 @@
+{
+  "preflight": "Existing schema and seed identities present; no reset/reseed required",
+  "database_sha256_before": "773640336e3289725c5f83e4f052c4c1bd23936a7a7b96ee5fd63f63f80044d8",
+  "previous_failure": "127.0.0.1:8765 refused; no listener or Python process observed",
+  "pid": 14888,
+  "bind": "127.0.0.1:8765",
+  "home_status": 200,
+  "openapi_status": 200,
+  "database_sha256_after": "773640336e3289725c5f83e4f052c4c1bd23936a7a7b96ee5fd63f63f80044d8",
+  "database_bytes_unchanged": true
+}

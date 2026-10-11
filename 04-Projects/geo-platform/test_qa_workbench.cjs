@@ -1,0 +1,26 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert');
+const events={},nodes=new Map();const node=s=>{if(!nodes.has(s))nodes.set(s,{innerHTML:''});return nodes.get(s)};
+let dialogSave,dialogBody,request,clipboard;
+const c=vm.createContext({URLSearchParams,Map,Set,JSON,me:{identity:'a'},pid:'p',location:{hash:'#qa'},state:{project:{name:'样本企业'},knowledge:[],faq:[],insight:[],user_intent:[]},brandPage:()=>'',qaPage:()=>'',faqModal:()=>{},refresh:async()=>{},canEdit:()=>true,canReview:()=>true,fmt:s=>s||'',esc:s=>String(s??'').replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('"','&quot;'),expertMarkdown:s=>String(s||'').replaceAll('<','&lt;'),head:(a,b)=>a+b,kbTabs:()=>'',selectOptions:xs=>xs.map(x=>'<option>'+x+'</option>').join(''),err:()=>'',action:(label,a,id='',attrs='')=>`<button data-action="${a}" data-id="${id}" ${attrs}>${label}</button>`,document:{addEventListener(t,f){(events[t]??=[]).push(f)}},$:node,render(){},toast(){},openModal(title,body,flag,save){dialogBody=body;dialogSave=save},closeModal(){},api:async(url,method,body)=>{request={url,method,body};return {id:'saved'}},navigator:{clipboard:{writeText:async s=>clipboard=s}}});
+for(const f of ['qa.js','qa-workbench.js'])vm.runInContext(fs.readFileSync('static/'+f,'utf8'),c);
+const run=s=>vm.runInContext(s,c);c.page=()=> 'qa';
+c.state.knowledge=[{id:'k',title:'依据',body:'当前答案 <img src=x>',version:2,review_summary:{effective_confirmed:false,source_valid:true}}];
+c.state.faq=[{id:'f',knowledge_id:'k',question:'如何选型？',answer:'旧副本',category:'产品问答',source_snapshots:[]}];
+c.state.insight=[{id:'i',question:'怎样 验证？',platform:'销售沟通',url:'javascript:alert(1)'},{id:'i2',question:'另外一个问题',platform:'知乎'}];
+c.state.user_intent=[{id:'u',question:'怎样验证?',record_type:'question',source_cell:'B2'},{id:'kw',question:'纯关键词',record_type:'keyword'}];
+assert.equal(run('qaInboxRows().length'),2);assert.equal(run('qaInboxRows()[0].origins.length'),2);
+let html=run('qaPage()');assert(html.includes('当前答案'));assert(!html.includes('旧副本'));assert(!html.includes('<img src=x>'));assert(!html.includes('qa-steps'));assert(!html.includes('qa-lookup-form'));assert(html.includes('修改问答'));
+run("qaDesk().search='找不到'");assert(run('qaAnswerBoard()').includes('没有匹配的问答'));run("qaDesk().search=''");
+run("qaDesk().status='ready'");assert.equal(run('qaAnswerRows().length'),0);run("qaDesk().status=''");
+c.location.hash='#insights';html=run('qaPage()');assert(html.includes('把收集的问题'));assert(!html.includes('href="javascript:'));
+c.location.hash='#qa?view=evidence';assert(run('qaPage()').includes('qa-lookup-form'));
+c.state.faq[0].origin_kind='insight';c.state.faq[0].origin_id='i';assert.equal(run('qaInboxRows().length'),1,'linked original and duplicate both removed even if question wording changed');
+run("qaDesk().search='私有筛选';pid='other'");assert.equal(run('qaDesk().search'),'');run("pid='p';me.identity='another'");assert.equal(run('qaDesk().search'),'');run("me.identity='a';qaDesk().search='';qaEditAnswer(state.faq[0])");assert(dialogBody.includes('当前答案 &lt;img'));assert(dialogBody.includes('基于 v2'));
+(async()=>{
+ const data={get:k=>({question:'新问题',answer:'新答案',category:'产品问答'})[k]};
+ run("pid='other'");await assert.rejects(dialogSave(data),/切换/);assert(!request);run("pid='p'");await dialogSave(data);assert.equal(request.body.version,2);assert.equal(request.url,'/api/projects/p/faq/f');
+ const click=action=>({target:{closest:()=>({dataset:{action,id:'f'}})}});
+ for(const fn of events.click)await fn(click('qa-copy-answer'));assert(clipboard.startsWith('【待核准草稿'));assert(clipboard.includes('当前答案'));
+ c.state.knowledge[0].review_summary.effective_confirmed=true;for(const fn of events.click)await fn(click('qa-copy-answer'));assert(!clipboard.includes('【待核准'));
+ console.log('PASS: answer-first rendering, answer search/status, queue dedupe/linking, legacy insights, safe content/links, scoped editing and copy status');
+})().catch(e=>{console.error(e);process.exitCode=1});

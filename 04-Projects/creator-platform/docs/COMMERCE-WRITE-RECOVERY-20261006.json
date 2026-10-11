@@ -1,0 +1,20 @@
+{
+  "observed_at_utc": "2026-10-06T04:55:53.996632+00:00",
+  "checks": {
+    "new_script_reference": true,
+    "served_matches_local": true
+  },
+  "script_sha256": "64915d852657414590e8e6eed5b7269899759727a8f09da7f2f9a465a78801b3",
+  "frontend_suites": [
+    "commerce-write-recovery",
+    "commerce-snapshot-recovery",
+    "product-save-recovery",
+    "form-async"
+  ],
+  "backend_tests": 9,
+  "syntax_check": true,
+  "real_model_calls": 0,
+  "live_write_requests": 0,
+  "backend_restart": false,
+  "browser_write_e2e": false
+}

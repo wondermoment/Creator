@@ -1,0 +1,12 @@
+{
+  "book": {
+    "id": "hou-28",
+    "number": 28,
+    "title": "人类代谢调控",
+    "category": "代谢",
+    "author": "Keith Frayn、Rhys Evans"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E4%BA%BA%E7%B1%BB%E4%BB%A3%E8%B0%A2%E8%B0%83%E6%8E%A7",
+  "results": []
+}

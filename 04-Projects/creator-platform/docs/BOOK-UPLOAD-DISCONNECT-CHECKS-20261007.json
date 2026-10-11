@@ -1,0 +1,17 @@
+[
+  {
+    "command": [
+      "C:/Program Files/Python312/python.exe",
+      "-X",
+      "utf8",
+      "-m",
+      "unittest",
+      "backend.test_book_upload_disconnect",
+      "backend.test_book_parser",
+      "backend.test_book_upload",
+      "-v"
+    ],
+    "exit": 0,
+    "output": "test_disconnect_after_parse_discards_result_but_connected_can_replace (backend.test_book_upload_disconnect.UploadDisconnectTests.test_disconnect_after_parse_discards_result_but_connected_can_replace) ... ok\ntest_disconnected_before_parse_preserves_source_and_closes_upload (backend.test_book_upload_disconnect.UploadDisconnectTests.test_disconnected_before_parse_preserves_source_and_closes_upload) ... ok\ntest_native_socket_disconnect_during_parse_does_not_commit (backend.test_book_upload_disconnect.UploadDisconnectTests.test_native_socket_disconnect_during_parse_does_not_commit) ... ok\ntest_actual_invalid_encrypted_and_blank_pdf (backend.test_book_parser.BookParserTests.test_actual_invalid_encrypted_and_blank_pdf) ... ok\ntest_http_upload_real_worker_and_failed_replacement (backend.test_book_parser.BookParserTests.test_http_upload_real_worker_and_failed_replacement) ... ok\ntest_malformed_worker_results_never_accepted (backend.test_book_parser.BookParserTests.test_malformed_worker_results_never_accepted) ... ok\ntest_overlap_rejected_without_second_child (backend.test_book_parser.BookParserTests.test_overlap_rejected_without_second_child) ... ok\ntest_real_child_extracts_pdf_and_utf8 (backend.test_book_parser.BookParserTests.test_real_child_extracts_pdf_and_utf8) ... ok\ntest_real_slow_child_timeout_then_slot_reusable (backend.test_book_parser.BookParserTests.test_real_slow_child_timeout_then_slot_reusable) ... ok\ntest_upload_does_not_block_event_loop (backend.test_book_parser.BookParserTests.test_upload_does_not_block_event_loop) ... ok\ntest_upload_failure_preserves_original_and_closes_file (backend.test_book_parser.BookParserTests.test_upload_failure_preserves_original_and_closes_file) ... ok\ntest_worker_launch_has_no_secret_environment (backend.test_book_parser.BookParserTests.test_worker_launch_has_no_secret_environment) ... ok\ntest_rejections_preserve_source (backend.test_book_upload.BookUploadTest.test_rejections_preserve_source) ... ok\ntest_text_and_portable_name (backend.test_book_upload.BookUploadTest.test_text_and_portable_name) ... ok\ntest_write_failure_preserves_original_and_cleans_staging (backend.test_book_upload.BookUploadTest.test_write_failure_preserves_original_and_cleans_staging) ... ok\n\n----------------------------------------------------------------------\nRan 15 tests in 3.532s\n\nOK\n"
+  }
+]

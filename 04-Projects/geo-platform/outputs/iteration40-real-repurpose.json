@@ -1,0 +1,31 @@
+{
+  "kind": "real Codex model via transport bridge; isolated fixture API enqueue/perform/save",
+  "model": "gpt-6-sol",
+  "usage": {
+    "prompt_tokens": 16648,
+    "completion_tokens": 450
+  },
+  "elapsed_seconds": null,
+  "job_id": "b274855135ef2758bbbcf673",
+  "project_id": "febd5bd8054b6f1a2f062531",
+  "draft_id": "f873872d20a8a3c29b4a24ed",
+  "draft_status": "draft",
+  "channels": [],
+  "answer": "**① 从测试结果看**  \n采购评估样件A，先看测试适用范围：附着力0级仅是在铝合金基材、指定前处理和实验室条件下取得；尚未开展盐雾试验，结果不能外推至其他基材或实际产线。价格与交期也尚未确认。建议先提供基材、工况和验收标准，再安排样件验证。[1] 本文依据虚构验收样本撰写，待事实核准。  \n配图建议：样件与测试条件的文字卡片，注明“虚构示例”。\n\n**② 从采购沟通看**  \n询问样件A是否适用前，建议先明确三件事：使用什么基材、处于什么工况、按什么标准验收。现有附着力0级结果仅对应铝合金基材、指定前处理及实验室条件；未开展盐雾试验，也不能据此外推其他基材或实际产线。价格、交期待确认，随后再安排样件验证。[1] 虚构验收样本，待事实核准。  \n配图建议：基材、工况、验收标准三项沟通清单。\n\n**③ 从验证安排看**  \n一个测试等级不能代替采购验收。样件A在铝合金基材、指定前处理和实验室条件下完成附着力0级测试；盐雾试验尚未开展。对其他基材或实际产线，现有结果不能直接适用。请先提供基材、工况与验收标准，再安排样件验证；价格和交期尚未确认。[1] 资料为虚构验收样本，待事实核准。  \n配图建议：从条件确认到样件验证的简明流程图。",
+  "harness_issue": "backup attempted inside transaction; recovered with separate readonly connection, no repeated model call",
+  "body_char_counts": [
+    130,
+    133,
+    131
+  ],
+  "assistant_review": {
+    "three_angles": true,
+    "source_citations": true,
+    "test_conditions_preserved": true,
+    "no_salt_spray_claim": true,
+    "no_extrapolation": true,
+    "price_delivery_unconfirmed": true,
+    "fictional_pending_label": true,
+    "image_suggestions_not_generated_images": true
+  }
+}

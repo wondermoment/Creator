@@ -1,0 +1,18 @@
+{
+  "account": "和拓实业HEROTO",
+  "content_id": "9c8fd4efd0f7de9f21b0c97a",
+  "local_revision": 9,
+  "remote_exists": true,
+  "remote_title": "硅晶表面处理到底是个啥？新手必知：它是什么？能不能用？",
+  "same_text_as_local": false,
+  "same_text_as_saved_template": false,
+  "images": 20,
+  "local_images": 20,
+  "links": 7,
+  "links_match_local": true,
+  "remote_html_same_template": false,
+  "action": "read_only_no_duplicate_no_overwrite",
+  "checked_at": "2026-10-07T11:55:42+00:00",
+  "text_difference": "本地额外显示视频号卡片提示；逐段比对其余正文一致",
+  "article_body_matches_excluding_local_notice": true
+}

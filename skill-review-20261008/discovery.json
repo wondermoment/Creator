@@ -1,0 +1,122 @@
+[
+  {
+    "query": "hyperframes-creative",
+    "results": [
+      {
+        "repo": "imMamdouhaboammar/motion-graphics-skills",
+        "description": "Motion graphics for AI agents. Creative direction + production skills for Claude Code & Codex, powered by HyperFrames. Build brand films, kinetic type, 2D/3D and programmatic video. Every frame is code",
+        "stars": 18,
+        "updated": "2026-10-04T07:26:03Z"
+      },
+      {
+        "repo": "gquthier/autonomous-shortform-facecam-editing",
+        "description": "CREATIVE · VIDEO — One raw facecam take → a finished short-form motion-graphics ad. Claude Code skill + playbook, rendered with HyperFrames.",
+        "stars": 10,
+        "updated": "2026-08-26T22:31:37Z"
+      },
+      {
+        "repo": "krusemediallc/ray-3.2-ad-generator",
+        "description": "Claude Code workbench for generating finished ad creatives end-to-end: Luma ray-3.2 video + uni-1 images + ElevenLabs audio + HyperFrames motion graphics. Five skills: image ads, ad cloning, video clips, claymation story films, cinematic trailers.",
+        "stars": 4,
+        "updated": "2026-06-16T21:51:44Z"
+      },
+      {
+        "repo": "Kuble-Lab/open-creative-director",
+        "description": "Your personal AI creative director — a local-first chat app that plans and produces images, videos, voice and motion graphics (OpenRouter, GPT Image 2, Seedance 2.5, ElevenLabs, Higgsfield, HyperFrames)",
+        "stars": 7,
+        "updated": "2026-10-07T08:14:31Z"
+      }
+    ]
+  },
+  {
+    "query": "faceless-explainer skill",
+    "results": []
+  },
+  {
+    "query": "genmedia skill",
+    "results": [
+      {
+        "repo": "az9713/genmedia-skill",
+        "description": "Claude Code skill: pay-as-you-go AI media generation over kie.ai + fal.ai — a self-built alternative to subscription aggregators",
+        "stars": 0,
+        "updated": "2026-07-31T23:25:42Z"
+      },
+      {
+        "repo": "daniel-p-green/genmedia-codex-skill",
+        "description": null,
+        "stars": 0,
+        "updated": "2026-05-08T17:01:35Z"
+      },
+      {
+        "repo": "ilkerzg/fal-genmedia-skills",
+        "description": "Claude-compatible skills for fal.ai: Krea 2 LoRA training + narrated explainer-video pipelines",
+        "stars": 1,
+        "updated": "2026-07-01T22:18:00Z"
+      },
+      {
+        "repo": "cnemri/consistent-genmedia",
+        "description": "Agent skill: end-to-end consistent multi-shot AI video with dialogue (Gemini image + Omni Flash video + a self-correcting critique loop)",
+        "stars": 0,
+        "updated": "2026-07-04T12:41:32Z"
+      }
+    ]
+  },
+  {
+    "query": "media-use skill",
+    "results": [
+      {
+        "repo": "Nu424/media-use-skill",
+        "description": "AIにカメラとかマイクとか使わせるAgentSkills",
+        "stars": 0,
+        "updated": "2026-06-15T06:53:53Z"
+      },
+      {
+        "repo": "jo-sa-debe/vlc-player-skill",
+        "description": "Plays media using vlc",
+        "stars": 0,
+        "updated": "2020-07-08T21:28:32Z"
+      },
+      {
+        "repo": "anviparikh09/digital-literacy-project",
+        "description": "I created this project for my Digital Literacy subject. It helped me learn basic digital skills like creating an infographic, making a GitHub profile, doing simple coding, and writing professional emails. This project also improved my understanding of responsible social media use and digital communication.",
+        "stars": 0,
+        "updated": "2026-03-30T14:31:08Z"
+      },
+      {
+        "repo": "amiroparsa/100-Code-Days-Challenge",
+        "description": "I am committing to coding for at least an hour every day for 100 consecutive days. I will be tracking my progress and projects in this repository and sharing my journey on social media using the hashtag #100DaysOfCode. Let's improve our coding skills together!",
+        "stars": 0,
+        "updated": "2023-05-13T23:56:53Z"
+      }
+    ]
+  },
+  {
+    "query": "elevenlabs skills",
+    "results": [
+      {
+        "repo": "elevenlabs/skills",
+        "description": "Collections of skills for building with ElevenLabs",
+        "stars": 480,
+        "updated": "2026-10-06T16:34:19Z"
+      },
+      {
+        "repo": "Jaycheng1103/chatgpt-video-editing-skills",
+        "description": "用 ChatGPT／Codex 安裝 AI 剪輯環境，並依八大步驟完成可驗證的短影音剪輯。",
+        "stars": 578,
+        "updated": "2026-07-26T06:57:54Z"
+      },
+      {
+        "repo": "calesthio/OpenMontage",
+        "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+        "stars": 64923,
+        "updated": "2026-10-03T16:28:55Z"
+      },
+      {
+        "repo": "Lifecycle-Innovations-Limited/claude-ops",
+        "description": "Business operating system for Claude Code — 57 skills, 21 agents, smart daemon. Unified inbox (WhatsApp/Email/Slack/Telegram), autonomous PR merge, full-AWS monitoring, revenue (Stripe+RevenueCat), e-commerce (Shopify), marketing (Klaviyo/Meta/GA4), voice (Bland/ElevenLabs), APM (Datadog/NewRelic/OTEL), YOLO mode.",
+        "stars": 540,
+        "updated": "2026-10-07T13:01:01Z"
+      }
+    ]
+  }
+]

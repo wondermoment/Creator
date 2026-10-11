@@ -1,0 +1,23 @@
+{
+  "width": 1280,
+  "height": 720,
+  "seconds": 6,
+  "bytes": 225177,
+  "sha256": "9df94001b9b633e63d0d3a0ff96399ab0a27a34f375f34adfac7c016662f4f4c",
+  "media_snapshots": [
+    {
+      "asset_id": "ecc28e94215271fcd4d1d6f5",
+      "sha256": "1f33139ec2bb9777e7732475a27eaefeae8e155c7883ad05555d656e1a45d0bd",
+      "title": "测试图片"
+    },
+    {
+      "asset_id": "099914eb6df9e0e41d3c6103",
+      "sha256": "094d4262db24d12a4fb60861f9aee2686be30cecbf3f24411980b168e2bfdc31",
+      "title": "合成偏移测试片段"
+    }
+  ],
+  "engine": "remotion",
+  "engine_version": "4.0.533",
+  "recipe_version": "2026-10-05.1",
+  "audio": false
+}

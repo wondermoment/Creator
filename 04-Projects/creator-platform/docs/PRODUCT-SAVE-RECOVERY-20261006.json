@@ -1,0 +1,21 @@
+{
+  "observed_at_utc": "2026-10-06T03:54:08.444072+00:00",
+  "checks": {
+    "new_script_reference": true,
+    "served_matches_local": true
+  },
+  "script_sha256": "35818cd4e3460a4f3ad2ccc9638c031ae8241280bfc0cb16b7bcfcc4394639c5",
+  "frontend_suites": [
+    "product-save-recovery",
+    "product-catalog-recovery",
+    "product-image-recovery",
+    "product-revision",
+    "product-id-escaping",
+    "form-async"
+  ],
+  "syntax_check": true,
+  "real_model_calls": 0,
+  "live_write_requests": 0,
+  "backend_restart": false,
+  "browser_e2e": false
+}

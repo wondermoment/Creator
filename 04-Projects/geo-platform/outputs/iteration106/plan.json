@@ -1,0 +1,65 @@
+{
+  "id": "441e7cc279039b3742f29693",
+  "source_id": "0d468f9bd461a174ac2ede3e",
+  "source_revision": 1,
+  "title": "采购如何核对精密加工图纸与验收要求 · IP 短视频口播",
+  "aspect": "portrait",
+  "engine": "remotion",
+  "scenes": [
+    {
+      "text": "图纸发出，就能下单？",
+      "asset_id": "",
+      "seconds": 3,
+      "start": 0.0
+    },
+    {
+      "text": "先核对这三件事",
+      "asset_id": "",
+      "seconds": 8,
+      "start": 0.0
+    },
+    {
+      "text": "① 图纸版本一致吗？",
+      "asset_id": "",
+      "seconds": 8,
+      "start": 0.0
+    },
+    {
+      "text": "② 关键要求写清了吗？",
+      "asset_id": "",
+      "seconds": 8,
+      "start": 0.0
+    },
+    {
+      "text": "③ 验收依据对齐了吗？",
+      "asset_id": "",
+      "seconds": 8,
+      "start": 0.0
+    },
+    {
+      "text": "有冲突，先书面确认",
+      "asset_id": "",
+      "seconds": 8,
+      "start": 0.0
+    },
+    {
+      "text": "下单与验收，用同一套要求",
+      "asset_id": "",
+      "seconds": 9,
+      "start": 0.0
+    },
+    {
+      "text": "发图前，过一遍三问",
+      "asset_id": "",
+      "seconds": 8,
+      "start": 0.0
+    }
+  ],
+  "revision": 1,
+  "source_snapshot": {
+    "title": "采购如何核对精密加工图纸与验收要求 · IP 短视频口播",
+    "revision": 1,
+    "body_sha256": "294081fdccf019890f7788ca3b2773fffb1932828e436edc7255415af3dee4a7"
+  },
+  "created_by": "c39c6a5ab808cfb8fc73f667"
+}

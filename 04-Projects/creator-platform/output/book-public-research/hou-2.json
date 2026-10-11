@@ -1,0 +1,36 @@
+{
+  "id": "hou-2",
+  "requested_title": "未来简史",
+  "query": "Homo Deus Yuval Noah Harari",
+  "checked": "2026-10-06",
+  "sources": [
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL20196515W",
+      "title": "Sapiens/Homo Deus box set",
+      "authors": [
+        "Yuval Noah Harari"
+      ],
+      "year": 2017,
+      "description": "",
+      "subjects": []
+    },
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL26568922W",
+      "title": "Sapiens and Homo Deus : the e-Book Collection",
+      "authors": [
+        "Yuval Noah Harari"
+      ],
+      "year": 2017,
+      "description": "",
+      "subjects": [
+        "Human beings, origin",
+        "Evolution"
+      ]
+    }
+  ],
+  "errors": [
+    "Wikipedia: HTTP Error 429: Too Many Requests"
+  ]
+}

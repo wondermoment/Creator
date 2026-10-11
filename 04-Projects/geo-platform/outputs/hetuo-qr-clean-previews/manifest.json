@@ -1,0 +1,1027 @@
+{
+  "assets": [
+    {
+      "original_asset_id": "56d6359ac0d5687289b7d6a8",
+      "asset_id": "9dae6f00829a36fc4460bf54",
+      "sha256": "bc41f6e8fdc726b1cd4d17916fc56852f41fb9a4f7445307460c27f6d2f141be",
+      "storage_key": "qr-clean-bc41f6e8fdc726b1cd4d1791.png",
+      "original_sha256": "806098505bb6c948eebd9e5de2619d106b8fab1055050d488de10b36d4bda162",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "dde5912a7ae978ac71c9eb77",
+      "asset_id": "774b9db77469e0dbeed246e4",
+      "sha256": "62f9534f75ce69e57ce20f2715a5d0a09d45b8e5968fa0d691349d62a90cb3d8",
+      "storage_key": "qr-clean-62f9534f75ce69e57ce20f27.png",
+      "original_sha256": "4da071ede569ecaec02c70372d44b66f160acdbbc4a02f2a9c2a6d4213de6600",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "c910716b9784ea6b959b5a14",
+      "asset_id": "bec440133453d75125d018d0",
+      "sha256": "7caf634257fe979d84e918016fd09d272e8307350b9dfd0c441d297aab6fb0cc",
+      "storage_key": "qr-clean-7caf634257fe979d84e91801.png",
+      "original_sha256": "6eea48be3e08696b5ab0ac45b45de1fe0702be1ee790c4381e5fcc010c531b0a",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "67f9fba214192e6298f16c24",
+      "asset_id": "c6440c35284ac03dd64b7a58",
+      "sha256": "3ec5c3a8f4a3f195a1cde673ea2da086938a5c96253541eaf555b1e486098462",
+      "storage_key": "qr-clean-3ec5c3a8f4a3f195a1cde673.png",
+      "original_sha256": "d0ca867932d9e00d4aec218a6c5b3876dc7cac0bfdd215bb13d8d4e9bc232cd4",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "6d4f5ef8b561c92cafea86fa",
+      "asset_id": "ed7f4cd18e70bf519d434447",
+      "sha256": "3e6c57e65959bc6e7b819407b8d74076e8d113e2f24e006a9530dc02e1de2225",
+      "storage_key": "qr-clean-3e6c57e65959bc6e7b819407.png",
+      "original_sha256": "576118f724c6f165ba2d0c3d304b9d3d1c03aff312dede88a2942be4947e41b9",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "580f9f0017d04b2df2c9f353",
+      "asset_id": "053886f263ba3909e61711c5",
+      "sha256": "4a79cddabd01d668c30c517c78818a2c162d7cb17e6d4243c58c6a1dc93a89ea",
+      "storage_key": "qr-clean-4a79cddabd01d668c30c517c.png",
+      "original_sha256": "7bbfb5283bdced90a5e83c9b9db3dd31a50ee3314fafae48c3831692554ab1d5",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "2ab298492f0975ee2addbcb0",
+      "asset_id": "223391806002b446c1b652b3",
+      "sha256": "9730396bbe3a32d7f9b8a5f3e3ffe817c27eb701bc11e371d745ad7ee7a82231",
+      "storage_key": "qr-clean-9730396bbe3a32d7f9b8a5f3.png",
+      "original_sha256": "61e482ff148ff1747a828111a562a7531bda77748198a59519bda3e2b4f654a3",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "4f535bd950ae86f697287615",
+      "asset_id": "192d6c6026d84a8865039988",
+      "sha256": "77f7faf94ca6bc152c015820196a8b1136a847405208c1e750e41da50f128c81",
+      "storage_key": "qr-clean-77f7faf94ca6bc152c015820.png",
+      "original_sha256": "0a21a994df680950b0be237d5320f955d47c58c938d128c3c5dae82065675429",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "9cc077b2a4b4a1158fabd650",
+      "asset_id": "5a18f536536acc94cc719872",
+      "sha256": "a51aa40ffe6255cdfda9bbdb6d4eb850fb53459ceffd925d03ee8933cc5c06fc",
+      "storage_key": "qr-clean-a51aa40ffe6255cdfda9bbdb.png",
+      "original_sha256": "862d873e5e704944b224b67679eed795394ca5c5215934b840be44a01fdd9337",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "886165e28f4cc7a354812cc2",
+      "asset_id": "883ef1ec44369ebf5885c97b",
+      "sha256": "6bfb76be9188b2d7372b98caed368af5949611ecc1db3633bd10160ec26bc181",
+      "storage_key": "qr-clean-6bfb76be9188b2d7372b98ca.png",
+      "original_sha256": "f8b7f03ae7db91f1e45207accd2473c00482b4eddc66cf84625a77556f654bdb",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "0625e1e75d518ff771894eea",
+      "asset_id": "727b65d04a1c556a4dacba79",
+      "sha256": "c5fa0bf4e03471c95d7707eff3328a47a8ec276c14b05741ed57a0e06899e507",
+      "storage_key": "qr-clean-c5fa0bf4e03471c95d7707ef.png",
+      "original_sha256": "e359f0480ae28b0f1da0f6639704a267f2b7329b37600ed1a5764745710cf89f",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "9f7fcd8b4496c4f4422cea85",
+      "asset_id": "bae781bfdde2a95bfcfc60fd",
+      "sha256": "3b65d7cf68163aa7a543af8f110af5978f3529a55e743cc00444bb3eec1bbfc4",
+      "storage_key": "qr-clean-3b65d7cf68163aa7a543af8f.png",
+      "original_sha256": "269d201f746f0e7aa968e66641c578e5584e34ae0775681dbb2b745edce14d69",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "3ade86335f90151ea2b69e02",
+      "asset_id": "10c422ffb7833a39e8fe79ac",
+      "sha256": "8461c78364a0041b4dfe80760e5672d8943a6cde336199189367989f20aaa414",
+      "storage_key": "qr-clean-8461c78364a0041b4dfe8076.png",
+      "original_sha256": "a98c607a73e82e243be2d7010f2df700e09a5778f82c0d1b20c19a41c48b296d",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "0f2beb81a342558172c40c24",
+      "asset_id": "c97eea81e9604740151e71cb",
+      "sha256": "c7a8aeef47fb949cd141e84072280b4587001db648bf724876f5ae2eba60cab6",
+      "storage_key": "qr-clean-c7a8aeef47fb949cd141e840.png",
+      "original_sha256": "a9aaa8f275b3652cf88ba84695632d73f904b12f8b243512bfebf7b30c9d8eb2",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "b41a786f458d8af6ea56d579",
+      "asset_id": "927e46a4146a632de93ede86",
+      "sha256": "71312bf5bf2ab928679c11c962166a7b642abd72dfcf1a5fa3e2f2600ee1fc4e",
+      "storage_key": "qr-clean-71312bf5bf2ab928679c11c9.png",
+      "original_sha256": "2dc30b8f9842d48fa6ef29bd71115e4c17d9588982300d4e1f367cb601f01cc9",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "cf5c67235bbd0b5385452cf4",
+      "asset_id": "fd2b1132383322ec2a92971d",
+      "sha256": "f94fb4bcc2836b8953f43f43122a9918ff0a04db957640581af2153c8e5b63df",
+      "storage_key": "qr-clean-f94fb4bcc2836b8953f43f43.png",
+      "original_sha256": "1981acda2d50f9f2afb481573fd897cbbd09570e671920fc185ca97c7a53de63",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "cc8f4eb8225f6540d5e93ff4",
+      "asset_id": "a7bb42bd725c886fd81e691b",
+      "sha256": "100d560ae0edd586e63de27b0f1c0f42a15f6966aaa8a0456cf5a8b9a9da0604",
+      "storage_key": "qr-clean-100d560ae0edd586e63de27b.png",
+      "original_sha256": "59b6d725212736e0c0601799c019a5bdfc89ef4286a4c293d04dd9ea40b207ab",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "f5b0bc70b91b2acfdb6dde0d",
+      "asset_id": "3d1873bf9f00590df9b8e2fa",
+      "sha256": "fc2e31ffb086cfa1b3ea87bf2493eac6750f68f680be8c090d88b909d5998850",
+      "storage_key": "qr-clean-fc2e31ffb086cfa1b3ea87bf.png",
+      "original_sha256": "e5e7ad2d45b85fff31f678189325eea01b39fbdf61650a535065114242f6dee4",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "060b08f47eff6a1b236cb53a",
+      "asset_id": "fd81eefa22d57ef03b9edba0",
+      "sha256": "dc687f4cd7ff9c9f8de24e147291e55993de3390d64f0e72a2544e4e8600163e",
+      "storage_key": "qr-clean-dc687f4cd7ff9c9f8de24e14.png",
+      "original_sha256": "3680fe78dd75e9d595dd53afe5a4be357790aeb32ebbf0faef057f9de32a5080",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "b415e6282d34a6f3873d6039",
+      "asset_id": "a59f9b04ad720156d93e06fb",
+      "sha256": "6d392dd12d9840959f74d425291d18954670f8cb06b8e5a4d99ba8b8aac9ead3",
+      "storage_key": "qr-clean-6d392dd12d9840959f74d425.png",
+      "original_sha256": "6e119cada34102b6a3ef1bbb819feb033a09cb2307c1fc8d5c9c80ce7e279521",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "d45351845a6c248fec704838",
+      "asset_id": "dc941920ec0355c6e09fba27",
+      "sha256": "472736e8e563aa0121bcd81af1a8a6eb28876d22b033c0d7710590668f7c8f17",
+      "storage_key": "qr-clean-472736e8e563aa0121bcd81a.png",
+      "original_sha256": "385b44e19368a0e7542a329752ead2c7adb958c152d57d720d63a3ff3cacae6f",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "b043e72f89c7b300c1c4a1d9",
+      "asset_id": "5462142876572ccf20928c75",
+      "sha256": "e5d723a59fb6f8da29249987d7b3d7e2494df5c01a572e58bee79e4262a8fbe7",
+      "storage_key": "qr-clean-e5d723a59fb6f8da29249987.png",
+      "original_sha256": "17ea40d1b2b8b61cc7a818a371d81bedea7113bc1262189c602e08c43840d8b4",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "f316b068028ed32a85e2fcc0",
+      "asset_id": "768e4dc75f64de0ddf1a2445",
+      "sha256": "b1551a5144c917017fcc8913c74e01b914c7ea0f207511e8a951eafa2118a628",
+      "storage_key": "qr-clean-b1551a5144c917017fcc8913.png",
+      "original_sha256": "e63dbce5926154d188d3fdd9edcf3fb47cf22c340021bd684e9464c46676541d",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "9ccbd10a3aa6d1b9000f9b38",
+      "asset_id": "70dce4592eb69ba2fd6e24b8",
+      "sha256": "4925266c1b7c859fca8cb8392f3e021b1ca10fdd754bff72759db2822d6dbf99",
+      "storage_key": "qr-clean-4925266c1b7c859fca8cb839.png",
+      "original_sha256": "1f92d1f0deb6a683efbb40694b62babd6effa1b64cddaed8ada052deab7f04cf",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "0ef5bb0bfe5f0a7a65357aa7",
+      "asset_id": "bb6b000194b05cace55584df",
+      "sha256": "4e4233b2fd262be118a0d04ebdfa62f7ceaa669f4f8e6d70faa24a8732001b0d",
+      "storage_key": "qr-clean-4e4233b2fd262be118a0d04e.png",
+      "original_sha256": "e78fc68a5d2af102eadfaf9b24c7f85f00d9c5cffa0504c202222d6b181c2e2f",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "8eb93a31a91275adf2c98c6a",
+      "asset_id": "ed39e2b852e1133a7f26687a",
+      "sha256": "c875f1ace0688d107ddcc5f40dbdf6b8a33e2f7d00a6c210ef3f8438b02b6b27",
+      "storage_key": "qr-clean-c875f1ace0688d107ddcc5f4.png",
+      "original_sha256": "9fe3991714973f992a644807b38f1eeac2226bc8d726129ef102ce4d27fea56c",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "9d663223787757776eb4d7d8",
+      "asset_id": "13381ba43a088a9fe3e41a87",
+      "sha256": "ec236370bad28fcc80fd899cdf402fc63902cf6b26ffc2c7f21a60516da1ff4f",
+      "storage_key": "qr-clean-ec236370bad28fcc80fd899c.png",
+      "original_sha256": "b4882dce44f415d4536271e34d6e5835481e9f2c621f88516d6f8a4e90e4a316",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "1506d24302f3e79a036cbc87",
+      "asset_id": "e53fe38a3e564e1d7f7344f6",
+      "sha256": "1a39015caa54402c0a58d03bd68927cad62e7d00ae945e42e4e4ae2a2c6286ce",
+      "storage_key": "qr-clean-1a39015caa54402c0a58d03b.png",
+      "original_sha256": "0825ad1ba0451707b580738e4d5f6cfab09e92c9c75d34dd3a90bdb9d3a598b2",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "6d541ede3cdb6d628d44ebfe",
+      "asset_id": "55cbdf566cf2f84f11a2d151",
+      "sha256": "d841e3ca932fca573c2711a60cbde7d636207c1e2758505d1a21ef3a0e179600",
+      "storage_key": "qr-clean-d841e3ca932fca573c2711a6.png",
+      "original_sha256": "fd6015ce54b4348385dbb12d19de19884f271167bbf8778d7b0bc35de696c8b9",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "da9206d2dce342902a1edb3c",
+      "asset_id": "e5402ed0a74737c5d03e8d19",
+      "sha256": "ea3c3ef9b2e01890927500716e3342b1767a0ce2f67442779bbce07da513a14a",
+      "storage_key": "qr-clean-ea3c3ef9b2e0189092750071.png",
+      "original_sha256": "eea4cde8b7da4c964d813eafe490ed05b23a327649ea4fb4df3e5d3a7d1d2ab7",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "8e8883630bc4284e80142aca",
+      "asset_id": "da0ad1b427b36459aae49da1",
+      "sha256": "9abb547bf4ed6aeb3504c1a66f4f176ddd3d0bc2c34b0eb8817e0e2ae98dc006",
+      "storage_key": "qr-clean-9abb547bf4ed6aeb3504c1a6.png",
+      "original_sha256": "47046c77130defc6d6b72a0e446c2596a798bd74758eb78daf3942974c865367",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "d78dd8cc7b1d51df214c23d3",
+      "asset_id": "b8a3c6de14993ea7c622161b",
+      "sha256": "a8c066a9478695d0ad5fe16c197ced6a9ef37205a4162516a9e9b842b28115d6",
+      "storage_key": "qr-clean-a8c066a9478695d0ad5fe16c.png",
+      "original_sha256": "28a6c7634bfbfea6b81b1aefef4284d4443b463fe32405a4ccdf01d9bc15b5ba",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "720a6670366cb90b102af0c5",
+      "asset_id": "854096edebc6eaca09556b75",
+      "sha256": "7259a1b36178d9f6fe30a0ec33ba24301818ac1653aba631683cbce97cf53e13",
+      "storage_key": "qr-clean-7259a1b36178d9f6fe30a0ec.png",
+      "original_sha256": "532d2c7f0062b05b93d315d928d5f4233646430ea7f274df71d7f6cb0f57c494",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "f0f284e92f7b42f61229c1d1",
+      "asset_id": "ee890a8e7aaae135d32c8097",
+      "sha256": "842c6d92940e8b5e8410b9ad61d55e55a87f22a472b1761c4efd60c0b7a2ffaf",
+      "storage_key": "qr-clean-842c6d92940e8b5e8410b9ad.png",
+      "original_sha256": "24c0a71fd4cf33036fdc7380af7420aab0651c208e94534a818311e3e30e3f68",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "4140fdf12da2cb097efa6d1e",
+      "asset_id": "1918c7d00a38b3792b0d9e7c",
+      "sha256": "594fbb0ad3c0c7ba59dfe7e3428e1a0bcd2b5da6a33a195735706c5a0775f957",
+      "storage_key": "qr-clean-594fbb0ad3c0c7ba59dfe7e3.png",
+      "original_sha256": "362325b189552f1b7ed6d582637abf3eba110ff2a1ec927bbf01529273c4211b",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "c8c1abc9f1f234ad025e56e7",
+      "asset_id": "f677e1d74197e69abb8b93a4",
+      "sha256": "43f7c2bad279a09189d8808f3fa31f79d0c72b8d9a3ec23815251cb785c20d7f",
+      "storage_key": "qr-clean-43f7c2bad279a09189d8808f.png",
+      "original_sha256": "929167c44970a3fe117f7b24632d9542c2c0306f7f5ce5afb8719ecfb49776d7",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "b926ea3cc0988eb40eee2c23",
+      "asset_id": "30b7f1eb61251f81933c34dd",
+      "sha256": "1f0a27b51fe5dd0a4e4db67c0b428137781c89b25d99b1e9a06d1907e7a73883",
+      "storage_key": "qr-clean-1f0a27b51fe5dd0a4e4db67c.png",
+      "original_sha256": "2eb483bb9c5946319be2f1f9043e53055404dbe5f4a91de3b72fa5b81a1a14b7",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "dd16446aef457ca6e76d8c7e",
+      "asset_id": "ecf867cac64315e7023a7b35",
+      "sha256": "93b52dea8d5527fb4d34e5ae0aa6ac8781d6c5dd1a9356dabbac66edb7f334ef",
+      "storage_key": "qr-clean-93b52dea8d5527fb4d34e5ae.png",
+      "original_sha256": "4062fe8e78f0ec393ffb2dbfbdc9ead1246878f205ded0ea41ab2b4f3ee9170a",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "dc0024d6ab48438fc730ab74",
+      "asset_id": "c3450fd3f6e98be733c0c329",
+      "sha256": "fa8f45b7a61182ea7e853d82e5d85de647cc9220f6f868f257a3215d4bace4f8",
+      "storage_key": "qr-clean-fa8f45b7a61182ea7e853d82.png",
+      "original_sha256": "e9a3563975b8570437964067ed4fb255f0774e32868ba1e680b156817edf8b41",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "d33018cc20ba833ec556ef95",
+      "asset_id": "095c9beec3ab4d8a3972b0d1",
+      "sha256": "96d1d75bae37a970faf0c1f22f9a093c2ae7114eb717dabe47a54c08c52618ef",
+      "storage_key": "qr-clean-96d1d75bae37a970faf0c1f2.png",
+      "original_sha256": "f4995fab9cb32bc425846fa46d42f3005f0a3ad4ff00f283f66c4e14e716d150",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "2d25bde73e25a72e92f86e52",
+      "asset_id": "7f0a763bc44248428f64812f",
+      "sha256": "8f35d561e0836b071a612ce0c8e2ba67b701ed158f062bad78e5fe740679086d",
+      "storage_key": "qr-clean-8f35d561e0836b071a612ce0.png",
+      "original_sha256": "f2450579c7bd3cdd62474e9b40d5a0cdf2ce23ece96535eea9d3b431e511a916",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "5529a8dc1f55504c118924e7",
+      "asset_id": "acfc586599d590442e294b46",
+      "sha256": "f1b594fe77b551927fad725a7fe1ad389c7aa3814253a3186280d5b964112ec3",
+      "storage_key": "qr-clean-f1b594fe77b551927fad725a.png",
+      "original_sha256": "24e1dc4d2e907e1431f63e05960dececc79900a1ea2994030fe355f5fe6c0422",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "200a10750acb8144ac5c598d",
+      "asset_id": "009cc42c5d7a172c52a5a8b9",
+      "sha256": "6b89d6d876c93e38f921fd8a796c21c04e09c7ed00b3c76ab061839413b3cbc8",
+      "storage_key": "qr-clean-6b89d6d876c93e38f921fd8a.png",
+      "original_sha256": "5e75cffbf772eaefd6d0a916d1c5f6f3dcf72aac130e75aa74d52dd49e81563e",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "fe747ecab0714150241253b5",
+      "asset_id": "86023f0d9eb4c20e0622c7b0",
+      "sha256": "775edfe5bade44b14191298a5316f1362cecd41851e2a350eb5188778ee178c2",
+      "storage_key": "qr-clean-775edfe5bade44b14191298a.png",
+      "original_sha256": "f8b8f4ba682515ecc6343ea855d9a24df07669cba0870e7a0c82458b014eef8a",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "c4875684ac927ec8573cfa8b",
+      "asset_id": "ad95a128585481088e496f6c",
+      "sha256": "d6b01fedd4410f3b9ee3bcba46baa111b3691ca48fb55f0efddbce5543c55289",
+      "storage_key": "qr-clean-d6b01fedd4410f3b9ee3bcba.png",
+      "original_sha256": "b5ec44a75adb2de7d50e94f669a74bd7e5e931f95529ffdb9d57d33380c6ae9a",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "9852b9bdbc89a9f0928cb9d4",
+      "asset_id": "9f866a4801abcfb5582f410a",
+      "sha256": "cc89cbe552fabc8df438b9d438d83fbe0d49d78d1aea0a4c5373f59457502e48",
+      "storage_key": "qr-clean-cc89cbe552fabc8df438b9d4.png",
+      "original_sha256": "4413d3cfb9d9705db3059b97aa6fcac552deb4b820f82d8182bde7bb075a21c0",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "cc4e80da25067ca54f4a7330",
+      "asset_id": "b42607bca94bb3ce46b2e675",
+      "sha256": "02da7cdd13e4d47ee0f1a16a6af58c7c464f769385c43cb24ea903e01456082c",
+      "storage_key": "summit-qr-white-02da7cdd13e4d47ee0f1.png",
+      "original_sha256": "48c092d6a9a20ab0233a5ea5a36d0af8696cb032c670fb1277dd379d7001e885",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": true
+    },
+    {
+      "original_asset_id": "2d6d4983ed10653752e15351",
+      "asset_id": "57798d609d986c327a16ffd8",
+      "sha256": "ab6bce9fb8ad2e3bae5b98167aeb0e1f5b7d52d7ca9039a4a2991f7a06f51d4d",
+      "storage_key": "qr-clean-ab6bce9fb8ad2e3bae5b9816.png",
+      "original_sha256": "6e776e59e03b2737efd07489451f967a16ec88ba2d5d48483588438982d00069",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "d5ef3a62d44f9c38e9732cc9",
+      "asset_id": "e22bcffb0a6dcce411155c67",
+      "sha256": "cff785c0b6b8ada1048fff8876d08001a0d6172f6cf4f8d67e31dc1669836be9",
+      "storage_key": "qr-clean-cff785c0b6b8ada1048fff88.png",
+      "original_sha256": "cd21d47872e832cfbd9f60a149aa8d7ab6ca363d2273549ea813d1817907725c",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "6400d003b3baf317a34f7b27",
+      "asset_id": "f75780bda28c3847ff45aa43",
+      "sha256": "0e605a6df7b005a5ae1692f7f4577c43da2704955555c513750e0a1416eedf34",
+      "storage_key": "qr-clean-0e605a6df7b005a5ae1692f7.png",
+      "original_sha256": "8f8acad1dfce643dc128c4fb72f4b2da408294254b113d6162ff077624f146f3",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "02ae3214e0f9bc75e85100ea",
+      "asset_id": "1a66b2a0c5810980eefe88ad",
+      "sha256": "d0c461db0c6e04ed87c2b162b49f1736c188b6f75e278bc41bf60dd48d2d965c",
+      "storage_key": "qr-clean-d0c461db0c6e04ed87c2b162.png",
+      "original_sha256": "4c9e9f95ab332398122a14d593a06660525fd04cbf7d49b33f9a7fb66baea6e9",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "0d0892bbabf7cc2d0e048da8",
+      "asset_id": "d9b6824ac14b375b40d66ae4",
+      "sha256": "686fd34eab9845ef19bcf40676376310226450ca98b9a17fe81f1a76cad6df9d",
+      "storage_key": "qr-clean-686fd34eab9845ef19bcf406.png",
+      "original_sha256": "372d4cc6fc929fbbc5e602fd03b0fed34996ace110ce28132622ee94302edbf8",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "b9aa8583b6416338631e17ff",
+      "asset_id": "0398fb5a9824a8729d533546",
+      "sha256": "b71e12753d0e53a51a10a0e77c23e47bb9c6c5e2f6b7729a170b09d01144fcbf",
+      "storage_key": "qr-clean-b71e12753d0e53a51a10a0e7.png",
+      "original_sha256": "ebcbc42bd4134281e22cd50288abdb08a8480c676f6ae66d6dcaf2ad8efbb0b7",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "940a4b29daf87beb7b6f553b",
+      "asset_id": "7359eeaaab523c976b1d0481",
+      "sha256": "394579eb8ffd9ce0f816623b4b4fbc59a9ff6e44557e7937f80977e1c53ae036",
+      "storage_key": "qr-clean-394579eb8ffd9ce0f816623b.png",
+      "original_sha256": "d69463491362f3c82cfb4eeb3a6d59233b07a5007f3095499b69d81bde6df4e9",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "17bb43c792e88cb6f15d6050",
+      "asset_id": "1979325843fd7a6868ba8b08",
+      "sha256": "32b8f10592e0984317d4016f9fc02779148d3d265f654f0537b20ad9966adb29",
+      "storage_key": "qr-clean-32b8f10592e0984317d4016f.png",
+      "original_sha256": "85b8ff081fd15aa178ab92adcb1c94e3e968c07b274de4f822c3cacab9b14dbf",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "fb671ce2d3880bc28ea1f701",
+      "asset_id": "03c40ef4f9c1b47062f68577",
+      "sha256": "954e7c045c7575206342993643f0ce599f8f1da3922a7b20848306dfa21b0399",
+      "storage_key": "qr-clean-954e7c045c75752063429936.png",
+      "original_sha256": "6937c075d79cc6300d0d1d33bb4cd8480726cf44cf4ec797f7c10d872f6624b4",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "909eb9b813c4032c6ace8e3a",
+      "asset_id": "3b53446fc180aeb794949967",
+      "sha256": "da047195dc8cb929433b0ebba9406bb13e9165f6d758d6633641d4f7ec0a95b0",
+      "storage_key": "qr-clean-da047195dc8cb929433b0ebb.png",
+      "original_sha256": "da4c4a3f5835d845aa51155d2a4c6aeca89f122971a551851b81e9b4e555acad",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "38c02f51efdfe7e765b47b04",
+      "asset_id": "09d4fa72e92f6f9504ba6214",
+      "sha256": "c96372d4144b14affb6b10ef8306df304e0c446e588b287a765edc85408d3243",
+      "storage_key": "qr-clean-c96372d4144b14affb6b10ef.png",
+      "original_sha256": "b4ebba2683eb9ffc37fe40d358d152b7012ad4529e3de3983f3f144e4e76f013",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "4594192f976a132d496024f9",
+      "asset_id": "3458344b632e867182ffdb85",
+      "sha256": "bd03799f0e4013d3b466d591734a515821eb632bb92d35c74450fbebdc847887",
+      "storage_key": "qr-clean-bd03799f0e4013d3b466d591.png",
+      "original_sha256": "5de287a38677b8b1c4dadfa0d6bb227f092ec5a13666c5d4815dbc3c0a66c4cb",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "9aa4efd44d5e95a8ae557460",
+      "asset_id": "46dded99b158c3cafa11eb22",
+      "sha256": "f53eb7b73ed7bed2f5703531770144a757b7ff27db1ff29547813ab768bd85eb",
+      "storage_key": "qr-clean-f53eb7b73ed7bed2f5703531.png",
+      "original_sha256": "f06620b3cb9e421b901fdf9d5768f53127c6554a4794e93ef7337c16d9cb37df",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "e1e53b87a958df8a4a09935b",
+      "asset_id": "c0eb2b9d404432a5002597e8",
+      "sha256": "48a929e843b04e87b074b875cc9b7636ffbf30347bd5a88aaa83b5df58b5798f",
+      "storage_key": "qr-clean-48a929e843b04e87b074b875.png",
+      "original_sha256": "a019c697b3dbd5ba17594f0a966918be7081fe247b9b5d04ed63e708d27bcec0",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "718762935b4b407caf029f8d",
+      "asset_id": "57bb888b8c4132366f36d8a2",
+      "sha256": "19b60841720d48ab1f4526665d8cf40cdf0ddb2933d7b46855bdb3deee38ae95",
+      "storage_key": "qr-clean-19b60841720d48ab1f452666.png",
+      "original_sha256": "dac0e88a01222a61d9fbcaccbd9c90071d5dc433d8aa2222d22fefc439cd5381",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "a3f6d3144dc72c75a7a32d06",
+      "asset_id": "c0c3abcfe2d2dc3f5c60db7c",
+      "sha256": "297439cd90784ad266603ff5c41ecb3027db0fdfeac5e46af01a738b59fbd3ff",
+      "storage_key": "qr-clean-297439cd90784ad266603ff5.png",
+      "original_sha256": "3319e81dbf0e09fc324b1786071cf1d91c99fcbf4a2314562eb59511855221de",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "8e739f09698ae47c0097723b",
+      "asset_id": "6679f4381f6ad74dd755d987",
+      "sha256": "ea3c3ef9b2e01890927500716e3342b1767a0ce2f67442779bbce07da513a14a",
+      "storage_key": "qr-clean-ea3c3ef9b2e0189092750071.png",
+      "original_sha256": "0ac689fe31201d3c6478f5ed9b4127e1ed7e94d5b210502681bfc2ac2b298bcc",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "e4ea53d6562abfd2a36004f5",
+      "asset_id": "049e139b5b5f492eb038cef9",
+      "sha256": "4c4c8286dfc2b6a925b1520d75cde7b0262c965e4aa303aa53d8b09eeba0bf67",
+      "storage_key": "qr-clean-4c4c8286dfc2b6a925b1520d.png",
+      "original_sha256": "8455cb8c9e57a82c43a31690943963749860437cd6c4102b2003dd5bd2f5bb4b",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "eb451002f153e2beb6defa13",
+      "asset_id": "41eedbb7a7428e884543af5f",
+      "sha256": "11e93a19ecd90d6efc01edeaa810d2ef066e387d1cc9468e43d91923da65d630",
+      "storage_key": "qr-clean-11e93a19ecd90d6efc01edea.png",
+      "original_sha256": "5a4498dc8fee150a7860d95923fd1e9adeea84a5efb2e1f750302fc84751d6df",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "3df31cf647d8bfa206f9846b",
+      "asset_id": "a6e98b33996cbd1c49645946",
+      "sha256": "6ee526eadc394717306672e889919b01c840ed389698432406bc05113c8b3e03",
+      "storage_key": "qr-clean-6ee526eadc394717306672e8.png",
+      "original_sha256": "fc67619941a82da278971500ba5ca74f2601267c590e19b5595e32c1da934acd",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    },
+    {
+      "original_asset_id": "20b1669b38e736ba315b2002",
+      "asset_id": "f8e386aa7253911688cead9a",
+      "sha256": "0c7d0f676ca2621cb1b4988ca109ad409796b911408731cf37e7ab7c935d5657",
+      "storage_key": "qr-clean-0c7d0f676ca2621cb1b4988c.png",
+      "original_sha256": "5a2ebcf1f427e2fb32c0e6ca93e1775ab661554c5c6d98727b0a99a71d0154b7",
+      "box": [
+        980,
+        630,
+        1080,
+        720
+      ],
+      "reused": false
+    }
+  ],
+  "articles": [
+    {
+      "id": "e66ef7e3d680118882277e6e",
+      "title": "15、硅晶表面处理剂厂家怎么选？从环保、成本到工艺稳定性，和拓化学给出选择标准",
+      "revision": 5,
+      "replaced_assets": [
+        "02ae3214e0f9bc75e85100ea",
+        "8e739f09698ae47c0097723b"
+      ]
+    },
+    {
+      "id": "b8a4f0e8f64a38ac411d9632",
+      "title": "13、上海硅晶表面处理公司怎么选？实测1000小时盐雾，传统磷化与硅晶路线差距到底多大",
+      "revision": 5,
+      "replaced_assets": [
+        "2d6d4983ed10653752e15351"
+      ]
+    },
+    {
+      "id": "09307bce6fad208ec23b874e",
+      "title": "9、硅晶前处理剂厂家怎么选？从和拓化学看涂装前处理的环保与降本逻辑",
+      "revision": 5,
+      "replaced_assets": [
+        "4140fdf12da2cb097efa6d1e"
+      ]
+    },
+    {
+      "id": "9d11323959bbe0635d5990cc",
+      "title": "8、金属表面处理什么工艺环保？从和拓化学硅晶方案看涂装前处理的绿色路径",
+      "revision": 5,
+      "replaced_assets": [
+        "6400d003b3baf317a34f7b27",
+        "b9aa8583b6416338631e17ff",
+        "dd16446aef457ca6e76d8c7e"
+      ]
+    },
+    {
+      "id": "c3383e1f76061c22efce4ccd",
+      "title": "6、金属表面处理剂选型观察：和拓化学硅晶方案如何回应环保与降本双重考题",
+      "revision": 5,
+      "replaced_assets": [
+        "4594192f976a132d496024f9"
+      ]
+    },
+    {
+      "id": "c15f3aebb03773f2b82fae53",
+      "title": "1、硅晶表面处理剂厂家怎么选？和拓化学用“零排放+降本50%”给出答案",
+      "revision": 7,
+      "replaced_assets": [
+        "fe747ecab0714150241253b5"
+      ]
+    },
+    {
+      "id": "96cfcaef3678f7e609e28562",
+      "title": "8、2026年金属表面处理药剂生产厂家怎么选？从行业趋势到供应商评估：以和拓化学为例",
+      "revision": 6,
+      "replaced_assets": [
+        "fb671ce2d3880bc28ea1f701"
+      ]
+    },
+    {
+      "id": "abcdc847b779a9ebfbe1c3d4",
+      "title": "5、老板问得最多的6个问题：硅晶表面处理到底贵不贵？好不好落地？",
+      "revision": 7,
+      "replaced_assets": [
+        "200a10750acb8144ac5c598d"
+      ]
+    }
+  ],
+  "other_tenant_resources_unchanged": true,
+  "original_files_preserved": true
+}

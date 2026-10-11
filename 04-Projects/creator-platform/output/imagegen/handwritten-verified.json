@@ -1,0 +1,127 @@
+{
+  "salmon": {
+    "source": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a1080a-8dad-7d53-9857-93e8555c4168\\exec-9b5522f8-2754-46d0-96b2-4d33318dda64.png",
+    "verified": "Visual review of title, ingredients, quantities and arrows",
+    "asset": "/static/assets/recipes/salmon-ingredients-handwritten.webp"
+  },
+  "chickpea": {
+    "source": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a1080a-8dad-7d53-9857-93e8555c4168\\exec-def89d88-8dff-4131-9d21-410e7fb7e3f1.png",
+    "verified": "Visual review of title, ingredients, quantities and arrows",
+    "asset": "/static/assets/recipes/chickpea-ingredients-handwritten.webp"
+  },
+  "oats": {
+    "source": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a1080a-8dad-7d53-9857-93e8555c4168\\exec-67f3594d-3870-4be6-a336-474a7a9644eb.png",
+    "verified": "Visual review of title, ingredients, quantities and arrows",
+    "asset": "/static/assets/recipes/oats-ingredients-handwritten.webp"
+  },
+  "fish": {
+    "source": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a1080a-8dad-7d53-9857-93e8555c4168\\exec-84bf3c12-6eb4-4efa-b628-9513325ab2c0.png",
+    "verified": "Visual review of title, ingredients, quantities and arrows",
+    "asset": "/static/assets/recipes/fish-ingredients-handwritten.webp"
+  },
+  "lentil": {
+    "source": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a1080a-8dad-7d53-9857-93e8555c4168\\exec-592f31a8-0f96-43c5-92da-ca6e31588cfe.png",
+    "verified": "Visual review of title, ingredients, quantities and arrows",
+    "asset": "/static/assets/recipes/lentil-ingredients-handwritten.webp"
+  },
+  "tomato-egg": {
+    "source": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a1080a-8dad-7d53-9857-93e8555c4168\\exec-3e4a8d68-eb5c-43c1-81fd-a433d2d66103.png",
+    "verified": "Visual review of title, ingredients, quantities and arrows",
+    "asset": "/static/assets/recipes/tomato-egg-ingredients-handwritten.webp"
+  },
+  "broccoli-chicken": {
+    "source": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a1080a-8dad-7d53-9857-93e8555c4168\\exec-dbbaf958-da48-41e5-99bb-49ba8ec65070.png",
+    "verified": "Visual review of title, ingredients, quantities and arrows",
+    "asset": "/static/assets/recipes/broccoli-chicken-ingredients-handwritten.webp"
+  },
+  "pumpkin-millet": {
+    "source": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a1080a-8dad-7d53-9857-93e8555c4168\\exec-7c761fb9-e52a-496b-8fc4-c9ddb84ab5e5.png",
+    "verified": "Visual review of title, ingredients, quantities and arrows",
+    "asset": "/static/assets/recipes/pumpkin-millet-ingredients-handwritten.webp"
+  },
+  "bean-salad": {
+    "source": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a1080a-8dad-7d53-9857-93e8555c4168\\exec-d43837d6-eb4f-4049-b06e-22e4b74ecc29.png",
+    "verified": "Visual review of title, ingredients, quantities and arrows",
+    "asset": "/static/assets/recipes/bean-salad-ingredients-handwritten.webp"
+  },
+  "berry-yogurt": {
+    "source": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a1080a-8dad-7d53-9857-93e8555c4168\\exec-20a54a6f-77f3-4a04-bafe-b73024d03927.png",
+    "verified": "Visual review of title, ingredients, quantities and arrows",
+    "asset": "/static/assets/recipes/berry-yogurt-ingredients-handwritten.webp"
+  },
+  "mackerel-rice": {
+    "source": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a1080a-8dad-7d53-9857-93e8555c4168\\exec-42dbe577-8e33-4217-a419-e84d13a8f6b6.png",
+    "verified": "Visual review of title, ingredients, quantities and arrows",
+    "asset": "/static/assets/recipes/mackerel-rice-ingredients-handwritten.webp"
+  },
+  "edamame-quinoa": {
+    "source": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a1080a-8dad-7d53-9857-93e8555c4168\\exec-8fc83f94-080b-4bfe-9a7a-db07ae90e74d.png",
+    "verified": "Visual review of title, ingredients, quantities and arrows",
+    "asset": "/static/assets/recipes/edamame-quinoa-ingredients-handwritten.webp"
+  },
+  "walnut-buckwheat": {
+    "source": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a1080a-8dad-7d53-9857-93e8555c4168\\exec-f2ebcc64-9a9b-4488-b3af-2f9951264802.png",
+    "verified": "Visual review of title, ingredients, quantities and arrows",
+    "asset": "/static/assets/recipes/walnut-buckwheat-ingredients-handwritten.webp"
+  },
+  "red-bean-oats": {
+    "source": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a1080a-8dad-7d53-9857-93e8555c4168\\exec-93935165-d3d4-477f-aaa9-15834a1e2446.png",
+    "verified": "Visual review of title, ingredients, quantities and arrows",
+    "asset": "/static/assets/recipes/red-bean-oats-ingredients-handwritten.webp"
+  },
+  "tofu-wrap": {
+    "source": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a1080a-8dad-7d53-9857-93e8555c4168\\exec-b5bc565f-ab93-4974-8408-06c8af23e184.png",
+    "verified": "Visual review of title, ingredients, quantities and arrows",
+    "asset": "/static/assets/recipes/tofu-wrap-ingredients-handwritten.webp"
+  },
+  "lentil-curry": {
+    "source": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a1080a-8dad-7d53-9857-93e8555c4168\\exec-48cc814a-6433-4d24-94a5-c0c6d22da472.png",
+    "verified": "Visual review of title, ingredients, quantities and arrows",
+    "asset": "/static/assets/recipes/lentil-curry-ingredients-handwritten.webp"
+  },
+  "sweetpotato-chickpea": {
+    "source": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a1080a-8dad-7d53-9857-93e8555c4168\\exec-c707843a-b37d-4a67-aa3e-a88ae557a947.png",
+    "verified": "Visual review of title, ingredients, quantities and arrows",
+    "asset": "/static/assets/recipes/sweetpotato-chickpea-ingredients-handwritten.webp"
+  },
+  "sardine-pasta": {
+    "source": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a1080a-8dad-7d53-9857-93e8555c4168\\exec-42997ab2-4543-46cd-b050-f7c8ac002060.png",
+    "verified": "Visual review of title, ingredients, quantities and arrows",
+    "asset": "/static/assets/recipes/sardine-pasta-ingredients-handwritten.webp"
+  },
+  "whitebean-soup": {
+    "source": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a1080a-8dad-7d53-9857-93e8555c4168\\exec-3d6b804f-fc59-4af5-bc7b-1e2a8d2f06c3.png",
+    "verified": "Visual review of title, ingredients, quantities and arrows",
+    "asset": "/static/assets/recipes/whitebean-soup-ingredients-handwritten.webp"
+  },
+  "lemon-chicken": {
+    "source": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a1080a-8dad-7d53-9857-93e8555c4168\\exec-4cdbb154-4850-41e3-bd08-eca48c306a73.png",
+    "verified": "Visual review of title, ingredients, quantities and arrows",
+    "asset": "/static/assets/recipes/lemon-chicken-ingredients-handwritten.webp"
+  },
+  "egg-tomato-pan": {
+    "source": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a1080a-8dad-7d53-9857-93e8555c4168\\exec-aca66d2d-75d8-4d1e-b15c-5132917e42e4.png",
+    "verified": "Visual review of title, ingredients, quantities and arrows",
+    "asset": "/static/assets/recipes/egg-tomato-pan-ingredients-handwritten.webp"
+  },
+  "shrimp-tofu": {
+    "source": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a1080a-8dad-7d53-9857-93e8555c4168\\exec-273d1453-af47-43ea-a26c-3e6fc27efa62.png",
+    "verified": "Visual review of title, ingredients, quantities and arrows",
+    "asset": "/static/assets/recipes/shrimp-tofu-ingredients-handwritten.webp"
+  },
+  "chicken-mushroom": {
+    "source": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a1080a-8dad-7d53-9857-93e8555c4168\\exec-e809c08e-c4b2-4521-9c45-51e7d76b9905.png",
+    "verified": "Visual review of title, ingredients, quantities and arrows",
+    "asset": "/static/assets/recipes/chicken-mushroom-ingredients-handwritten.webp"
+  },
+  "sesame-spinach": {
+    "source": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a1080a-8dad-7d53-9857-93e8555c4168\\exec-35e5b675-67c2-4903-91f0-33b648b81d2f.png",
+    "verified": "Visual review of title, ingredients, quantities and arrows",
+    "asset": "/static/assets/recipes/sesame-spinach-ingredients-handwritten.webp"
+  },
+  "egg-corn": {
+    "source": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a1080a-8dad-7d53-9857-93e8555c4168\\exec-158f184c-4667-4246-90d8-0007180afdd1.png",
+    "verified": "Visual review of title, ingredients, quantities and arrows",
+    "asset": "/static/assets/recipes/egg-corn-ingredients-handwritten.webp"
+  }
+}

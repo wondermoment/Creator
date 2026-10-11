@@ -1,0 +1,39 @@
+{
+  "nad": {
+    "title": [
+      "NAD+ metabolism and its roles in cellular processes during ageing"
+    ],
+    "container-title": [
+      "Nature Reviews Molecular Cell Biology"
+    ],
+    "DOI": "10.1038/s41580-020-00313-x",
+    "abstract": null,
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          22
+        ]
+      ]
+    }
+  },
+  "pqq": {
+    "title": [
+      "Dietary pyrroloquinoline quinone (PQQ) alters indicators of inflammation and mitochondrial-related metabolism in human subjects"
+    ],
+    "container-title": [
+      "The Journal of Nutritional Biochemistry"
+    ],
+    "DOI": "10.1016/j.jnutbio.2013.07.008",
+    "abstract": null,
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          12
+        ]
+      ]
+    }
+  }
+}

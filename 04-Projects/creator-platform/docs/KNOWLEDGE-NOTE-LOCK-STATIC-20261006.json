@@ -1,0 +1,5 @@
+{
+  "version_in_home": true,
+  "script_bytes_match": true,
+  "method": "Read-only GET; no user storage or runtime write request"
+}

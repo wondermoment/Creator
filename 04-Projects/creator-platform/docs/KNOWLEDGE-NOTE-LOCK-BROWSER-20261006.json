@@ -1,0 +1,309 @@
+{
+  "scope": "Native Web Locks/localStorage/dialog/forms; synthetic fixture and records; isolated nonpersistent browser context; all network intercepted",
+  "checks": [
+    {
+      "case": "two real tabs queued behind native lock; manual UI saves both records",
+      "pass": true,
+      "rows": 3
+    },
+    {
+      "case": "native five-second timeout removes pending request, keeps form draft, no late write; manual retry succeeds",
+      "pass": true
+    },
+    {
+      "case": "closing native lock owner releases lock; queued tab recovers",
+      "pass": true
+    },
+    {
+      "case": "20 interleaved native writes preserve all rows; concurrent duplicate AI save adds one",
+      "pass": true
+    },
+    {
+      "case": "native localStorage corruption does not get overwritten; retained form saves after synthetic storage restored",
+      "pass": true
+    },
+    {
+      "case": "fresh tab reads all 27 records; legacy raw array unchanged",
+      "pass": true
+    }
+  ],
+  "source_sha256": {
+    "app.js": "15fe42b24c5681534df7e5ac7ac2b79ba0736db4261bc0b587102d8931c7b166",
+    "travel.js": "b3c5464904f0bb9424b71f5317334e31c99a243d07422649fadf63669fcbd344",
+    "chat-format.js": "f541588263d62fe20d5ea382880f250281ddaf9629db7561e1db65225727bd2f",
+    "book-reader.js": "7056dd78e5a47cf04084a87ea75ef49caf69471952a87263b5f07f5b33d3cc33"
+  },
+  "browser": "154.0.4258.53",
+  "batch_observed": {
+    "a": [
+      {
+        "id": "155b6e6d-6852-4922-aa6d-6359451d8ed6",
+        "book": "synthetic-book",
+        "source": "合成测试书",
+        "location": "",
+        "excerpt": "lock owner closed",
+        "note": "",
+        "at": "2026-10-06T15:09:08.452Z"
+      },
+      {
+        "id": "5c9c9e96-b63f-42bd-9ac2-af60364b93fc",
+        "book": "synthetic-book",
+        "source": "合成测试书",
+        "location": "",
+        "excerpt": "timeout draft retained",
+        "note": "",
+        "at": "2026-10-06T15:09:05.419Z"
+      },
+      {
+        "id": "7ca35440-16c7-46e9-875a-ab8c144bd8bb",
+        "book": "synthetic-book",
+        "source": "合成测试书",
+        "location": "",
+        "excerpt": "tab B manual",
+        "note": "",
+        "at": "2026-10-06T15:08:55.592Z"
+      },
+      {
+        "id": "d7c04f65-ba7e-4336-9ab4-724d365f220e",
+        "book": "synthetic-book",
+        "source": "合成测试书",
+        "location": "",
+        "excerpt": "tab A manual",
+        "note": "",
+        "at": "2026-10-06T15:08:55.579Z"
+      },
+      {
+        "id": "batch-B-5",
+        "excerpt": "batch-B-5"
+      },
+      {
+        "id": "batch-B-7",
+        "excerpt": "batch-B-7"
+      },
+      {
+        "id": "batch-A-1",
+        "excerpt": "batch-A-1"
+      },
+      {
+        "id": "batch-B-0",
+        "excerpt": "batch-B-0"
+      },
+      {
+        "id": "batch-A-2",
+        "excerpt": "batch-A-2"
+      },
+      {
+        "id": "batch-A-3",
+        "excerpt": "batch-A-3"
+      },
+      {
+        "id": "batch-A-0",
+        "excerpt": "batch-A-0"
+      },
+      {
+        "id": "batch-B-9",
+        "excerpt": "batch-B-9"
+      },
+      {
+        "id": "batch-B-2",
+        "excerpt": "batch-B-2"
+      },
+      {
+        "id": "batch-A-8",
+        "excerpt": "batch-A-8"
+      },
+      {
+        "id": "batch-A-4",
+        "excerpt": "batch-A-4"
+      },
+      {
+        "id": "batch-A-9",
+        "excerpt": "batch-A-9"
+      },
+      {
+        "id": "batch-B-3",
+        "excerpt": "batch-B-3"
+      },
+      {
+        "id": "batch-B-4",
+        "excerpt": "batch-B-4"
+      },
+      {
+        "id": "batch-B-6",
+        "excerpt": "batch-B-6"
+      },
+      {
+        "id": "batch-A-5",
+        "excerpt": "batch-A-5"
+      },
+      {
+        "id": "batch-B-8",
+        "excerpt": "batch-B-8"
+      },
+      {
+        "id": "batch-A-6",
+        "excerpt": "batch-A-6"
+      },
+      {
+        "id": "batch-A-7",
+        "excerpt": "batch-A-7"
+      },
+      {
+        "id": "batch-B-1",
+        "excerpt": "batch-B-1"
+      },
+      {
+        "excerpt": "synthetic legacy",
+        "extra": "preserved"
+      }
+    ],
+    "b": [
+      {
+        "id": "155b6e6d-6852-4922-aa6d-6359451d8ed6",
+        "book": "synthetic-book",
+        "source": "合成测试书",
+        "location": "",
+        "excerpt": "lock owner closed",
+        "note": "",
+        "at": "2026-10-06T15:09:08.452Z"
+      },
+      {
+        "id": "5c9c9e96-b63f-42bd-9ac2-af60364b93fc",
+        "book": "synthetic-book",
+        "source": "合成测试书",
+        "location": "",
+        "excerpt": "timeout draft retained",
+        "note": "",
+        "at": "2026-10-06T15:09:05.419Z"
+      },
+      {
+        "id": "7ca35440-16c7-46e9-875a-ab8c144bd8bb",
+        "book": "synthetic-book",
+        "source": "合成测试书",
+        "location": "",
+        "excerpt": "tab B manual",
+        "note": "",
+        "at": "2026-10-06T15:08:55.592Z"
+      },
+      {
+        "id": "d7c04f65-ba7e-4336-9ab4-724d365f220e",
+        "book": "synthetic-book",
+        "source": "合成测试书",
+        "location": "",
+        "excerpt": "tab A manual",
+        "note": "",
+        "at": "2026-10-06T15:08:55.579Z"
+      },
+      {
+        "id": "batch-B-5",
+        "excerpt": "batch-B-5"
+      },
+      {
+        "id": "batch-B-7",
+        "excerpt": "batch-B-7"
+      },
+      {
+        "id": "batch-A-1",
+        "excerpt": "batch-A-1"
+      },
+      {
+        "id": "batch-B-0",
+        "excerpt": "batch-B-0"
+      },
+      {
+        "id": "batch-A-2",
+        "excerpt": "batch-A-2"
+      },
+      {
+        "id": "batch-A-3",
+        "excerpt": "batch-A-3"
+      },
+      {
+        "id": "batch-A-0",
+        "excerpt": "batch-A-0"
+      },
+      {
+        "id": "batch-B-9",
+        "excerpt": "batch-B-9"
+      },
+      {
+        "id": "batch-B-2",
+        "excerpt": "batch-B-2"
+      },
+      {
+        "id": "batch-A-8",
+        "excerpt": "batch-A-8"
+      },
+      {
+        "id": "batch-A-4",
+        "excerpt": "batch-A-4"
+      },
+      {
+        "id": "batch-A-9",
+        "excerpt": "batch-A-9"
+      },
+      {
+        "id": "batch-B-3",
+        "excerpt": "batch-B-3"
+      },
+      {
+        "id": "batch-B-4",
+        "excerpt": "batch-B-4"
+      },
+      {
+        "id": "batch-B-6",
+        "excerpt": "batch-B-6"
+      },
+      {
+        "id": "batch-A-5",
+        "excerpt": "batch-A-5"
+      },
+      {
+        "id": "batch-B-8",
+        "excerpt": "batch-B-8"
+      },
+      {
+        "id": "batch-A-6",
+        "excerpt": "batch-A-6"
+      },
+      {
+        "id": "batch-A-7",
+        "excerpt": "batch-A-7"
+      },
+      {
+        "id": "batch-B-1",
+        "excerpt": "batch-B-1"
+      },
+      {
+        "excerpt": "synthetic legacy",
+        "extra": "preserved"
+      }
+    ]
+  },
+  "pass": true,
+  "page_errors": [],
+  "intercepted_requests": [
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:8765/__synthetic_note_lock__"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:8765/__synthetic_note_lock__"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:8765/__synthetic_note_lock__"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:8765/__synthetic_note_lock__"
+    }
+  ],
+  "limitations": [
+    "Synthetic fixture, not full product/backend end-to-end",
+    "No OS suspension/process crash/browser quota test",
+    "Existing old-version tabs do not participate in lock",
+    "No real model call or medical validation"
+  ]
+}

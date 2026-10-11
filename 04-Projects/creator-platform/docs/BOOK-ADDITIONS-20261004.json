@@ -1,0 +1,77 @@
+{
+  "basis": "用户提供的十张实拍封面，导读仅依据封面主题提炼，未读取全文",
+  "updated": [
+    "new-noma",
+    "new-longevity-singularity"
+  ],
+  "added": [
+    {
+      "id": "new-synthetic-biology",
+      "number": 48,
+      "title": "合成生物：生命的编程艺术",
+      "category": "生命科技",
+      "edition": "中国科学技术出版社"
+    },
+    {
+      "id": "new-singularity-nearer",
+      "number": 49,
+      "title": "奇点更近",
+      "category": "AI与未来",
+      "edition": ""
+    },
+    {
+      "id": "new-microbiome-master-key",
+      "number": 50,
+      "title": "终身活力：用微生物组开启全面健康",
+      "category": "微生物",
+      "edition": "华龄出版社"
+    },
+    {
+      "id": "new-what-is-health",
+      "number": 51,
+      "title": "何谓健康",
+      "category": "身心健康",
+      "edition": "上海科技教育出版社"
+    },
+    {
+      "id": "new-super-agers",
+      "number": 52,
+      "title": "长寿真相：保持年轻和活力的关键策略",
+      "category": "长寿抗衰",
+      "edition": "中信出版集团"
+    },
+    {
+      "id": "new-we-are-as-gods",
+      "number": 53,
+      "title": "吾辈如神",
+      "category": "AI与未来",
+      "edition": ""
+    },
+    {
+      "id": "new-getting-older",
+      "number": 54,
+      "title": "变老之前要知道的事",
+      "category": "健康养老",
+      "edition": "广东人民出版社"
+    },
+    {
+      "id": "new-biomanufacturing",
+      "number": 55,
+      "title": "生命造万物",
+      "category": "生命科技",
+      "edition": "电子工业出版社"
+    }
+  ],
+  "sourceFiles": [
+    "微信图片_20261004010026_262_5.jpg",
+    "微信图片_20261004005930_261_5.jpg",
+    "微信图片_20261004010659_264_5.jpg",
+    "微信图片_20261004010659_265_5.jpg",
+    "微信图片_20261004010659_266_5.jpg",
+    "微信图片_20261004010659_267_5.jpg",
+    "微信图片_20261004010659_268_5.jpg",
+    "微信图片_20261004010659_269_5.jpg",
+    "微信图片_20261004010659_270_5.jpg",
+    "微信图片_20261004010659_271_5.jpg"
+  ]
+}

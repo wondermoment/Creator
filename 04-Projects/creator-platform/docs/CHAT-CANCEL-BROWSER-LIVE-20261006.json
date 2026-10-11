@@ -1,0 +1,25 @@
+{
+  "case": "synthetic coach close during streaming, then reopen",
+  "cancel_before": {
+    "button": "正在回复…",
+    "disabled": true,
+    "partial": true,
+    "textLength": 883
+  },
+  "closed_at_utc": "2026-10-05T22:48:59.235Z",
+  "recovery_started_at_utc": "2026-10-05T22:50:49.224Z",
+  "recovery_observed_at_utc": "2026-10-05T22:51:05.019Z",
+  "recovery_observation_upper_bound_seconds": 15.795,
+  "recovery_dom": {
+    "button": "发送",
+    "disabled": false,
+    "question": "",
+    "text": "合成取消恢复测试：请只回复“可以继续对话”。\n\n可以继续对话"
+  },
+  "screenshot": "chat-cancel-recovery-20261006.png",
+  "limits": [
+    "Process observation is 82.352 seconds after close; exact exit time and cancellation versus natural completion are not established by process snapshots.",
+    "Local Codex uses ChatGPT login and cloud inference. No proof of instant upstream cancellation.",
+    "Single coach sample, not all book/coach routes or P95 performance."
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "book": {
+    "id": "new-biomanufacturing",
+    "number": 55,
+    "title": "生命造万物",
+    "category": "生命科技",
+    "edition": "电子工业出版社",
+    "author": "方昕、方柏山"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E7%94%9F%E5%91%BD%E9%80%A0%E4%B8%87%E7%89%A9",
+  "results": [
+    {
+      "title": "万物大历史·生命篇（套装4册） 为青少年打造的大历史系列",
+      "author": "金幼美 等",
+      "url": "https://weread.qq.com/web/bookDetail/f8132770811e7cf89g019c94"
+    }
+  ]
+}

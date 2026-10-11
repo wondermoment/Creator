@@ -1,0 +1,38 @@
+{
+  "book": {
+    "id": "hou-14",
+    "number": 14,
+    "title": "遗传的革命",
+    "category": "基因",
+    "author": "Nessa Carey"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E9%81%97%E4%BC%A0%E7%9A%84%E9%9D%A9%E5%91%BD",
+  "results": [
+    {
+      "title": "遗传的革命",
+      "author": "[英]内莎.凯里",
+      "url": "https://weread.qq.com/web/bookDetail/c8c32cb0811e3358ag011680"
+    },
+    {
+      "title": "生命与超越：一个命运共同体的理想",
+      "author": "刘哲昕",
+      "url": "https://weread.qq.com/web/reader/70a32c307270365f70af20c"
+    },
+    {
+      "title": "家国天下：现代中国的个人、国家与世界认同",
+      "author": "许纪霖",
+      "url": "https://weread.qq.com/web/reader/9fc327a0716e81ea9fcf093"
+    },
+    {
+      "title": "有争议的遗传：孟德尔之争和生物学的未来",
+      "author": "[英]格雷戈里·拉迪克",
+      "url": "https://weread.qq.com/web/reader/32e329f0813abbc60g0189ee"
+    },
+    {
+      "title": "港夜难眠",
+      "author": "33凡",
+      "url": "https://weread.qq.com/web/reader/566322b0813abbfbcg019a3b"
+    }
+  ]
+}

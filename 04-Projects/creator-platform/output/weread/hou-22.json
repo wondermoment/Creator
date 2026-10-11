@@ -1,0 +1,223 @@
+{
+  "book": {
+    "id": "hou-22",
+    "number": 22,
+    "title": "分子营养",
+    "category": "分子营养",
+    "author": "编者信息待核对"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E5%88%86%E5%AD%90%E8%90%A5%E5%85%BB",
+  "results": [
+    {
+      "title": "动物分子营养学",
+      "author": "汪以真",
+      "url": "https://weread.qq.com/web/reader/b0532fb0813ab8e06g018800"
+    },
+    {
+      "title": "分子营养学",
+      "author": "",
+      "url": "https://weread.qq.com/web/bookDetail/4bf32a40811e3261ag01238f"
+    },
+    {
+      "title": "人参营养成分及功能因子",
+      "author": "李平亚 刘金平",
+      "url": "https://weread.qq.com/web/reader/174323105e4d64174b9f234"
+    },
+    {
+      "title": "玄天解，揭秘量子与太极",
+      "author": "付士刚",
+      "url": "https://weread.qq.com/web/reader/7e432d30813aba47bg015835"
+    },
+    {
+      "title": "桃李成蹊",
+      "author": "沈水宝",
+      "url": "https://weread.qq.com/web/reader/6f0321f0813abb0a5g018975"
+    },
+    {
+      "title": "畜禽氨基酸代谢与低蛋白质日粮技术",
+      "author": "孙志洪 等编著",
+      "url": "https://weread.qq.com/web/reader/da232ff0813abbe61g016135"
+    },
+    {
+      "title": "刘彤华诊断病理学（第4版）",
+      "author": "刘彤华",
+      "url": "https://weread.qq.com/web/reader/dc13212071a559c1dc1c711"
+    },
+    {
+      "title": "中医体质营养学",
+      "author": "王济 郑燕飞",
+      "url": "https://weread.qq.com/web/reader/94732eb0813ab767ag01660c"
+    },
+    {
+      "title": "生命长河一滴水",
+      "author": "蒋经韬",
+      "url": "https://weread.qq.com/web/reader/95532ec0813abc1d1g010897"
+    },
+    {
+      "title": "抗衰大脑",
+      "author": "[美]马克·米尔斯坦",
+      "url": "https://weread.qq.com/web/reader/bab32e50813abb3d1g0100ff"
+    },
+    {
+      "title": "中国营养科学全书（第2版）",
+      "author": "杨月欣 葛可佑主编",
+      "url": "https://weread.qq.com/web/reader/c5532240727e119bc55f6da"
+    },
+    {
+      "title": "终结阿尔茨海默病：全球首套预防与逆转老年痴呆的个性化程序",
+      "author": "戴尔·E.布来得森",
+      "url": "https://weread.qq.com/web/reader/c8432680716c50d6c84cf08"
+    },
+    {
+      "title": "意识的解释",
+      "author": "丹尼尔·丹尼特",
+      "url": "https://weread.qq.com/web/reader/859326e0813ab705cg015746"
+    },
+    {
+      "title": "语文课超有趣：部编本语文教材同步学（1-6年级共12册）",
+      "author": "温沁园 郑以然",
+      "url": "https://weread.qq.com/web/reader/13732da072047938137e556"
+    },
+    {
+      "title": "万物本源：生命、意识，以及存在意义的复杂科学",
+      "author": "尼尔·泰泽",
+      "url": "https://weread.qq.com/web/reader/dbb324c0813ab83c4g0108d3"
+    },
+    {
+      "title": "不生病的智慧大全集",
+      "author": "春之霖 焦亮",
+      "url": "https://weread.qq.com/web/reader/92f32c705c2e4692f5a5a95"
+    },
+    {
+      "title": "卫生生物化学",
+      "author": "李凌 李恩民主编",
+      "url": "https://weread.qq.com/web/reader/9be32180722d7aab9be0850"
+    },
+    {
+      "title": "达尔文的危险思想",
+      "author": "丹尼尔·丹尼特",
+      "url": "https://weread.qq.com/web/reader/76632d30813ab7a43g0100b9"
+    },
+    {
+      "title": "语文课超有趣：部编本语文教材同步学（三年级上册）",
+      "author": "王云超",
+      "url": "https://weread.qq.com/web/reader/f623288071a101e5f624e1d"
+    },
+    {
+      "title": "登上100岁减龄长寿快车",
+      "author": "周文博编著",
+      "url": "https://weread.qq.com/web/reader/73832fb05e3a23738fd0be1"
+    },
+    {
+      "title": "如何活过100岁",
+      "author": "亦平",
+      "url": "https://weread.qq.com/web/reader/e1332a10717da357e13895a"
+    },
+    {
+      "title": "黄帝内经体质养生法",
+      "author": "杨力",
+      "url": "https://weread.qq.com/web/reader/98732b5055a7429877f6f79"
+    },
+    {
+      "title": "污泥堆肥工程技术",
+      "author": "桂厚瑛 彭辉 桂绍庸 周秋名 郑雷",
+      "url": "https://weread.qq.com/web/reader/90f3298071649dc690fc07b"
+    },
+    {
+      "title": "食品科技革命：食物的进化与新产业市场",
+      "author": "[日]田中宏隆 冈田亚希子 [日]濑川明",
+      "url": "https://weread.qq.com/web/reader/65132bf0813ab9477g0194eb"
+    },
+    {
+      "title": "抗生素生物技术（第二版）",
+      "author": "王以光 王勇 编著",
+      "url": "https://weread.qq.com/web/reader/40d32940813abbedcg01127e"
+    },
+    {
+      "title": "新编育儿全科",
+      "author": "常壮其 常湘涛",
+      "url": "https://weread.qq.com/web/reader/1a2327a0813ab764ag019f7b"
+    },
+    {
+      "title": "功能高分子材料（第二版）",
+      "author": "焦剑 姚军燕",
+      "url": "https://weread.qq.com/web/reader/326327c0718993b33262ba2"
+    },
+    {
+      "title": "中国南疆红枣产业发展蓝皮书",
+      "author": "中国乡村发展志愿服务促进会  组织编写",
+      "url": "https://weread.qq.com/web/reader/96d32eb0813ab8297g0179b8"
+    },
+    {
+      "title": "关注胃肠道消化吸收效率：照亮消化系统疾病治疗领域的又一个学术盲区",
+      "author": "陈胜良",
+      "url": "https://weread.qq.com/web/reader/fbe32440813abbf64g01479e"
+    },
+    {
+      "title": "固体废物处理与资源化技术进展丛书--厨余垃圾资源化工程设计与典型案例",
+      "author": "张辰 王艳明 主编 曹伟华 副主编",
+      "url": "https://weread.qq.com/web/reader/7bf32620813abbd06g010473"
+    },
+    {
+      "title": "颈肩腰腿痛防治365问",
+      "author": "张跃云 龚纯",
+      "url": "https://weread.qq.com/web/reader/ca83267071e99fd0ca84733"
+    },
+    {
+      "title": "中国过渡带油菜种植",
+      "author": "李英 白桂萍 刘道敏 程辉 王志荣 常海滨",
+      "url": "https://weread.qq.com/web/reader/e6832950813abc1bbg017005"
+    },
+    {
+      "title": "神经创伤学新进展2016",
+      "author": "张赛 涂悦",
+      "url": "https://weread.qq.com/web/reader/bd332cb071a553cebd38292"
+    },
+    {
+      "title": "颈肩腰腿痛病人最关心的213个问题",
+      "author": "朱珊珊",
+      "url": "https://weread.qq.com/web/reader/0af329307163bb500afdcee"
+    },
+    {
+      "title": "硒在大米中的组学解析及其功能调控",
+      "author": "方勇 编著",
+      "url": "https://weread.qq.com/web/reader/3b432580813abbd4eg010a1c"
+    },
+    {
+      "title": "固体废物生物处理技术",
+      "author": "周成 熊向峰 主编",
+      "url": "https://weread.qq.com/web/reader/8d232db0813abbd2dg0143fb"
+    },
+    {
+      "title": "减肥瘦身小百科",
+      "author": "本书编委会编著",
+      "url": "https://weread.qq.com/web/reader/38f321707245db5238fb81e"
+    },
+    {
+      "title": "花养女人：美丽一生幸福一生大全集",
+      "author": "红柳",
+      "url": "https://weread.qq.com/web/reader/16932c205ca24e16952350a"
+    },
+    {
+      "title": "农业转型发展与制度创新研究",
+      "author": "陈锡文",
+      "url": "https://weread.qq.com/web/reader/cec32cd07198d77ececa111"
+    },
+    {
+      "title": "猪饲料原料多元化开发与利用技术",
+      "author": "广东省农业技术推广中心组",
+      "url": "https://weread.qq.com/web/reader/c87324b0813ab9922g010530"
+    },
+    {
+      "title": "人人都该懂的地外生命",
+      "author": "刘易斯·达特奈尔",
+      "url": "https://weread.qq.com/web/reader/acf32220728a4b22acf7b97"
+    },
+    {
+      "title": "懒女孩的美体圣经",
+      "author": "宿春礼 邢群麟",
+      "url": "https://weread.qq.com/web/reader/d54325c0521896d54251596"
+    }
+  ]
+}

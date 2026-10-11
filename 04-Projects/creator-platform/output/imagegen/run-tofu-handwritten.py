@@ -1,0 +1,10 @@
+import sys,subprocess
+from pathlib import Path
+sys.path.insert(0,str(Path('backend').resolve()))
+from app.local_codex import command,environment
+prompt='''Use built-in image_gen to edit the attached watercolor ingredients illustration into ONE beautiful handwritten Chinese recipe ingredient card. Preserve the natural delicate watercolor food style, warm ivory textured paper, sage ceramic bowls, realistic recognizable tofu, cooked brown rice, shiitake mushrooms, leafy greens, oil, ginger and soy sauce. Recompose with ample blank space around each ingredient for labels, a clean square composition, no cropped stray artwork at bottom. Add elegant casual Chinese handwritten ink lettering, legible on mobile, dark warm charcoal with fine subtle hand-drawn curved pointer strokes. Exact title at top: 菌菇豆腐糙米饭. Small subtitle: 一人份 · 食材准备. Exact labels beside corresponding ingredients: 北豆腐 150克 ; 熟糙米饭 150克 ; 鲜香菇 80克 ; 青菜 150克 ; 植物油 5克 ; 姜丝 少量 ; 低钠酱油 少量. Every label must be spelled exactly and point to the right food. Do not invent quantities. Label text must be readable rather than decorative illegible cursive. Keep food unobscured, generous margins, airy botanical cookbook editorial design, no English, no logo, no border. Generate actual edited raster image using native image_gen only through ChatGPT login, no paid API keys or substitute vector. Do not edit project files. Return generated image path.'''
+Path('output/imagegen/tofu-handwritten-prompt.txt').write_text(prompt,encoding='utf-8')
+args=command()+['exec','--ephemeral','--skip-git-repo-check','--sandbox','read-only','-C',str(Path.cwd()),'-c','forced_login_method="chatgpt"','-c','approval_policy="never"','-i',str(Path('frontend/assets/recipes/tofu-step-1.webp').resolve()),'-']
+r=subprocess.run(args,input=prompt.encode(),capture_output=True,env=environment('.runtime'),timeout=420)
+Path('output/imagegen/tofu-handwritten-result.txt').write_bytes(r.stdout+r.stderr)
+print((r.stdout+r.stderr).decode('utf-8',errors='replace')[-2500:])

@@ -1,0 +1,36 @@
+{
+  "id": "hou-10",
+  "requested_title": "长寿：逆转衰老的科学饮食",
+  "query": "How Not to Age Michael Greger",
+  "checked": "2026-10-06",
+  "sources": [
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL27043837W",
+      "title": "How Not to Age",
+      "authors": [
+        "Michael Greger"
+      ],
+      "year": 2022,
+      "description": "",
+      "subjects": [
+        "nyt:advice-how-to-and-miscellaneous=2023-12-24",
+        "New York Times bestseller"
+      ]
+    },
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL27172825W",
+      "title": "How Not to Age",
+      "authors": [
+        "Michael Greger"
+      ],
+      "year": 2022,
+      "description": "",
+      "subjects": []
+    }
+  ],
+  "errors": [
+    "Wikipedia: HTTP Error 429: Too Many Requests"
+  ]
+}

@@ -1,0 +1,15 @@
+Generated nine separate assets using exactly nine native image_gen calls. Website unchanged.
+
+Inspection: **baduan-4 turns right instead of left; baduan-5’s upper-body turn also appears reversed.** Kungfu hand order is correct, but its labels are larger than requested.
+
+| Asset | Absolute generated file path |
+|---|---|
+| baduan-1 | `C:\Users\pc02a\Creator\04-Projects\geo-platform\.runtime\codex-local\generated_images\01a1064c-ba7c-7ae3-a0fd-99a1eddb30c3\exec-b80ea99a-44ae-4b31-82fb-9389b94aa48a.png` |
+| baduan-2 | `C:\Users\pc02a\Creator\04-Projects\geo-platform\.runtime\codex-local\generated_images\01a1064c-ba7c-7ae3-a0fd-99a1eddb30c3\exec-9c479fa6-2d65-40ad-afba-dfac1ab2ebbf.png` |
+| baduan-3 | `C:\Users\pc02a\Creator\04-Projects\geo-platform\.runtime\codex-local\generated_images\01a1064c-ba7c-7ae3-a0fd-99a1eddb30c3\exec-9b26f040-4719-43dd-a371-cf0aea9dab02.png` |
+| baduan-4 | `C:\Users\pc02a\Creator\04-Projects\geo-platform\.runtime\codex-local\generated_images\01a1064c-ba7c-7ae3-a0fd-99a1eddb30c3\exec-f9806151-8844-4d12-97b8-f08dc54141d1.png` |
+| baduan-5 | `C:\Users\pc02a\Creator\04-Projects\geo-platform\.runtime\codex-local\generated_images\01a1064c-ba7c-7ae3-a0fd-99a1eddb30c3\exec-6f0fbac4-629f-4841-b4b5-b689e61d9751.png` |
+| baduan-6 | `C:\Users\pc02a\Creator\04-Projects\geo-platform\.runtime\codex-local\generated_images\01a1064c-ba7c-7ae3-a0fd-99a1eddb30c3\exec-8a139272-d1eb-437b-926e-c661100d572b.png` |
+| baduan-7 | `C:\Users\pc02a\Creator\04-Projects\geo-platform\.runtime\codex-local\generated_images\01a1064c-ba7c-7ae3-a0fd-99a1eddb30c3\exec-3eb3f037-9f54-4e5f-8ffa-3e4f48966310.png` |
+| baduan-8 | `C:\Users\pc02a\Creator\04-Projects\geo-platform\.runtime\codex-local\generated_images\01a1064c-ba7c-7ae3-a0fd-99a1eddb30c3\exec-be23de40-9a32-4939-9736-41a84c78e7f8.png` |
+| kungfu-steps | `C:\Users\pc02a\Creator\04-Projects\geo-platform\.runtime\codex-local\generated_images\01a1064c-ba7c-7ae3-a0fd-99a1eddb30c3\exec-9db2e220-4703-4a88-915a-f474a93de05a.png` |

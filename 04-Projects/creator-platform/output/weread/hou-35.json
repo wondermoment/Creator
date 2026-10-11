@@ -1,0 +1,18 @@
+{
+  "book": {
+    "id": "hou-35",
+    "number": 35,
+    "title": "肠道菌群与精准营养健康",
+    "category": "微生物",
+    "author": "编者信息待核对"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E8%82%A0%E9%81%93%E8%8F%8C%E7%BE%A4%E4%B8%8E%E7%B2%BE%E5%87%86%E8%90%A5%E5%85%BB%E5%81%A5%E5%BA%B7",
+  "results": [
+    {
+      "title": "肠道菌群与精准营养健康",
+      "author": "任广旭 文洁",
+      "url": "https://weread.qq.com/web/bookDetail/351321f0811e3c332g016816"
+    }
+  ]
+}

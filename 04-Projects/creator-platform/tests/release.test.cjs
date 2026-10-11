@@ -1,0 +1,6 @@
+const test=require('node:test'),assert=require('node:assert/strict'),fs=require('node:fs'),vm=require('node:vm');
+function context(file,extra={}){const c=vm.createContext({document:{addEventListener(){}},window:{addEventListener(){}},...extra});vm.runInContext(fs.readFileSync(file,'utf8'),c);return c}
+test('travel rejects impossible and malformed calendar dates',()=>{const c=context('frontend/travel.js');for(const x of ['','oops','2027-02-29','2026-13-01'])assert.equal(c.validTravelDate(x),false);assert.equal(c.validTravelDate('2028-02-29'),true)});
+test('journal wraps text without discarding characters or paragraphs',()=>{const c=context('frontend/gratitude.js');const text='感谢今天的阳光。\n谢谢朋友。';const lines=c.gratitudeLines({measureText:t=>({width:t.length*10})},text,30);assert.equal(lines.join(''),text.replaceAll('\n',''));assert.ok(lines.every(l=>l.length<=3))});
+test('leaving journal cancels active video export',()=>{let stopped=false;const c=context('frontend/gratitude.js');c.recorder={state:'recording',stop(){stopped=true}};vm.runInContext('gratitudeRecording=recorder;gratitudeLeave()',c);assert.equal(stopped,true);assert.equal(c.recorder.cancelled,true)});
+test('corrupt journal storage degrades to empty list',()=>{const c=context('frontend/gratitude.js',{localStorage:{getItem:()=>'{bad json'}});assert.equal(c.gratitudeEntries().length,0)});

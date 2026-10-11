@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@inferencesh/belt": "1.19.20"
+  }
+}

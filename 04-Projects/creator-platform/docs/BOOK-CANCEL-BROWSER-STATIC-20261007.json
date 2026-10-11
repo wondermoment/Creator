@@ -1,0 +1,27 @@
+{
+  "method": "Read-only GET after local service recovery",
+  "initial_attempt": "Connection refused (WinError 10061)",
+  "verified": true,
+  "assets": {
+    "app.js": {
+      "matches_tested_source": true,
+      "sha256": "15fe42b24c5681534df7e5ac7ac2b79ba0736db4261bc0b587102d8931c7b166"
+    },
+    "book-reader.js": {
+      "matches_tested_source": true,
+      "sha256": "6a1be3c95dfc9794c52a57b1566a0e8793e02093545fabafdfd25cfa96b8b819"
+    },
+    "coach-chat.js": {
+      "matches_tested_source": true,
+      "sha256": "c86df5e7c2d327cadf3e83ae30799669995480f3a39d335bbaa4d38c7c89dcd7"
+    },
+    "chat-format.js": {
+      "matches_tested_source": true,
+      "sha256": "f541588263d62fe20d5ea382880f250281ddaf9629db7561e1db65225727bd2f"
+    },
+    "request-errors.js": {
+      "matches_tested_source": true,
+      "sha256": "f40252342743878313a43c5eea985a3373bc32ee5b7f9a0b38f9e6732a0f188b"
+    }
+  }
+}

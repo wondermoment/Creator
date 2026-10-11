@@ -1,0 +1,27 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert');
+const listeners={},inputs=['article','moments','short_video'].map(value=>({value,checked:true,disabled:false}));
+const button={disabled:false,textContent:''},fields=[{disabled:false},{disabled:false}];
+const form={id:'repurpose-form',querySelector:()=>button,querySelectorAll:s=>s==='[name="formats"]'?inputs:fields};
+const ctx=vm.createContext({console,Map,Set,JSON,crypto:require('crypto').webcrypto,document:{addEventListener(t,f){(listeners[t]??=[]).push(f)}},pid:'a',state:{role:'owner',content:[{id:'source',revision:1}],execution:[]},page:()=> 'repurpose',$:()=>form,canEdit:()=>ctx.state.role==='owner',refresh:async()=>{},toast:()=>{},syncManager:()=>{}});
+vm.runInContext(fs.readFileSync('static/repurpose.js','utf8'),ctx);
+vm.runInContext(`refresh=async()=>{};repurposeDraft().source='source';repurposeDraft().question='采购沟通';`,ctx);
+ctx.formSubmit=(f,handler)=>{const selected=vm.runInContext('repurposeDraft().formats.slice()',ctx);const values={source:'source',question:'采购沟通'};ctx.pending=handler({get:n=>values[n],getAll:()=>selected}).catch(e=>ctx.failure=e.message);return ctx.pending;};
+const fire=()=>listeners.submit[0]({target:form,preventDefault(){}});
+const settle=async()=>{await ctx.pending;await Promise.resolve();await Promise.resolve()};
+(async()=>{
+ let calls=[],lost=true;
+ ctx.api=async(url,method,body)=>{calls.push(body);if(body.repurpose_channel==='moments'&&lost){lost=false;throw Error('响应丢失')}return {id:'job'};};
+ fire();await settle();assert.equal(calls.length,2);const uncertain=calls[1].request_key;
+ assert.deepEqual(JSON.parse(vm.runInContext('JSON.stringify(repurposeDraft().formats)',ctx)),['moments','short_video']);
+ assert(ctx.failure.includes('已确认提交 1 项'));assert(!button.disabled);assert.equal(fields[0].disabled,false);assert.equal(inputs[0].checked,false);
+ fire();await settle();assert.equal(calls.length,4);assert.equal(calls[2].request_key,uncertain,'lost response retries same key');assert.equal(calls.filter(x=>x.repurpose_channel==='article').length,1);
+ assert.equal(vm.runInContext('repurposeDraft().formats.length',ctx),0);assert.equal(vm.runInContext('repurposeDraft().question',ctx),'采购沟通');
+ vm.runInContext(`repurposeDraft().formats=['moments']`,ctx);fire();await settle();assert.notEqual(calls[4].request_key,uncertain,'explicit reselection creates fresh request');
+ ctx.state.role='viewer';fire();await settle();assert.equal(calls.length,5,'readonly must not submit');ctx.state.role='owner';
+ vm.runInContext(`repurposeDraft().formats=['article','moments']`,ctx);
+ let release;ctx.api=async()=>{calls.push('pending');return new Promise(r=>release=r)};
+ fire();fire();assert.equal(calls.length,6);assert(button.disabled);assert(fields.every(x=>x.disabled));
+ ctx.pid='b';release({id:'pending'});await settle();assert.equal(calls.length,6,'tenant switch stops subsequent submissions');
+ assert.equal(vm.runInContext('repurposeDraft().formats.length',ctx),3,'new tenant retains own selections');
+ console.log('PASS: partial batch recovery, uncertain response key reuse, intentional new request, input preservation, duplicate-click and tenant/role guards');
+})().catch(e=>{console.error(e);process.exitCode=1});

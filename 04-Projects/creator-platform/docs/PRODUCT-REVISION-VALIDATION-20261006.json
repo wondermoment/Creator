@@ -1,0 +1,20 @@
+{
+  "observed_at_utc": "2026-10-06T00:50:37.335433+00:00",
+  "server_pid": 72928,
+  "read_only_http_checks": {
+    "catalog_revision_format": true,
+    "product_schema_revision": true,
+    "frontend_version": true,
+    "sandbox": true
+  },
+  "catalog_rows_checked": 0,
+  "backend_test_executions": 20,
+  "distinct_backend_tests": 11,
+  "frontend_suites": [
+    "product-revision",
+    "product-id-escaping",
+    "form-async"
+  ],
+  "model_calls": 0,
+  "live_write_requests": 0
+}

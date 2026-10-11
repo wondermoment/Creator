@@ -1,0 +1,63 @@
+{
+  "book": {
+    "id": "hou-29",
+    "number": 29,
+    "title": "酶与诺贝尔奖",
+    "category": "代谢",
+    "author": "编者信息待核对"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E9%85%B6%E4%B8%8E%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96",
+  "results": [
+    {
+      "title": "光与线【诺贝尔文学奖韩江新作】",
+      "author": "[韩]韩江",
+      "url": "https://weread.qq.com/web/reader/16732030813abbbbeg0141eb"
+    },
+    {
+      "title": "幸福婚姻与性：1950年诺贝尔文学奖获奖作品",
+      "author": "[英]罗素",
+      "url": "https://weread.qq.com/web/reader/94c32510726dc36594c83a3"
+    },
+    {
+      "title": "第一推动丛书·诺贝尔奖得主作品（新版套装共8册：《黑洞与时间弯曲》《终极理论之梦》《存在之轻》《不同的宇宙》《惊人的假说》《第二自然》《比天空更宽广》《真理与美》）",
+      "author": "基普·S.索恩 斯蒂芬·温伯格 弗兰克·维尔切克 罗伯特·B.劳克林 杰拉尔德·M.埃德尔曼 S.钱德拉塞卡 弗朗西斯·克里克",
+      "url": "https://weread.qq.com/web/reader/8f6325e071e2194c8f6c2ba"
+    },
+    {
+      "title": "身份与暴力——命运的幻象（诺贝尔经济学奖获得者丛书）",
+      "author": "阿马蒂亚·森",
+      "url": "https://weread.qq.com/web/reader/b1332980813ab8270g01040a"
+    },
+    {
+      "title": "诺贝尔文学奖大系：小毛驴与我",
+      "author": "[西]希梅内斯",
+      "url": "https://weread.qq.com/web/reader/836328b05e144e836965bed"
+    },
+    {
+      "title": "素食者【2024诺贝尔文学奖得主】",
+      "author": "[韩]韩江",
+      "url": "https://weread.qq.com/web/reader/2ff32410726da6902ff40f0"
+    },
+    {
+      "title": "植物妻子【2024诺贝尔文学奖得主 】",
+      "author": "[韩]韩江",
+      "url": "https://weread.qq.com/web/reader/93932ba0813ab7ab7g010a1e"
+    },
+    {
+      "title": "爱的荒漠（诺贝尔文学奖作品）",
+      "author": "[法]弗朗索瓦·莫里亚克",
+      "url": "https://weread.qq.com/web/reader/7d432fe0813abb794g013dce"
+    },
+    {
+      "title": "不做告别【2024诺贝尔文学奖得主 】",
+      "author": "[韩]韩江",
+      "url": "https://weread.qq.com/web/reader/b4b32c10813ab86b4g017f93"
+    },
+    {
+      "title": "失语者 【2024诺贝尔文学奖得主 】",
+      "author": "[韩]韩江",
+      "url": "https://weread.qq.com/web/reader/abc32760813ab83bbg019126"
+    }
+  ]
+}

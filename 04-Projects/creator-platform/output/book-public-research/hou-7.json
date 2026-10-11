@@ -1,0 +1,40 @@
+{
+  "id": "hou-7",
+  "requested_title": "超越百岁：长寿的科学与艺术",
+  "query": "Outlive Peter Attia",
+  "checked": "2026-10-06",
+  "sources": [
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL28148070W",
+      "title": "Outlive",
+      "authors": [
+        "Peter Attia",
+        "Bill Gifford"
+      ],
+      "year": 2023,
+      "description": "",
+      "subjects": [
+        "nyt:combined-print-and-e-book-nonfiction=2023-04-16",
+        "New York Times bestseller"
+      ]
+    },
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL44593114W",
+      "title": "Outlive",
+      "authors": [
+        "Peter Attia"
+      ],
+      "year": 2023,
+      "description": "",
+      "subjects": [
+        "Health",
+        "Self-help techniques"
+      ]
+    }
+  ],
+  "errors": [
+    "Wikipedia: HTTP Error 429: Too Many Requests"
+  ]
+}

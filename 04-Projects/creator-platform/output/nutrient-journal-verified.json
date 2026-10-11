@@ -1,0 +1,130 @@
+{
+  "nad": {
+    "title": [
+      "NAD+ metabolism and its roles in cellular processes during ageing"
+    ],
+    "container-title": [
+      "Nature Reviews Molecular Cell Biology"
+    ],
+    "DOI": "10.1038/s41580-020-00313-x",
+    "abstract": "Nicotinamide adenine dinucleotide (NAD<sup>+</sup>) is a coenzyme for redox reactions, making it central to energy metabolism. NAD<sup>+</sup> is also an essential cofactor for non-redox NAD<sup>+</sup>-dependent enzymes, including sirtuins, CD38 and poly(ADP-ribose) polymerases. NAD<sup>+</sup> can directly and indirectly influence many key cellular functions, including metabolic pathways, DNA repair, chromatin remodelling, cellular senescence and immune cell function. These cellular processes and functions are critical for maintaining tissue and metabolic homeostasis and for healthy ageing. Remarkably, ageing is accompanied by a gradual decline in tissue and cellular NAD<sup>+</sup> levels in multiple model organisms, including rodents and humans. This decline in NAD<sup>+</sup> levels is linked causally to numerous ageing-associated diseases, including cognitive decline, cancer, metabolic disease, sarcopenia and frailty. Many of these ageing-associated diseases can be slowed down and even reversed by restoring NAD<sup>+</sup> levels. Therefore, targeting NAD<sup>+</sup> metabolism has emerged as a potential therapeutic approach to ameliorate ageing-related disease, and extend the human healthspan and lifespan. However, much remains to be learnt about how NAD<sup>+</sup> influences human health and ageing biology. This includes a deeper understanding of the molecular mechanisms that regulate NAD<sup>+</sup> levels, how to effectively restore NAD<sup>+</sup> levels during ageing, whether doing so is safe and whether NAD<sup>+</sup> repletion will have beneficial effects in ageing humans.",
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          22
+        ]
+      ]
+    },
+    "pmid": "33353981",
+    "year": "2021"
+  },
+  "q10": {
+    "title": [
+      "The Effect of Coenzyme Q 10 on Morbidity and Mortality in Chronic Heart Failure"
+    ],
+    "container-title": [
+      "JACC: Heart Failure"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.jchf.2014.06.008",
+    "URL": "https://doi.org/10.1016/j.jchf.2014.06.008",
+    "abstract": "<h4>Objectives</h4>This randomized controlled multicenter trial evaluated coenzyme Q10 (CoQ10) as adjunctive treatment in chronic heart failure (HF).<h4>Background</h4>CoQ10 is an essential cofactor for energy production and is also a powerful antioxidant. A low level of myocardial CoQ10 is related to the severity of HF. Previous randomized controlled trials of CoQ10 in HF were underpowered to address major clinical endpoints.<h4>Methods</h4>Patients with moderate to severe HF were randomly assigned in a 2-year prospective trial to either CoQ10 100 mg 3 times daily or placebo, in addition to standard therapy. The primary short-term endpoints at 16 weeks were changes in New York Heart Association (NYHA) functional classification, 6-min walk test, and levels of N-terminal pro-B type natriuretic peptide. The primary long-term endpoint at 2 years was composite major adverse cardiovascular events as determined by a time to first event analysis.<h4>Results</h4>A total of 420 patients were enrolled. There were no significant changes in short-term endpoints. The primary long-term endpoint was reached by 15% of the patients in the CoQ10 group versus 26% in the placebo group (hazard ratio: 0.50; 95% confidence interval: 0.32 to 0.80; p = 0.003) by intention-to-treat analysis. The following secondary endpoints were significantly lower in the CoQ10 group compared with the placebo group: cardiovascular mortality (9% vs. 16%, p = 0.026), all-cause mortality (10% vs. 18%, p = 0.018), and incidence of hospital stays for HF (p = 0.033). In addition, a significant improvement of NYHA class was found in the CoQ10 group after 2 years (p = 0.028).<h4>Conclusions</h4>Long-term CoQ10 treatment of patients with chronic HF is safe, improves symptoms, and reduces major adverse cardiovascular events. (Coenzyme Q10 as adjunctive treatment of chronic heart failure: a randomised, double-blind, multicentre trial with focus on SYMptoms, BIomarker status [Brain-Natriuretic Peptide (BNP)], and long-term Outcome [hospitalisations/mortality]; ISRCTN94506234).",
+    "pmid": "25282031",
+    "year": "2014"
+  },
+  "nmn": {
+    "title": [
+      "Nicotinamide mononucleotide increases muscle insulin sensitivity in prediabetic women"
+    ],
+    "container-title": [
+      "Science"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1126/science.abe9985",
+    "URL": "https://doi.org/10.1126/science.abe9985",
+    "abstract": "In rodents, obesity and aging impair nicotinamide adenine dinucleotide (NAD<sup>+</sup>) biosynthesis, which contributes to metabolic dysfunction. Nicotinamide mononucleotide (NMN) availability is a rate-limiting factor in mammalian NAD<sup>+</sup> biosynthesis. We conducted a 10-week, randomized, placebo-controlled, double-blind trial to evaluate the effect of NMN supplementation on metabolic function in postmenopausal women with prediabetes who were overweight or obese. Insulin-stimulated glucose disposal, assessed by using the hyperinsulinemic-euglycemic clamp, and skeletal muscle insulin signaling [phosphorylation of protein kinase AKT and mechanistic target of rapamycin (mTOR)] increased after NMN supplementation but did not change after placebo treatment. NMN supplementation up-regulated the expression of platelet-derived growth factor receptor β and other genes related to muscle remodeling. These results demonstrate that NMN increases muscle insulin sensitivity, insulin signaling, and remodeling in women with prediabetes who are overweight or obese (clinicaltrial.gov NCT03151239).",
+    "pmid": "33888596",
+    "year": "2021"
+  },
+  "pqq": {
+    "title": [
+      "Dietary pyrroloquinoline quinone (PQQ) alters indicators of inflammation and mitochondrial-related metabolism in human subjects"
+    ],
+    "container-title": [
+      "The Journal of Nutritional Biochemistry"
+    ],
+    "DOI": "10.1016/j.jnutbio.2013.07.008",
+    "abstract": "Pyrroloquinoline quinone (PQQ) influences energy-related metabolism and neurologic functions in animals. The mechanism of action involves interactions with cell signaling pathways and mitochondrial function. However, little is known about the response to PQQ in humans. Using a crossover study design, 10 subjects (5 females, 5 males) ingested PQQ added to a fruit-flavored drink in two separate studies. In study 1, PQQ was given in a single dose (0.2 mg PQQ/kg). Multiple measurements of plasma and urine PQQ levels and changes in antioxidant potential [based on total peroxyl radical-trapping potential and thiobarbituric acid reactive product (TBAR) assays] were made throughout the period of 48 h. In study 2, PQQ was administered as a daily dose (0.3 mg PQQ/kg). After 76 h, measurements included indices of inflammation [plasma C-reactive protein, interleukin (IL)-6 levels], standard clinical indices (e.g., cholesterol, glucose, high-density lipoprotein, low-density lipoprotein, triglycerides, etc.) and (1)H-nuclear magnetic resonance estimates of urinary metabolites related in part to oxidative metabolism. The standard clinical indices were normal and not altered by PQQ supplementation. However, dietary PQQ exposure (Study 1) resulted in apparent changes in antioxidant potential based on malonaldehyde-related TBAR assessments. In Study 2, PQQ supplementation resulted in significant decreases in the levels of plasma C-reactive protein, IL-6 and urinary methylated amines such as trimethylamine N-oxide, and changes in urinary metabolites consistent with enhanced mitochondria-related functions. The data are among the first to link systemic effects of PQQ in animals to corresponding effects in humans.",
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          12
+        ]
+      ]
+    },
+    "pmid": "24231099",
+    "year": "2013"
+  },
+  "omega": {
+    "title": [
+      "Marine n−3 Fatty Acids and Prevention of Cardiovascular Disease and Cancer"
+    ],
+    "container-title": [
+      "New England Journal of Medicine"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1056/nejmoa1811403",
+    "URL": "https://doi.org/10.1056/nejmoa1811403",
+    "abstract": "<h4>Background</h4>Higher intake of marine n-3 (also called omega-3) fatty acids has been associated with reduced risks of cardiovascular disease and cancer in several observational studies. Whether supplementation with n-3 fatty acids has such effects in general populations at usual risk for these end points is unclear.<h4>Methods</h4>We conducted a randomized, placebo-controlled trial, with a two-by-two factorial design, of vitamin D<sub>3</sub> (at a dose of 2000 IU per day) and marine n-3 fatty acids (at a dose of 1 g per day) in the primary prevention of cardiovascular disease and cancer among men 50 years of age or older and women 55 years of age or older in the United States. Primary end points were major cardiovascular events (a composite of myocardial infarction, stroke, or death from cardiovascular causes) and invasive cancer of any type. Secondary end points included individual components of the composite cardiovascular end point, the composite end point plus coronary revascularization (expanded composite of cardiovascular events), site-specific cancers, and death from cancer. Safety was also assessed. This article reports the results of the comparison of n-3 fatty acids with placebo.<h4>Results</h4>A total of 25,871 participants, including 5106 black participants, underwent randomization. During a median follow-up of 5.3 years, a major cardiovascular event occurred in 386 participants in the n-3 group and in 419 in the placebo group (hazard ratio, 0.92; 95% confidence interval [CI], 0.80 to 1.06; P=0.24). Invasive cancer was diagnosed in 820 participants in the n-3 group and in 797 in the placebo group (hazard ratio, 1.03; 95% CI, 0.93 to 1.13; P=0.56). In the analyses of key secondary end points, the hazard ratios were as follows: for the expanded composite end point of cardiovascular events, 0.93 (95% CI, 0.82 to 1.04); for total myocardial infarction, 0.72 (95% CI, 0.59 to 0.90); for total stroke, 1.04 (95% CI, 0.83 to 1.31); for death from cardiovascular causes, 0.96 (95% CI, 0.76 to 1.21); and for death from cancer (341 deaths from cancer), 0.97 (95% CI, 0.79 to 1.20). In the analysis of death from any cause (978 deaths overall), the hazard ratio was 1.02 (95% CI, 0.90 to 1.15). No excess risks of bleeding or other serious adverse events were observed.<h4>Conclusions</h4>Supplementation with n-3 fatty acids did not result in a lower incidence of major cardiovascular events or cancer than placebo. (Funded by the National Institutes of Health and others; VITAL ClinicalTrials.gov number, NCT01169259 .).",
+    "pmid": "30415637",
+    "year": "2019"
+  },
+  "d": {
+    "title": [
+      "Vitamin D Supplements and Prevention of Cancer and Cardiovascular Disease"
+    ],
+    "container-title": [
+      "New England Journal of Medicine"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1056/nejmoa1809944",
+    "URL": "https://doi.org/10.1056/nejmoa1809944",
+    "abstract": "<h4>Background</h4>It is unclear whether supplementation with vitamin D reduces the risk of cancer or cardiovascular disease, and data from randomized trials are limited.<h4>Methods</h4>We conducted a nationwide, randomized, placebo-controlled trial, with a two-by-two factorial design, of vitamin D<sub>3</sub> (cholecalciferol) at a dose of 2000 IU per day and marine n-3 (also called omega-3) fatty acids at a dose of 1 g per day for the prevention of cancer and cardiovascular disease among men 50 years of age or older and women 55 years of age or older in the United States. Primary end points were invasive cancer of any type and major cardiovascular events (a composite of myocardial infarction, stroke, or death from cardiovascular causes). Secondary end points included site-specific cancers, death from cancer, and additional cardiovascular events. This article reports the results of the comparison of vitamin D with placebo.<h4>Results</h4>A total of 25,871 participants, including 5106 black participants, underwent randomization. Supplementation with vitamin D was not associated with a lower risk of either of the primary end points. During a median follow-up of 5.3 years, cancer was diagnosed in 1617 participants (793 in the vitamin D group and 824 in the placebo group; hazard ratio, 0.96; 95% confidence interval [CI], 0.88 to 1.06; P=0.47). A major cardiovascular event occurred in 805 participants (396 in the vitamin D group and 409 in the placebo group; hazard ratio, 0.97; 95% CI, 0.85 to 1.12; P=0.69). In the analyses of secondary end points, the hazard ratios were as follows: for death from cancer (341 deaths), 0.83 (95% CI, 0.67 to 1.02); for breast cancer, 1.02 (95% CI, 0.79 to 1.31); for prostate cancer, 0.88 (95% CI, 0.72 to 1.07); for colorectal cancer, 1.09 (95% CI, 0.73 to 1.62); for the expanded composite end point of major cardiovascular events plus coronary revascularization, 0.96 (95% CI, 0.86 to 1.08); for myocardial infarction, 0.96 (95% CI, 0.78 to 1.19); for stroke, 0.95 (95% CI, 0.76 to 1.20); and for death from cardiovascular causes, 1.11 (95% CI, 0.88 to 1.40). In the analysis of death from any cause (978 deaths), the hazard ratio was 0.99 (95% CI, 0.87 to 1.12). No excess risks of hypercalcemia or other adverse events were identified.<h4>Conclusions</h4>Supplementation with vitamin D did not result in a lower incidence of invasive cancer or cardiovascular events than placebo. (Funded by the National Institutes of Health and others; VITAL ClinicalTrials.gov number, NCT01169259 .).",
+    "pmid": "30415629",
+    "year": "2019"
+  }
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "command": [
+      "D:/Program Files/nodejs/node.exe",
+      "tests/book-upload-async.cjs"
+    ],
+    "exit": 0,
+    "output": "PASS: upload/body/status cancellation on close/replacement settles uncooperative transport, removes listeners/timers, ignores late results, preserves new window; pre-cancel sends nothing.\nPASS: upload validation, bounded transport/body parsing, duplicate/send guards, confirmed vs uncertain outcomes, manual status recovery, persistent warning, draft/file preservation and cross-book isolation. No real network, model, files or data changed.\n"
+  },
+  {
+    "command": [
+      "D:/Program Files/nodejs/node.exe",
+      "tests/book-reader-async.cjs"
+    ],
+    "exit": 0,
+    "output": "PASS: malformed answers/evidence never enter history; both reading routes preserve draft/prior turns and recover; malformed initial history reloads; SQLite saved 0/1 accepted.\nPASS: public-book long conversations retain early user restrictions; old backend answer rejected, same payload retry and capacity limit explicit.\nPASS: save receipt validation, duplicate suppression, timeout/late receipt, cross-book errors and in-flight answer preservation.\nPASS: complete public answer exposes local knowledge action; carries original question and does not send server save requests.\nPASS: asynchronous local saves show pending state, restore on failure, and preserve another book or an in-flight reply.\nPASS: startup GET timeouts/manual retry/draft preservation/late and cross-book isolation; clean book header without consent/urgent panels.\nPASS: both reading routes have bounded wait, direct-send/duplicate guards, draft recovery, no automatic retry, late-answer isolation and source-history reminder; existing routes pass. Synthetic only.\n"
+  },
+  {
+    "command": [
+      "D:/Program Files/nodejs/node.exe",
+      "tests/modal-stream-replace.cjs"
+    ],
+    "exit": 0,
+    "output": "PASS: 24 stream/source/fallback coach/book replacement and close scenarios abort transport, settle uncooperative requests, block late content, preserve new drafts/replies and clean timers/layout. Synthetic only.\n"
+  },
+  {
+    "command": [
+      "D:/Program Files/nodejs/node.exe",
+      "tests/coach-transport.cjs"
+    ],
+    "exit": 0,
+    "output": "PASS: 270-second boundary aborts browser transport; api forwards signal; unrelated POST callers unchanged. Synthetic timers/network only.\n"
+  },
+  {
+    "command": [
+      "D:/Program Files/nodejs/node.exe",
+      "tests/knowledge-backup.cjs"
+    ],
+    "exit": 0,
+    "output": "PASS: exact legacy/new raw strings, corrupt-data export, unrelated storage excluded, no mutation, read/consistency/download failures and URL cleanup; synthetic only.\n"
+  },
+  {
+    "command": [
+      "D:/Program Files/nodejs/node.exe",
+      "tests/knowledge-note-lock.cjs"
+    ],
+    "exit": 0,
+    "output": "PASS: two-context queued saves preserve all notes, same-answer dedupe, bounded lock wait, no late writes, latest-data validation, quota recovery, all three writers and fail-closed unsupported browsers. Synthetic LockManager only.\n"
+  },
+  {
+    "command": [
+      "D:/Program Files/nodejs/node.exe",
+      "tests/knowledge-storage-integrity.cjs"
+    ],
+    "exit": 0,
+    "output": "PASS: malformed/denied storage blocks manual and AI writes; no empty-state lie, raw bytes retained; valid legacy notes/unknown fields survive recovery.\n"
+  },
+  {
+    "command": [
+      "D:/Program Files/nodejs/node.exe",
+      "--check",
+      "frontend/book-reader.js"
+    ],
+    "exit": 0,
+    "output": ""
+  }
+]

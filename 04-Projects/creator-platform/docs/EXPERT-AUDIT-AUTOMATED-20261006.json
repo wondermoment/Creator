@@ -1,0 +1,87 @@
+[
+  {
+    "exit": 0,
+    "suite": "coach-skill-parity",
+    "output": "Recipe skill export/runtime task and full shared policy parity passed"
+  },
+  {
+    "exit": 0,
+    "suite": "coach-skill-flow",
+    "output": "PASS: seven real skill routes × six turns; complete task + capability limits retained, all starter buttons fill without sending. Synthetic only."
+  },
+  {
+    "exit": 1,
+    "suite": "research-chat-flow",
+    "output": "ReferenceError: chatMessageHtml is not defined\n    at form.onsubmit (evalmachine.<anonymous>:46:29)\n    at C:\\Users\\pc02a\\Creator\\04-Projects\\creator-platform\\tests\\research-chat-flow.cjs:11:68\n    at Object.<anonymous> (C:\\Users\\pc02a\\Creator\\04-Projects\\creator-platform\\tests\\research-chat-flow.cjs:20:3)\n    at Module._compile (node:internal/modules/cjs/loader:1781:14)\n    at Object..js (node:internal/modules/cjs/loader:1913:10)\n    at Module.load (node:internal/modules/cjs/loader:1505:32)\n    at Function._load (node:internal/modules/cjs/loader:1309:12)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:254:19)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)\n    at node:internal/main/run_main_module:36:49"
+  },
+  {
+    "exit": 1,
+    "suite": "nutrient-chat-flow",
+    "output": "ReferenceError: chatMessageHtml is not defined\n    at form.onsubmit (evalmachine.<anonymous>:46:29)\n    at C:\\Users\\pc02a\\Creator\\04-Projects\\creator-platform\\tests\\nutrient-chat-flow.cjs:14:64\n    at Object.<anonymous> (C:\\Users\\pc02a\\Creator\\04-Projects\\creator-platform\\tests\\nutrient-chat-flow.cjs:20:3)\n    at Module._compile (node:internal/modules/cjs/loader:1781:14)\n    at Object..js (node:internal/modules/cjs/loader:1913:10)\n    at Module.load (node:internal/modules/cjs/loader:1505:32)\n    at Function._load (node:internal/modules/cjs/loader:1309:12)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:254:19)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)\n    at node:internal/main/run_main_module:36:49"
+  },
+  {
+    "exit": 1,
+    "suite": "testing-chat-flow",
+    "output": "ReferenceError: chatMessageHtml is not defined\n    at form.onsubmit (evalmachine.<anonymous>:46:29)\n    at C:\\Users\\pc02a\\Creator\\04-Projects\\creator-platform\\tests\\testing-chat-flow.cjs:20:64\n    at Object.<anonymous> (C:\\Users\\pc02a\\Creator\\04-Projects\\creator-platform\\tests\\testing-chat-flow.cjs:30:3)\n    at Module._compile (node:internal/modules/cjs/loader:1781:14)\n    at Object..js (node:internal/modules/cjs/loader:1913:10)\n    at Module.load (node:internal/modules/cjs/loader:1505:32)\n    at Function._load (node:internal/modules/cjs/loader:1309:12)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:254:19)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)\n    at node:internal/main/run_main_module:36:49"
+  },
+  {
+    "exit": 0,
+    "suite": "travel-service-context",
+    "output": "PASS: 21 guide inquiry subjects match catalog, complete JSON itinerary and uncertainty passed; unknown subject stays unknown. No model call."
+  },
+  {
+    "exit": 0,
+    "suite": "travel-new-destinations",
+    "output": "PASS: five new domestic guides, full daily alternatives, source context, three local photos and correct category/favorite empty states. Synthetic only."
+  },
+  {
+    "exit": 0,
+    "suite": "clinic-guides",
+    "output": "PASS: 4 clinic routes, 8 inquiry contexts <4000 chars; source links, 2 images, regional scope and unverified institutions preserved. Synthetic tests only."
+  },
+  {
+    "exit": 0,
+    "suite": "exercise-context",
+    "output": "PASS: 6 contextual coach entry events; walk/break schedules; invalid selection guard. No model calls."
+  },
+  {
+    "exit": 0,
+    "suite": "expert-context",
+    "output": "PASS: 3 expert entry events preserve specialty and identity limits; missing/research entries ignored. No model calls or user storage."
+  },
+  {
+    "exit": 0,
+    "suite": "book-public-sources",
+    "output": "Public references: safe links, escaped text, original-source compatibility passed"
+  },
+  {
+    "exit": 0,
+    "suite": "knowledge-notes",
+    "output": "PASS: local excerpt save, empty rejection, existing note preservation, escaped rendering and article selection entry. No real data changed."
+  },
+  {
+    "exit": 0,
+    "suite": "recipe-handwritten",
+    "output": "PASS: 26 actual integrated recipes; image files exist, step text retained, no duplicate lists or nonexistent step images. Synthetic only."
+  },
+  {
+    "exit": 0,
+    "suite": "recipe-watercolor",
+    "output": "PASS: 26 watercolor recipes have four assets, step descriptions and unchanged sharing text"
+  },
+  {
+    "exit": 0,
+    "suite": "nutrient-art-content",
+    "output": "PASS: six article routes, references, consultation and removed footer\nPASS: music preferences enter generation prompt; painting unchanged. No network generation."
+  },
+  {
+    "exit": 0,
+    "suite": "art-async",
+    "output": "PASS: duplicate guard, stale success isolation, draft retention, stable retry key and current result. No external requests."
+  },
+  {
+    "exit": 0,
+    "suite": "release.test",
+    "output": "TAP version 13\n# Subtest: travel rejects impossible and malformed calendar dates\nok 1 - travel rejects impossible and malformed calendar dates\n  ---\n  duration_ms: 12.2607\n  type: 'test'\n  ...\n# Subtest: journal wraps text without discarding characters or paragraphs\nok 2 - journal wraps text without discarding characters or paragraphs\n  ---\n  duration_ms: 2.5849\n  type: 'test'\n  ...\n# Subtest: leaving journal cancels active video export\nok 3 - leaving journal cancels active video export\n  ---\n  duration_ms: 2.8203\n  type: 'test'\n  ...\n# Subtest: corrupt journal storage degrades to empty list\nok 4 - corrupt journal storage degrades to empty list\n  ---\n  duration_ms: 2.01\n  type: 'test'\n  ...\n1..4\n# tests 4\n# suites 0\n# pass 4\n# fail 0\n# cancelled 0\n# skipped 0\n# todo 0\n# duration_ms 60.0221"
+  }
+]

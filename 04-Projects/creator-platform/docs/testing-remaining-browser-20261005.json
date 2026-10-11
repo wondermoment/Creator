@@ -1,0 +1,90 @@
+[
+  {
+    "id": "family",
+    "complete": true,
+    "container": 330,
+    "natural": 1254,
+    "overflow": false,
+    "width": 330
+  },
+  {
+    "id": "gut",
+    "complete": true,
+    "container": 330,
+    "natural": 1254,
+    "overflow": false,
+    "width": 330
+  },
+  {
+    "id": "oral",
+    "complete": true,
+    "container": 330,
+    "natural": 1254,
+    "overflow": false,
+    "width": 330
+  },
+  {
+    "id": "nad",
+    "complete": true,
+    "container": 330,
+    "natural": 1254,
+    "overflow": false,
+    "width": 330
+  },
+  {
+    "id": "organic-acids",
+    "complete": true,
+    "container": 330,
+    "natural": 1254,
+    "overflow": false,
+    "width": 330
+  },
+  {
+    "id": "chronic",
+    "complete": true,
+    "container": 330,
+    "natural": 1254,
+    "overflow": false,
+    "width": 330
+  },
+  {
+    "id": "male",
+    "complete": true,
+    "container": 330,
+    "natural": 1254,
+    "overflow": false,
+    "width": 330
+  },
+  {
+    "id": "female",
+    "complete": true,
+    "container": 330,
+    "natural": 1254,
+    "overflow": false,
+    "width": 330
+  },
+  {
+    "id": "immune",
+    "complete": true,
+    "container": 330,
+    "natural": 1254,
+    "overflow": false,
+    "width": 330
+  },
+  {
+    "id": "environment",
+    "complete": true,
+    "container": 330,
+    "natural": 1254,
+    "overflow": false,
+    "width": 330
+  },
+  {
+    "id": "elements",
+    "complete": true,
+    "container": 330,
+    "natural": 1254,
+    "overflow": false,
+    "width": 330
+  }
+]

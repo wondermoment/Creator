@@ -1,0 +1,50 @@
+{
+  "id": "hou-24",
+  "requested_title": "癌症传：众病之王",
+  "query": "The Emperor of All Maladies Siddhartha Mukherjee",
+  "checked": "2026-10-06",
+  "sources": [
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL15540668W",
+      "title": "The Emperor of All Maladies",
+      "authors": [
+        "Siddhartha Mukherjee",
+        "Nessa Carey"
+      ],
+      "year": 2010,
+      "description": "The Emperor of All Maladies: A Biography of Cancer is a book written by Siddhartha Mukherjee, an Indian-born American physician and oncologist. Published on 16 November 2010 by Scribner, it won the 2011 Pulitzer Prize for General Non-Fiction.",
+      "subjects": [
+        "medical history",
+        "social sciences",
+        "history",
+        "civilization",
+        "oncology",
+        "Cancer",
+        "nyt:paperback_nonfiction=2011-08-27",
+        "research",
+        "New York Times bestseller",
+        "medicine",
+        "Leukemia",
+        "Antineoplastic Agents",
+        "drug therapy",
+        "Cancer, popular works",
+        "History, 20th Century"
+      ]
+    },
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL45613826W",
+      "title": "Emperador de Todos Los Males. Edición Ampliada / the Emperor of All Maladies. Expanded Edition",
+      "authors": [
+        "Siddhartha Mukherjee"
+      ],
+      "year": 2026,
+      "description": "",
+      "subjects": []
+    }
+  ],
+  "errors": [
+    "Wikipedia: HTTP Error 429: Too Many Requests"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "article_id": "9c8fd4efd0f7de9f21b0c97a",
+  "revision": 7,
+  "sources": [
+    {
+      "asset_id": "c001d1a10b008d3684754f1d",
+      "sha256": "63ca629d9c58de2ad441645b53fc9f26bde55bbe069144ecd6c471463bc81aef",
+      "after": 0,
+      "caption": "2025 中国国际表面处理展 · 和拓展台与现场交流",
+      "rationale": "开篇：从真实展台引入硅晶产品与应用认知",
+      "source_refs": [
+        {
+          "document_asset": "353443f0345535571143a097",
+          "part": "word/media/image10.jpeg",
+          "batch": "hetuo-20261002"
+        }
+      ],
+      "source_documents": [
+        {
+          "id": "38e9185edf55cb1742f25d2f",
+          "title": "公众号文章-和拓化学亮相2025表面处理展，硅晶技术+智能加药系统+废液处理循环系统引领行业绿色变革",
+          "version": 1
+        }
+      ]
+    },
+    {
+      "asset_id": "745d60572cb24ae11574bb20",
+      "sha256": "3c1ffc0bed8352a2d451f264e316ed7d811dae3b73e963068376102e67f712ae",
+      "after": 18,
+      "caption": "崇明东滩 · 金属表面处理及涂装技术培训现场",
+      "rationale": "中段：衔接不同处理工艺的知识说明",
+      "source_refs": [
+        {
+          "document_asset": "6729ca7e9292f57f3448e828",
+          "part": "word/media/image17.jpeg",
+          "batch": "hetuo-20261002"
+        }
+      ],
+      "source_documents": [
+        {
+          "id": "1c8e037f4f653628e20a442c",
+          "title": "崇明东滩保护区金属表面处理及涂装技术培训圆满结束，生态科技共融激发产业新活力",
+          "version": 1
+        }
+      ]
+    },
+    {
+      "asset_id": "6bb3a7a6b48fd6550b73f9ca",
+      "sha256": "f83451980c84d86ec249b05557830645120154a50ad1dd36190ff780041031cd",
+      "after": 37,
+      "caption": "2025 中国国际表面处理展 · 现场交流剪影",
+      "rationale": "结尾：呼应工况沟通与选型判断",
+      "source_refs": [
+        {
+          "document_asset": "353443f0345535571143a097",
+          "part": "word/media/image12.jpeg",
+          "batch": "hetuo-20261002"
+        }
+      ],
+      "source_documents": [
+        {
+          "id": "38e9185edf55cb1742f25d2f",
+          "title": "公众号文章-和拓化学亮相2025表面处理展，硅晶技术+智能加药系统+废液处理循环系统引领行业绿色变革",
+          "version": 1
+        }
+      ]
+    }
+  ],
+  "changed_articles": 1,
+  "published": false
+}

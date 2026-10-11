@@ -1,0 +1,21 @@
+{
+  "liver": {
+    "containerWidth": 330,
+    "imageWidth": 330,
+    "loaded": true,
+    "naturalWidth": 1254,
+    "scrollWidth": 360,
+    "src": "http://127.0.0.1:8765/static/assets/testing/test-liver-science.webp",
+    "width": 375
+  },
+  "apoe": {
+    "containerWidth": 330,
+    "imageWidth": 330,
+    "loaded": true,
+    "naturalWidth": 1254,
+    "scrollWidth": 360,
+    "src": "http://127.0.0.1:8765/static/assets/testing/test-apoe-science.webp",
+    "width": 375
+  },
+  "consultation": "Both correct MedlinePlus sources visible; starter only fills draft; no submit/model calls or user records changed"
+}

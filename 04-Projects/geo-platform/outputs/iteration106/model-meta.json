@@ -1,0 +1,12 @@
+{
+  "model": "gpt-6-sol",
+  "usage": {
+    "prompt_tokens": 17850,
+    "completion_tokens": 957,
+    "cached_input_tokens": 0
+  },
+  "estimated_cost": null,
+  "currency": "",
+  "transport": "codex_local",
+  "price_basis": "ChatGPT 套餐 Codex 用量；不换算 API 费用，非离线模型"
+}

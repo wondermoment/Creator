@@ -1,0 +1,25 @@
+{
+  "files": 1128,
+  "errors": [
+    "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)> skills/embedded-captions/modes/cinematic/README.md",
+    "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)> skills/embedded-captions/modes/cinematic/_archive/champion/spec.md",
+    "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)> skills/embedded-captions/modes/cinematic/_archive/champion/template.html",
+    "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)> skills/embedded-captions/modes/cinematic/_archive/memory-wall/spec.md",
+    "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)> skills/embedded-captions/modes/cinematic/_archive/memory-wall/template.html",
+    "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)> skills/embedded-captions/scripts/render-and-composite.sh",
+    "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)> skills/embedded-captions/scripts/render-theme.sh",
+    "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)> skills/hyperframes-animation/rules/chromatic-glitch.md",
+    "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)> skills/hyperframes-animation/rules/control-target-sync.md",
+    "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)> skills/motion-graphics/categories/news/module.md",
+    "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)> skills/remotion-best-practices/remotion-captions/transcribe-captions.md",
+    "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)> skills/remotion-best-practices/remotion-create/REFERENCE.md",
+    "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)> skills/remotion-markup/remotion-maps/techniques/maptiler/TECHNIQUE.md",
+    "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)> skills/remotion-markup/remotion-maps/techniques/maptiler/assets/CountryLabel.tsx",
+    "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)> skills/remotion-markup/remotion-maps/techniques/maptiler/assets/MapTilerVectorElement.ts",
+    "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)> skills/remotion-markup/remotion-maps/techniques/maptiler/assets/RiverReveal.tsx",
+    "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)> skills/animate-text/assets/specs/bottom-up-letters.json",
+    "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)> skills/animate-text/assets/specs/depth-parallax-words.json",
+    "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)> skills/animate-text/assets/specs/fade-through.json",
+    "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)> skills/animate-text/assets/specs/focus-blur-resolve.json"
+  ]
+}

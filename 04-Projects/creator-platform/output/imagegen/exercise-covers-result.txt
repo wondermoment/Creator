@@ -1,0 +1,10 @@
+Created all six 3:2 covers using one native generation call per asset. No website files edited.
+
+| ID | Native generated image absolute path |
+|---|---|
+| chair | `C:\Users\pc02a\Creator\04-Projects\geo-platform\.runtime\codex-local\generated_images\01a10352-74d2-76d3-9d08-c2b692e312cd\exec-db787794-6d2f-4fbf-af72-384376fcc810.png` |
+| wall | `C:\Users\pc02a\Creator\04-Projects\geo-platform\.runtime\codex-local\generated_images\01a10352-74d2-76d3-9d08-c2b692e312cd\exec-6cf5b1ec-f954-42ff-96b7-1ce692d3524c.png` |
+| row | `C:\Users\pc02a\Creator\04-Projects\geo-platform\.runtime\codex-local\generated_images\01a10352-74d2-76d3-9d08-c2b692e312cd\exec-a591c6fc-21d6-489d-bd51-f63923fe1133.png` |
+| heel | `C:\Users\pc02a\Creator\04-Projects\geo-platform\.runtime\codex-local\generated_images\01a10352-74d2-76d3-9d08-c2b692e312cd\exec-89626830-7f14-45ee-b5cb-3b4c00e96360.png` |
+| walk | `C:\Users\pc02a\Creator\04-Projects\geo-platform\.runtime\codex-local\generated_images\01a10352-74d2-76d3-9d08-c2b692e312cd\exec-74c5d9a2-b3e1-4886-8fa3-00ea4f7e9b37.png` |
+| break | `C:\Users\pc02a\Creator\04-Projects\geo-platform\.runtime\codex-local\generated_images\01a10352-74d2-76d3-9d08-c2b692e312cd\exec-ac018f34-ff8c-4ec3-b266-f1eec2dfee11.png` |

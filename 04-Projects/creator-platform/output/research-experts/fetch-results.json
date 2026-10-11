@@ -1,0 +1,60 @@
+[
+  {
+    "id": "sinclair-lab",
+    "url": "https://sinclair.hms.harvard.edu/",
+    "final": "https://sinclair.hms.harvard.edu/",
+    "bytes": 28008
+  },
+  {
+    "id": "longo-site",
+    "url": "https://valterlongo.com/",
+    "final": "https://valterlongo.com/",
+    "bytes": 170905
+  },
+  {
+    "id": "attia-book",
+    "url": "https://peterattiamd.com/outlive/",
+    "final": "https://peterattiamd.com/outlive/",
+    "bytes": 322550
+  },
+  {
+    "id": "attia-blog",
+    "url": "https://peterattiamd.com/category/exercise/",
+    "final": "https://peterattiamd.com/category/exercise/",
+    "bytes": 372627
+  },
+  {
+    "id": "barzilai-book",
+    "url": "https://us.macmillan.com/books/9781250230854/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "sinclair-book",
+    "url": "https://www.simonandschuster.com/books/Lifespan/David-A-Sinclair/9781501191978",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "barzilai-paper",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?format=json&resultType=core&query=TITLE%3A%22Metformin%20as%20a%20Tool%20to%20Target%20Aging%22",
+    "final": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?format=json&resultType=core&query=TITLE%3A%22Metformin%20as%20a%20Tool%20to%20Target%20Aging%22",
+    "bytes": 5753
+  },
+  {
+    "id": "longo-paper",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?format=json&resultType=core&query=TITLE%3A%22Fasting-mimicking%20diet%20and%20markers/risk%20factors%22",
+    "final": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?format=json&resultType=core&query=TITLE%3A%22Fasting-mimicking%20diet%20and%20markers/risk%20factors%22",
+    "bytes": 12602
+  },
+  {
+    "id": "sinclair-paper",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?format=json&resultType=core&query=TITLE%3A%22Reprogramming%20to%20recover%20youthful%20epigenetic%20information%22",
+    "final": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?format=json&resultType=core&query=TITLE%3A%22Reprogramming%20to%20recover%20youthful%20epigenetic%20information%22",
+    "bytes": 22384
+  },
+  {
+    "id": "attia-paper",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?format=json&resultType=core&query=TITLE%3A%22Outlive%22",
+    "final": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?format=json&resultType=core&query=TITLE%3A%22Outlive%22",
+    "bytes": 90757
+  }
+]

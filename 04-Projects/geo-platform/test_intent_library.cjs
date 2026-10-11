@@ -1,0 +1,13 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert');
+const listeners={},target={innerHTML:''};
+const c=vm.createContext({console,Map,Set,JSON,URLSearchParams,me:{identity:'a'},pid:'p',state:{user_intent:[]},location:{hash:'#qa?view=intent'},document:{addEventListener(t,f){(listeners[t]??=[]).push(f)}},brandPage:()=>'',qaPage:()=>'',faqModal:()=>{},refresh:async()=>{},canEdit:()=>true,esc:s=>String(s??'').replaceAll('<','&lt;'),action:(label,a)=>`<button data-action="${a}">${label}</button>`,$:()=>target});
+vm.runInContext(fs.readFileSync('static/qa.js','utf8'),c);
+c.state.user_intent=JSON.parse(fs.readFileSync('outputs/iteration49-intents-normalized.json','utf8')).map((r,i)=>({...r,id:'r'+i}));
+const run=s=>vm.runInContext(s,c);
+assert.equal(run('intentLibraryRows().length'),179);assert(run('intentLibraryCards()').includes('第 1 / 15 页'));
+run("intentLibraryFilter().group='purchase'");assert.equal(run('intentLibraryRows().length'),30);
+run("intentLibraryFilter().group='L4'");assert.equal(run('intentLibraryRows().length'),8);assert(run('intentLibraryCards()').includes('B33:G33'));
+run("intentLibraryFilter().query='现场工艺调试'");assert.equal(run('intentLibraryRows().length'),1);
+c.state.user_intent[0].title='<script>x</script>';run("intentLibraryFilter().group='';intentLibraryFilter().query=''");assert(!run('intentLibraryCards()').includes('<script>'));
+run("intentLibraryFilter().query='独立企业搜索';pid='p2'");assert.equal(run('intentLibraryFilter().query'),'');
+console.log('PASS: 179 records; category counts; search; pagination; provenance; HTML escaping and tenant filters');

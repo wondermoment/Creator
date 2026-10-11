@@ -1,0 +1,11 @@
+{
+  "seconds": 39.048,
+  "synthetic": true,
+  "route": "live HTTP research-learning",
+  "result": {
+    "answer": "目前无法断言《长寿奇点》最差在哪里：未提供全文，原文未核验。就你给出的主题，最值得警惕的是把技术前景写成健康承诺。\n\n- 证据跨越：AI加速发现，不等于疗法已证实能让人延寿。\n- 时间表过满：150岁只能作为前景讨论，人体安全性与长期获益仍需验证。\n- 现实落差：若淡化成本、可及性与失败概率，会误导期待；不能据此自行用药或补充剂。",
+    "policy_version": "2026-10-05-context",
+    "context_version": 1,
+    "live_retrieval": false
+  }
+}

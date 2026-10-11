@@ -1,0 +1,103 @@
+{
+  "book": {
+    "id": "hou-44",
+    "number": 44,
+    "title": "能量的真相",
+    "category": "运动心理",
+    "author": "作者信息待核对"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E8%83%BD%E9%87%8F%E7%9A%84%E7%9C%9F%E7%9B%B8",
+  "results": [
+    {
+      "title": "能量的真相",
+      "author": "[美]卡比尔·贾菲   [美]丽塔玛·戴维森",
+      "url": "https://weread.qq.com/web/reader/8d932e10813abafc9g017ae1"
+    },
+    {
+      "title": "去他的正能量：带你直面职场真相",
+      "author": "YK",
+      "url": "https://weread.qq.com/web/bookDetail/fc4328f0811e1dc00g017cb1"
+    },
+    {
+      "title": "21天生命能量手账",
+      "author": "李中莹",
+      "url": "https://weread.qq.com/web/reader/08032d90813ab8a4ag019801"
+    },
+    {
+      "title": "过好这一生的10个真相",
+      "author": "李中莹",
+      "url": "https://weread.qq.com/web/reader/b5932e90813ab8983g011ebf"
+    },
+    {
+      "title": "东方治理学：中华民族文化软实力",
+      "author": "熊春锦",
+      "url": "https://weread.qq.com/web/reader/285325605cdc6f28506ffb2"
+    },
+    {
+      "title": "天文爱好者（2025 年第 9 期）",
+      "author": "天文爱好者",
+      "url": "https://weread.qq.com/web/reader/6b232d40813aba6adg016944"
+    },
+    {
+      "title": "天文学讲座",
+      "author": "谷口义明",
+      "url": "https://weread.qq.com/web/reader/e5932600813ab9e2bg011e8a"
+    },
+    {
+      "title": "半小时讲透吸引力法则：如何科学改命（轻思维）",
+      "author": "柯豆豆",
+      "url": "https://weread.qq.com/web/reader/63132570813abb9d4g018731"
+    },
+    {
+      "title": "结构化侦讯模型构建与实操指南",
+      "author": "张宗奇 付凤",
+      "url": "https://weread.qq.com/web/reader/02432050813abad46g01358a"
+    },
+    {
+      "title": "太极能量学",
+      "author": "范紫阳",
+      "url": "https://weread.qq.com/web/reader/46632180813ab9b4cg01795c"
+    },
+    {
+      "title": "再度唤醒世界：赖特诗选",
+      "author": "[英]詹姆斯·赖特",
+      "url": "https://weread.qq.com/web/reader/d90326b0813aba037g010287"
+    },
+    {
+      "title": "我是幸福的",
+      "author": "卢军",
+      "url": "https://weread.qq.com/web/reader/67b32700813ab9733g014603"
+    },
+    {
+      "title": "深蓝余烬",
+      "author": "MYHD",
+      "url": "https://weread.qq.com/web/reader/99532d30813aba896g012feb"
+    },
+    {
+      "title": "人人都该懂的地外生命",
+      "author": "刘易斯·达特奈尔",
+      "url": "https://weread.qq.com/web/reader/acf32220728a4b22acf7b97"
+    },
+    {
+      "title": "金斯顿城系列（套装共3册）",
+      "author": "C.L.波尔克",
+      "url": "https://weread.qq.com/web/reader/9de32340728943bb9de7012"
+    },
+    {
+      "title": "金斯顿城（卷二）：风暴之歌",
+      "author": "C.L.波尔克",
+      "url": "https://weread.qq.com/web/reader/4ae329b07233ad2b4ae34dd"
+    },
+    {
+      "title": "未来影像报告：数智技术赋能电影研究话语创新",
+      "author": "杨俊蕾 著",
+      "url": "https://weread.qq.com/web/reader/49632a00813abb9f0g012ffa"
+    },
+    {
+      "title": "虹神传说",
+      "author": "挑灯看妹",
+      "url": "https://weread.qq.com/web/reader/611327f0813ab8c06g019bc3"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "book": {
+    "id": "new-longevity-singularity",
+    "number": 45,
+    "title": "长寿奇点",
+    "category": "新增阅读",
+    "edition": "张见一 · 浙江大学出版社 · 用户提供实拍书封",
+    "author": "张见一"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E9%95%BF%E5%AF%BF%E5%A5%87%E7%82%B9",
+  "results": [
+    {
+      "title": "超越百岁：长寿的科学与艺术",
+      "author": "[美]彼得·阿提亚",
+      "url": "https://weread.qq.com/web/reader/12f326c0813ab8d88g015fdf"
+    },
+    {
+      "title": "奇点更近：未来20年的人工智能神预测",
+      "author": "[美]雷·库兹韦尔",
+      "url": "https://weread.qq.com/web/reader/30932ba0813ab9615g012cce"
+    },
+    {
+      "title": "百岁人生：长寿时代的生活和工作",
+      "author": "琳达·格拉顿 安德鲁·斯科特",
+      "url": "https://weread.qq.com/web/reader/30c323e0715d784c30c1e1b"
+    },
+    {
+      "title": "奇点临近",
+      "author": "雷·库兹韦尔",
+      "url": "https://weread.qq.com/web/reader/85d326e05c079285d02a273"
+    },
+    {
+      "title": "老后破产：名为“长寿”的噩梦（译文纪实）",
+      "author": "[日]NHK特别节目录制组",
+      "url": "https://weread.qq.com/web/reader/edb32af0726a6728edb2000"
+    },
+    {
+      "title": "肌肉！肌肉！预防和逆转疾病，健康长寿的科学指南",
+      "author": "加布里埃尔·里昂",
+      "url": "https://weread.qq.com/web/reader/fe432890813ab94e5g017d5d"
+    },
+    {
+      "title": "长寿：逆转和延缓衰老的科学饮食（上下册）",
+      "author": "迈克尔·格雷格",
+      "url": "https://weread.qq.com/web/reader/ea232aa0813aba50fg015668"
+    },
+    {
+      "title": "长寿饮食术",
+      "author": "[日]镰田实",
+      "url": "https://weread.qq.com/web/reader/fac32940813ab9942g011b5d"
+    },
+    {
+      "title": "奇点遗民",
+      "author": "[美]刘宇昆",
+      "url": "https://weread.qq.com/web/reader/2ff32fe05df4b02ffce5cb3"
+    },
+    {
+      "title": "马斯克2026访谈深度解读：AGI技术奇点与人类未来",
+      "author": "李振",
+      "url": "https://weread.qq.com/web/reader/87232810813abb61cg017fd2"
+    },
+    {
+      "title": "当机器人学会工作：技术如何影响人类的工作、生活与未来",
+      "author": "[英]罗伯特·斯基德尔斯基",
+      "url": "https://weread.qq.com/web/reader/f2a322b0813abb0e9g01249a"
+    },
+    {
+      "title": "至高无上：一场颠覆世界的人工智能竞赛",
+      "author": "[美]帕米·奥尔森",
+      "url": "https://weread.qq.com/web/reader/b8232980813aba436g011f16"
+    }
+  ]
+}

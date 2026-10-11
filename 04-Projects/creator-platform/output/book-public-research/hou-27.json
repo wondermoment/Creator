@@ -1,0 +1,25 @@
+{
+  "id": "hou-27",
+  "requested_title": "人为什么会生病",
+  "query": "Why We Get Sick Benjamin Bikman",
+  "checked": "2026-10-06",
+  "sources": [
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL21703129W",
+      "title": "Why We Get Sick",
+      "authors": [
+        "Benjamin Bikman",
+        "Jason Fung"
+      ],
+      "year": 2020,
+      "description": "",
+      "subjects": [
+        "Internal medicine"
+      ]
+    }
+  ],
+  "errors": [
+    "Wikipedia: HTTP Error 429: Too Many Requests"
+  ]
+}

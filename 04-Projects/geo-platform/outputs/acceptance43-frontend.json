@@ -1,0 +1,62 @@
+[
+  {
+    "test": "test_auth_frontend.cjs",
+    "exit_code": 0,
+    "output": "PASS: login default, registration/login switch, no request on switch, preserved inputs, failed-login retry"
+  },
+  {
+    "test": "test_content_modules_frontend.cjs",
+    "exit_code": 0,
+    "output": "PASS: modular asset categories, search, escaping, cross-source selection, tenant scope and version-bound editor"
+  },
+  {
+    "test": "test_expert_formatting.cjs",
+    "exit_code": 0,
+    "output": "PASS: readable expert Markdown, safe HTML/link/image fallback, code fences, citations, unchanged saved answer and discarded-result gate\nPASS: excerpt transparency, safe values, no misleading note on legacy jobs"
+  },
+  {
+    "test": "test_expert_lifecycle.cjs",
+    "exit_code": 0,
+    "output": "PASS: chat/workflow busy consistency, duplicate-send guard, failed-send recovery, role and discarded-result save gates"
+  },
+  {
+    "test": "test_frontend.cjs",
+    "exit_code": 0,
+    "output": "PASS: 17 desktop routes, knowledge version gates, local Codex setup and tenant switch protection"
+  },
+  {
+    "test": "test_proof_frontend.cjs",
+    "exit_code": 0,
+    "output": "PASS: review revision binding, close/tenant guard, HTML/image loading gate, broken-image and stale-version rejection"
+  },
+  {
+    "test": "test_publish_handoff.cjs",
+    "exit_code": 0,
+    "output": "PASS: approval navigation only, explicit task creation, tenant/version/role/effective approval guards, duplicate-task UI, failed approval and image-loading gates"
+  },
+  {
+    "test": "test_repurpose_results.cjs",
+    "exit_code": 0,
+    "output": "PASS: saved repurpose preview uses safe formatting and explicit empty-channel label; ordinary preview unchanged\nPASS: repurpose safe formatting, no stale answers, blank/discarded/readonly save gates"
+  },
+  {
+    "test": "test_repurpose_retry.cjs",
+    "exit_code": 0,
+    "output": "PASS: partial batch recovery, uncertain response key reuse, intentional new request, input preservation, duplicate-click and tenant/role guards"
+  },
+  {
+    "test": "test_repurpose_session.cjs",
+    "exit_code": 0,
+    "output": "PASS: reload resumes remaining batch with same request key; no auto-run; user/tenant isolation; expiry, corrupt storage, foreign scope, quota fallback and logout cleanup"
+  },
+  {
+    "test": "test_review_workspace.cjs",
+    "exit_code": 0,
+    "output": "PASS: review-first workbench, 6-card paging/search, tenant reset, stale layout/approval grouping, draft versus confirmed receipts, schedule shared queue and collapsed tools"
+  },
+  {
+    "test": "test_workspace_ui.cjs",
+    "exit_code": 0,
+    "output": "PASS: independent brand editor, enterprise-scoped drafts, Enter send, Shift+Enter, IME and busy protection"
+  }
+]

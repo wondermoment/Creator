@@ -1,0 +1,550 @@
+[
+  {
+    "id": "zhang-running",
+    "number": 56,
+    "title": "跑步治愈",
+    "category": "运动心理",
+    "edition": "跑步治愈",
+    "author": "张展晖",
+    "intro": "从跑步的身体与心理体验出发，梳理速度、力量、时间和装备等常见认知。阅读价值：理解跑步怎样融入日常，建立适合自己的运动习惯。",
+    "cover": "/static/assets/book-covers/zhang-running.webp",
+    "source": "微信读书对应版本书封"
+  },
+  {
+    "id": "zhang-control",
+    "number": 57,
+    "title": "掌控",
+    "category": "运动心理",
+    "edition": "掌控：重启不疲惫、不焦虑的人生（经典修订版）",
+    "author": "张展晖",
+    "intro": "从运动、饮食、恢复与心态四个维度讨论精力管理。阅读价值：把短期目标变成可持续的日常安排，平衡工作、休息与身体状态。",
+    "cover": "/static/assets/book-covers/zhang-control.webp",
+    "source": "微信读书对应版本书封"
+  },
+  {
+    "id": "new-longevity-singularity",
+    "number": 45,
+    "title": "长寿奇点",
+    "category": "AI与未来",
+    "edition": "张见一 · 浙江大学出版社 · 用户提供实拍书封",
+    "author": "张见一",
+    "intro": "从AI加速生命科学的视角，讨论衰老研究与未来长寿生活。阅读价值：理解技术进展与个人健康规划的联系；“150岁”是书中前景讨论，不是寿命承诺。",
+    "cover": "/static/assets/book-covers/new-longevity-singularity-3d.png",
+    "source": "用户提供的实拍书封",
+    "publisher": "浙江大学出版社",
+    "summaryBasis": "依据封面信息整理的选书导读，非全文摘要"
+  },
+  {
+    "id": "new-noma",
+    "number": 46,
+    "title": "NOMA餐厅发酵指南",
+    "category": "营养饮食",
+    "edition": "René Redzepi / David Zilber · 广东旅游出版社 · 用户提供实拍书封",
+    "author": "René Redzepi、David Zilber",
+    "intro": "围绕曲、康普茶、酱油、味噌、醋及乳酸发酵等方法，认识发酵如何塑造风味。阅读价值：从原理理解厨房实践，操作时核对原书配方、温度、盐度与卫生条件。",
+    "cover": "/static/assets/book-covers/new-noma-3d.png",
+    "source": "用户提供的实拍书封",
+    "publisher": "广东旅游出版社",
+    "summaryBasis": "依据封面信息整理的选书导读，非全文摘要"
+  },
+  {
+    "id": "new-synthetic-biology",
+    "number": 48,
+    "title": "合成生物：生命的编程艺术",
+    "category": "生命科技",
+    "edition": "中国科学技术出版社",
+    "author": "李诗渊、魏岱旭 编著",
+    "intro": "以编程与工程设计的视角认识合成生物学。阅读价值：从“生命代码”理解生物技术如何连接科学探索与未来应用。",
+    "cover": "/static/assets/book-covers/new-synthetic-biology-3d.png",
+    "source": "用户提供的实拍书封",
+    "publisher": "中国科学技术出版社",
+    "summaryBasis": "依据封面信息整理的选书导读，非全文摘要"
+  },
+  {
+    "id": "new-singularity-nearer",
+    "number": 49,
+    "title": "奇点更近",
+    "category": "AI与未来",
+    "edition": "",
+    "author": "雷·库兹韦尔（Ray Kurzweil）",
+    "intro": "讨论人类与AI融合对商业、生活、工作和健康的潜在影响。阅读价值：建立思考技术趋势的框架，把未来预测与已经实现的能力分开看。",
+    "cover": "/static/assets/book-covers/new-singularity-nearer-3d.png",
+    "source": "用户提供的实拍书封",
+    "publisher": "",
+    "summaryBasis": "依据封面信息整理的选书导读，非全文摘要"
+  },
+  {
+    "id": "new-microbiome-master-key",
+    "number": 50,
+    "title": "终身活力：用微生物组开启全面健康",
+    "category": "微生物",
+    "edition": "华龄出版社",
+    "author": "布雷特·芬利、杰西卡·芬利",
+    "intro": "从微生物组出发，重新认识全身健康与日常生活的联系。阅读价值：理解身体内外的微生物为何值得关注；张见一译。",
+    "cover": "/static/assets/book-covers/new-microbiome-master-key-3d.png",
+    "source": "用户提供的实拍书封",
+    "publisher": "华龄出版社",
+    "summaryBasis": "依据封面信息整理的选书导读，非全文摘要"
+  },
+  {
+    "id": "new-what-is-health",
+    "number": 51,
+    "title": "何谓健康",
+    "category": "身心健康",
+    "edition": "上海科技教育出版社",
+    "author": "彼得·斯特林（Peter Sterling）",
+    "intro": "围绕大脑、适应性调节与健康，讨论高血压、肥胖和成瘾。阅读价值：把健康放回生活环境与行为中理解，而非只盯住单项指标。",
+    "cover": "/static/assets/book-covers/new-what-is-health-3d.png",
+    "source": "用户提供的实拍书封",
+    "publisher": "上海科技教育出版社",
+    "summaryBasis": "依据封面信息整理的选书导读，非全文摘要"
+  },
+  {
+    "id": "new-super-agers",
+    "number": 52,
+    "title": "长寿真相：保持年轻和活力的关键策略",
+    "category": "长寿抗衰",
+    "edition": "中信出版集团",
+    "author": "埃里克·托波尔（Eric Topol）",
+    "intro": "以健康衰老为主题，连接长寿医学前沿与保持活力的策略。阅读价值：关注更长的健康寿命，带着证据意识审视抗衰信息。",
+    "cover": "/static/assets/book-covers/new-super-agers-3d.png",
+    "source": "用户提供的实拍书封",
+    "publisher": "中信出版集团",
+    "summaryBasis": "依据封面信息整理的选书导读，非全文摘要"
+  },
+  {
+    "id": "new-we-are-as-gods",
+    "number": 53,
+    "title": "吾辈如神",
+    "category": "AI与未来",
+    "edition": "",
+    "author": "彼得·戴曼迪斯、史蒂芬·科特勒",
+    "intro": "聚焦AI时代的生存力与胜任力，思考技术变化带来的个人选择。阅读价值：把对未来的想象转化为学习与适应的方向。",
+    "cover": "/static/assets/book-covers/new-we-are-as-gods-3d.png",
+    "source": "用户提供的实拍书封",
+    "publisher": "",
+    "summaryBasis": "依据封面信息整理的选书导读，非全文摘要"
+  },
+  {
+    "id": "new-getting-older",
+    "number": 54,
+    "title": "变老之前要知道的事",
+    "category": "健康养老",
+    "edition": "广东人民出版社",
+    "author": "露西·波洛克（Lucy Pollock）",
+    "intro": "围绕跌倒、失能、痴呆、用药风险和临终决定，讨论老年生活中的关键选择。阅读价值：提前准备沟通与照护，让尊严和主动权留在自己手里。",
+    "cover": "/static/assets/book-covers/new-getting-older-3d.png",
+    "source": "用户提供的实拍书封",
+    "publisher": "广东人民出版社",
+    "summaryBasis": "依据封面信息整理的选书导读，非全文摘要"
+  },
+  {
+    "id": "new-biomanufacturing",
+    "number": 55,
+    "title": "生命造万物",
+    "category": "生命科技",
+    "edition": "电子工业出版社",
+    "author": "方昕、方柏山",
+    "intro": "以生物制造与生物经济为主线，讨论产业发展与应用机会。阅读价值：从产业视角理解合成生物技术如何走向现实生产。",
+    "cover": "/static/assets/book-covers/new-biomanufacturing-3d.png",
+    "source": "用户提供的实拍书封",
+    "publisher": "电子工业出版社",
+    "summaryBasis": "依据封面信息整理的选书导读，非全文摘要"
+  },
+  {
+    "id": "hou-1",
+    "number": 1,
+    "title": "人类简史：从动物到上帝",
+    "category": "生命基础",
+    "author": "尤瓦尔·赫拉利",
+    "intro": "从认知、农业与科学革命理解人类如何改变世界。值得读：跳出单一健康指标，建立生命与社会的宏观视角。",
+    "cover": "/static/assets/book-covers/01.jpg"
+  },
+  {
+    "id": "hou-2",
+    "number": 2,
+    "title": "未来简史",
+    "category": "生命基础",
+    "author": "尤瓦尔·赫拉利",
+    "intro": "讨论人工智能、生物技术与人类未来。值得读：思考追求长寿时的选择、意义和技术边界。",
+    "cover": "/static/assets/book-covers/02.jpg"
+  },
+  {
+    "id": "hou-3",
+    "number": 3,
+    "title": "人体简史",
+    "category": "生命基础",
+    "author": "比尔·布莱森",
+    "intro": "以通俗故事认识人体系统与生命演化。值得读：补齐身体如何运转的基础知识。",
+    "cover": "/static/assets/book-covers/03.jpg"
+  },
+  {
+    "id": "hou-4",
+    "number": 4,
+    "title": "绝佳时间",
+    "category": "生命基础",
+    "author": "Russell Foster",
+    "intro": "解释生物钟与睡眠、激素和代谢的联系。值得读：理解为什么作息时间也影响健康。",
+    "cover": "/static/assets/book-covers/04.jpg"
+  },
+  {
+    "id": "hou-5",
+    "number": 5,
+    "title": "生命：非常的世界",
+    "category": "生命基础",
+    "author": "作者信息待核对",
+    "intro": "以自然故事呈现生物的生存策略与多样性。值得读：从演化角度认识生命的适应能力。",
+    "cover": "/static/assets/book-covers/05.jpg"
+  },
+  {
+    "id": "hou-6",
+    "number": 6,
+    "title": "长寿：当人类不再衰老",
+    "category": "长寿抗衰",
+    "author": "David Sinclair、Matthew LaPlante",
+    "intro": "讨论衰老机制及延缓衰老的研究方向。值得读：区分研究假说、动物实验与人体证据。",
+    "cover": "/static/assets/book-covers/06.jpg"
+  },
+  {
+    "id": "hou-7",
+    "number": 7,
+    "title": "超越百岁：长寿的科学与艺术",
+    "category": "长寿抗衰",
+    "author": "Peter Attia、Bill Gifford",
+    "intro": "强调提前预防，综合管理运动、营养、睡眠与情绪。值得读：把目标从活得久延伸到健康地生活。",
+    "cover": "/static/assets/book-covers/07.jpg"
+  },
+  {
+    "id": "hou-8",
+    "number": 8,
+    "title": "老而不衰的科学",
+    "category": "长寿抗衰",
+    "author": "Andrew Steele",
+    "intro": "介绍衰老特征与不同干预研究路径。值得读：建立抗衰科学的框架，理解临床转化仍有哪些距离。",
+    "cover": "/static/assets/book-covers/08.jpg"
+  },
+  {
+    "id": "hou-9",
+    "number": 9,
+    "title": "不老时代：年轻又长寿的科学和方法",
+    "category": "长寿抗衰",
+    "author": "Michael Roizen 等",
+    "intro": "探讨再生医学、基因技术与长寿社会的可能变化。值得读：认识前沿技术，也审视预测的不确定性。",
+    "cover": "/static/assets/book-covers/09.jpg"
+  },
+  {
+    "id": "hou-10",
+    "number": 10,
+    "title": "长寿：逆转衰老的科学饮食",
+    "category": "长寿抗衰",
+    "author": "Michael Greger",
+    "intro": "围绕饮食、生活方式与衰老相关研究展开。值得读：带着证据意识审视餐桌选择，不把饮食当治疗保证。",
+    "cover": "/static/assets/book-covers/10.jpg"
+  },
+  {
+    "id": "hou-11",
+    "number": 11,
+    "title": "长寿的习惯",
+    "category": "长寿抗衰",
+    "author": "日译书作者待核对",
+    "intro": "从长寿地区习惯切入，讨论运动、饮食、睡眠与社交。值得读：寻找自己能长期坚持的小改变。",
+    "cover": "/static/assets/book-covers/11.jpg"
+  },
+  {
+    "id": "hou-12",
+    "number": 12,
+    "title": "衰老生物学",
+    "category": "长寿抗衰",
+    "author": "Roger B. McDonald",
+    "intro": "系统介绍衰老机制、相关疾病与寿命研究。值得读：为理解抗衰论文建立生物学基础。",
+    "cover": "/static/assets/book-covers/12.jpg"
+  },
+  {
+    "id": "hou-13",
+    "number": 13,
+    "title": "基因传：众生之源",
+    "category": "基因",
+    "author": "悉达多·穆克吉",
+    "intro": "串联遗传学发展与基因编辑的伦理问题。值得读：理解基因影响什么，以及它不能决定什么。",
+    "cover": "/static/assets/book-covers/13.jpg"
+  },
+  {
+    "id": "hou-14",
+    "number": 14,
+    "title": "遗传的革命",
+    "category": "基因",
+    "author": "Nessa Carey",
+    "intro": "解释环境如何影响基因表达与表观遗传。值得读：认识基因之外的调控机制。",
+    "cover": "/static/assets/book-covers/14.jpg"
+  },
+  {
+    "id": "hou-15",
+    "number": 15,
+    "title": "DNA：生命的秘密",
+    "category": "基因",
+    "author": "James D. Watson、Andrew Berry",
+    "intro": "回顾DNA发现与人类基因组研究。值得读：理解遗传学怎样改变医学及社会。",
+    "cover": "/static/assets/book-covers/15.jpg"
+  },
+  {
+    "id": "hou-16",
+    "number": 16,
+    "title": "垃圾DNA",
+    "category": "基因",
+    "author": "Nessa Carey",
+    "intro": "讨论非编码DNA及其调控作用。值得读：打破只有编码蛋白的基因才重要的直觉。",
+    "cover": "/static/assets/book-covers/16.jpg"
+  },
+  {
+    "id": "hou-17",
+    "number": 17,
+    "title": "细胞传",
+    "category": "细胞",
+    "author": "悉达多·穆克吉",
+    "intro": "通过医学史解释细胞功能与疾病的关联。值得读：理解细胞疗法背后的基础与伦理问题。",
+    "cover": "/static/assets/book-covers/17.jpg"
+  },
+  {
+    "id": "hou-18",
+    "number": 18,
+    "title": "细胞简史",
+    "category": "细胞",
+    "author": "陈涛",
+    "intro": "以图文认识细胞结构、功能与研究历程。值得读：为理解细胞治疗和基因编辑打底。",
+    "cover": "/static/assets/book-covers/18.jpg"
+  },
+  {
+    "id": "hou-19",
+    "number": 19,
+    "title": "线粒体与生命的意义",
+    "category": "细胞",
+    "author": "Nick Lane",
+    "intro": "从线粒体连接生命起源、能量代谢与衰老。值得读：理解能量为何是生命演化的重要线索。",
+    "cover": "/static/assets/book-covers/19.jpg"
+  },
+  {
+    "id": "hou-20",
+    "number": 20,
+    "title": "端粒：年轻、健康、长寿的新科学",
+    "category": "细胞",
+    "author": "Elizabeth Blackburn、Elissa Epel",
+    "intro": "讨论端粒与衰老、压力及生活方式的关系。值得读：了解细胞层面的研究，不把单一指标当寿命预测。",
+    "cover": "/static/assets/book-covers/20.jpg"
+  },
+  {
+    "id": "hou-21",
+    "number": 21,
+    "title": "大脑能量",
+    "category": "细胞",
+    "author": "Christopher M. Palmer",
+    "intro": "提出从代谢角度理解精神健康的研究视角。值得读：认识脑与身体的联系，相关治疗须由专业医生评估。",
+    "cover": "/static/assets/book-covers/21.jpg"
+  },
+  {
+    "id": "hou-22",
+    "number": 22,
+    "title": "分子营养",
+    "category": "分子营养",
+    "author": "编者信息待核对",
+    "intro": "从分子机制解释营养、细胞稳态与食物反应。值得读：把营养知识从成分名称推进到作用机制。",
+    "cover": "/static/assets/book-covers/22.jpg"
+  },
+  {
+    "id": "hou-23",
+    "number": 23,
+    "title": "功能医学",
+    "category": "功能医学",
+    "author": "Jeffrey S. Bland",
+    "intro": "以系统视角讨论慢性病与饮食、环境和习惯的关联。值得读：学习整体梳理问题，具体干预仍需核实证据。",
+    "cover": "/static/assets/book-covers/23.jpg"
+  },
+  {
+    "id": "hou-24",
+    "number": 24,
+    "title": "癌症传：众病之王",
+    "category": "癌症",
+    "author": "悉达多·穆克吉",
+    "intro": "回顾癌症认识与治疗发展的历史。值得读：理解医学进步、临床挑战与不确定性。",
+    "cover": "/static/assets/book-covers/24.jpg"
+  },
+  {
+    "id": "hou-25",
+    "number": 25,
+    "title": "癌症·防御",
+    "category": "癌症",
+    "author": "作者信息待核对",
+    "intro": "介绍致癌风险、预防与筛查的基本思路。值得读：区分减少风险与保证不患癌。",
+    "cover": "/static/assets/book-covers/25.jpg"
+  },
+  {
+    "id": "hou-26",
+    "number": 26,
+    "title": "威廉姆斯内分泌学",
+    "category": "内分泌",
+    "author": "H. M. Kronenberg 等（图示第11版）",
+    "intro": "系统介绍激素、内分泌疾病与临床诊疗。值得读：适合专业学习，不能替代个人诊断。",
+    "cover": "/static/assets/book-covers/26.jpg"
+  },
+  {
+    "id": "hou-27",
+    "number": 27,
+    "title": "人为什么会生病",
+    "category": "内分泌",
+    "author": "Benjamin Bikman",
+    "intro": "从胰岛素抵抗讨论代谢与慢性病的关联。值得读：理解代谢风险，个体饮食和治疗需专业评估。",
+    "cover": "/static/assets/book-covers/27.jpg"
+  },
+  {
+    "id": "hou-28",
+    "number": 28,
+    "title": "人类代谢调控",
+    "category": "代谢",
+    "author": "Keith Frayn、Rhys Evans",
+    "intro": "介绍人体代谢过程及其调控。值得读：建立理解血糖、能量与营养代谢的基础。",
+    "cover": "/static/assets/book-covers/28.jpg"
+  },
+  {
+    "id": "hou-29",
+    "number": 29,
+    "title": "酶与诺贝尔奖",
+    "category": "代谢",
+    "author": "编者信息待核对",
+    "intro": "以诺贝尔奖相关研究串联酶与生命活动。值得读：认识酶在代谢及药物研究中的作用。",
+    "cover": "/static/assets/book-covers/29.jpg"
+  },
+  {
+    "id": "hou-30",
+    "number": 30,
+    "title": "酶学方法",
+    "category": "代谢",
+    "author": "编者信息待核对",
+    "intro": "图示版本聚焦CRISPR/Cas9等定点基因编辑方法。值得读：面向科研方法学习，非日常养生操作指南。",
+    "cover": "/static/assets/book-covers/30.jpg"
+  },
+  {
+    "id": "hou-31",
+    "number": 31,
+    "title": "战斗细胞",
+    "category": "免疫",
+    "author": "Philipp Dettmer",
+    "intro": "用图解认识免疫细胞、炎症与防御机制。值得读：理解免疫系统需要平衡，并非越强越好。",
+    "cover": "/static/assets/book-covers/31.jpg"
+  },
+  {
+    "id": "hou-32",
+    "number": 32,
+    "title": "炎症：食物、微生物和疾病的故事",
+    "category": "免疫",
+    "author": "Shilpa Ravella",
+    "intro": "讨论炎症、饮食、微生物与疾病的联系。值得读：理解炎症的保护作用及失调风险。",
+    "cover": "/static/assets/book-covers/32.jpg"
+  },
+  {
+    "id": "hou-33",
+    "number": 33,
+    "title": "抗炎从根源上逆转慢病的炎症消除方案",
+    "category": "免疫",
+    "author": "Maggie Berghoff",
+    "intro": "从炎症相关问题讨论饮食与生活方式。值得读：把书中建议作为核对线索，不直接套用治疗方案。",
+    "cover": "/static/assets/book-covers/33.jpg"
+  },
+  {
+    "id": "hou-34",
+    "number": 34,
+    "title": "肠道菌群与衰老",
+    "category": "微生物",
+    "author": "编者信息待核对",
+    "intro": "探讨肠道菌群通过免疫、代谢和肠脑轴与衰老关联。值得读：认识菌群研究及证据边界。",
+    "cover": "/static/assets/book-covers/34.jpg"
+  },
+  {
+    "id": "hou-35",
+    "number": 35,
+    "title": "肠道菌群与精准营养健康",
+    "category": "微生物",
+    "author": "编者信息待核对",
+    "intro": "连接肠道微生物、食物选择与营养健康。值得读：理解为什么饮食建议需要考虑个体差异。",
+    "cover": "/static/assets/book-covers/35.jpg"
+  },
+  {
+    "id": "hou-36",
+    "number": 36,
+    "title": "第二大脑",
+    "category": "微生物",
+    "author": "图示版本作者待核对",
+    "intro": "介绍肠脑互动与消化、情绪及代谢的联系。值得读：建立身心相互影响的整体视角。",
+    "cover": "/static/assets/book-covers/36.jpg"
+  },
+  {
+    "id": "hou-37",
+    "number": 37,
+    "title": "你的皮肤屏障90%可以靠营养修复",
+    "category": "微生物",
+    "author": "Whitney Bowe",
+    "intro": "讨论营养、压力、肠道与皮肤屏障的联系。值得读：认识皮肤护理之外的影响因素；书名中的比例不是疗效保证。",
+    "cover": "/static/assets/book-covers/37.jpg"
+  },
+  {
+    "id": "hou-38",
+    "number": 38,
+    "title": "中西医结合临床",
+    "category": "中医",
+    "author": "编者信息待核对",
+    "intro": "介绍中西医结合的临床思路与研究方法。值得读：用于专业学习，诊疗结论仍需临床证据。",
+    "cover": "/static/assets/book-covers/38.jpg"
+  },
+  {
+    "id": "hou-39",
+    "number": 39,
+    "title": "运动改造大脑",
+    "category": "运动心理",
+    "author": "John Ratey、Eric Hagerman",
+    "intro": "介绍运动与认知、情绪及压力调节的研究。值得读：理解规律活动的价值，循序渐进选择运动。",
+    "cover": "/static/assets/book-covers/39.jpg"
+  },
+  {
+    "id": "hou-40",
+    "number": 40,
+    "title": "情绪的毒 身体知道",
+    "category": "运动心理",
+    "author": "作者信息待核对",
+    "intro": "讨论情绪、压力与身体体验的关系。值得读：练习觉察和表达，不把身体疾病简单归因为情绪。",
+    "cover": "/static/assets/book-covers/40.jpg"
+  },
+  {
+    "id": "hou-41",
+    "number": 41,
+    "title": "持续的幸福",
+    "category": "运动心理",
+    "author": "Martin Seligman",
+    "intro": "以积极情绪、投入、关系、意义和成就理解幸福。值得读：把幸福从一时心情变成可培养的生活能力。",
+    "cover": "/static/assets/book-covers/41.jpg"
+  },
+  {
+    "id": "hou-42",
+    "number": 42,
+    "title": "冥想：身心放松的力量",
+    "category": "运动心理",
+    "author": "Christophe André",
+    "intro": "介绍正念冥想与日常觉察练习。值得读：学习温和地关注当下，放松练习不替代心理治疗。",
+    "cover": "/static/assets/book-covers/42.jpg"
+  },
+  {
+    "id": "hou-43",
+    "number": 43,
+    "title": "当下的力量",
+    "category": "运动心理",
+    "author": "Eckhart Tolle",
+    "intro": "以觉察当下讨论对过去与未来的反复纠缠。值得读：提供自我反思的视角，属于身心阅读而非医学证据。",
+    "cover": "/static/assets/book-covers/43.jpg"
+  },
+  {
+    "id": "hou-44",
+    "number": 44,
+    "title": "能量的真相",
+    "category": "运动心理",
+    "author": "作者信息待核对",
+    "intro": "围绕日常精力、消耗与恢复提出自我观察思路。值得读：梳理生活节奏，不与医学上的能量代谢概念混同。",
+    "cover": "/static/assets/book-covers/44.jpg"
+  }
+]

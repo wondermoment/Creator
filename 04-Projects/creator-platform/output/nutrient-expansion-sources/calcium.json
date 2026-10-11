@@ -1,0 +1,293 @@
+{
+  "version": "6.9",
+  "hitCount": 1,
+  "request": {
+    "queryString": "DOI:10.1136/bmj.h4183",
+    "resultType": "core",
+    "cursorMark": "*",
+    "pageSize": 25,
+    "sort": "",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "26420598",
+        "source": "MED",
+        "pmid": "26420598",
+        "pmcid": "PMC4784773",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC4784773"
+          ]
+        },
+        "doi": "10.1136/bmj.h4183",
+        "title": "Calcium intake and bone mineral density: systematic review and meta-analysis.",
+        "authorString": "Tai V, Leung W, Grey A, Reid IR, Bolland MJ.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Tai V",
+              "lastName": "Tai",
+              "firstName": "Vicky",
+              "initials": "V",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Medicine, University of Auckland, Private Bag 92019, Auckland 1142, New Zealand."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Leung W",
+              "lastName": "Leung",
+              "firstName": "William",
+              "initials": "W",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Public Health, University of Otago, PO Box 7343, Wellington 6242, New Zealand."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Grey A",
+              "lastName": "Grey",
+              "firstName": "Andrew",
+              "initials": "A",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Medicine, University of Auckland, Private Bag 92019, Auckland 1142, New Zealand."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Reid IR",
+              "lastName": "Reid",
+              "firstName": "Ian R",
+              "initials": "IR",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-6021-5458"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Medicine, University of Auckland, Private Bag 92019, Auckland 1142, New Zealand."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Bolland MJ",
+              "lastName": "Bolland",
+              "firstName": "Mark J",
+              "initials": "MJ",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-0465-2674"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Medicine, University of Auckland, Private Bag 92019, Auckland 1142, New Zealand m.bolland@auckland.ac.nz."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0001-6021-5458"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-0465-2674"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics",
+            "supporting_data"
+          ]
+        },
+        "journalInfo": {
+          "volume": "351",
+          "journalIssueId": 2476475,
+          "dateOfPublication": "2015 Sep",
+          "monthOfPublication": 9,
+          "yearOfPublication": 2015,
+          "journal": {
+            "medlineAbbreviation": "BMJ",
+            "title": "BMJ (Clinical research ed.)",
+            "essn": "1756-1833",
+            "issn": "0959-8138",
+            "isoabbreviation": "BMJ",
+            "nlmid": "8900488"
+          },
+          "printPublicationDate": "2015-09-01"
+        },
+        "pubYear": "2015",
+        "pageInfo": "h4183",
+        "abstractText": "<h4>Objective</h4>To determine whether increasing calcium intake from dietary sources affects bone mineral density (BMD) and, if so, whether the effects are similar to those of calcium supplements.<h4>Design</h4>Random effects meta-analysis of randomised controlled trials.<h4>Data sources</h4>Ovid Medline, Embase, Pubmed, and references from relevant systematic reviews. Initial searches were undertaken in July 2013 and updated in September 2014.<h4>Eligibility criteria for selecting studies</h4>Randomised controlled trials of dietary sources of calcium or calcium supplements (with or without vitamin D) in participants aged over 50 with BMD at the lumbar spine, total hip, femoral neck, total body, or forearm as an outcome.<h4>Results</h4>We identified 59 eligible randomised controlled trials: 15 studied dietary sources of calcium (n=1533) and 51 studied calcium supplements (n=12,257). Increasing calcium intake from dietary sources increased BMD by 0.6-1.0% at the total hip and total body at one year and by 0.7-1.8% at these sites and the lumbar spine and femoral neck at two years. There was no effect on BMD in the forearm. Calcium supplements increased BMD by 0.7-1.8% at all five skeletal sites at one, two, and over two and a half years, but the size of the increase in BMD at later time points was similar to the increase at one year. Increases in BMD were similar in trials of dietary sources of calcium and calcium supplements (except at the forearm), in trials of calcium monotherapy versus co-administered calcium and vitamin D, in trials with calcium doses of ≥ 1000 versus <1000 mg/day and ≤ 500 versus >500 mg/day, and in trials where the baseline dietary calcium intake was <800 versus ≥ 800 mg/day.<h4>Conclusions</h4>Increasing calcium intake from dietary sources or by taking calcium supplements produces small non-progressive increases in BMD, which are unlikely to lead to a clinically significant reduction in risk of fracture.",
+        "affiliation": "Department of Medicine, University of Auckland, Private Bag 92019, Auckland 1142, New Zealand.",
+        "publicationStatus": "epublish",
+        "language": "eng",
+        "pubModel": "Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "Meta-Analysis",
+            "Research Support, Non-U.S. Gov't",
+            "research-article",
+            "Systematic Review",
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Calcium, Dietary"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Bone Density"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Dietary Supplements"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Aged"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Middle Aged"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Fractures, Bone",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "PC",
+                    "qualifierName": "prevention & control"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Randomized Controlled Trials as Topic"
+            }
+          ]
+        },
+        "chemicalList": {
+          "chemical": [
+            {
+              "name": "Calcium, Dietary",
+              "registryNumber": "0"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1136/bmj.h4183"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC4784773"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "pdf",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC4784773?pdf=render"
+            }
+          ]
+        },
+        "commentCorrectionList": {
+          "commentCorrection": [
+            {
+              "source": "MED",
+              "id": "26420735",
+              "reference": "BMJ. 2015 Sep 29;351:h4825. doi: 10.1136/bmj.h4825.",
+              "type": "Comment in",
+              "orderIn": 1
+            },
+            {
+              "source": "MED",
+              "id": "26649961",
+              "reference": "Praxis (Bern 1994). 2015 Dec 9;104(25):1409. doi: 10.1024/1661-8157/a002220.",
+              "type": "Comment in",
+              "orderIn": 2
+            },
+            {
+              "source": "MED",
+              "id": "26784495",
+              "reference": "Ann Intern Med. 2016 Jan 19;164(2):JC5. doi: 10.7326/ACPJC-2016-164-2-005.",
+              "type": "Comment in",
+              "orderIn": 3
+            }
+          ]
+        },
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 242,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "Y",
+        "hasData": "Y",
+        "license": "cc by-nc",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2015-12-21",
+        "dateOfCreation": "2015-10-01",
+        "dateOfRevision": "2025-07-11",
+        "electronicPublicationDate": "2015-09-29",
+        "firstPublicationDate": "2015-09-29",
+        "firstIndexDate": "2015-10-01",
+        "fullTextReceivedDate": "2025-02-03",
+        "hasEvaluations": "N"
+      }
+    ]
+  }
+}

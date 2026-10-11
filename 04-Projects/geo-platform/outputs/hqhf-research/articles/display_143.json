@@ -1,0 +1,59 @@
+{
+  "url": "https://www.hqhf.com/display_143.html",
+  "status": 200,
+  "title": "氢燃料电池如何控制高压储氢的使用温度？",
+  "links": [
+    "https://www.hqhf.com/",
+    "https://www.hqhf.com/display_144.html",
+    "https://www.hqhf.com/display_147.html",
+    "https://www.hqhf.com/info_101.html",
+    "https://www.hqhf.com/info_102.html",
+    "https://www.hqhf.com/info_102101.html",
+    "https://www.hqhf.com/info_102102.html",
+    "https://www.hqhf.com/info_102103.html",
+    "https://www.hqhf.com/info_102104.html",
+    "https://www.hqhf.com/info_102105.html",
+    "https://www.hqhf.com/info_102106.html",
+    "https://www.hqhf.com/info_102107.html",
+    "https://www.hqhf.com/info_102108.html",
+    "https://www.hqhf.com/info_102109.html",
+    "https://www.hqhf.com/info_103.html",
+    "https://www.hqhf.com/info_103101.html",
+    "https://www.hqhf.com/info_103102.html",
+    "https://www.hqhf.com/info_103103.html",
+    "https://www.hqhf.com/info_103104.html",
+    "https://www.hqhf.com/info_103105.html",
+    "https://www.hqhf.com/info_103106.html",
+    "https://www.hqhf.com/info_103107.html",
+    "https://www.hqhf.com/info_104.html",
+    "https://www.hqhf.com/info_105.html",
+    "https://www.hqhf.com/info_105101.html",
+    "https://www.hqhf.com/info_105102.html",
+    "https://www.hqhf.com/info_105103.html",
+    "https://www.hqhf.com/info_105104.html",
+    "https://www.hqhf.com/info_106.html",
+    "https://www.hqhf.com/info_106101.html"
+  ],
+  "kind": "article",
+  "metadata": "发布日期：2022-10-17 浏览次数：2238",
+  "text": "文[No.622]指出：研究发现，高压储氢温度升高时将产生两个不利的影响：①储氢密度将会降低；②燃料电池的续航里程将会降低。而这两种结果都是不希望的，那么，如何控制高压储氢的使用温度呢？\n加氢机加注时温度上升的原因是焦汤效应。所谓焦汤效应，指的是气体通过多孔塞时所发生的温度变化现象，也可泛指较高压强气体经过多孔塞、毛细管、节流阀（通径很小的阀门）等装置将为低压气体时发生的温度变化现象。\n目前国内的35MPa加氢机生产商应对加注氢的温度上升，主要采取以下两条措施；①采用SAE J2601标准，在加氢机内设置与汽车氢瓶相连结的通讯接口，将加注时的温度和压力信号传入加氢机内，实现自动加氢升压速率的控制，从而达到氢气温度控制的目的；②加氢前预冷，即氢气进入加氢机前进入换热器，降低进入加氢机前的温度。\n免责声明：文章来源网络；本站致力于好文推送，基于分享目的转载，尊重原创，版权归原作者所有，如有侵权，请联系我们予以删除，资料仅供私下交流学习使用。",
+  "images": [],
+  "headings": [
+    "免责声明：文章来源网络；本站致力于好文推送，基于分享目的转载，尊重原创，版权归原作者所有，如有侵权，请联系我们予以删除，资料仅供私下交流学习使用。"
+  ],
+  "content_sha256": "4b30c2be907180001f192a57c8982742a5c4f1775cb5f1c23d26eb5070daf363",
+  "paragraphs": [],
+  "categories": [
+    "行业动态"
+  ],
+  "outline_candidates": [],
+  "rule_assisted_family": "问题/选型",
+  "structure_keyword_counts": {
+    "工况/问题": 0,
+    "原因/机理": 1,
+    "方案/工艺": 0,
+    "比较/选择": 0,
+    "验证/证据": 1,
+    "应用/落地": 0
+  }
+}

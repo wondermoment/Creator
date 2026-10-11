@@ -1,0 +1,28 @@
+{
+  "id": "hou-8",
+  "requested_title": "老而不衰的科学",
+  "query": "Ageless Andrew Steele",
+  "checked": "2026-10-06",
+  "sources": [
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL21877438W",
+      "title": "Ageless",
+      "authors": [
+        "Andrew Steele"
+      ],
+      "year": 2020,
+      "description": "\"A startling chronicle by a brilliant young scientist takes us onto the frontiers of the science of aging, and reveals how close we are to an astonishing extension of our life spans and a vastly improved quality of life in our later years. Aging--not cancer, not heart disease--is the true underlying cause of most human death and suffering. We accept as inevitable that as we advance in years our bodies and minds begin to deteriorate and that we are ever more likely to be felled by dementia or disease. But we never really ask--is aging necessary? Biologists, on the other hand, have been investigating that question for years. After all, there are tortoises and salamanders whose risk of dying is the same no matter how old they are. With the help of science, could humans find a way to become old without getting frail, a phenomenon known as \"biological immortality\"? In Ageless, Andrew Steele, a computational biologist and science writer, takes us on a journey through the laboratories where scientists are studying every bodily system that declines with age--DNA, mitochondria, stem cells, our immune systems--and developing therapies to reverse the trend. With bell-clear writing and intellectual passion, Steele shines a spotlight on a little-known revolution already underway\"--",
+      "subjects": [
+        "New York Times reviewed",
+        "Aging, prevention",
+        "Longevity",
+        "Aging",
+        "Prevention"
+      ]
+    }
+  ],
+  "errors": [
+    "Wikipedia: HTTP Error 429: Too Many Requests"
+  ]
+}

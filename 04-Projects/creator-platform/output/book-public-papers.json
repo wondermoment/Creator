@@ -1,0 +1,190 @@
+{
+  "aging": {
+    "query_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE%3A%22Hallmarks+of+Aging%3A+An+Expanding+Universe%22&format=json&resultType=core&pageSize=2",
+    "checked": "2026-10-06",
+    "records": [
+      {
+        "title": "Hallmarks of aging: An expanding universe.",
+        "authors": "López-Otín C, Blasco MA, Partridge L, Serrano M, Kroemer G.",
+        "year": "2023",
+        "doi": "10.1016/j.cell.2022.11.001",
+        "url": "https://doi.org/10.1016/j.cell.2022.11.001",
+        "abstract": "Aging is driven by hallmarks fulfilling the following three premises: (1) their age-associated manifestation, (2) the acceleration of aging by experimentally accentuating them, and (3) the opportunity to decelerate, stop, or reverse aging by therapeutic interventions on them. We propose the following twelve hallmarks of aging: genomic instability, telomere attrition, epigenetic alterations, loss of proteostasis, disabled macroautophagy, deregulated nutrient-sensing, mitochondrial dysfunction, cellular senescence, stem cell exhaustion, altered intercellular communication, chronic inflammation, and dysbiosis. These hallmarks are interconnected among each other, as well as to the recently proposed hallmarks of health, which include organizational features of spatial compartmentalization, maintenance of homeostasis, and adequate responses to stress.",
+        "publication_types": [
+          "Research Support, Non-U.S. Gov't",
+          "Review",
+          "Journal Article"
+        ]
+      }
+    ]
+  },
+  "exercise-brain": {
+    "query_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1073%2Fpnas.1015950108&format=json&resultType=core&pageSize=2",
+    "checked": "2026-10-06",
+    "records": [
+      {
+        "title": "Exercise training increases size of hippocampus and improves memory.",
+        "authors": "Erickson KI, Voss MW, Prakash RS, Basak C, Szabo A, Chaddock L, Kim JS, Heo S, Alves H, White SM, Wojcicki TR, Mailey E, Vieira VJ, Martin SA, Pence BD, Woods JA, McAuley E, Kramer AF.",
+        "year": "2011",
+        "doi": "10.1073/pnas.1015950108",
+        "url": "https://doi.org/10.1073/pnas.1015950108",
+        "abstract": "The hippocampus shrinks in late adulthood, leading to impaired memory and increased risk for dementia. Hippocampal and medial temporal lobe volumes are larger in higher-fit adults, and physical activity training increases hippocampal perfusion, but the extent to which aerobic exercise training can modify hippocampal volume in late adulthood remains unknown. Here we show, in a randomized controlled trial with 120 older adults, that aerobic exercise training increases the size of the anterior hippocampus, leading to improvements in spatial memory. Exercise training increased hippocampal volume by 2%, effectively reversing age-related loss in volume by 1 to 2 y. We also demonstrate that increased hippocampal volume is associated with greater serum levels of BDNF, a mediator of neurogenesis in the dentate gyrus. Hippocampal volume declined in the control group, but higher preintervention fitness partially attenuated the decline, suggesting that fitness protects against volume loss. Caudate nucleus and thalamus volumes were unaffected by the intervention. These theoretically important findings indicate that aerobic exercise training is effective at reversing hippocampal volume loss in late adulthood, which is accompanied by improved memory function.",
+        "publication_types": [
+          "research-article",
+          "Randomized Controlled Trial",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ]
+      }
+    ]
+  },
+  "meditation": {
+    "query_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1001%2Fjamainternmed.2013.13018&format=json&resultType=core&pageSize=2",
+    "checked": "2026-10-06",
+    "records": [
+      {
+        "title": "Meditation programs for psychological stress and well-being: a systematic review and meta-analysis.",
+        "authors": "Goyal M, Singh S, Sibinga EM, Gould NF, Rowland-Seymour A, Sharma R, Berger Z, Sleicher D, Maron DD, Shihab HM, Ranasinghe PD, Linn S, Saha S, Bass EB, Haythornthwaite JA.",
+        "year": "2014",
+        "doi": "10.1001/jamainternmed.2013.13018",
+        "url": "https://doi.org/10.1001/jamainternmed.2013.13018",
+        "abstract": " Importance Many people meditate to reduce psychological stress and stress-related health problems. To counsel people appropriately, clinicians need to know what the evidence says about the health benefits of meditation. Objective To determine the efficacy of meditation programs in improving stress-related outcomes (anxiety, depression, stress/distress, positive mood, mental health-related quality of life, attention, substance use, eating habits, sleep, pain, and weight) in diverse adult clinical populations. Evidence review We identified randomized clinical trials with active controls for placebo effects through November 2012 from MEDLINE, PsycINFO, EMBASE, PsycArticles, Scopus, CINAHL, AMED, the Cochrane Library, and hand searches. Two independent reviewers screened citations and extracted data. We graded the strength of evidence using 4 domains (risk of bias, precision, directness, and consistency) and determined the magnitude and direction of effect by calculating the relative difference between groups in change from baseline. When possible, we conducted meta-analyses using standardized mean differences to obtain aggregate estimates of effect size with 95% confidence intervals. Findings After reviewing 18 753 citations, we included 47 trials with 3515 participants. Mindfulness meditation programs had moderate evidence of improved anxiety (effect size, 0.38 [95% CI, 0.12-0.64] at 8 weeks and 0.22 [0.02-0.43] at 3-6 months), depression (0.30 [0.00-0.59] at 8 weeks and 0.23 [0.05-0.42] at 3-6 months), and pain (0.33 [0.03- 0.62]) and low evidence of improved stress/distress and mental health-related quality of life. We found low evidence of no effect or insufficient evidence of any effect of meditation programs on positive mood, attention, substance use, eating habits, sleep, and weight. We found no evidence that meditation programs were better than any active treatment (ie, drugs, exercise, and other behavioral therapies). Conclusions and relevance Clinicians should be aware that meditation programs can result in small to moderate reductions of multiple negative dimensions of psychological stress. Thus, clinicians should be prepared to talk with their patients about the role that a meditation program could have in addressing psychological stress. Stronger study designs are needed to determine the effects of meditation programs in improving the positive dimensions of mental health and stress-related behavior.",
+        "publication_types": [
+          "Meta-Analysis",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "research-article",
+          "Systematic Review",
+          "Journal Article"
+        ]
+      },
+      {
+        "title": "Meditation Programs for Psychological Stress and Well-Being",
+        "authors": "Goyal M, Singh S, Sibinga EMS, Gould NF, Rowland-Seymour A, Sharma R, Berger Z, Sleicher D, Maron DD, Shihab HM, Ranasinghe PD, Linn S, Saha S, Bass EB, Haythornthwaite JA.",
+        "year": "2014",
+        "doi": "10.1001/jamainternmed.2013.13018",
+        "url": "https://doi.org/10.1001/jamainternmed.2013.13018",
+        "abstract": " Objectives Meditation, a mind-body method, employs a variety of techniques designed to facilitate the mind's capacity to affect bodily function and symptoms. An increasing number of patients are using meditation programs despite uncertainty about the evidence supporting the health benefits of meditation. We aimed to determine the efficacy and safety of meditation programs on stress-related outcomes (e.g., anxiety, depression, stress, distress, well-being, positive mood, quality of life, attention, health-related behaviors affected by stress, pain, and weight) compared with an active control in diverse adult clinical populations Data sources We searched MEDLINE®, PsycINFO®, Embase®, PsycArticles, SCOPUS, CINAHL, AMED, and the Cochrane Library in November 2012. We also performed manual searches. Review methods We included randomized controlled trials with an active control that reported on the stress outcomes of interest. Two reviewers independently screened titles to find trials that reported on outcomes, and then extracted data on trial characteristics and effect modifiers (amount of training or teacher qualifications). We graded the strength of evidence (SOE) using four domains (risk of bias, precision, directness, and consistency). To assess the direction and magnitude of reported effects of the interventions, we calculated the relative difference between groups in how each outcome measure changed from baseline. We conducted meta-analysis using standardized mean differences to obtain aggregate estimates of effects with 95-percent confidence intervals (CIs). We analyzed efficacy trials separately from comparative effectiveness trials. Results After a review of 17,801 citations, we included 41 trials with 2,993 participants. Most trials were short term, but they ranged from 4 weeks to 9 years in duration. Trials conducted against nonspecific active controls provided efficacy data. Mindfulness meditation programs had moderate SOE for improvement in anxiety (effect size [ES], 0.40; CI, 0.08 to 0.71 at 8 weeks; ES, 0.22; CI, 0.02 to 0.43 at 3–6 months), depression (ES, 0.32; CI, −0.01 to 0.66 at 8 weeks; ES, 0.23; CI, 0.05 to 0.42 at 3–6 months); and pain (ES, 0.33; CI, 0.03 to 0.62); and low SOE for improvement in stress/distress and mental health–related quality of life. We found either low SOE of no effect or insufficient SOE of an effect of meditation programs on positive mood, attention, substance use, eating, sleep, and weight. In our comparative effectiveness analyses, we did not find any evidence to suggest that these meditation programs were superior to any specific therapies they were compared with. Only 10 trials had a low risk of bias. Limitations included clinical heterogeneity, variability in the types of controls, and heterogeneity of the interventions (e.g., dosing, frequency, duration, technique). Conclusions Meditation programs, in particular mindfulness programs, reduce multiple negative dimensions of psychological stress. Stronger study designs are needed to determine the effects of meditation programs in improving the positive dimensions of mental health as well as stress-related behavioral outcomes.",
+        "publication_types": [
+          "Review"
+        ]
+      }
+    ]
+  },
+  "microbiome-diet": {
+    "query_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1016%2Fj.cell.2021.06.019&format=json&resultType=core&pageSize=2",
+    "checked": "2026-10-06",
+    "records": [
+      {
+        "title": "Gut-microbiota-targeted diets modulate human immune status.",
+        "authors": "Wastyk HC, Fragiadakis GK, Perelman D, Dahan D, Merrill BD, Yu FB, Topf M, Gonzalez CG, Van Treuren W, Han S, Robinson JL, Elias JE, Sonnenburg ED, Gardner CD, Sonnenburg JL.",
+        "year": "2021",
+        "doi": "10.1016/j.cell.2021.06.019",
+        "url": "https://doi.org/10.1016/j.cell.2021.06.019",
+        "abstract": "Diet modulates the gut microbiome, which in turn can impact the immune system. Here, we determined how two microbiota-targeted dietary interventions, plant-based fiber and fermented foods, influence the human microbiome and immune system in healthy adults. Using a 17-week randomized, prospective study (n = 18/arm) combined with -omics measurements of microbiome and host, including extensive immune profiling, we found diet-specific effects. The high-fiber diet increased microbiome-encoded glycan-degrading carbohydrate active enzymes (CAZymes) despite stable microbial community diversity. Although cytokine response score (primary outcome) was unchanged, three distinct immunological trajectories in high-fiber consumers corresponded to baseline microbiota diversity. Alternatively, the high-fermented-food diet steadily increased microbiota diversity and decreased inflammatory markers. The data highlight how coupling dietary interventions to deep and longitudinal immune and microbiome profiling can provide individualized and population-wide insight. Fermented foods may be valuable in countering the decreased microbiome diversity and increased inflammation pervasive in industrialized society.",
+        "publication_types": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Randomized Controlled Trial",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ]
+      }
+    ]
+  },
+  "calorie-restriction": {
+    "query_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1038%2Fs43587-022-00357-y&format=json&resultType=core&pageSize=2",
+    "checked": "2026-10-06",
+    "records": [
+      {
+        "title": "Effect of long-term caloric restriction on DNA methylation measures of biological aging in healthy adults from the CALERIE trial.",
+        "authors": "Waziry R, Ryan CP, Corcoran DL, Huffman KM, Kobor MS, Kothari M, Graf GH, Kraus VB, Kraus WE, Lin DTS, Pieper CF, Ramaker ME, Bhapkar M, Das SK, Ferrucci L, Hastings WJ, Kebbe M, Parker DC, Racette SB, Shalev I, Schilling B, Belsky DW.",
+        "year": "2023",
+        "doi": "10.1038/s43587-022-00357-y",
+        "url": "https://doi.org/10.1038/s43587-022-00357-y",
+        "abstract": "The geroscience hypothesis proposes that therapy to slow or reverse molecular changes that occur with aging can delay or prevent multiple chronic diseases and extend healthy lifespan 1-3 . Caloric restriction (CR), defined as lessening caloric intake without depriving essential nutrients 4 , results in changes in molecular processes that have been associated with aging, including DNA methylation (DNAm) 5-7 , and is established to increase healthy lifespan in multiple species 8,9 . Here we report the results of a post hoc analysis of the influence of CR on DNAm measures of aging in blood samples from the Comprehensive Assessment of Long-term Effects of Reducing Intake of Energy (CALERIE) trial, a randomized controlled trial in which n = 220 adults without obesity were randomized to 25% CR or ad libitum control diet for 2 yr (ref.  10 ). We found that CALERIE intervention slowed the pace of aging, as measured by the DunedinPACE DNAm algorithm, but did not lead to significant changes in biological age estimates measured by various DNAm clocks including PhenoAge and GrimAge. Treatment effect sizes were small. Nevertheless, modest slowing of the pace of aging can have profound effects on population health 11-13 . The finding that CR modified DunedinPACE in a randomized controlled trial supports the geroscience hypothesis, building on evidence from small and uncontrolled studies 14-16  and contrasting with reports that biological aging may not be modifiable 17 . Ultimately, a conclusive test of the geroscience hypothesis will require trials with long-term follow-up to establish effects of intervention on primary healthy-aging endpoints, including incidence of chronic disease and mortality 18-20 .",
+        "publication_types": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Randomized Controlled Trial",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ]
+      }
+    ]
+  },
+  "synthetic-biology": {
+    "query_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE%3A%22Synthetic+biology%22+AND+REVIEW%3AY+AND+FIRST_PDATE%3A%5B2020-01-01+TO+2025-12-31%5D&format=json&resultType=core&pageSize=2",
+    "checked": "2026-10-06",
+    "records": []
+  },
+  "circadian": {
+    "query_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE%3A%22Circadian+rhythms%22+AND+REVIEW%3AY+AND+FIRST_PDATE%3A%5B2022-01-01+TO+2025-12-31%5D&format=json&resultType=core&pageSize=2",
+    "checked": "2026-10-06",
+    "records": []
+  },
+  "epigenetics": {
+    "query_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE%3A%22Epigenetics+and+aging%22+AND+REVIEW%3AY&format=json&resultType=core&pageSize=2",
+    "checked": "2026-10-06",
+    "records": []
+  },
+  "metabolism": {
+    "query_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE%3A%22Insulin+resistance%22+AND+REVIEW%3AY+AND+FIRST_PDATE%3A%5B2023-01-01+TO+2025-12-31%5D&format=json&resultType=core&pageSize=2",
+    "checked": "2026-10-06",
+    "records": []
+  },
+  "inflammation": {
+    "query_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE%3A%22Inflammaging%22+AND+REVIEW%3AY+AND+FIRST_PDATE%3A%5B2022-01-01+TO+2025-12-31%5D&format=json&resultType=core&pageSize=2",
+    "checked": "2026-10-06",
+    "records": []
+  },
+  "microbiome-aging": {
+    "query_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE%3A%22Gut+microbiota+and+aging%22+AND+REVIEW%3AY&format=json&resultType=core&pageSize=2",
+    "checked": "2026-10-06",
+    "records": []
+  },
+  "skin": {
+    "query_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE%3A%22Skin+barrier%22+AND+REVIEW%3AY+AND+FIRST_PDATE%3A%5B2022-01-01+TO+2025-12-31%5D&format=json&resultType=core&pageSize=2",
+    "checked": "2026-10-06",
+    "records": []
+  },
+  "cancer-prevention": {
+    "query_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE%3A%22Cancer+prevention%22+AND+REVIEW%3AY+AND+FIRST_PDATE%3A%5B2023-01-01+TO+2025-12-31%5D&format=json&resultType=core&pageSize=2",
+    "checked": "2026-10-06",
+    "records": []
+  },
+  "wellbeing": {
+    "query_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE%3A%22Positive+psychology+interventions%22+AND+TITLE%3A%22meta-analysis%22&format=json&resultType=core&pageSize=2",
+    "checked": "2026-10-06",
+    "records": [
+      {
+        "title": "Positive Psychology Interventions for Adults With Spinal Cord Injury: A Systematic Review and Meta-analysis.",
+        "authors": "Bhattarai M, Shigemoto Y, Bajracharya S.",
+        "year": "2026",
+        "doi": "10.1016/j.apmr.2026.07.018",
+        "url": "https://doi.org/10.1016/j.apmr.2026.07.018",
+        "abstract": " Objectives To systematically synthesize the evidence on the effect of positive psychology interventions (PPIs) on health and wellbeing outcomes in adults with spinal cord injury (SCI). Data sources We performed a comprehensive search across 6 electronic databases: Medline, Embase, CINAHL, PsycInfo, SPORTDiscus, and CENTRAL (Cochrane Library). Study selection We included interventional studies published between 2000 and 2025. Studies were eligible for inclusion if they involved individuals with SCI and implemented PPIs aligned with Seligman's Positive Emotion, Engagement, Relationships, Meaning, and Accomplishment model. Studies with all health and wellbeing outcomes were included. The initial search retrieved 8288 studies, of which 8 met the eligibility criteria for inclusion in the systematic review. Data extraction Two independent reviewers extracted data on study designs, intervention characteristics, outcome measures, and key findings using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guideline. Meta-analyses were performed for outcomes reported in at least 3 studies. Data synthesis The systematic review included 8 studies, and the meta-analyses included 7 of them. Of the 8 studies, 7 integrated 1 or more PPI components within their interventions, whereas only 1 study was fully grounded in a positive psychology framework. Results from the systematic review suggest the significant positive effects of PPIs on selected physical, emotional, and psychosocial outcomes. In meta-analyses conducted for self-efficacy, life satisfaction, anxiety, and depression outcomes, the standardized mean differences were statistically significant for self-efficacy, life satisfaction, and anxiety. However, evidence on the follow-up or long-term effects of PPIs remains limited or inconsistent. Conclusions The PPIs or PPI-derived components exert beneficial effects on various health and wellbeing outcomes, particularly in emotional or psychological health. Nevertheless, further research using standardized, full-scale PPI and a larger sample is essential to establish these interventions as potential mainstream interventions within SCI rehabilitation.",
+        "publication_types": [
+          "Review",
+          "Journal Article"
+        ]
+      },
+      {
+        "title": "Effect of positive psychology interventions on psychosocial health outcomes of school-aged adolescents: A quantitative systematic review and meta-analysis protocol",
+        "authors": "Adibsereshki N, Nosrati Nejad F, Jafari P, Basakha M, Bidhendi-Yarandi R.",
+        "year": "2026",
+        "doi": "10.12688/f1000research.187813.1",
+        "url": "https://doi.org/10.12688/f1000research.187813.1",
+        "abstract": "Background PPIs have been increasingly recognized for their potential to enhance adolescent psychosocial health outcomes. These interventions aimed to foster well-being and reduce psychological distress by promoting positive human attributes. This systematic review and meta-analysis aim to provide evidence for the efficacy of Positive Psychology interventions (PPIs) in educational settings and highlight their impact on adolescents’ psychosocial health outcomes. Methods A systematic literature search of electronic databases, including PubMed (MEDLINE), Scopus, CINAHL, Embase, PsycINFO, and Google Scholar, will be conducted following the PRISMA guidelines to retrieve interventional studies published in English up to 2025 to assess the efficacy of PPIs on psychosocial health outcomes in school-age adolescents. Interventional/experimental studies will be considered eligible if they report the efficacy of PPIs compared to a control group in school-aged adolescents. Studies with unclear definitions of PPIs, those with no control group, and those that relied on newspaper articles or Google data will also be excluded. Studies published in languages other than English and those with unclear data, case reports, conference proceedings, reviews, and letters will not be eligible for inclusion. The quality of the included interventional studies will be evaluated using the Joanna Briggs Institute (JBI) for interventional studies. The pooled effect sizes will be estimated using a random-effects model for heterogeneity. Heterogeneity and publication bias will be evaluated using I-squared index and Egger’s test, respectively. Discussion This review fills key gaps by systematically synthesizing evidence on how positive psychology programs in schools affect adolescents’ mental and social health. Despite some limitations, this study incorporates diverse data sources to offer a detailed and accurate picture. The findings will inform targeted interventions and policy responses to cultivate the impact of PPIs on health issues.  Systematic review registration: PROSPERO CRD42024595381.",
+        "publication_types": [
+          "Preprint"
+        ]
+      }
+    ]
+  },
+  "ai-health": {
+    "query_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE%3A%22Artificial+intelligence%22+AND+TITLE%3A%22aging%22+AND+REVIEW%3AY&format=json&resultType=core&pageSize=2",
+    "checked": "2026-10-06",
+    "records": []
+  }
+}

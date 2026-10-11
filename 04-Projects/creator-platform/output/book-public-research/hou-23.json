@@ -1,0 +1,39 @@
+{
+  "id": "hou-23",
+  "requested_title": "功能医学",
+  "query": "The Disease Delusion Jeffrey Bland",
+  "checked": "2026-10-06",
+  "sources": [
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL18820803W",
+      "title": "The Disease Delusion: Conquering the Causes of Chronic Illness for a Healthier, Longer, and Happier Life",
+      "authors": [
+        "Dr. Jeffrey S. Bland"
+      ],
+      "year": 2014,
+      "description": "",
+      "subjects": [
+        "Holistic medicine",
+        "Functional medicine",
+        "Chronic diseases"
+      ]
+    },
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL27051132W",
+      "title": "The Disease Delusion Lib/E",
+      "authors": [
+        "Jeffrey S Bland PH.D.",
+        "Brett Barry",
+        "Dr Mark Hyman"
+      ],
+      "year": 2014,
+      "description": "",
+      "subjects": []
+    }
+  ],
+  "errors": [
+    "Wikipedia: HTTP Error 429: Too Many Requests"
+  ]
+}

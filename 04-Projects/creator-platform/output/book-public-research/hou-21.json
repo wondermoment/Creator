@@ -1,0 +1,33 @@
+{
+  "id": "hou-21",
+  "requested_title": "大脑能量",
+  "query": "Brain Energy Christopher Palmer",
+  "checked": "2026-10-06",
+  "sources": [
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL28447327W",
+      "title": "Brain Energy",
+      "authors": [
+        "Christopher M. Palmer"
+      ],
+      "year": 2022,
+      "description": "",
+      "subjects": []
+    },
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL42278693W",
+      "title": "Brain Energy",
+      "authors": [
+        "Christopher M. Palmer"
+      ],
+      "year": 2022,
+      "description": "",
+      "subjects": []
+    }
+  ],
+  "errors": [
+    "Wikipedia: HTTP Error 429: Too Many Requests"
+  ]
+}

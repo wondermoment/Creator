@@ -1,0 +1,38 @@
+{
+  "reviewer": "AI模拟审核，非营养师认证或实厨测试",
+  "results": [
+    {
+      "id": "time-budget-clarify",
+      "verdict": "本样本通过",
+      "reason": "首先仅确认动手时间与包含等待/清理的总时间，未先生成超时七日菜单。",
+      "first_text_seconds": 8.594,
+      "total_seconds": 12.703
+    },
+    {
+      "id": "time-budget-one-day",
+      "verdict": "有条件的一日草案；非硬时限验收",
+      "reason": "按用户同意的免开火食材给三餐份量与时间线；4+8+(15–18)=27–30分钟，无暗藏前日备餐。蛋液熟透优先、不保证火力不足时准时；消耗成本25–35元与首次包装采购可能超50元明确区分。",
+      "first_text_seconds": 6.235,
+      "total_seconds": 23.797
+    }
+  ],
+  "limits": [
+    "只测两个连续合成问题，不重跑旧62例",
+    "未实厨计时、未按身高体重测算能量，不是个体营养处方",
+    "未验证完整七天在每日30分钟内，原严格总时限阻塞保留",
+    "无性能分位数或稳定速度承诺"
+  ],
+  "checks": [
+    "所有7任务前后端/下载一致性通过",
+    "7教练×6轮合成路由通过",
+    "2项Skill合同/验收记录测试通过",
+    "6项后台聊天/上下文测试通过",
+    "diet.js语法通过",
+    "运行首页diet.js版本time-budget-12确认"
+  ],
+  "server_pid": 78640,
+  "source_sha256": {
+    "frontend/diet.js": "24640a0a7485fe20fc719fabd813fbc510195bed1f8fe08bf36256f2741ae86b",
+    "backend/app/coach_knowledge.json": "ad69a21311644ace3d634a3a3fa4596eab9345c046c9275892e0f0589e785296"
+  }
+}

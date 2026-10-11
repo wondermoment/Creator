@@ -1,0 +1,74 @@
+[
+  {
+    "heading": "个人基因组全外显子测序",
+    "images": [
+      {
+        "complete": true,
+        "natural": 1254,
+        "parent": 315,
+        "src": "/static/assets/testing/test-exome-science.webp",
+        "width": 315
+      }
+    ],
+    "page": 345,
+    "scroll": 345,
+    "sources": [
+      "https://medlineplus.gov/genetics/understanding/testing/sequencing/"
+    ],
+    "url": "http://127.0.0.1:8765/#shop/test-exome"
+  },
+  {
+    "heading": "个人全基因组测序",
+    "images": [
+      {
+        "complete": true,
+        "natural": 1254,
+        "parent": 315,
+        "src": "/static/assets/testing/test-genome-science.webp",
+        "width": 315
+      }
+    ],
+    "page": 345,
+    "scroll": 345,
+    "sources": [
+      "https://medlineplus.gov/genetics/understanding/testing/sequencing/"
+    ],
+    "url": "http://127.0.0.1:8765/#shop/test-genome"
+  },
+  {
+    "heading": "酒精代谢基因（乙醇、乙醛脱氢酶突变基因）",
+    "images": [
+      {
+        "complete": true,
+        "natural": 1254,
+        "parent": 315,
+        "src": "/static/assets/testing/test-alcohol-science.webp",
+        "width": 315
+      }
+    ],
+    "page": 345,
+    "scroll": 345,
+    "sources": [
+      "https://www.niaaa.nih.gov/publications/alcohol-flush-reaction"
+    ],
+    "url": "http://127.0.0.1:8765/#shop/test-alcohol"
+  },
+  {
+    "heading": "MTHFR基因（叶酸代谢）",
+    "images": [
+      {
+        "complete": true,
+        "natural": 1254,
+        "parent": 315,
+        "src": "/static/assets/testing/test-mthfr-science.webp",
+        "width": 315
+      }
+    ],
+    "page": 345,
+    "scroll": 345,
+    "sources": [
+      "https://www.cdc.gov/folic-acid/data-research/mthfr/index.html"
+    ],
+    "url": "http://127.0.0.1:8765/#shop/test-mthfr"
+  }
+]

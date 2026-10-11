@@ -1,0 +1,10 @@
+{
+  "seconds": 0.83,
+  "error": "Codex 未返回完整正文，请检查本机登录与执行状态；未采用结果",
+  "trace": [
+    {
+      "seconds": 0.27,
+      "stderr": "Error loading config.toml: model_providers contains reserved built-in provider IDs: `openai`. Built-in providers cannot be overridden. Rename your custom provider (for example, `openai-custom`).\nin `model_providers`\n\n"
+    }
+  ]
+}

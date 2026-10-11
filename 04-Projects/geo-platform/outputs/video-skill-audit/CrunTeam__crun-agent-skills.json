@@ -1,0 +1,26 @@
+{
+  "repo": "CrunTeam/crun-agent-skills",
+  "commit": "919ced2949cc29feb539e7904a681c1620c9ced7",
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "paths": [
+    "LICENSE",
+    "SKILL.md",
+    "skills/crun-account-credits/SKILL.md",
+    "skills/crun-model-router/SKILL.md",
+    "skills/crun-task-runner/SKILL.md",
+    "skills/scenarios/crun-action-camera-enhancer/SKILL.md",
+    "skills/scenarios/crun-character-reference/SKILL.md",
+    "skills/scenarios/crun-educational-comic/SKILL.md",
+    "skills/scenarios/crun-effect-template/SKILL.md",
+    "skills/scenarios/crun-media-enhancer/SKILL.md",
+    "skills/scenarios/crun-meme-generator/SKILL.md",
+    "skills/scenarios/crun-photo-replication/SKILL.md",
+    "skills/scenarios/crun-url-promo-generator/SKILL.md"
+  ]
+}

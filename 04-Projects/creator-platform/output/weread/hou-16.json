@@ -1,0 +1,218 @@
+{
+  "book": {
+    "id": "hou-16",
+    "number": 16,
+    "title": "垃圾DNA",
+    "category": "基因",
+    "author": "Nessa Carey"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E5%9E%83%E5%9C%BEDNA",
+  "results": [
+    {
+      "title": "垃圾DNA",
+      "author": "[英]内莎.凯里",
+      "url": "https://weread.qq.com/web/bookDetail/62332ac0811e33563g014297"
+    },
+    {
+      "title": "好玩的生物学：陪中学生一起阅读生命",
+      "author": "张超 赵奂 林祖荣",
+      "url": "https://weread.qq.com/web/reader/687326d0813ab6bcbg0137fb"
+    },
+    {
+      "title": "科幻世界（2017年全年合集）",
+      "author": "科幻世界",
+      "url": "https://weread.qq.com/web/reader/c9e326f0813abb6abg013832"
+    },
+    {
+      "title": "科幻世界（2017年第6期）",
+      "author": "科幻世界",
+      "url": "https://weread.qq.com/web/reader/9bb323c05de5e79bbcf03d4"
+    },
+    {
+      "title": "生命藏在量子中",
+      "author": "柳振浩",
+      "url": "https://weread.qq.com/web/reader/ced320d07150e13eced2595"
+    },
+    {
+      "title": "缤纷生物（发现世界丛书）",
+      "author": "王义炯等",
+      "url": "https://weread.qq.com/web/reader/b6732fc071e53057b67b12d"
+    },
+    {
+      "title": "预设",
+      "author": "张海龙",
+      "url": "https://weread.qq.com/web/reader/44232470813abb436g015173"
+    },
+    {
+      "title": "酵母演义——真菌如何塑造人类文明",
+      "author": "[英]尼古拉斯·P. 莫尼",
+      "url": "https://weread.qq.com/web/reader/ff132bd0813ab9843g018a8e"
+    },
+    {
+      "title": "机器人叛乱：在达尔文时代找到意义",
+      "author": "[加]基思·斯坦诺维奇",
+      "url": "https://weread.qq.com/web/reader/dc032de0813abb0d5g0195e3"
+    },
+    {
+      "title": "机器人叛乱：在达尔文时代找到意义",
+      "author": "斯坦诺维奇",
+      "url": "https://weread.qq.com/web/reader/1c732e805c069f1c74270ee"
+    },
+    {
+      "title": "给忙碌青少年讲生命进化：从达尔文进化论到当代基因科学",
+      "author": "[英]《新科学家》杂志",
+      "url": "https://weread.qq.com/web/reader/88432200813ab9f32g0195f2"
+    },
+    {
+      "title": "能量，性，自杀（译文科学）",
+      "author": "尼克·莱恩",
+      "url": "https://weread.qq.com/web/reader/1b232900813ab8168g0106cd"
+    },
+    {
+      "title": "科幻世界·译文版（2022年全年合集）",
+      "author": "科幻世界",
+      "url": "https://weread.qq.com/web/reader/83632780813ab8186g011cde"
+    },
+    {
+      "title": "金·斯坦利·罗宾逊短篇集（世界科幻大师丛书 科幻世界出品）",
+      "author": "[美]金·斯坦利·罗宾逊",
+      "url": "https://weread.qq.com/web/reader/07e324f0813ab8b06g014bcd"
+    },
+    {
+      "title": "科幻世界·译文版（2022年第3期）",
+      "author": "科幻世界",
+      "url": "https://weread.qq.com/web/reader/f1b32080729eb362f1be959"
+    },
+    {
+      "title": "基因，这么聊我就懂了",
+      "author": "尹烨",
+      "url": "https://weread.qq.com/web/reader/56a320e0813aba25ag0175a2"
+    },
+    {
+      "title": "大话科学史（全三册）：比悬疑小说更好看的真实科学史",
+      "author": "[美]山姆·基恩",
+      "url": "https://weread.qq.com/web/reader/60832860813ab9419g012814"
+    },
+    {
+      "title": "小提琴家的大拇指：大话基因秘史",
+      "author": "[美]山姆·基恩",
+      "url": "https://weread.qq.com/web/reader/89432600813ab9418g019558"
+    },
+    {
+      "title": "真实世界的脉络：平行宇宙及其寓意：第2版",
+      "author": "戴维·多伊奇",
+      "url": "https://weread.qq.com/web/reader/cc232eb0813ab820ag0175c8"
+    },
+    {
+      "title": "细胞史记：造物的神奇",
+      "author": "徐鑫",
+      "url": "https://weread.qq.com/web/reader/f93329b0813ab96afg011bf1"
+    },
+    {
+      "title": "解析彩虹：科学、虚妄和对奇观的嗜好",
+      "author": "理查德·道金斯",
+      "url": "https://weread.qq.com/web/reader/da8329205d151dda87e409c"
+    },
+    {
+      "title": "想太多的人类学家",
+      "author": "李相僖 尹信荣",
+      "url": "https://weread.qq.com/web/reader/a3632a3071ef0591a364ed3"
+    },
+    {
+      "title": "基因组：生命之书23章",
+      "author": "马特·里德利",
+      "url": "https://weread.qq.com/web/reader/27932970722e376e279cf1c"
+    },
+    {
+      "title": "病者生存",
+      "author": "沙龙·莫勒姆 乔纳森·普林斯",
+      "url": "https://weread.qq.com/web/reader/24a32cf0717c563224a23bb"
+    },
+    {
+      "title": "生命与超越：一个命运共同体的理想",
+      "author": "刘哲昕",
+      "url": "https://weread.qq.com/web/reader/70a32c307270365f70af20c"
+    },
+    {
+      "title": "外星人在窥视你",
+      "author": "衡孝芬",
+      "url": "https://weread.qq.com/web/reader/c36324407189e7c4c368f17"
+    },
+    {
+      "title": "宇宙简史：从宇宙诞生到人类进化.下",
+      "author": "[英]约翰·汉兹",
+      "url": "https://weread.qq.com/web/reader/32932f70813abbc68g019660"
+    },
+    {
+      "title": "达尔文的危险思想",
+      "author": "丹尼尔·丹尼特",
+      "url": "https://weread.qq.com/web/reader/76632d30813ab7a43g0100b9"
+    },
+    {
+      "title": "非编码微小分子RNA与心脏疾病",
+      "author": "杨宝峰 王志国",
+      "url": "https://weread.qq.com/web/reader/5c63224071a554d25c626f5"
+    },
+    {
+      "title": "进化",
+      "author": "[英]罗宾·邓巴",
+      "url": "https://weread.qq.com/web/reader/881329d0813aba548g013c83"
+    },
+    {
+      "title": "外星人与UFO全揭秘",
+      "author": "阿钒 王沁滨",
+      "url": "https://weread.qq.com/web/reader/a8c32780813ab7c61g018856"
+    },
+    {
+      "title": "世界奇闻怪事",
+      "author": "徐志晶",
+      "url": "https://weread.qq.com/web/reader/25a3289058a99825a34b37a"
+    },
+    {
+      "title": "祖先的故事",
+      "author": "理查德·道金斯 黄可仁",
+      "url": "https://weread.qq.com/web/reader/23f320707189b67223ffe81"
+    },
+    {
+      "title": "逃不开的经济周期2",
+      "author": "[丹]拉斯·特维德",
+      "url": "https://weread.qq.com/web/reader/2203204071a019eb220f3b1"
+    },
+    {
+      "title": "本质：世界运行的底层逻辑",
+      "author": "：王煦",
+      "url": "https://weread.qq.com/web/reader/06b32050813abb157g01213c"
+    },
+    {
+      "title": "觉醒吧！我的基因",
+      "author": "[日]宝岛社",
+      "url": "https://weread.qq.com/web/reader/0c332fd0813abac2ag019ff8"
+    },
+    {
+      "title": "从科学到哲学系列套装（15册）",
+      "author": "尼古拉斯·克里斯塔基斯等",
+      "url": "https://weread.qq.com/web/reader/7dd32b00728a4b1d7dd739c"
+    },
+    {
+      "title": "科学大师系列套装（15册）",
+      "author": "理查德·利基 大卫·赖克",
+      "url": "https://weread.qq.com/web/reader/75132c00724ac9bf7515b37"
+    },
+    {
+      "title": "唤醒创新睡美人",
+      "author": "[奥]安德烈亚斯·瓦格纳",
+      "url": "https://weread.qq.com/web/reader/f4c32f90813ab9d7ag0189a8"
+    },
+    {
+      "title": "去往斯德哥尔摩的路上",
+      "author": "[美]罗伯特·莱夫科维茨 [美]兰迪·霍尔",
+      "url": "https://weread.qq.com/web/reader/e43320b0813ab9c79g0129c5"
+    },
+    {
+      "title": "科幻世界（2025年全年合集）（套装共12册）",
+      "author": "科幻世界",
+      "url": "https://weread.qq.com/web/reader/6e932690813abb36bg014843"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "book": {
+    "id": "new-singularity-nearer",
+    "number": 49,
+    "title": "奇点更近",
+    "category": "AI与未来",
+    "edition": "",
+    "author": "雷·库兹韦尔（Ray Kurzweil）"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E5%A5%87%E7%82%B9%E6%9B%B4%E8%BF%91",
+  "results": [
+    {
+      "title": "奇点更近：未来20年的人工智能神预测",
+      "author": "[美]雷·库兹韦尔",
+      "url": "https://weread.qq.com/web/reader/30932ba0813ab9615g012cce"
+    },
+    {
+      "title": "探源——AI狂飙时代的管理常识与实践创新",
+      "author": "吴晨 著",
+      "url": "https://weread.qq.com/web/reader/70432a70813abb92dg018c4a"
+    },
+    {
+      "title": "我虚拟,故我在",
+      "author": "杜骏飞",
+      "url": "https://weread.qq.com/web/reader/3bb32f60813abc08dg0103a7"
+    },
+    {
+      "title": "证券市场周刊（2024年第41期）",
+      "author": "证券市场周刊",
+      "url": "https://weread.qq.com/web/reader/62e321a0813ab952cg01511b"
+    },
+    {
+      "title": "穿越AI时代的36个思维工具",
+      "author": "[新加坡]钱自严",
+      "url": "https://weread.qq.com/web/reader/63632cd0813abb6a0g0111b8"
+    },
+    {
+      "title": "AI时代创新法则：AI RaaS模式重新定义企业",
+      "author": "彭志强 刘燕",
+      "url": "https://weread.qq.com/web/reader/0da32010813abbad6g01299b"
+    },
+    {
+      "title": "AI赋能",
+      "author": "[美]里德·霍夫曼  [美]格雷格·贝亚托",
+      "url": "https://weread.qq.com/web/reader/f4532740813aba12eg0106fc"
+    },
+    {
+      "title": "筑基：智能经济的基础与空间",
+      "author": "信息社会50人论坛",
+      "url": "https://weread.qq.com/web/reader/3cd32260813abb2b7g0153d8"
+    },
+    {
+      "title": "柏基投资之道：近20年跑赢巴菲特的投资哲学",
+      "author": "李正  韩圣海",
+      "url": "https://weread.qq.com/web/reader/b5532510813abaca0g0139f1"
+    },
+    {
+      "title": "第一推动丛书·宇宙系列（升级版套装共12册）",
+      "author": "史蒂芬·霍金 基普·S.索恩 西蒙·辛格 伦纳德·萨斯坎德 罗杰·彭罗斯 玛西亚·芭楚莎 约翰·格里宾 丘成桐 史蒂夫·纳迪斯 尼尔·德格拉斯·泰森",
+      "url": "https://weread.qq.com/web/reader/de632790719799fcde6efe7"
+    },
+    {
+      "title": "如何提出一个好问题（全新升级版）",
+      "author": "[美]沃伦·贝格尔",
+      "url": "https://weread.qq.com/web/reader/b4a32e10813abb510g015a31"
+    },
+    {
+      "title": "离散：星际转移",
+      "author": "[澳]格雷格·伊根",
+      "url": "https://weread.qq.com/web/reader/82a32940813ab9e11g015d8f"
+    },
+    {
+      "title": "第一推动丛书·诺贝尔奖得主作品（新版套装共8册：《黑洞与时间弯曲》《终极理论之梦》《存在之轻》《不同的宇宙》《惊人的假说》《第二自然》《比天空更宽广》《真理与美》）",
+      "author": "基普·S.索恩 斯蒂芬·温伯格 弗兰克·维尔切克 罗伯特·B.劳克林 杰拉尔德·M.埃德尔曼 S.钱德拉塞卡 弗朗西斯·克里克",
+      "url": "https://weread.qq.com/web/reader/8f6325e071e2194c8f6c2ba"
+    },
+    {
+      "title": "黑洞与时间弯曲（第一推动丛书·宇宙系列）",
+      "author": "基普·S.索恩",
+      "url": "https://weread.qq.com/web/reader/28c328405df78d28cd85142"
+    },
+    {
+      "title": "AI销冠：一个人顶一个团队的销售术",
+      "author": "唐兴通",
+      "url": "https://weread.qq.com/web/reader/01432e20813aba780g011a81"
+    },
+    {
+      "title": "证券市场周刊（2026年第01期）",
+      "author": "证券市场周刊",
+      "url": "https://weread.qq.com/web/reader/cfb32350813abb1c4g01396d"
+    },
+    {
+      "title": "信睿周报·第26辑（第151-156期）",
+      "author": "朱慧玲 陆晔 陈学雷 等",
+      "url": "https://weread.qq.com/web/reader/f9932210813abb67dg012843"
+    },
+    {
+      "title": "产业变局与四个“铁三角”",
+      "author": "王德培",
+      "url": "https://weread.qq.com/web/reader/27832560813abb125g018519"
+    },
+    {
+      "title": "AI职场全能王·全行业提效宝典（套装共17册）",
+      "author": "杜振东 涂铭  陈斌 方军 张华 焱公子 水青衣 谷燕燕 小安老思 邓世超  轩珍珍 徐伟浩 田政 谷燕燕 唐琨  王先涛 徐捷 隐军  哈莹 夏月东 邓世超 唐兴通 谢浩 张一凡 杨梦倩 王开 陈凯畅",
+      "url": "https://weread.qq.com/web/reader/dde32700813abb4eag0137bd"
+    },
+    {
+      "title": "第一推动丛书·时空奥秘系列（新版套装共5册：《黑洞与时间弯曲》《时间简史》《宇宙的结构》《时间之箭》《时空本性》）",
+      "author": "基普·S.索恩 布莱恩·R.格林 史蒂芬·霍金 彼得·柯文尼 罗杰·海菲尔德 罗杰·彭罗斯",
+      "url": "https://weread.qq.com/web/reader/8343218071e21952834254d"
+    },
+    {
+      "title": "AI灯塔——智能时代的文明回响与未来共生",
+      "author": "黄飞",
+      "url": "https://weread.qq.com/web/reader/f2a32cc0813abc1e4g0142a2"
+    },
+    {
+      "title": "智能传播研究（第一辑）",
+      "author": "刘幼琍 主编",
+      "url": "https://weread.qq.com/web/reader/c6432510813abb5c0g017dac"
+    },
+    {
+      "title": "商学院（2026年2&3月合刊）",
+      "author": "商学院",
+      "url": "https://weread.qq.com/web/reader/37432df0813abb43bg0152b6"
+    },
+    {
+      "title": "新职力：塑造未来新质职业教育的六种力量",
+      "author": "李骏翼等著",
+      "url": "https://weread.qq.com/web/reader/512322b0813aba7c9g011efa"
+    },
+    {
+      "title": "谷歌AI风云：巨兽诞生",
+      "author": "哲空空",
+      "url": "https://weread.qq.com/web/reader/05732400813abbea8g0109ff"
+    },
+    {
+      "title": "信睿周报·第27辑（第157-162期）",
+      "author": "宋睿华 肖竞 刘昌玉 冯原 等",
+      "url": "https://weread.qq.com/web/reader/9cc32db0813abb69cg01971b"
+    }
+  ]
+}

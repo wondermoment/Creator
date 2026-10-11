@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "heygen-com/hyperframes",
+    "sha": "5c7f6316d3646477a0f725176c00335cb8575560",
+    "path": "skills/embedded-captions",
+    "name": "embedded-captions"
+  },
+  {
+    "repo": "heygen-com/hyperframes",
+    "sha": "5c7f6316d3646477a0f725176c00335cb8575560",
+    "path": "skills/faceless-explainer",
+    "name": "faceless-explainer"
+  },
+  {
+    "repo": "heygen-com/hyperframes",
+    "sha": "5c7f6316d3646477a0f725176c00335cb8575560",
+    "path": "skills/general-video",
+    "name": "general-video"
+  },
+  {
+    "repo": "heygen-com/hyperframes",
+    "sha": "5c7f6316d3646477a0f725176c00335cb8575560",
+    "path": "skills/hyperframes-animation",
+    "name": "hyperframes-animation"
+  },
+  {
+    "repo": "heygen-com/hyperframes",
+    "sha": "5c7f6316d3646477a0f725176c00335cb8575560",
+    "path": "skills/hyperframes-audio",
+    "name": "hyperframes-audio"
+  },
+  {
+    "repo": "heygen-com/hyperframes",
+    "sha": "5c7f6316d3646477a0f725176c00335cb8575560",
+    "path": "skills/hyperframes-cli",
+    "name": "hyperframes-cli"
+  },
+  {
+    "repo": "heygen-com/hyperframes",
+    "sha": "5c7f6316d3646477a0f725176c00335cb8575560",
+    "path": "skills/hyperframes-core",
+    "name": "hyperframes-core"
+  },
+  {
+    "repo": "heygen-com/hyperframes",
+    "sha": "5c7f6316d3646477a0f725176c00335cb8575560",
+    "path": "skills/hyperframes-creative",
+    "name": "hyperframes-creative"
+  },
+  {
+    "repo": "heygen-com/hyperframes",
+    "sha": "5c7f6316d3646477a0f725176c00335cb8575560",
+    "path": "skills/hyperframes-keyframes",
+    "name": "hyperframes-keyframes"
+  },
+  {
+    "repo": "heygen-com/hyperframes",
+    "sha": "5c7f6316d3646477a0f725176c00335cb8575560",
+    "path": "skills/hyperframes-registry",
+    "name": "hyperframes-registry"
+  },
+  {
+    "repo": "heygen-com/hyperframes",
+    "sha": "5c7f6316d3646477a0f725176c00335cb8575560",
+    "path": "skills/hyperframes-studio",
+    "name": "hyperframes-studio"
+  },
+  {
+    "repo": "heygen-com/hyperframes",
+    "sha": "5c7f6316d3646477a0f725176c00335cb8575560",
+    "path": "skills/hyperframes",
+    "name": "hyperframes"
+  },
+  {
+    "repo": "heygen-com/hyperframes",
+    "sha": "5c7f6316d3646477a0f725176c00335cb8575560",
+    "path": "skills/media-use",
+    "name": "media-use"
+  },
+  {
+    "repo": "heygen-com/hyperframes",
+    "sha": "5c7f6316d3646477a0f725176c00335cb8575560",
+    "path": "skills/motion-graphics",
+    "name": "motion-graphics"
+  },
+  {
+    "repo": "heygen-com/hyperframes",
+    "sha": "5c7f6316d3646477a0f725176c00335cb8575560",
+    "path": "skills/music-to-video",
+    "name": "music-to-video"
+  },
+  {
+    "repo": "heygen-com/hyperframes",
+    "sha": "5c7f6316d3646477a0f725176c00335cb8575560",
+    "path": "skills/product-launch-video",
+    "name": "product-launch-video"
+  },
+  {
+    "repo": "heygen-com/hyperframes",
+    "sha": "5c7f6316d3646477a0f725176c00335cb8575560",
+    "path": "skills/slideshow",
+    "name": "slideshow"
+  },
+  {
+    "repo": "heygen-com/hyperframes",
+    "sha": "5c7f6316d3646477a0f725176c00335cb8575560",
+    "path": "skills/talking-head-recut",
+    "name": "talking-head-recut"
+  },
+  {
+    "repo": "remotion-dev/skills",
+    "sha": "32b241b97f4e0e4ab61fe9a41b05e6e64503f8c5",
+    "path": "skills/remotion-best-practices",
+    "name": "remotion-best-practices"
+  },
+  {
+    "repo": "remotion-dev/skills",
+    "sha": "32b241b97f4e0e4ab61fe9a41b05e6e64503f8c5",
+    "path": "skills/remotion-docs",
+    "name": "remotion-docs"
+  },
+  {
+    "repo": "remotion-dev/skills",
+    "sha": "32b241b97f4e0e4ab61fe9a41b05e6e64503f8c5",
+    "path": "skills/remotion-interactivity",
+    "name": "remotion-interactivity"
+  },
+  {
+    "repo": "remotion-dev/skills",
+    "sha": "32b241b97f4e0e4ab61fe9a41b05e6e64503f8c5",
+    "path": "skills/remotion-markup",
+    "name": "remotion-markup"
+  },
+  {
+    "repo": "remotion-dev/skills",
+    "sha": "32b241b97f4e0e4ab61fe9a41b05e6e64503f8c5",
+    "path": "skills/remotion-studio",
+    "name": "remotion-studio"
+  },
+  {
+    "repo": "remotion-dev/skills",
+    "sha": "32b241b97f4e0e4ab61fe9a41b05e6e64503f8c5",
+    "path": "skills/remotion-upgrade",
+    "name": "remotion-upgrade"
+  },
+  {
+    "repo": "elevenlabs/skills",
+    "sha": "25bd9ad1c31af658fba6cc7d8ec1f1e2a715c049",
+    "path": "dubbing",
+    "name": "dubbing"
+  },
+  {
+    "repo": "elevenlabs/skills",
+    "sha": "25bd9ad1c31af658fba6cc7d8ec1f1e2a715c049",
+    "path": "music",
+    "name": "music"
+  },
+  {
+    "repo": "elevenlabs/skills",
+    "sha": "25bd9ad1c31af658fba6cc7d8ec1f1e2a715c049",
+    "path": "sound-effects",
+    "name": "sound-effects"
+  },
+  {
+    "repo": "elevenlabs/skills",
+    "sha": "25bd9ad1c31af658fba6cc7d8ec1f1e2a715c049",
+    "path": "speech-engine",
+    "name": "speech-engine"
+  },
+  {
+    "repo": "elevenlabs/skills",
+    "sha": "25bd9ad1c31af658fba6cc7d8ec1f1e2a715c049",
+    "path": "speech-to-text",
+    "name": "speech-to-text"
+  },
+  {
+    "repo": "elevenlabs/skills",
+    "sha": "25bd9ad1c31af658fba6cc7d8ec1f1e2a715c049",
+    "path": "text-to-speech",
+    "name": "text-to-speech"
+  },
+  {
+    "repo": "elevenlabs/skills",
+    "sha": "25bd9ad1c31af658fba6cc7d8ec1f1e2a715c049",
+    "path": "voice-changer",
+    "name": "voice-changer"
+  },
+  {
+    "repo": "elevenlabs/skills",
+    "sha": "25bd9ad1c31af658fba6cc7d8ec1f1e2a715c049",
+    "path": "voice-isolator",
+    "name": "voice-isolator"
+  },
+  {
+    "repo": "pixel-point/animate-text",
+    "sha": "0f783e459d62d851b7e5308e0596fa5fbac00c7e",
+    "path": "skills/animate-text",
+    "name": "animate-text"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "book": {
+    "id": "hou-9",
+    "number": 9,
+    "title": "不老时代：年轻又长寿的科学和方法",
+    "category": "长寿抗衰",
+    "author": "Michael Roizen 等"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E4%B8%8D%E8%80%81%E6%97%B6%E4%BB%A3%EF%BC%9A%E5%B9%B4%E8%BD%BB%E5%8F%88%E9%95%BF%E5%AF%BF%E7%9A%84%E7%A7%91%E5%AD%A6%E5%92%8C%E6%96%B9%E6%B3%95",
+  "results": [
+    {
+      "title": "不老时代： 年轻又长寿的科学和方法",
+      "author": "迈克尔·罗伊森 彼得·林内曼 阿尔伯特·拉特纳",
+      "url": "https://weread.qq.com/web/reader/80932d30813ab84b6g016956"
+    }
+  ]
+}

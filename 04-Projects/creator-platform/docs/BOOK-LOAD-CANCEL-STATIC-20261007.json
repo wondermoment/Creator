@@ -1,0 +1,6 @@
+{
+  "method": "Read-only GET; no user data or runtime writes",
+  "version_in_home": true,
+  "script_bytes_match": true,
+  "sha256": "6a1be3c95dfc9794c52a57b1566a0e8793e02093545fabafdfd25cfa96b8b819"
+}

@@ -1,0 +1,27 @@
+{
+  "method": "Native image_gen through ChatGPT login, two independent calls; format conversion only, no compositing",
+  "modelVersion": "Not verified",
+  "prompt": "output/imagegen/testing-endocrine-prompt.txt",
+  "images": [
+    {
+      "id": "test-stress",
+      "original": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a10b89-de2c-75e0-985a-291c3d72fd0c\\exec-e866056a-1af9-4a66-885c-7361a41e0afd.png",
+      "file": "frontend\\assets\\testing\\test-stress-science.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "review": "Chinese text and cortisol-example subtitle reviewed; conceptual curve not measured or normative; footer adds harmless full stop."
+    },
+    {
+      "id": "test-estrogen",
+      "original": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a10b89-de2c-75e0-985a-291c3d72fd0c\\exec-00666b5d-3127-4b75-9918-a42adda95de9.png",
+      "file": "frontend\\assets\\testing\\test-estrogen-science.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "review": "E1/E2/E3, physiological context and no self-adjusted hormones footer reviewed; no metabolite chain or dosage."
+    }
+  ]
+}

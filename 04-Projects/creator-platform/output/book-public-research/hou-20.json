@@ -1,0 +1,41 @@
+{
+  "id": "hou-20",
+  "requested_title": "端粒：年轻、健康、长寿的新科学",
+  "query": "The Telomere Effect Elizabeth Blackburn",
+  "checked": "2026-10-06",
+  "sources": [
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL20193685W",
+      "title": "The Telomere Effect",
+      "authors": [
+        "Dr. Elizabeth Blackburn",
+        "Dr. Elissa Epel"
+      ],
+      "year": 2017,
+      "description": "",
+      "subjects": [
+        "Longevity",
+        "Human chromosomes",
+        "Aging, prevention",
+        "Aging, genetic aspects"
+      ]
+    },
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL24346708W",
+      "title": "The Telomere Effect",
+      "authors": [
+        "Dr Elizabeth Blackburn"
+      ],
+      "year": 2017,
+      "description": "",
+      "subjects": [
+        "Aging, prevention"
+      ]
+    }
+  ],
+  "errors": [
+    "Wikipedia: HTTP Error 429: Too Many Requests"
+  ]
+}

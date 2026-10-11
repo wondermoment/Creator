@@ -1,0 +1,12 @@
+{
+  "book-reader": {
+    "version_in_home": true,
+    "bytes_match": true,
+    "sha256": "1eeb3b08cbb88f8bd624426867aded000e8e9fbfd34414fedadebfaf9efca822"
+  },
+  "coach-chat": {
+    "version_in_home": true,
+    "bytes_match": true,
+    "sha256": "c86df5e7c2d327cadf3e83ae30799669995480f3a39d335bbaa4d38c7c89dcd7"
+  }
+}

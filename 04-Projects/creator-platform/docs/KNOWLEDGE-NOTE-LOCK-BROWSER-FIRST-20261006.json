@@ -1,0 +1,48 @@
+{
+  "scope": "Native Web Locks/localStorage/dialog/forms; synthetic fixture and records; isolated nonpersistent browser context; all network intercepted",
+  "checks": [
+    {
+      "case": "two real tabs queued behind native lock; manual UI saves both records",
+      "pass": true,
+      "rows": 3
+    },
+    {
+      "case": "native five-second timeout removes pending request, keeps form draft, no late write; manual retry succeeds",
+      "pass": true
+    },
+    {
+      "case": "closing native lock owner releases lock; queued tab recovers",
+      "pass": true
+    }
+  ],
+  "source_sha256": {
+    "app.js": "15fe42b24c5681534df7e5ac7ac2b79ba0736db4261bc0b587102d8931c7b166",
+    "travel.js": "b3c5464904f0bb9424b71f5317334e31c99a243d07422649fadf63669fcbd344",
+    "chat-format.js": "f541588263d62fe20d5ea382880f250281ddaf9629db7561e1db65225727bd2f",
+    "book-reader.js": "fa3b67e8866959ccf1cd3bdcf4d8f2471a7e0375c9f0ee776e476d21efcab431"
+  },
+  "browser": "154.0.4258.53",
+  "pass": false,
+  "error": "AssertionError()",
+  "page_errors": [],
+  "intercepted_requests": [
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:8765/__synthetic_note_lock__"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:8765/__synthetic_note_lock__"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:8765/__synthetic_note_lock__"
+    }
+  ],
+  "limitations": [
+    "Synthetic fixture, not full product/backend end-to-end",
+    "No OS suspension/process crash/browser quota test",
+    "Existing old-version tabs do not participate in lock",
+    "No real model call or medical validation"
+  ]
+}

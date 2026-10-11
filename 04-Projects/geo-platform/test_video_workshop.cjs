@@ -1,0 +1,22 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert');
+const listeners={},output={innerHTML:'unchanged'},form={querySelector:()=>null,querySelectorAll:()=>[]};
+const ctx=vm.createContext({console,Map,Set,JSON,Date,pid:'p',me:{identity:'u'},document:{addEventListener(t,f){(listeners[t]??=[]).push(f)}},state:{role:'owner',content:[{id:'d',repurpose_job_id:'j',title:'原标题',body:'原文',revision:2,channels:[],scheduled:''}],execution:[{id:'j',status:'succeeded',payload:{workflow:'repurpose',repurpose_channel:'video_storyboard',repurpose_source:{title:'来源',revision:1}},result:{answer:'原始模型回复'}}]},canEdit:()=>ctx.state.role==='owner',page:()=> 'repurpose',$:s=>s==='#repurpose-results'?output:form,esc:s=>String(s??'').replaceAll('<','&lt;'),expertMarkdown:s=>s,executionLabels:{succeeded:'完成'},fmt:()=>'',action:(label,a,id)=>`<button type="button" data-action="${a}" data-id="${id}">${label}</button>`,refresh:async()=>{},toast:()=>{},syncManager:()=>{}});
+vm.runInContext(fs.readFileSync('static/repurpose.js','utf8'),ctx);
+const run=s=>vm.runInContext(s,ctx),click=listeners.click.find(f=>String(f).includes('repurpose-save'));
+ctx.formSubmit=(_,fn)=>ctx.pending=fn().catch(e=>ctx.error=e.message);
+(async()=>{
+ const button={dataset:{id:'j'},isConnected:true};
+ await click({target:{closest:s=>s.includes('repurpose-save')?button:null}});
+ assert(output.innerHTML.includes('repurpose-edit-form'));assert(!output.innerHTML.includes('class="primary" disabled'));
+ const editor={dataset:{job:'j'},matches:s=>s==='.repurpose-edit-form'};
+ listeners.input[1]({target:{name:'body',value:'手动优化正文',closest:()=>editor}});
+ ctx.api=async()=>ctx.state;output.innerHTML='typing-focus-kept';await run('refresh()');assert.equal(output.innerHTML,'typing-focus-kept','polling must not recreate editing DOM');
+ let payload;ctx.api=async(url,method,body)=>{if(method==='PUT'){payload=body;ctx.state.content[0]={...ctx.state.content[0],...body,revision:3};return {}}return ctx.state};
+ listeners.submit[1]({target:editor,preventDefault(){}});await ctx.pending;
+ assert.equal(payload.body,'手动优化正文');assert.equal(payload.revision,2);assert(output.innerHTML.includes('手动优化正文'));assert(output.innerHTML.includes('已保存稿 v3'));
+ await click({target:{closest:s=>s.includes('repurpose-save')?button:null}});ctx.api=async()=>{throw Error('版本冲突')};
+ listeners.submit[1]({target:editor,preventDefault(){}});await ctx.pending;assert.equal(ctx.error,'版本冲突');assert.equal(run("repurposeEditors.get(repurposeEditKey('j')).body"),'手动优化正文');
+ ctx.pid='other';assert(!run("repurposeEditors.has(repurposeEditKey('j'))"));
+ assert.equal(run("repurposeFormats.length"),14);assert(run("videoSkillFormats.every(x=>repurposeUsesVideo(x[0]))"));
+ console.log('PASS: six video routes; inline edits, optimistic version save, latest content, failed-save retention, polling focus and tenant isolation');
+})().catch(e=>{console.error(e);process.exitCode=1});

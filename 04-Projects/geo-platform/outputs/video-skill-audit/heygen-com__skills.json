@@ -1,0 +1,18 @@
+{
+  "repo": "heygen-com/skills",
+  "commit": "1bd5e4d33a028dfed3abf504c5e3dd644fb9ea8a",
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "paths": [
+    "LICENSE",
+    "heygen-avatar/SKILL.md",
+    "heygen-translate/SKILL.md",
+    "heygen-video/SKILL.md",
+    "platforms/nanoclaw/heygen/SKILL.md"
+  ]
+}

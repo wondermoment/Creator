@@ -1,0 +1,23 @@
+{
+  "book": {
+    "id": "hou-33",
+    "number": 33,
+    "title": "抗炎从根源上逆转慢病的炎症消除方案",
+    "category": "免疫",
+    "author": "Maggie Berghoff"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E6%8A%97%E7%82%8E%E4%BB%8E%E6%A0%B9%E6%BA%90%E4%B8%8A%E9%80%86%E8%BD%AC%E6%85%A2%E7%97%85%E7%9A%84%E7%82%8E%E7%97%87%E6%B6%88%E9%99%A4%E6%96%B9%E6%A1%88",
+  "results": [
+    {
+      "title": "免疫功能90天复原方案：从根源上构筑人体免疫防线的健康策略",
+      "author": "苏珊·布卢姆  米歇尔·本德",
+      "url": "https://weread.qq.com/web/reader/69632030813ab856ag01554c"
+    },
+    {
+      "title": "不是你，是你的荷尔蒙：从根源上抵御衰老与守护健康的荷尔蒙平衡方案",
+      "author": "妮基·威廉姆斯",
+      "url": "https://weread.qq.com/web/reader/f49325e0813ab72b6g017ce6"
+    }
+  ]
+}

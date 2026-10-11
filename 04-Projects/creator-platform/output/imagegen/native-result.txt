@@ -1,0 +1,4 @@
+已使用原生 image_gen 完成插画。当前环境为只读，无法复制到指定的 `qiao-sitting-native.png`。
+
+实际文件位于：
+[生成的 PNG](C:/Users/pc02a/Creator/04-Projects/geo-platform/.runtime/codex-local/generated_images/01a10333-6639-7360-b081-9722f36d5e4d/exec-a3d06756-0355-4b13-b841-3d3c046cb38d.png)

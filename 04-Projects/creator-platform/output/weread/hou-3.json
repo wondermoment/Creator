@@ -1,0 +1,158 @@
+{
+  "book": {
+    "id": "hou-3",
+    "number": 3,
+    "title": "人体简史",
+    "category": "生命基础",
+    "author": "比尔·布莱森"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E4%BA%BA%E4%BD%93%E7%AE%80%E5%8F%B2",
+  "results": [
+    {
+      "title": "人体简史（全彩插图版）",
+      "author": "[英]比尔·布莱森",
+      "url": "https://weread.qq.com/web/reader/ef6321d0813ab8cf4g011fa3"
+    },
+    {
+      "title": "人体简史",
+      "author": "[英]比尔·布莱森",
+      "url": "https://weread.qq.com/web/reader/698326e071eda5e269837c3"
+    },
+    {
+      "title": "不可思议的医学：凯的怪味人体简史",
+      "author": "[英]亚当·凯  [英]亨利·帕克绘",
+      "url": "https://weread.qq.com/web/reader/c98321a0813ab9b67g01980d"
+    },
+    {
+      "title": "人体简史·少儿彩绘版",
+      "author": "作者：  [英]比尔·布莱森 编者：艾玛·扬",
+      "url": "https://weread.qq.com/web/reader/ccd32fd0813ab91e6g017392"
+    },
+    {
+      "title": "人类体育简史",
+      "author": "王志鑫",
+      "url": "https://weread.qq.com/web/reader/8be32e60813abad01g01830a"
+    },
+    {
+      "title": "奇妙知识图解大百科：人体解码、太空之旅、动物王国、交通简史（套装4册）",
+      "author": "英国未来出版集团",
+      "url": "https://weread.qq.com/web/bookDetail/ed832f40811e3eb93g011ce3"
+    },
+    {
+      "title": "择香合身：周颖谈如何用香",
+      "author": "周颖",
+      "url": "https://weread.qq.com/web/reader/36a32db0813abbe53g0179be"
+    },
+    {
+      "title": "超链接学习者之认知旅程 下卷",
+      "author": "鲍小雄",
+      "url": "https://weread.qq.com/web/reader/71232f90813ab9387g01813e"
+    },
+    {
+      "title": "京隐述作集：全二册（二）",
+      "author": "彭树智",
+      "url": "https://weread.qq.com/web/reader/c8b32130813ab7332g01778b"
+    },
+    {
+      "title": "金钱心理学 （全新增订版）",
+      "author": "[美]摩根·豪泽尔",
+      "url": "https://weread.qq.com/web/reader/63132920813abb66eg010015"
+    },
+    {
+      "title": "你身体里的奥秘",
+      "author": "[日]山本健人",
+      "url": "https://weread.qq.com/web/reader/3a732350813abb123g0140b0"
+    },
+    {
+      "title": "一如既往： 不变的人性与致富心态",
+      "author": "[美]摩根·豪泽尔",
+      "url": "https://weread.qq.com/web/reader/f8e322b0813ab8db0g01952e"
+    },
+    {
+      "title": "我喜欢这样的自己",
+      "author": "徐慢慢心理话",
+      "url": "https://weread.qq.com/web/reader/13e32040813ab9f22g01547d"
+    },
+    {
+      "title": "半小时漫画科普系列（共7册）",
+      "author": "陈磊•半小时漫画团队",
+      "url": "https://weread.qq.com/web/reader/d1b32b60813ab73e8g0182ae"
+    },
+    {
+      "title": "半小时漫画青春期（全4册）",
+      "author": "陈磊·半小时漫画团队",
+      "url": "https://weread.qq.com/web/reader/6a7320b0813ab7258g010bd2"
+    },
+    {
+      "title": "深度成长：改变一生的思维模式",
+      "author": "林伟岸",
+      "url": "https://weread.qq.com/web/reader/7d932480813abb7c1g019939"
+    },
+    {
+      "title": "半小时漫画青春期：生理篇",
+      "author": "陈磊·半小时漫画团队",
+      "url": "https://weread.qq.com/web/reader/0cb32340726179be0cb4ae4"
+    },
+    {
+      "title": "无限暧昧指南",
+      "author": "身边工作室 小梅妮卡",
+      "url": "https://weread.qq.com/web/reader/0ba320a0813abb27cg0150d2"
+    },
+    {
+      "title": "大概念教学：素养导向的单元整体设计",
+      "author": "刘徽",
+      "url": "https://weread.qq.com/web/reader/f0732a30813ab798bg017123"
+    },
+    {
+      "title": "《视野》（2026年第6期）",
+      "author": "视野",
+      "url": "https://weread.qq.com/web/reader/84b32fa0813abbae1g013adb"
+    },
+    {
+      "title": "健康长寿：延缓衰老的科学与行动",
+      "author": "科林·罗斯 李华民",
+      "url": "https://weread.qq.com/web/reader/85432750813ab7a80g01378d"
+    },
+    {
+      "title": "《视野》（2026年第11期）",
+      "author": "视野",
+      "url": "https://weread.qq.com/web/reader/516326d0813abbd4fg0144d6"
+    },
+    {
+      "title": "从控制到引导：复杂性工程学派的有机适应性理论",
+      "author": "张宏军  等",
+      "url": "https://weread.qq.com/web/reader/aa732b20813ab80e7g016014"
+    },
+    {
+      "title": "读者（2024年第20期）",
+      "author": "读者",
+      "url": "https://weread.qq.com/web/reader/f0832a00813ab9499g015cfe"
+    },
+    {
+      "title": "给你两个宇宙",
+      "author": "官养呢",
+      "url": "https://weread.qq.com/web/reader/dd232e40813ab8430g013886"
+    },
+    {
+      "title": "《视野》（2024年第23期）",
+      "author": "视野",
+      "url": "https://weread.qq.com/web/reader/bb332470813ab9883g015085"
+    },
+    {
+      "title": "奔跑的碳",
+      "author": "风咕咕",
+      "url": "https://weread.qq.com/web/reader/62c327a0813ab9bbag019e6e"
+    },
+    {
+      "title": "听一万种声音，但只成为自己",
+      "author": "大麦",
+      "url": "https://weread.qq.com/web/reader/93432c40813ab9d8eg013544"
+    },
+    {
+      "title": "视频号运营",
+      "author": "山峰 高攀 颜慧华",
+      "url": "https://weread.qq.com/web/reader/9ec322c0813ab92c6g012a0f"
+    }
+  ]
+}

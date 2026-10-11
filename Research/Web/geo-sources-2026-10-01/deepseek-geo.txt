@@ -1,0 +1,169 @@
+# 超算GEO — AI 搜索品牌监控与生成式引擎优化（GEO）管理平台
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GEO-生成式引擎优化-8B5CF6" />
+  <img src="https://img.shields.io/badge/平台覆盖-DeepSeek_豆包_Kimi_文心一言-blue" />
+  <img src="https://img.shields.io/badge/合规检测-黑帽_灰帽识别-red" />
+  <img src="https://img.shields.io/badge/License-MIT-green" />
+</p>
+
+<p align="center">
+  <b>你的品牌在 DeepSeek、豆包、Kimi、文心一言里被推荐了吗？</b><br/>
+  超算GEO 帮你监控、诊断、优化——让 AI 搜索引擎主动推荐你的品牌。
+</p>
+
+---
+
+## 什么是 GEO？GEO 和 SEO 有什么区别？
+
+**GEO（Generative Engine Optimization，生成式引擎优化）** 是品牌在 AI 搜索时代必须掌握的新能力。
+
+| 维度 | 传统 SEO | GEO（生成式引擎优化） |
+|------|---------|-------------------|
+| 目标引擎 | Google、百度 | DeepSeek、豆包、Kimi、文心一言、通义千问 |
+| 优化目标 | 关键词排名、点击率 | AI 回答中的品牌提及率、情感倾向 |
+| 内容形式 | 网页、外链 | 结构化知识、权威内容、多平台分发 |
+| 效果验证 | 排名变化 | AI 推荐频次、品牌曝光率 |
+
+> **一句话理解 GEO**：让 AI 在回答用户问题时，主动提到并正面描述你的品牌。
+
+---
+
+## 关于超算GEO
+
+**超算GEO** 是国内首批专注于 AI 搜索品牌监控与 GEO 优化的 SaaS 平台，提供从
+品牌监控 → GEO 诊断 → 内容生成 → 合规检测 → 多平台发布的全链路服务。
+
+- 官网：[chaosuangeo.com](https://chaosuangeo.com)
+- 管理平台：[vip.chaosuangeo.com](https://vip.chaosuangeo.com)
+
+**本仓库为管理平台前端源码**，可作为对接超算GEO后端服务或自建 GEO 监控系统的参考实现。
+
+---
+
+## 核心功能
+
+### 🔍 AI 搜索品牌监控（GEO 评估引擎）
+实时追踪品牌在 DeepSeek、豆包、Kimi、文心一言、通义千问、元宝等主流 AI 搜索引擎中的出现情况：
+- 品牌提及率、排名位置、情感倾向
+- 跨平台横向对比，生成综合 GEO 健康度评分
+- 历史趋势追踪，量化优化效果
+
+### 🚨 违规 GEO 合规检测
+帮助品牌规避 AI 投毒（黑帽 GEO）风险，识别并预警：
+- 过度关键词堆砌、虚假引用注入
+- 竞品恶意操控 AI 推荐内容
+- 不符合平台规范的灰帽 GEO 手段
+
+> 315 后合规 GEO 是必答题，超算GEO 内置三层合规检测架构。
+
+### 📝 GEO 内容生成
+AI 辅助生成符合各平台规范的 GEO 优化内容，提升品牌在 AI 回答中的自然权重：
+- 结构化品牌知识库管理
+- 针对不同 AI 引擎的内容策略差异化生成
+
+### 📤 全渠道内容分发（2万+ 媒体渠道）
+一键将优化内容发布至知乎、微博、今日头条、小红书、百家号等自媒体平台，
+构建多平台内容矩阵，扩大 AI 训练数据覆盖面。
+
+### 📊 GEO 数据看板
+- 各 AI 平台品牌曝光趋势图
+- 关键词覆盖率、竞品对比分析
+- GEO 优化 ROI 量化报告
+
+---
+
+## 支持的 AI 搜索平台
+
+| 平台 | 状态 |
+|------|------|
+| DeepSeek | ✅ 已支持 |
+| 豆包（字节跳动） | ✅ 已支持 |
+| 文心一言（百度） | ✅ 已支持 |
+| Kimi（月之暗面） | ✅ 已支持 |
+| 通义千问（阿里） | ✅ 已支持 |
+| 元宝（腾讯） | ✅ 已支持 |
+| ChatGPT / OpenAI | 🔜 即将支持 |
+| Perplexity | 🔜 即将支持 |
+
+---
+
+## 快速开始
+
+### 环境要求
+
+- Node.js >= 14
+
+### 安装与配置
+
+```bash
+git clone https://github.com/DeepSeekGEO/deepseek-geo.git
+cd deepseek-geo
+
+npm install
+
+cp .env.example .env.local
+# 编辑 .env.local，填写后端 API 地址
+```
+
+### 开发 / 构建
+
+```bash
+npm run dev      # 开发模式，默认 localhost:9527
+npm run build    # 生产构建，输出至 dist/
+```
+
+详细配置项见 [`.env.example`](.env.example)。
+
+---
+
+## 插件说明
+
+本系统配合 **DeepseekConnector** 浏览器插件工作，插件在用户使用 AI 搜索时
+自动采集数据并上报，实现无感知的全天候 GEO 监控。
+
+v1.3.1 起支持「接入码」模式，无需修改插件即可对接自建后端服务。
+
+---
+
+## 后端对接
+
+本前端需配合后端 API 服务使用。如需使用**超算GEO托管版后端**，
+请访问 [chaosuangeo.com](https://chaosuangeo.com) 了解服务方案。
+
+---
+
+## 路线图
+
+- [x] 多平台 GEO 监控（DeepSeek / 豆包 / 文心一言 / Kimi / 通义千问 / 元宝）
+- [x] 违规 GEO 合规检测（黑帽 / 灰帽识别）
+- [x] AI 内容生成与 2万+ 渠道发布
+- [x] 浏览器插件第三方接入（v1.3.1）
+- [ ] ChatGPT / Perplexity 支持
+- [ ] 合作伙伴 API 接入模式
+- [ ] 移动端适配
+
+---
+
+## 关键词
+
+`GEO` `生成式引擎优化` `Generative Engine Optimization` `GEO优化` `GEO和SEO的区别`
+`AI搜索优化` `AI SEO` `GEO优化工具 ` `GEO优化平台` `AI搜索品牌监控`
+`DeepSeek品牌监控` `豆包GEO优化` `Kimi品牌曝光` `文心一言优化`
+`GEO合规检测` `AI投毒检测` `黑帽GEO` `315 GEO投毒`
+`怎么让AI推荐我的品牌` `怎么让DeepSeek推荐我的产品`
+`品牌在AI搜索看不见` `AI搜索不推荐我的品牌`
+`LLM SEO` `大模型营销` `AI品牌曝光` `超算GEO` `DeepSeekGEO`
+
+---
+
+## License
+
+MIT — 欢迎 Fork 与二次开发，保留原作者署名即可。
+
+---
+
+<p align="center">
+  <a href="https://chaosuangeo.com">chaosuangeo.com</a> ·
+  <a href="https://vip.chaosuangeo.com">管理平台</a>
+</p>

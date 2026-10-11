@@ -1,0 +1,107 @@
+{
+  "bali": [
+    {
+      "url": "https://images.baliuntold.com/cdn-cgi/image/width=3840,quality=75,format=auto/Tegallalang-Rice-Terraces-Ubud.jpg",
+      "caption": "德格拉朗稻田：看景与下田是两种强度",
+      "credit": "Bali Untold / Emily Tarrier",
+      "source": "https://baliuntold.com/destinations/ubud/5-day-itinerary/",
+      "src": "/static/assets/travel-guides/bali-1.webp"
+    },
+    {
+      "url": "https://images.baliuntold.com/cdn-cgi/image/width=3840,quality=75,format=auto/Campuhan-Ridge-Walk-Em1-e1724144255742.jpg",
+      "caption": "Campuhan 山脊步道：留给清晨的一段慢走",
+      "credit": "Bali Untold / Emily Tarrier",
+      "source": "https://baliuntold.com/destinations/ubud/5-day-itinerary/",
+      "src": "/static/assets/travel-guides/bali-2.webp"
+    }
+  ],
+  "kumano": [
+    {
+      "url": "https://www.tb-kumano.jp/en/wp-content/uploads/sites/2/2020/10/Hosshinmon-oji-kumano-kodo.jpg",
+      "caption": "发心门王子：本次半日古道的起点",
+      "credit": "田边市熊野旅游局",
+      "source": "https://www.tb-kumano.jp/en/kumano-kodo/nakahechi/tsugizakura-oji-to-kumano-hongu-taisha/hosshinmon-oji-to-kumano-hongu-taisha/",
+      "src": "/static/assets/travel-guides/kumano-1.webp"
+    },
+    {
+      "url": "https://www.tb-kumano.jp/en/wp-content/uploads/sites/2/2020/11/kumano-kodo-fushiogami-oji.jpg",
+      "caption": "伏拝王子眺望：沿途景观随季节变化",
+      "credit": "田边市熊野旅游局",
+      "source": "https://www.tb-kumano.jp/en/kumano-kodo/nakahechi/tsugizakura-oji-to-kumano-hongu-taisha/hosshinmon-oji-to-kumano-hongu-taisha/",
+      "src": "/static/assets/travel-guides/kumano-2.webp"
+    }
+  ],
+  "ikaria": [
+    {
+      "url": "https://cdn.visitgreece.gr/wp-uploads/2026/03/ikaria-01.jpg",
+      "caption": "伊卡里亚岛海岸：海岛实景",
+      "credit": "希腊国家旅游组织 Visit Greece",
+      "source": "https://www.visitgreece.gr/en/islands/north-aegean/ikaria",
+      "src": "/static/assets/travel-guides/ikaria-1.webp"
+    },
+    {
+      "url": "https://cdn.visitgreece.gr/wp-uploads/2026/03/ikaria-09.jpg",
+      "caption": "伊卡里亚岛风景：希腊旅游局目的地图库",
+      "credit": "希腊国家旅游组织 Visit Greece",
+      "source": "https://www.visitgreece.gr/en/islands/north-aegean/ikaria",
+      "src": "/static/assets/travel-guides/ikaria-2.webp"
+    }
+  ],
+  "alps": [
+    {
+      "url": "https://fuutazbsb.filerobot.com/1fizFtk2F56Edtm2ohFvngnbS_sMjZkZWVhMzQ3YTEzZGNk/Lebensgefuehl-Oesterreich-Kampagnenbild-Ein-Paar-auf-einem-Steg-vor-beleuchtetem-Bergmassiv_Oesterreich-Werbung_Marko-Mestrovic.jpeg?gravity=center&w=1728&h=740&func=crop&q=75",
+      "caption": "特劳恩湖与特劳恩施泰因山：萨尔茨卡默古特湖区",
+      "credit": "奥地利国家旅游局 / Marko Mestrovic",
+      "source": "https://www.austria.info/en-gb/regions/salzkammergut/",
+      "src": "/static/assets/travel-guides/alps-1.webp"
+    }
+  ],
+  "madeira": [
+    {
+      "url": "https://visitmadeira.com/media/pd2byndm/pr-11_vereda-dos-balcões-002-francisco-correia.jpg?width=1920&height=1080&rnd=133256881185130000",
+      "caption": "PR11 Balcões 步道实景",
+      "credit": "马德拉旅游局 / Francisco Correia",
+      "source": "https://visitmadeira.com/en/what-to-do/nature-seekers/activities/hiking/pr-11-vereda-dos-balcoes/",
+      "src": "/static/assets/travel-guides/madeira-1.webp"
+    },
+    {
+      "url": "https://visitmadeira.com/media/243pqq1j/pr-11_vereda-dos-balcões-001-francisco-correia.jpg?width=1920&height=1080&rnd=133256881373670000",
+      "caption": "Balcões 山林景观：晴天与云雾天景色不同",
+      "credit": "马德拉旅游局 / Francisco Correia",
+      "source": "https://visitmadeira.com/en/what-to-do/nature-seekers/activities/hiking/pr-11-vereda-dos-balcoes/",
+      "src": "/static/assets/travel-guides/madeira-2.webp"
+    }
+  ],
+  "hotel-chiva-som": [
+    {
+      "url": "https://www.chivasom.com/wp-content/uploads/2024/07/Chiva-Som-Leelawadee-Suite-Terrace-with-Jacuzzi-1024x683.webp",
+      "caption": "Leelawadee 套房露台，非所有房型均配备",
+      "credit": "Chiva-Som 官方资料",
+      "source": "https://www.chivasom.com/en/chiva-som-hua-hin/accommodation/",
+      "src": "/static/assets/travel-guides/hotel-chiva-som-1.webp"
+    },
+    {
+      "url": "https://www.chivasom.com/wp-content/uploads/2024/07/Chiva-Som-Leelawadee-Suite-Bedroom-1024x691.webp",
+      "caption": "Leelawadee 套房卧室示例",
+      "credit": "Chiva-Som 官方资料",
+      "source": "https://www.chivasom.com/en/chiva-som-hua-hin/accommodation/",
+      "src": "/static/assets/travel-guides/hotel-chiva-som-2.webp"
+    }
+  ],
+  "hotel-kamalaya": [
+    {
+      "url": "https://kamalaya.com/wp-content/uploads/2025/05/homepage.jpg",
+      "caption": "苏梅岛 Kamalaya 度假环境",
+      "credit": "Kamalaya 官方资料",
+      "source": "https://kamalaya.com/",
+      "src": "/static/assets/hotels/kamalaya-coast-hd.webp"
+    },
+    {
+      "url": "https://kamalaya.com/wp-content/uploads/2026/02/wellness-thailand-12.jpg",
+      "caption": "Kamalaya 康养空间",
+      "credit": "Kamalaya 官方资料",
+      "source": "https://kamalaya.com/",
+      "src": "/static/assets/travel-guides/hotel-kamalaya-2.webp"
+    }
+  ]
+}

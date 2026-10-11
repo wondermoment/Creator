@@ -1,0 +1,198 @@
+{
+  "version": "6.9",
+  "hitCount": 1,
+  "request": {
+    "queryString": "DOI:10.2147/OAJSM.S123529",
+    "resultType": "core",
+    "cursorMark": "*",
+    "pageSize": 25,
+    "sort": "",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "29138605",
+        "source": "MED",
+        "pmid": "29138605",
+        "pmcid": "PMC5679696",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC5679696"
+          ]
+        },
+        "doi": "10.2147/oajsm.s123529",
+        "title": "Effect of creatine supplementation during resistance training on lean tissue mass and muscular strength in older adults: a meta-analysis.",
+        "authorString": "Chilibeck PD, Kaviani M, Candow DG, Zello GA.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Chilibeck PD",
+              "lastName": "Chilibeck",
+              "firstName": "Philip D",
+              "initials": "PD",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "College of Kinesiology, University of Saskatchewan, Saskatoon, SK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Kaviani M",
+              "lastName": "Kaviani",
+              "firstName": "Mojtaba",
+              "initials": "M",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-1186-3384"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "School of Nutrition and Dietetics, Acadia University, Wolfville, NS."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Candow DG",
+              "lastName": "Candow",
+              "firstName": "Darren G",
+              "initials": "DG",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Faculty of Kinesiology and Health Studies, University of Regina, Regina."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Zello GA",
+              "lastName": "Zello",
+              "firstName": "Gordon A",
+              "initials": "GA",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "College of Pharmacy and Nutrition, University of Saskatchewan, Saskatoon, SK, Canada."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0002-1186-3384"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "supporting_data"
+          ]
+        },
+        "journalInfo": {
+          "volume": "8",
+          "journalIssueId": 2551326,
+          "dateOfPublication": "2017 ",
+          "monthOfPublication": 0,
+          "yearOfPublication": 2017,
+          "journal": {
+            "medlineAbbreviation": "Open Access J Sports Med",
+            "title": "Open access journal of sports medicine",
+            "essn": "1179-1543",
+            "issn": "1179-1543",
+            "isoabbreviation": "Open Access J Sports Med",
+            "nlmid": "101566036"
+          },
+          "printPublicationDate": "2017-01-01"
+        },
+        "pubYear": "2017",
+        "pageInfo": "213-226",
+        "abstractText": "The loss of muscle mass and strength with aging results in significant functional impairment. Creatine supplementation has been used in combination with resistance training as a strategy for increasing lean tissue mass and muscle strength in older adults, but results across studies are equivocal. We conducted a systematic review and meta-analysis of randomized controlled trials of creatine supplementation during resistance training in older adults with lean tissue mass, chest press strength, and leg press strength as outcomes by searching PubMed and SPORTDiscus databases. Twenty-two studies were included in our meta-analysis with 721 participants (both men and women; with a mean age of 57-70 years across studies) randomized to creatine supplementation or placebo during resistance training 2-3 days/week for 7-52 weeks. Creatine supplementation resulted in greater increases in lean tissue mass (mean difference =1.37 kg [95% CI =0.97-1.76]; <i>p</i><0.00001), chest press strength (standardized mean difference [SMD] =0.35 [0.16-0.53]; <i>p</i>=0.0002), and leg press strength (SMD =0.24 [0.05-0.43]; <i>p</i>=0.01). A number of mechanisms exist by which creatine may increase lean tissue mass and muscular strength. These are included in a narrative review in the discussion section of this article. In summary, creatine supplementation increases lean tissue mass and upper and lower body muscular strength during resistance training of older adults, but potential mechanisms by which creatine exerts these positive effects have yet to be evaluated extensively.",
+        "affiliation": "College of Kinesiology, University of Saskatchewan, Saskatoon, SK.",
+        "publicationStatus": "epublish",
+        "language": "eng",
+        "pubModel": "Electronic-eCollection",
+        "pubTypeList": {
+          "pubType": [
+            "review-article",
+            "Review",
+            "Journal Article"
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "Age",
+            "Nutrition",
+            "Muscle",
+            "Exercise",
+            "Sarcopenia",
+            "Bench Press",
+            "Leg Press"
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.2147/OAJSM.S123529"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC5679696"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "pdf",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC5679696?pdf=render"
+            }
+          ]
+        },
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 153,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasData": "Y",
+        "license": "cc by-nc",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "dateOfCreation": "2017-11-16",
+        "dateOfRevision": "2020-09-30",
+        "electronicPublicationDate": "2017-11-02",
+        "firstPublicationDate": "2017-11-02",
+        "firstIndexDate": "2017-11-16",
+        "fullTextReceivedDate": "2025-02-03",
+        "hasEvaluations": "N"
+      }
+    ]
+  }
+}

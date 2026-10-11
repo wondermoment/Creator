@@ -1,0 +1,55 @@
+{
+  "id": "hou-39",
+  "requested_title": "运动改造大脑",
+  "query": "Spark John Ratey",
+  "checked": "2026-10-06",
+  "sources": [
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL1917542W",
+      "title": "Spark",
+      "authors": [
+        "John J. Ratey"
+      ],
+      "year": 2008,
+      "description": "A groundbreaking and fascinating investigation into the transformative effects of exercise on the brain, from the bestselling author and renowned psychiatrist John J. Ratey, MD.Did you know you can beat stress, lift your mood, fight memory loss, sharpen your intellect, and function better than ever simply by elevating your heart rate and breaking a sweat? The evidence is incontrovertible: Aerobic exercise physically remodels our brains for peak performance.  In SPARK, John J. Ratey, M.D., embarks upon a fascinating and entertaining journey through the mind-body connection, presenting startling research to prove that exercise is truly our best defense against everything from depression to ADD to addiction to aggression to menopause to Alzheimer's. Filled with amazing case studies (such as the revolutionary fitness program in Naperville, Illinois, which has put this school district of 19,000 kids first in the world of science test scores), SPARK is the first book to explore comprehensively the connection between exercise and the brain. It will change forever the way you think about your morning run---or, for that matter, simply the way you think",
+      "subjects": [
+        "Health & Fitness",
+        "Nonfiction",
+        "Psychology",
+        "Mind and body",
+        "Brain",
+        "Psychophysiology",
+        "Psychological aspects",
+        "Physiology",
+        "Exercise",
+        "Physiological aspects",
+        "Physical fitness",
+        "Stress management",
+        "Memory",
+        "Self-actualization (psychology)",
+        "Exercise, physiological aspects"
+      ]
+    },
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL21732406W",
+      "title": "Spark",
+      "authors": [
+        "John J. Ratey",
+        "Eric Hagerman"
+      ],
+      "year": 2008,
+      "description": "",
+      "subjects": [
+        "Exercise, physiological aspects",
+        "Mind and body",
+        "Brain",
+        "Psychophysiology"
+      ]
+    }
+  ],
+  "errors": [
+    "Wikipedia: HTTP Error 429: Too Many Requests"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "observedAt": "2026-10-06T04:52:50.680Z",
+  "agentEnabled": true,
+  "refreshEnabled": true,
+  "statuses": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "version": true,
+  "action": "read-only refresh",
+  "liveWrites": 0,
+  "limits": "Normal browser refresh only; timeout/malformed/stale purchase scenarios are synthetic tests."
+}

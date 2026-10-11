@@ -1,0 +1,23 @@
+[
+  {
+    "id": "e06542aadbb310b1e53c4954",
+    "media_id": "BMzL2fsqyNrOtdMiEG-OoJ297OXCuO3tLHljFeTDqNeMkfWS_5dTHRuP-lEE1Sp4",
+    "status": "verified",
+    "chapters": 3,
+    "revision": 7
+  },
+  {
+    "id": "abcdc847b779a9ebfbe1c3d4",
+    "media_id": "BMzL2fsqyNrOtdMiEG-OoEb6VFhNaZ9dpCde0rvhaSG_VWcDF2FDV-Mwk42jdspi",
+    "status": "verified",
+    "chapters": 6,
+    "revision": 9
+  },
+  {
+    "id": "96cfcaef3678f7e609e28562",
+    "media_id": "BMzL2fsqyNrOtdMiEG-OoFNNvu95NLvG4R6H2pJjtKbkF-sD5Zp0NGALDOcuF8ch",
+    "status": "verified",
+    "chapters": 7,
+    "revision": 8
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "id": "hou-43",
+  "requested_title": "当下的力量",
+  "query": "The Power of Now Eckhart Tolle",
+  "checked": "2026-10-06",
+  "sources": [
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL5727686W",
+      "title": "The Power of Now",
+      "authors": [
+        "Eckhart Tolle"
+      ],
+      "year": 1997,
+      "description": "Eckhart Tolle has emerged as one of today's most inspiring teachers. In The Power of Now, already a worldwide bestseller, the author describes his transition from despair to self-realization soon after his 29th birthday. Tolle took another ten years to understand this transformation, during which time he evolved a philosophy that has parallels in Buddhism, relaxation techniques, and meditation theory but is also eminently practical. In The Power of Now he shows readers how to recognize themselves as the creators of their own pain, and how to have a pain-free existence by living fully in the present. Accessing the deepest self, the true self, can be learned, he says, by freeing ourselves from the conflicting, unreasonable demands of the mind and living \"present, fully, and intensely, in the Now.\"",
+      "subjects": [
+        "Religion & Spirituality",
+        "nyt:paperback_advice=2012-01-14",
+        "Self-Improvement",
+        "Open Library Staff Picks",
+        "New York Times bestseller",
+        "Spiritual life",
+        "Nonfiction",
+        "Religious Philosophies",
+        "Religion",
+        "Religion and Psychology",
+        "Spiritualism",
+        "Affirmations",
+        "Comparative Religion",
+        "Spirituality",
+        "Meditación"
+      ]
+    },
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL5727666W",
+      "title": "Practising the Power of Now",
+      "authors": [
+        "Eckhart Tolle"
+      ],
+      "year": 1999,
+      "description": "",
+      "subjects": [
+        "Self-actualization (psychology)",
+        "Spiritual life",
+        "Vida espiritual"
+      ]
+    }
+  ],
+  "errors": [
+    "Wikipedia: HTTP Error 429: Too Many Requests"
+  ]
+}

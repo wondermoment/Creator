@@ -1,0 +1,6 @@
+{
+  "pid": 23712,
+  "books_checked": 56,
+  "all_current": true,
+  "method": "read-only localhost GET, no models or user writes"
+}

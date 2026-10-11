@@ -1,0 +1,46 @@
+{
+  "id": "hou-26",
+  "requested_title": "威廉姆斯内分泌学",
+  "query": "Williams Textbook of Endocrinology ",
+  "checked": "2026-10-06",
+  "sources": [
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL15901588W",
+      "title": "Williams textbook of endocrinology",
+      "authors": [
+        "Shlomo Melmed"
+      ],
+      "year": 2011,
+      "description": "\"The latest edition of Williams Textbook of Endocrinology edited by Drs. Shlomo Melmed, Kenneth S. Polonsky, P. Reed Larsen, and Henry M. Kronenberg, helps you diagnose and treat your patients effectively with up-to-the minute, practical know-how on all endocrine system disorders. This extensively revised 12th Edition updates you on diabetes, metabolic syndrome, obesity, thyroid disease, testicular disorders, and much more so you can provide your patients with the most successful treatments. Find scientific insight and clinical data interwoven in every chapter, reflecting advances in both areas of this constantly changing discipline, and presented in a truly accessible format, with nearly 2.000 full-color images to help you with every diagnosis. This title has everything you need to manage any and all the clinical endocrinopathies you may encounter\"--Publisher description.",
+      "subjects": [
+        "Endocrine glands",
+        "Endocrinology",
+        "Endocrine System Diseases",
+        "Diseases",
+        "Endocrine glands, diseases",
+        "Textbooks"
+      ]
+    },
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL16540609W",
+      "title": "Williams Textbook of endocrinology",
+      "authors": [
+        "Robert Hardin Williams"
+      ],
+      "year": 1985,
+      "description": "",
+      "subjects": [
+        "Endocrine glands",
+        "Endocrinology",
+        "Endocrine Diseases",
+        "Diseases",
+        "Endocrine System Diseases"
+      ]
+    }
+  ],
+  "errors": [
+    "Wikipedia: HTTP Error 429: Too Many Requests"
+  ]
+}

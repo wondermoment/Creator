@@ -1,0 +1,133 @@
+{
+  "mode": "isolated fixture with real authorized Codex transport",
+  "production_scheduler_tested": false,
+  "turns": [
+    {
+      "expert": "content",
+      "question": "隔离验收：以后所有建议统一使用两条编号，每条不超过20字，不用感叹号。只确认你记住的表达偏好，不写企业事实。",
+      "seconds": 109.61,
+      "memory": [],
+      "result": {
+        "answer": "1. 建议统一用两条编号。\n2. 每条不超20字，不用感叹号。",
+        "method": "真实模型专家回复 · 待审核建议",
+        "soul_version": 1,
+        "skill_version": 1,
+        "model": "gpt-6-sol",
+        "usage": {
+          "prompt_tokens": 16290,
+          "completion_tokens": 29,
+          "cached_input_tokens": 0
+        },
+        "estimated_cost": null,
+        "currency": "",
+        "price_basis": "ChatGPT 套餐 Codex 用量；不换算 API 费用，非离线模型",
+        "transport": "codex_local"
+      }
+    },
+    {
+      "expert": "technical",
+      "question": "这是虚构练习。请按我之前的表达偏好，给采购沟通建议；不引用企业事实。",
+      "seconds": 119.66,
+      "memory": [
+        {
+          "job_id": "8e306f965fe6ff25cbbf23b6",
+          "expert_id": "content",
+          "created": "2026-10-04T09:18:27+00:00",
+          "request": "隔离验收：以后所有建议统一使用两条编号，每条不超过20字，不用感叹号。只确认你记住的表达偏好，不写企业事实。"
+        }
+      ],
+      "result": {
+        "answer": "1. 先确认采购用途与工况。\n2. 再约定验收标准和待确认项。",
+        "method": "真实模型专家回复 · 待审核建议",
+        "soul_version": 1,
+        "skill_version": 1,
+        "model": "gpt-6-sol",
+        "usage": {
+          "prompt_tokens": 16249,
+          "completion_tokens": 29,
+          "cached_input_tokens": 0
+        },
+        "estimated_cost": null,
+        "currency": "",
+        "price_basis": "ChatGPT 套餐 Codex 用量；不换算 API 费用，非离线模型",
+        "transport": "codex_local"
+      }
+    },
+    {
+      "expert": "strategist",
+      "question": "更正之前的偏好：以后改为三条编号，每条不超过15字；旧的两条要求作废。只用新格式确认，不写企业事实。",
+      "seconds": 120.89,
+      "memory": [
+        {
+          "job_id": "8e306f965fe6ff25cbbf23b6",
+          "expert_id": "content",
+          "created": "2026-10-04T09:18:27+00:00",
+          "request": "隔离验收：以后所有建议统一使用两条编号，每条不超过20字，不用感叹号。只确认你记住的表达偏好，不写企业事实。"
+        },
+        {
+          "job_id": "5c083867a776af8d77aee413",
+          "expert_id": "technical",
+          "created": "2026-10-04T09:20:17+00:00",
+          "request": "这是虚构练习。请按我之前的表达偏好，给采购沟通建议；不引用企业事实。"
+        }
+      ],
+      "result": {
+        "answer": "1. 今后使用三条编号。\n2. 每条不超过15字。\n3. 旧的两条要求作废。",
+        "method": "真实模型专家回复 · 待审核建议",
+        "soul_version": 1,
+        "skill_version": 1,
+        "model": "gpt-6-sol",
+        "usage": {
+          "prompt_tokens": 16432,
+          "completion_tokens": 33,
+          "cached_input_tokens": 0
+        },
+        "estimated_cost": null,
+        "currency": "",
+        "price_basis": "ChatGPT 套餐 Codex 用量；不换算 API 费用，非离线模型",
+        "transport": "codex_local"
+      }
+    },
+    {
+      "expert": "video",
+      "question": "这是虚构练习。按我最新的表达偏好，给拍摄产品演示的准备建议，不写企业事实。",
+      "seconds": 121.08,
+      "memory": [
+        {
+          "job_id": "8e306f965fe6ff25cbbf23b6",
+          "expert_id": "content",
+          "created": "2026-10-04T09:18:27+00:00",
+          "request": "隔离验收：以后所有建议统一使用两条编号，每条不超过20字，不用感叹号。只确认你记住的表达偏好，不写企业事实。"
+        },
+        {
+          "job_id": "5c083867a776af8d77aee413",
+          "expert_id": "technical",
+          "created": "2026-10-04T09:20:17+00:00",
+          "request": "这是虚构练习。请按我之前的表达偏好，给采购沟通建议；不引用企业事实。"
+        },
+        {
+          "job_id": "bd5896674c5cfbfae4b15c0d",
+          "expert_id": "strategist",
+          "created": "2026-10-04T09:22:17+00:00",
+          "request": "更正之前的偏好：以后改为三条编号，每条不超过15字；旧的两条要求作废。只用新格式确认，不写企业事实。"
+        }
+      ],
+      "result": {
+        "answer": "1. 明确演示目标与受众\n2. 列好镜头和口播\n3. 备齐实物，缺镜头补拍",
+        "method": "真实模型专家回复 · 待审核建议",
+        "soul_version": 1,
+        "skill_version": 1,
+        "model": "gpt-6-sol",
+        "usage": {
+          "prompt_tokens": 16420,
+          "completion_tokens": 39,
+          "cached_input_tokens": 14080
+        },
+        "estimated_cost": null,
+        "currency": "",
+        "price_basis": "ChatGPT 套餐 Codex 用量；不换算 API 费用，非离线模型",
+        "transport": "codex_local"
+      }
+    }
+  ]
+}

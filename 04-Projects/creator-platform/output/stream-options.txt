@@ -1,0 +1,11 @@
+    for option in ('model_provider="chatgpt_https"',
+               'model_providers.chatgpt_https.name="ChatGPT HTTPS"',
+               'model_providers.chatgpt_https.base_url="https://chatgpt.com/backend-api/codex"',
+               'model_providers.chatgpt_https.requires_openai_auth=true',
+               'model_providers.chatgpt_https.wire_api="responses"',
+               'model_providers.chatgpt_https.supports_websockets=false'):
+        args += ['-c', option]
+    for feature in ('shell_tool', 'unified_exec', 'apply_patch_freeform', 'apps', 'browser_use',
+            'in_app_browser', 'multi_agent', 'multi_agent_v2', 'hooks', 'codex_hooks',
+            'plugin_hooks', 'skill_search', 'memory_tool', 'search_tool'):
+        args += ['-c', 'features.' + feature + '=false']

@@ -1,0 +1,50 @@
+{
+  "id": "hou-13",
+  "requested_title": "基因传：众生之源",
+  "query": "The Gene Siddhartha Mukherjee",
+  "checked": "2026-10-06",
+  "sources": [
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL17762235W",
+      "title": "The Gene",
+      "authors": [
+        "Siddhartha Mukherjee",
+        "Dennis Boutsikaris"
+      ],
+      "year": 2016,
+      "description": "The Gene: An Intimate History is a book written by Siddhartha Mukherjee, an Indian-born American physician and oncologist. It was published on 17 May 2016 by Scribner. The book chronicles the history of the gene and genetic research, all the way from Aristotle to Crick, Watson and Franklin and then the 21st century scientists who mapped the human genome. The book discusses the power of genetics in determining people's well-being and traits. It delves into the personal genetic history of Siddhartha Mukherjee's family, including mental illness. However, it is also a cautionary message toward not letting genetic predispositions define a person or their fate, a mentality that the author says led to the rise of eugenics in history.",
+      "subjects": [
+        "genetics",
+        "history",
+        "heredity",
+        "genes",
+        "family",
+        "medical ethics",
+        "health",
+        "abortion",
+        "prenatal tests",
+        "AIDS",
+        "acquired immunodeficiency syndrome",
+        "ADA deficiency",
+        "ADA gene mutations",
+        "ADCY5",
+        "addiction"
+      ]
+    },
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL34787929W",
+      "title": "The Gene",
+      "authors": [
+        "Siddhartha Mukherjee"
+      ],
+      "year": 2017,
+      "description": "",
+      "subjects": []
+    }
+  ],
+  "errors": [
+    "Wikipedia: HTTP Error 429: Too Many Requests"
+  ]
+}

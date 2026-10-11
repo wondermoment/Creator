@@ -1,0 +1,29 @@
+{
+  "book": {
+    "id": "new-synthetic-biology",
+    "number": 48,
+    "title": "合成生物：生命的编程艺术",
+    "category": "生命科技",
+    "edition": "中国科学技术出版社",
+    "author": "李诗渊、魏岱旭 编著"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E5%90%88%E6%88%90%E7%94%9F%E7%89%A9%EF%BC%9A%E7%94%9F%E5%91%BD%E7%9A%84%E7%BC%96%E7%A8%8B%E8%89%BA%E6%9C%AF",
+  "results": [
+    {
+      "title": "细胞生命的礼赞：一个生物学观察者的手记",
+      "author": "刘易斯·托马斯",
+      "url": "https://weread.qq.com/web/reader/7bd3247071f827df7bda611"
+    },
+    {
+      "title": "47种生物讲述的地球生命故事",
+      "author": "埃尔莎·潘西罗里",
+      "url": "https://weread.qq.com/web/reader/ace32640813ab7f29g0111d2"
+    },
+    {
+      "title": "中国艺术的生命精神",
+      "author": "朱良志",
+      "url": "https://weread.qq.com/web/reader/df0324b071caaadedf0a21d"
+    }
+  ]
+}

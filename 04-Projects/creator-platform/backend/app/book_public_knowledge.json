@@ -1,0 +1,1203 @@
+{
+  "version": "2026-10-06-public-v1",
+  "layer": "public_reference",
+  "books": {
+    "zhang-running": {
+      "title": "跑步治愈",
+      "author": "张展晖",
+      "basis": "book_public_overview",
+      "framework": "以跑步连接身体活动、情绪体验与日常习惯，检视速度、力量、时间和装备的常见误区。",
+      "reading_value": "把跑步变成可持续的生活习惯，先关注身体反馈和恢复。",
+      "critical_reading": "公开简介不能支持把“治愈”理解为治病，也不能推导个体训练强度；疼痛与急症需停止并评估。",
+      "source_ids": [
+        "book-zhang-running",
+        "physical-activity",
+        "paper-exercise-brain"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "zhang-control": {
+      "title": "掌控",
+      "author": "张展晖",
+      "basis": "book_public_overview",
+      "framework": "用运动、饮食、休息和心态四个维度组织精力管理，把一次性目标转为日常系统。",
+      "reading_value": "把精力不足拆成可以观察和调整的生活环节，而非一味增加自律。",
+      "critical_reading": "持续疲劳或焦虑可能有临床原因；精力管理框架不能代替检查或治疗。",
+      "source_ids": [
+        "book-zhang-control",
+        "physical-activity",
+        "healthy-diet"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "new-longevity-singularity": {
+      "title": "长寿奇点",
+      "author": "张见一",
+      "basis": "topic_only",
+      "framework": "围绕AI和长寿主题，分别核对衰老机制、预测指标、临床干预和真实健康结局。",
+      "reading_value": "建立技术进展到个人决策之间的证据阶梯。",
+      "critical_reading": "尚无本书可靠内容来源；不能把封面未来愿景当作已实现的人体延寿，更不能编造作者章节。",
+      "source_ids": [
+        "paper-aging",
+        "aging-health"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "new-noma": {
+      "title": "NOMA餐厅发酵指南",
+      "author": "René Redzepi、David Zilber",
+      "basis": "book_public_overview",
+      "framework": "公开介绍按曲、康普茶、酱油、味噌、乳酸发酵、醋、鱼露及黑化果蔬展开，展示发酵如何改变风味。",
+      "reading_value": "从发酵类型和风味用途理解厨房技法，而不只记成品食谱。",
+      "critical_reading": "未读取配方正文，不能猜测盐度、温度、时长或替换比例；霉变和未知发酵物不可凭试吃判断安全。",
+      "source_ids": [
+        "book-new-noma",
+        "paper-microbiome-diet"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "new-synthetic-biology": {
+      "title": "合成生物：生命的编程艺术",
+      "author": "李诗渊、魏岱旭 编著",
+      "basis": "topic_only",
+      "framework": "学习生物体设计、遗传信息与工程应用之间的关系。",
+      "reading_value": "把生命科技拆成可检验的设计目标和应用条件。",
+      "critical_reading": "仅有合成生物学主题资料，不能声称是本书完整框架；技术可行性不等于医疗产品有效。",
+      "source_ids": [
+        "synthetic-biology",
+        "dna"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "new-singularity-nearer": {
+      "title": "奇点更近",
+      "author": "雷·库兹韦尔（Ray Kurzweil）",
+      "basis": "book_public_overview",
+      "framework": "以AI、生物技术、纳米技术的指数型发展推演人机融合和社会变化。",
+      "reading_value": "帮助比较技术进展与线性直觉的差异，提出未来情景。",
+      "critical_reading": "时间表和寿命预测仍是作者的未来判断，不能当作已验证事实或个人健康承诺。",
+      "source_ids": [
+        "book-new-singularity-nearer",
+        "synthetic-biology",
+        "aging-health"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "new-microbiome-master-key": {
+      "title": "终身活力：用微生物组开启全面健康",
+      "author": "布雷特·芬利、杰西卡·芬利",
+      "basis": "book_public_overview",
+      "framework": "从人与微生物的共生关系理解饮食、睡眠、环境和健康老龄化。",
+      "reading_value": "将纤维、发酵食物与长期生活环境放在同一个生态视角下考察。",
+      "critical_reading": "特定菌群或炎症指标改变不等于延寿；益生菌效果依菌株、人群和目标不同。",
+      "source_ids": [
+        "book-new-microbiome-master-key",
+        "paper-microbiome-diet",
+        "healthy-diet"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "new-what-is-health": {
+      "title": "何谓健康",
+      "author": "彼得·斯特林（Peter Sterling）",
+      "basis": "book_public_overview",
+      "framework": "作者以应变稳态解释大脑如何预测需求、调控能量与行为，并联系奖励和社会环境。",
+      "reading_value": "把健康放回资源、生活情境与社会条件中理解。",
+      "critical_reading": "这是解释框架，不能据此把高血压、肥胖或成瘾简化成单一原因或自行停药。",
+      "source_ids": [
+        "book-new-what-is-health",
+        "endocrine",
+        "aging-health"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "new-super-agers": {
+      "title": "长寿真相：保持年轻和活力的关键策略",
+      "author": "埃里克·托波尔（Eric Topol）",
+      "basis": "topic_only",
+      "framework": "从功能能力、慢病风险与生活环境辨别健康老龄化证据。",
+      "reading_value": "用可保持的活动能力和生活质量评价所谓年轻化指标。",
+      "critical_reading": "本书公开正文与具体观点尚未核实，暂提供主题学习；不能把通用老龄化知识归给作者。",
+      "source_ids": [
+        "aging-health",
+        "paper-aging"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "new-we-are-as-gods": {
+      "title": "吾辈如神",
+      "author": "彼得·戴曼迪斯、史蒂芬·科特勒",
+      "basis": "book_public_overview",
+      "framework": "用指数型技术和思维模型的变化讨论人类能力、资源和未来社会。",
+      "reading_value": "追问技术变得便宜和普及时，组织与个人的判断如何更新。",
+      "critical_reading": "未来情景和技术乐观论不是已实现的健康效果，也需考虑分配、治理与可及性。",
+      "source_ids": [
+        "book-new-we-are-as-gods",
+        "synthetic-biology",
+        "aging-health"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "new-getting-older": {
+      "title": "变老之前要知道的事",
+      "author": "露西·波洛克（Lucy Pollock）",
+      "basis": "topic_only",
+      "framework": "从功能、生活环境和个人目标讨论老龄生活的选择。",
+      "reading_value": "把“活得久”具体化为日常能力、参与和支持。",
+      "critical_reading": "尚未核实本书介绍或章节；这些是主题参考，不是作者医疗建议。",
+      "source_ids": [
+        "aging-health"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "new-biomanufacturing": {
+      "title": "生命造万物",
+      "author": "方昕、方柏山",
+      "basis": "topic_only",
+      "framework": "以生物体为工程系统理解材料、医药和制造应用。",
+      "reading_value": "先辨别设计目标、产物、规模化与安全约束。",
+      "critical_reading": "只有生物制造相关机构科普，未核实本书内容；不可编造书内案例或把工程能力等同疗效。",
+      "source_ids": [
+        "synthetic-biology",
+        "cells"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-1": {
+      "title": "人类简史：从动物到上帝",
+      "author": "尤瓦尔·赫拉利",
+      "basis": "book_public_overview",
+      "framework": "把人类历史放入生物与文化共同演变的视角，讨论认知、农业与科学的变迁。",
+      "reading_value": "用跨时代框架追问合作、制度和叙事如何改变人类生活。",
+      "critical_reading": "宏观叙事会压缩差异，不能把历史解释当作每个个体的必然规律。",
+      "source_ids": [
+        "book-hou-1",
+        "genes"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-2": {
+      "title": "未来简史",
+      "author": "尤瓦尔·赫拉利",
+      "basis": "book_public_overview",
+      "framework": "从人类历史延伸到未来，讨论幸福、长生与人机关系的可能变化。",
+      "reading_value": "用未来问题反过来审视今天的价值选择。",
+      "critical_reading": "思想实验和趋势推演不能当预测模型；不把未来长生当作当前医学事实。",
+      "source_ids": [
+        "book-hou-2",
+        "aging-health"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-3": {
+      "title": "人体简史",
+      "author": "比尔·布莱森",
+      "basis": "book_public_overview",
+      "framework": "通过人体各系统及科学发现理解身体如何运行。",
+      "reading_value": "把器官和日常体验联系起来，建立基础人体知识。",
+      "critical_reading": "科普叙事不能替代诊断；出版后的医学更新需另外核对。",
+      "source_ids": [
+        "book-hou-3",
+        "cells",
+        "endocrine"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-4": {
+      "title": "绝佳时间",
+      "author": "Russell Foster",
+      "basis": "book_public_overview",
+      "framework": "从昼夜节律理解睡眠、活动、进食与健康的时间安排。",
+      "reading_value": "除了做什么，还追问何时做及节律是否稳定。",
+      "critical_reading": "个人作息和疾病不同，不能从一般节律原理推出统一最佳时间或改药时间。",
+      "source_ids": [
+        "book-hou-4",
+        "circadian"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-5": {
+      "title": "生命：非常的世界",
+      "author": "作者信息待核对",
+      "basis": "topic_only",
+      "framework": "从细胞分工、遗传信息和环境适应认识生命系统。",
+      "reading_value": "先建立尺度：分子、细胞、个体与环境。",
+      "critical_reading": "书名版本和作者尚未确认，主题知识不冒充本书摘要。",
+      "source_ids": [
+        "cells",
+        "dna"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-6": {
+      "title": "长寿：当人类不再衰老",
+      "author": "David Sinclair、Matthew LaPlante",
+      "basis": "book_public_overview",
+      "framework": "作者从衰老的信息与表观遗传调控角度提出延缓衰老的研究设想。",
+      "reading_value": "促使读者区分衰老机制是否可研究、可干预与已经临床证明。",
+      "critical_reading": "人体逆龄和延寿尚未由这些假说证明；动物或机制结果不能推出补剂和药物方案。",
+      "source_ids": [
+        "book-hou-6",
+        "paper-aging",
+        "paper-calorie-restriction"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-7": {
+      "title": "超越百岁：长寿的科学与艺术",
+      "author": "Peter Attia、Bill Gifford",
+      "basis": "book_public_overview",
+      "framework": "以主动预防和健康寿命为目标，将运动、营养、风险管理与情绪健康联系起来。",
+      "reading_value": "把年老时想保留的能力提前变为可持续行动。",
+      "critical_reading": "个人化医学讨论不等于人人需要相同筛查或检测；成本、误报与个体风险需权衡。",
+      "source_ids": [
+        "book-hou-7",
+        "physical-activity",
+        "aging-health"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-8": {
+      "title": "老而不衰的科学",
+      "author": "Andrew Steele",
+      "basis": "book_public_overview",
+      "framework": "以衰老生物学研究说明多个细胞和分子机制可能成为干预目标。",
+      "reading_value": "把衰老视为可研究的问题，比较不同干预的证据成熟度。",
+      "critical_reading": "实验室有希望不等于人类已可用，临床有效性和安全性需分开验证。",
+      "source_ids": [
+        "book-hou-8",
+        "paper-aging"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-9": {
+      "title": "不老时代：年轻又长寿的科学和方法",
+      "author": "Michael Roizen 等",
+      "basis": "book_public_overview",
+      "framework": "讨论未来寿命变化以及个人生活、健康与社会安排的准备。",
+      "reading_value": "提前思考更长生命可能带来的生活规划问题。",
+      "critical_reading": "未来技术预测和健康建议证据等级不同，不能保证读者达到某个寿命。",
+      "source_ids": [
+        "book-hou-9",
+        "aging-health",
+        "paper-aging"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-10": {
+      "title": "长寿：逆转衰老的科学饮食",
+      "author": "Michael Greger",
+      "basis": "book_public_overview",
+      "framework": "围绕饮食及衰老相关机制讨论生活方式选择。",
+      "reading_value": "把日常食物选择与长期风险联系，并追问研究支持什么结局。",
+      "critical_reading": "膳食模式的健康证据不能自动延伸为单一成分、补剂或自噬机制的延寿承诺。",
+      "source_ids": [
+        "book-hou-10",
+        "healthy-diet",
+        "paper-aging"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-11": {
+      "title": "长寿的习惯",
+      "author": "日译书作者待核对",
+      "basis": "topic_only",
+      "framework": "从活动、膳食和环境支持理解可持续健康习惯。",
+      "reading_value": "以容易坚持、可以观察的行动代替追逐单一抗衰秘诀。",
+      "critical_reading": "作者版本未核实，当前是习惯主题资料，不是本书的具体方法清单。",
+      "source_ids": [
+        "physical-activity",
+        "healthy-diet",
+        "aging-health"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-12": {
+      "title": "衰老生物学",
+      "author": "Roger B. McDonald",
+      "basis": "book_public_overview",
+      "framework": "公开介绍涵盖衰老概念、测量、演化、细胞遗传学、生理疾病及干预研究。",
+      "reading_value": "用多层尺度分析衰老，不将一个标志物等同整个衰老过程。",
+      "critical_reading": "教材也有出版时限，干预结论应核对新研究及其物种、人群和终点。",
+      "source_ids": [
+        "book-hou-12",
+        "paper-aging"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-13": {
+      "title": "基因传：众生之源",
+      "author": "悉达多·穆克吉",
+      "basis": "book_public_overview",
+      "framework": "通过遗传学历史及人类经验讨论基因、疾病、身份和伦理。",
+      "reading_value": "同时思考遗传信息的解释力与被误用的风险。",
+      "critical_reading": "基因并非命运，单基因解释不能套用到复杂行为和多数慢病。",
+      "source_ids": [
+        "book-hou-13",
+        "genes",
+        "dna"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-14": {
+      "title": "遗传的革命",
+      "author": "Nessa Carey",
+      "basis": "book_public_overview",
+      "framework": "解释DNA序列之外的基因活动调控及其科学发展。",
+      "reading_value": "区分遗传编码与何时何处表达，让环境影响有机制层解释。",
+      "critical_reading": "表观遗传不是随心所欲改写DNA，跨代和生活干预结论需逐项核对。",
+      "source_ids": [
+        "book-hou-14",
+        "epigenetics"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-15": {
+      "title": "DNA：生命的秘密",
+      "author": "James D. Watson、Andrew Berry",
+      "basis": "book_public_overview",
+      "framework": "通过DNA相关发现理解生命信息和遗传学的科学历程。",
+      "reading_value": "把分子结构、信息复制与生物学解释联系起来。",
+      "critical_reading": "历史叙述与当代临床应用要区分，遗传检测解释需要当前证据。",
+      "source_ids": [
+        "book-hou-15",
+        "dna",
+        "genes"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-16": {
+      "title": "垃圾DNA",
+      "author": "Nessa Carey",
+      "basis": "book_public_overview",
+      "framework": "讨论非编码DNA及其调控等作用，挑战“没有蛋白编码就没有价值”的直觉。",
+      "reading_value": "帮助理解基因组调控不能只看蛋白质编码区。",
+      "critical_reading": "不能从部分非编码序列有功能推断全部序列均有已知功能。",
+      "source_ids": [
+        "book-hou-16",
+        "noncoding"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-17": {
+      "title": "细胞传",
+      "author": "悉达多·穆克吉",
+      "basis": "book_public_overview",
+      "framework": "以细胞发现和医学史理解生命协作、功能失常与治疗探索。",
+      "reading_value": "从器官病名回到细胞之间如何协同工作。",
+      "critical_reading": "细胞治疗的前景不代表每种商业细胞项目都获证实或适用。",
+      "source_ids": [
+        "book-hou-17",
+        "cells"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-18": {
+      "title": "细胞简史",
+      "author": "陈涛",
+      "basis": "topic_only",
+      "framework": "从细胞器、分工、能量转化和遗传信息认识细胞。",
+      "reading_value": "将细胞看作多个过程协作的系统。",
+      "critical_reading": "本书介绍未核实，当前用机构基础材料教学，不编造作者故事。",
+      "source_ids": [
+        "cells"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-19": {
+      "title": "线粒体与生命的意义",
+      "author": "Nick Lane",
+      "basis": "book_public_overview",
+      "framework": "图书馆书目介绍将线粒体与能量、演化、繁殖和衰老等问题联系起来。",
+      "reading_value": "用能量约束理解生命复杂性，而不是只把线粒体当“电池”。",
+      "critical_reading": "跨演化尺度的解释不等于人体疾病已可用单一线粒体疗法解决。",
+      "source_ids": [
+        "book-hou-19",
+        "cells",
+        "paper-aging"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-20": {
+      "title": "端粒：年轻、健康、长寿的新科学",
+      "author": "Elizabeth Blackburn、Elissa Epel",
+      "basis": "book_public_overview",
+      "framework": "从端粒研究延伸到压力、生活方式与环境的健康讨论。",
+      "reading_value": "把细胞研究与长期生活条件联系，同时关注测量的意义。",
+      "critical_reading": "端粒长度不是个人寿命计算器，诺贝尔奖不为端粒酶或抗衰商品背书。",
+      "source_ids": [
+        "book-hou-20",
+        "telomere-nobel",
+        "paper-aging"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-21": {
+      "title": "大脑能量",
+      "author": "Christopher M. Palmer",
+      "basis": "book_public_overview",
+      "framework": "作者提出从代谢和线粒体功能理解精神障碍的假说。",
+      "reading_value": "将精神健康与身体能量代谢联系，提出可继续验证的问题。",
+      "critical_reading": "不是所有精神疾病统一病因的共识；不可据书停精神科药物或自行生酮治疗。",
+      "source_ids": [
+        "book-hou-21",
+        "cells"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-22": {
+      "title": "分子营养",
+      "author": "编者信息待核对",
+      "basis": "topic_only",
+      "framework": "从食物、营养素到代谢过程和健康结局建立分层解释。",
+      "reading_value": "判断分子机制能否被人体饮食研究支持。",
+      "critical_reading": "本书版本与内容未核实，机制不能直接推导补剂剂量和延寿效果。",
+      "source_ids": [
+        "healthy-diet",
+        "cells"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-23": {
+      "title": "功能医学",
+      "author": "Jeffrey S. Bland",
+      "basis": "topic_only",
+      "framework": "先以膳食、活动、环境和疾病风险为主题建立证据核对框架。",
+      "reading_value": "将生活史作为问题背景，再用可验证的结局评价干预。",
+      "critical_reading": "本书具体框架未核实；不可将“根源”叙事等同所有功能医学检测或补剂有效。",
+      "source_ids": [
+        "healthy-diet",
+        "physical-activity"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-24": {
+      "title": "癌症传：众病之王",
+      "author": "悉达多·穆克吉",
+      "basis": "book_public_overview",
+      "framework": "通过癌症科学与治疗史理解疾病、研究和患者体验的关系。",
+      "reading_value": "认识癌症治疗是多条路径不断检验的过程。",
+      "critical_reading": "不是个人治疗指南；不同癌种和分期不能共用一个饮食或治疗答案。",
+      "source_ids": [
+        "book-hou-24",
+        "cancer-prevention"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-25": {
+      "title": "癌症·防御",
+      "author": "作者信息待核对",
+      "basis": "topic_only",
+      "framework": "从可改变暴露、生活方式和有证据的预防措施理解癌症风险。",
+      "reading_value": "区分风险降低、筛查早发现与治疗三个不同目的。",
+      "critical_reading": "本书版本未核实；抗癌食物和零风险承诺不受这些资料支持。",
+      "source_ids": [
+        "cancer-prevention"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-26": {
+      "title": "威廉姆斯内分泌学",
+      "author": "H. M. Kronenberg 等（图示第11版）",
+      "basis": "book_public_overview",
+      "framework": "医学教材系统讨论激素、内分泌器官及相关疾病。",
+      "reading_value": "从反馈调节和组织反应理解症状与检验为何需结合解读。",
+      "critical_reading": "当前公开书目为第11版；旧教材不能当现行处方依据，也不混用其他版章节页码。",
+      "source_ids": [
+        "book-hou-26",
+        "endocrine"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-27": {
+      "title": "人为什么会生病",
+      "author": "Benjamin Bikman",
+      "basis": "book_public_overview",
+      "framework": "作者以胰岛素抵抗为中心讨论代谢异常及其与疾病的联系。",
+      "reading_value": "认识同一个代谢环节可能参与多种健康问题。",
+      "critical_reading": "中心视角不等于所有疾病只有一个原因；不能据此自行停药、极端限碳。",
+      "source_ids": [
+        "book-hou-27",
+        "endocrine",
+        "healthy-diet"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-28": {
+      "title": "人类代谢调控",
+      "author": "Keith Frayn、Rhys Evans",
+      "basis": "topic_only",
+      "framework": "从细胞能量利用、激素信号和组织反应学习代谢调节。",
+      "reading_value": "追问同一营养状态下不同组织如何分工。",
+      "critical_reading": "未核实该书具体内容和版本；主题知识不冒充教材原文。",
+      "source_ids": [
+        "cells",
+        "endocrine"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-29": {
+      "title": "酶与诺贝尔奖",
+      "author": "编者信息待核对",
+      "basis": "topic_only",
+      "framework": "用酶结晶和纯化的科学史讨论如何建立可检验的生化知识。",
+      "reading_value": "关注研究者怎样把活性现象变成可研究的物质。",
+      "critical_reading": "未核实书目作者，诺贝尔发现不为商业酵素保健品背书。",
+      "source_ids": [
+        "enzyme-nobel"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-30": {
+      "title": "酶学方法",
+      "author": "编者信息待核对",
+      "basis": "topic_only",
+      "framework": "结合书封指向的基因编辑主题，先学习DNA信息、工程设计与验证之间的关系。",
+      "reading_value": "区分遗传信息的改变、细胞层面结果与实际应用目标。",
+      "critical_reading": "图示为酶学方法系列的基因编辑相关分册，具体版本和章节未核实；机构科普不提供实验方案，也不等于本书摘要。",
+      "source_ids": [
+        "dna",
+        "synthetic-biology"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-31": {
+      "title": "战斗细胞",
+      "author": "Philipp Dettmer",
+      "basis": "book_public_overview",
+      "framework": "通过先天和适应性免疫、抗体、信号与免疫异常认识防御系统。",
+      "reading_value": "把免疫理解为识别和调节的协作，而不是越强越好。",
+      "critical_reading": "“增强免疫”不是通用治疗目标；感染、自身免疫和过敏需不同处理。",
+      "source_ids": [
+        "book-hou-31",
+        "cells"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-32": {
+      "title": "炎症：食物、微生物和疾病的故事",
+      "author": "Shilpa Ravella",
+      "basis": "book_public_overview",
+      "framework": "围绕食物、微生物与慢性炎症讨论疾病风险。",
+      "reading_value": "将免疫状态放入饮食和生活环境中理解。",
+      "critical_reading": "疲劳不能自行诊断慢性炎症；饮食试验中的指标变化不等于已治病或延寿。",
+      "source_ids": [
+        "book-hou-32",
+        "paper-microbiome-diet",
+        "healthy-diet"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-33": {
+      "title": "抗炎从根源上逆转慢病的炎症消除方案",
+      "author": "Maggie Berghoff",
+      "basis": "topic_only",
+      "framework": "学习整体膳食模式、代谢和炎症标志物之间的证据层次。",
+      "reading_value": "先找人体结局，再判断个性化饮食说法是否可靠。",
+      "critical_reading": "本书具体方案未核实；不能认可“根源逆转慢病”的普遍疗效。",
+      "source_ids": [
+        "healthy-diet",
+        "paper-microbiome-diet"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-34": {
+      "title": "肠道菌群与衰老",
+      "author": "编者信息待核对",
+      "basis": "topic_only",
+      "framework": "从菌群、宿主和衰老标志的关联学习肠道与老龄化研究。",
+      "reading_value": "区分观察关联、机制推测与人群干预结果。",
+      "critical_reading": "书目版本未核实；菌群多样性增加不自动等于人寿命延长。",
+      "source_ids": [
+        "paper-microbiome-diet",
+        "paper-aging"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-35": {
+      "title": "肠道菌群与精准营养健康",
+      "author": "编者信息待核对",
+      "basis": "topic_only",
+      "framework": "从膳食干预与个体菌群反应差异理解精准营养问题。",
+      "reading_value": "认识相同饮食在不同人群可能产生不同指标变化。",
+      "critical_reading": "书目版本未核实；商业菌群检测不能据此保证给出唯一正确食谱。",
+      "source_ids": [
+        "paper-microbiome-diet",
+        "healthy-diet"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-36": {
+      "title": "第二大脑",
+      "author": "图示版本作者待核对",
+      "basis": "topic_only",
+      "framework": "以肠道、饮食和宿主反应为主题建立可验证的问题。",
+      "reading_value": "区分“第二大脑”的比喻和有具体测量的人体研究。",
+      "critical_reading": "同名版本未确认，不假定作者；当前资料不支持精确章节或将情绪全部归因肠道。",
+      "source_ids": [
+        "paper-microbiome-diet"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-37": {
+      "title": "你的皮肤屏障90%可以靠营养修复",
+      "author": "Whitney Bowe",
+      "basis": "book_public_overview",
+      "framework": "公开书目介绍从饮食、睡眠、压力和肠道皮肤联系讨论护肤。",
+      "reading_value": "提醒读者把皮肤放入整体生活背景中理解。",
+      "critical_reading": "标题中的百分比不是对所有皮肤病的治愈率；不能取代皮肤科评估或保证靠营养修复。",
+      "source_ids": [
+        "book-hou-37",
+        "healthy-diet"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-38": {
+      "title": "中西医结合临床",
+      "author": "编者信息待核对",
+      "basis": "topic_only",
+      "framework": "逐项比较中医相关措施与常规临床证据、安全和适用性。",
+      "reading_value": "把针灸、太极和草药分开评价，避免笼统判定。",
+      "critical_reading": "作者版本未核实，不能提供该书临床方剂；草药与处方药相互作用需专业核对。",
+      "source_ids": [
+        "chinese-medicine"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-39": {
+      "title": "运动改造大脑",
+      "author": "John Ratey、Eric Hagerman",
+      "basis": "book_public_overview",
+      "framework": "讨论身体活动与学习、情绪及脑功能的联系。",
+      "reading_value": "将运动作为支持脑健康的日常行为，并比较不同研究结局。",
+      "critical_reading": "不能接受宣传中“解决99%内耗”等概括；老年人海马试验不等于所有人或所有精神问题有效。",
+      "source_ids": [
+        "book-hou-39",
+        "paper-exercise-brain",
+        "physical-activity"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-40": {
+      "title": "情绪的毒 身体知道",
+      "author": "作者信息待核对",
+      "basis": "topic_only",
+      "framework": "从情绪、身体体验与压力调节出发，学习可观察的身心关系。",
+      "reading_value": "允许觉察体验，同时对身体症状保留医学评估。",
+      "critical_reading": "作者版本未核实；不能把疾病归咎于情绪或把“排毒”当医学机制。",
+      "source_ids": [
+        "meditation-safety",
+        "paper-meditation"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-41": {
+      "title": "持续的幸福",
+      "author": "Martin Seligman",
+      "basis": "book_public_overview",
+      "framework": "以PERMA组织幸福：积极情绪、投入、关系、意义和成就。",
+      "reading_value": "将幸福从单一开心扩展为多维生活目标。",
+      "critical_reading": "是心理学框架，不能保证消除抑郁或用积极心态否定困难。",
+      "source_ids": [
+        "book-hou-41",
+        "aging-health"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-42": {
+      "title": "冥想：身心放松的力量",
+      "author": "Christophe André",
+      "basis": "book_public_overview",
+      "framework": "公开介绍以日常觉察、艺术观看及冥想练习讨论身心放松。",
+      "reading_value": "让注意力回到当下体验，用温和练习观察惯性反应。",
+      "critical_reading": "未读取具体练习全文；正念可能有负面体验，明显不适应停止并求助。",
+      "source_ids": [
+        "book-hou-42",
+        "meditation-safety",
+        "paper-meditation"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-43": {
+      "title": "当下的力量",
+      "author": "Eckhart Tolle",
+      "basis": "book_public_overview",
+      "framework": "以当下觉察讨论人与思维、情绪及自我叙事的关系。",
+      "reading_value": "练习观察思维而非自动认同每个念头。",
+      "critical_reading": "属于精神哲学和体验指导，不能当临床疗效证明，也不应忽视现实问题。",
+      "source_ids": [
+        "book-hou-43",
+        "meditation-safety"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    },
+    "hou-44": {
+      "title": "能量的真相",
+      "author": "作者信息待核对",
+      "basis": "topic_only",
+      "framework": "先区分可测量的细胞能量代谢、主观精力与日常恢复。",
+      "reading_value": "用清楚定义避免把物理能量、疲劳和灵性隐喻混为一谈。",
+      "critical_reading": "作者版本未核实，不把“能量频率”等说法当已证实医学机制或归给本书。",
+      "source_ids": [
+        "cells",
+        "physical-activity"
+      ],
+      "replacement": "用户上传原文后优先原文检索；本层保留为公开参考，不冒充全文Skill"
+    }
+  },
+  "sources": {
+    "physical-activity": {
+      "title": "Physical activity",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
+      "checked": "2026-10-06",
+      "kind": "institution_public_page",
+      "scope": "已读取机构公开科普页面；中文为编辑概述",
+      "note": "WHO将身体活动与心血管、代谢、心理和功能健康联系起来；任何活动优于不活动，应按能力循序增加。一般建议不等于个体运动处方。"
+    },
+    "healthy-diet": {
+      "title": "Healthy diet",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "checked": "2026-10-06",
+      "kind": "institution_public_page",
+      "scope": "已读取机构公开科普页面；中文为编辑概述",
+      "note": "WHO强调充足、平衡、适度、多样的饮食，增加蔬果、豆类与全谷物，限制盐、游离糖及不健康脂肪；整体模式比单一超级食物重要。"
+    },
+    "aging-health": {
+      "title": "Ageing and health",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/ageing-and-health",
+      "checked": "2026-10-06",
+      "kind": "institution_public_page",
+      "scope": "已读取机构公开科普页面；中文为编辑概述",
+      "note": "WHO以功能能力理解健康老龄化，内在能力与环境共同决定生活能力，不能只按年龄或一个生物标志物判断。"
+    },
+    "meditation-safety": {
+      "title": "Meditation and Mindfulness: Effectiveness and Safety | NCCIH",
+      "url": "https://www.nccih.nih.gov/health/meditation-and-mindfulness-effectiveness-and-safety",
+      "checked": "2026-10-06",
+      "kind": "institution_public_page",
+      "scope": "已读取机构公开科普页面；中文为编辑概述",
+      "note": "NCCIH介绍冥想对部分身心结局的研究，也指出研究质量和安全资料有限，有人出现焦虑等负面体验；不能取代常规医疗。"
+    },
+    "genes": {
+      "title": "What is a gene?: MedlinePlus Genetics",
+      "url": "https://medlineplus.gov/genetics/understanding/basics/gene/",
+      "checked": "2026-10-06",
+      "kind": "institution_public_page",
+      "scope": "已读取机构公开科普页面；中文为编辑概述",
+      "note": "基因是遗传的基本单位，部分基因指导蛋白质合成，也有基因产生功能性RNA；基因、调控和环境共同影响表型。"
+    },
+    "dna": {
+      "title": "What is DNA?: MedlinePlus Genetics",
+      "url": "https://medlineplus.gov/genetics/understanding/basics/dna/",
+      "checked": "2026-10-06",
+      "kind": "institution_public_page",
+      "scope": "已读取机构公开科普页面；中文为编辑概述",
+      "note": "DNA储存遗传信息，碱基序列与双链结构支持信息复制；识别遗传变异不等于能预测所有疾病。"
+    },
+    "epigenetics": {
+      "title": "What is epigenetics?: MedlinePlus Genetics",
+      "url": "https://medlineplus.gov/genetics/understanding/howgeneswork/epigenome/",
+      "checked": "2026-10-06",
+      "kind": "institution_public_page",
+      "scope": "已读取机构公开科普页面；中文为编辑概述",
+      "note": "表观遗传调控改变基因活动而不改变DNA序列；不同细胞和环境会影响调控状态，不代表意念能随意改写疾病结局。"
+    },
+    "noncoding": {
+      "title": "What is noncoding DNA?: MedlinePlus Genetics",
+      "url": "https://medlineplus.gov/genetics/understanding/basics/noncodingdna/",
+      "checked": "2026-10-06",
+      "kind": "institution_public_page",
+      "scope": "已读取机构公开科普页面；中文为编辑概述",
+      "note": "非编码DNA不提供蛋白质合成指令，但其中一部分参与调控、功能RNA和染色体结构；不能推断全部非编码区都有已知功能。"
+    },
+    "cells": {
+      "title": "What is a cell?: MedlinePlus Genetics",
+      "url": "https://medlineplus.gov/genetics/understanding/basics/cell/",
+      "checked": "2026-10-06",
+      "kind": "institution_public_page",
+      "scope": "已读取机构公开科普页面；中文为编辑概述",
+      "note": "细胞是生命的基本结构和功能单位；细胞器分工进行营养利用、能量转化、遗传信息保存与物质处理。"
+    },
+    "endocrine": {
+      "title": "Endocrine Disorders | Hormones | MedlinePlus",
+      "url": "https://medlineplus.gov/endocrinediseases.html",
+      "checked": "2026-10-06",
+      "kind": "institution_public_page",
+      "scope": "已读取机构公开科普页面；中文为编辑概述",
+      "note": "激素是化学信使；过多、过少或组织反应异常都可能导致疾病，症状不能直接等同某种激素缺乏。"
+    },
+    "telomere-nobel": {
+      "title": "The Nobel Prize in Physiology or Medicine 2009 - NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/medicine/2009/summary/",
+      "checked": "2026-10-06",
+      "kind": "institution_public_page",
+      "scope": "已读取机构公开科普页面；中文为编辑概述",
+      "note": "2009年诺贝尔生理学或医学奖表彰端粒和端粒酶保护染色体的发现；获奖机制不是延寿产品的疗效证明。"
+    },
+    "enzyme-nobel": {
+      "title": "The Nobel Prize in Chemistry 1946 - NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/chemistry/1946/summary/",
+      "checked": "2026-10-06",
+      "kind": "institution_public_page",
+      "scope": "已读取机构公开科普页面；中文为编辑概述",
+      "note": "1946年诺贝尔化学奖涉及酶可结晶及酶、病毒蛋白纯化的发现；历史贡献不构成口服酵素的健康功效证据。"
+    },
+    "chinese-medicine": {
+      "title": "Traditional Chinese Medicine: What You Need To Know | NCCIH",
+      "url": "https://www.nccih.nih.gov/health/traditional-chinese-medicine-what-you-need-to-know",
+      "checked": "2026-10-06",
+      "kind": "institution_public_page",
+      "scope": "已读取机构公开科普页面；中文为编辑概述",
+      "note": "NCCIH分别讨论针灸、太极、中草药的证据与风险；不同措施证据不同，草药质量、污染和药物相互作用需关注。"
+    },
+    "cancer-prevention": {
+      "title": "Cancer Causes and Prevention - NCI",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention",
+      "checked": "2026-10-06",
+      "kind": "institution_public_page",
+      "scope": "已读取机构公开科普页面；中文为编辑概述",
+      "note": "NCI介绍生活方式、环境暴露与部分疫苗等癌症风险因素和预防措施；风险可降低，不能保证不患癌。"
+    },
+    "synthetic-biology": {
+      "title": "Synthetic Biology",
+      "url": "https://www.genome.gov/about-genomics/policy-issues/Synthetic-Biology",
+      "checked": "2026-10-06",
+      "kind": "institution_public_page",
+      "scope": "已读取机构公开科普页面；中文为编辑概述",
+      "note": "NHGRI将合成生物学描述为为有用目的重新设计生物体，涉及医药、农业与制造；工程潜力需与生物安全和伦理共同评估。"
+    },
+    "circadian": {
+      "title": "Circadian Rhythms | National Institute of General Medical Sciences",
+      "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+      "checked": "2026-10-06",
+      "kind": "institution_public_page",
+      "scope": "已读取机构公开科普页面；中文为编辑概述",
+      "note": "NIGMS介绍约24小时生物节律；光暗是重要线索，进食、活动等也会影响节律。机制知识不等于自行调整药物服用时间。"
+    },
+    "paper-aging": {
+      "title": "Hallmarks of aging: An expanding universe.",
+      "url": "https://doi.org/10.1016/j.cell.2022.11.001",
+      "checked": "2026-10-06",
+      "kind": "paper_abstract",
+      "scope": "仅核对Europe PMC期刊摘要，未审阅全文",
+      "note": "2023年综述提出相互关联的12项衰老标志，涵盖基因组、端粒、表观遗传、蛋白稳态、自噬、营养感知、线粒体、细胞衰老、干细胞、细胞通讯、炎症与菌群。机制综述不是人体延寿疗效试验。",
+      "doi": "10.1016/j.cell.2022.11.001"
+    },
+    "paper-exercise-brain": {
+      "title": "Exercise training increases size of hippocampus and improves memory.",
+      "url": "https://doi.org/10.1073/pnas.1015950108",
+      "checked": "2026-10-06",
+      "kind": "paper_abstract",
+      "scope": "仅核对Europe PMC期刊摘要，未审阅全文",
+      "note": "120名老年人的随机试验观察到有氧运动组前部海马体积与空间记忆变化；特定人群的结果不能推广为运动治愈所有心理问题。",
+      "doi": "10.1073/pnas.1015950108"
+    },
+    "paper-meditation": {
+      "title": "Meditation programs for psychological stress and well-being: a systematic review and meta-analysis.",
+      "url": "https://doi.org/10.1001/jamainternmed.2013.13018",
+      "checked": "2026-10-06",
+      "kind": "paper_abstract",
+      "scope": "仅核对Europe PMC期刊摘要，未审阅全文",
+      "note": "47项试验、3515人的系统综述发现部分焦虑、抑郁、疼痛结局有小到中等改善；没有证明冥想优于所有积极治疗。",
+      "doi": "10.1001/jamainternmed.2013.13018"
+    },
+    "paper-microbiome-diet": {
+      "title": "Gut-microbiota-targeted diets modulate human immune status.",
+      "url": "https://doi.org/10.1016/j.cell.2021.06.019",
+      "checked": "2026-10-06",
+      "kind": "paper_abstract",
+      "scope": "仅核对Europe PMC期刊摘要，未审阅全文",
+      "note": "17周健康成人饮食试验每组18人；发酵食物组的菌群多样性及部分炎症标志物发生变化，纤维组反应有差异，未测量延寿。",
+      "doi": "10.1016/j.cell.2021.06.019"
+    },
+    "paper-calorie-restriction": {
+      "title": "Effect of long-term caloric restriction on DNA methylation measures of biological aging in healthy adults from the CALERIE trial.",
+      "url": "https://doi.org/10.1038/s43587-022-00357-y",
+      "checked": "2026-10-06",
+      "kind": "paper_abstract",
+      "scope": "仅核对Europe PMC期刊摘要，未审阅全文",
+      "note": "CALERIE的220名非肥胖成人两年试验事后分析发现DunedinPACE小幅变化，PhenoAge和GrimAge未显著改变；没有人体寿命结局，不支持所有人自行限热量。",
+      "doi": "10.1038/s43587-022-00357-y"
+    },
+    "book-zhang-running": {
+      "title": "跑步治愈 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/reader/a87328f072047500a87ee64",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "以跑步连接身体活动、情绪体验与日常习惯，检视速度、力量、时间和装备的常见误区。"
+    },
+    "book-zhang-control": {
+      "title": "掌控 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/reader/a10323b0813ab935dg0109cf",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "用运动、饮食、休息和心态四个维度组织精力管理，把一次性目标转为日常系统。"
+    },
+    "book-new-noma": {
+      "title": "NOMA餐厅发酵指南 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/bookDetail/98d327b0811e7ef67g014d1b",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "公开介绍按曲、康普茶、酱油、味噌、乳酸发酵、醋、鱼露及黑化果蔬展开，展示发酵如何改变风味。"
+    },
+    "book-new-singularity-nearer": {
+      "title": "奇点更近 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/reader/30932ba0813ab9615g012cce",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "以AI、生物技术、纳米技术的指数型发展推演人机融合和社会变化。"
+    },
+    "book-new-microbiome-master-key": {
+      "title": "终身活力：用微生物组开启全面健康 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/reader/aa132510813abbfddg012fa2",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "从人与微生物的共生关系理解饮食、睡眠、环境和健康老龄化。"
+    },
+    "book-new-what-is-health": {
+      "title": "何谓健康 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/reader/99932d60813abb611g019450",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "作者以应变稳态解释大脑如何预测需求、调控能量与行为，并联系奖励和社会环境。"
+    },
+    "book-new-we-are-as-gods": {
+      "title": "吾辈如神 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/bookDetail/a5d324e0811ea781cg0139cd",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "用指数型技术和思维模型的变化讨论人类能力、资源和未来社会。"
+    },
+    "book-hou-1": {
+      "title": "人类简史：从动物到上帝 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/reader/d4a322a05d0f04d4a01f0d6",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "把人类历史放入生物与文化共同演变的视角，讨论认知、农业与科学的变迁。"
+    },
+    "book-hou-2": {
+      "title": "未来简史 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "从人类历史延伸到未来，讨论幸福、长生与人机关系的可能变化。"
+    },
+    "book-hou-3": {
+      "title": "人体简史 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/reader/ef6321d0813ab8cf4g011fa3",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "通过人体各系统及科学发现理解身体如何运行。"
+    },
+    "book-hou-4": {
+      "title": "绝佳时间 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/reader/05d32c00813ab8fa4g011951",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "从昼夜节律理解睡眠、活动、进食与健康的时间安排。"
+    },
+    "book-hou-6": {
+      "title": "长寿：当人类不再衰老 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/reader/5fe320b072a435255fe15ab",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "作者从衰老的信息与表观遗传调控角度提出延缓衰老的研究设想。"
+    },
+    "book-hou-7": {
+      "title": "超越百岁：长寿的科学与艺术 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/reader/12f326c0813ab8d88g015fdf",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "以主动预防和健康寿命为目标，将运动、营养、风险管理与情绪健康联系起来。"
+    },
+    "book-hou-8": {
+      "title": "老而不衰的科学 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/bookDetail/d3632650813ab7bcfg017793",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "以衰老生物学研究说明多个细胞和分子机制可能成为干预目标。"
+    },
+    "book-hou-9": {
+      "title": "不老时代：年轻又长寿的科学和方法 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/reader/80932d30813ab84b6g016956",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "讨论未来寿命变化以及个人生活、健康与社会安排的准备。"
+    },
+    "book-hou-10": {
+      "title": "长寿：逆转衰老的科学饮食 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/reader/ea232aa0813aba50fg015668",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "围绕饮食及衰老相关机制讨论生活方式选择。"
+    },
+    "book-hou-12": {
+      "title": "衰老生物学 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/bookDetail/c8b326a0811e33589g018bd9",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "公开介绍涵盖衰老概念、测量、演化、细胞遗传学、生理疾病及干预研究。"
+    },
+    "book-hou-13": {
+      "title": "基因传：众生之源 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/reader/15b3245071543c3915b1e2b",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "通过遗传学历史及人类经验讨论基因、疾病、身份和伦理。"
+    },
+    "book-hou-14": {
+      "title": "遗传的革命 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/bookDetail/c8c32cb0811e3358ag011680",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "解释DNA序列之外的基因活动调控及其科学发展。"
+    },
+    "book-hou-15": {
+      "title": "DNA：生命的秘密 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/bookDetail/3e832b405d148d3e85e2d59",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "通过DNA相关发现理解生命信息和遗传学的科学历程。"
+    },
+    "book-hou-16": {
+      "title": "垃圾DNA · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/bookDetail/62332ac0811e33563g014297",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "讨论非编码DNA及其调控等作用，挑战“没有蛋白编码就没有价值”的直觉。"
+    },
+    "book-hou-17": {
+      "title": "细胞传 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/reader/67932e90813ab9510g015f26",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "以细胞发现和医学史理解生命协作、功能失常与治疗探索。"
+    },
+    "book-hou-19": {
+      "title": "Power, Sex, Suicide · Open Library书目介绍",
+      "url": "https://openlibrary.org/works/OL7998481W",
+      "checked": "2026-10-06",
+      "kind": "library_description",
+      "scope": "原版图书书目介绍，未核对中文译本全文或页码",
+      "note": "图书馆书目介绍将线粒体与能量、演化、繁殖和衰老等问题联系起来。"
+    },
+    "book-hou-20": {
+      "title": "端粒：年轻、健康、长寿的新科学 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/bookDetail/b5832f50811e78bbcg019b38",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "从端粒研究延伸到压力、生活方式与环境的健康讨论。"
+    },
+    "book-hou-21": {
+      "title": "大脑能量 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/reader/e50329c0813ab907ag018fc9",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "作者提出从代谢和线粒体功能理解精神障碍的假说。"
+    },
+    "book-hou-24": {
+      "title": "癌症传：众病之王 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/bookDetail/352324c059b441352e0936c",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "通过癌症科学与治疗史理解疾病、研究和患者体验的关系。"
+    },
+    "book-hou-26": {
+      "title": "威廉姆斯内分泌学 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/bookDetail/03c320c0811e1c8b0g014873",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "医学教材系统讨论激素、内分泌器官及相关疾病。"
+    },
+    "book-hou-27": {
+      "title": "人为什么会生病 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/reader/93a32790813ab7155g015262",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "作者以胰岛素抵抗为中心讨论代谢异常及其与疾病的联系。"
+    },
+    "book-hou-31": {
+      "title": "战斗细胞 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/reader/0c732f70813ab74fbg013e2b",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "通过先天和适应性免疫、抗体、信号与免疫异常认识防御系统。"
+    },
+    "book-hou-32": {
+      "title": "炎症：食物、微生物和疾病的故事 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/reader/bf532940813aba1ddg01345a",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "围绕食物、微生物与慢性炎症讨论疾病风险。"
+    },
+    "book-hou-37": {
+      "title": "The beauty of dirty skin · Open Library书目介绍",
+      "url": "https://openlibrary.org/works/OL19746017W",
+      "checked": "2026-10-06",
+      "kind": "library_description",
+      "scope": "原版图书书目介绍，未核对中文译本全文或页码",
+      "note": "公开书目介绍从饮食、睡眠、压力和肠道皮肤联系讨论护肤。"
+    },
+    "book-hou-39": {
+      "title": "运动改造大脑 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/reader/1f4326e0813ab7e0fg0167ca",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "讨论身体活动与学习、情绪及脑功能的联系。"
+    },
+    "book-hou-41": {
+      "title": "持续的幸福 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/reader/8e3325605c90888e3b6e7a8",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "以PERMA组织幸福：积极情绪、投入、关系、意义和成就。"
+    },
+    "book-hou-42": {
+      "title": "冥想：身心放松的力量 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/reader/6ca32bc0813ab8dcbg011386",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "公开介绍以日常觉察、艺术观看及冥想练习讨论身心放松。"
+    },
+    "book-hou-43": {
+      "title": "当下的力量 · 微信读书公开介绍",
+      "url": "https://weread.qq.com/web/reader/5b932bd05cf3215b92b7cd5",
+      "checked": "2026-10-06",
+      "kind": "book_public_description",
+      "scope": "公开图书介绍，含出版宣传；未读取全文，不作独立科学证据",
+      "note": "以当下觉察讨论人与思维、情绪及自我叙事的关系。"
+    }
+  }
+}

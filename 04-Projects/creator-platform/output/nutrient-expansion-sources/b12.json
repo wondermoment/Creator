@@ -1,0 +1,482 @@
+{
+  "version": "6.9",
+  "hitCount": 1,
+  "request": {
+    "queryString": "DOI:10.3945/ajcn.115.110775",
+    "resultType": "core",
+    "cursorMark": "*",
+    "pageSize": 25,
+    "sort": "",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "26135351",
+        "source": "MED",
+        "pmid": "26135351",
+        "pmcid": "PMC4548176",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC4548176"
+          ]
+        },
+        "doi": "10.3945/ajcn.115.110775",
+        "title": "Effects of vitamin B-12 supplementation on neurologic and cognitive function in older people: a randomized controlled trial.",
+        "authorString": "Dangour AD, Allen E, Clarke R, Elbourne D, Fletcher AE, Letley L, Richards M, Whyte K, Uauy R, Mills K.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Dangour AD",
+              "lastName": "Dangour",
+              "firstName": "Alan D",
+              "initials": "AD",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-6908-1273"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Faculty of Epidemiology and Population Health, London School of Hygiene & Tropical Medicine, London, United Kingdom; alan.dangour@lshtm.ac.uk."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Allen E",
+              "lastName": "Allen",
+              "firstName": "Elizabeth",
+              "initials": "E",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-2689-6939"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Faculty of Epidemiology and Population Health, London School of Hygiene & Tropical Medicine, London, United Kingdom;"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Clarke R",
+              "lastName": "Clarke",
+              "firstName": "Robert",
+              "initials": "R",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Clinical Trial Service Unit & Epidemiological Studies Unit, University of Oxford, Oxford, United Kingdom;"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Elbourne D",
+              "lastName": "Elbourne",
+              "firstName": "Diana",
+              "initials": "D",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Faculty of Epidemiology and Population Health, London School of Hygiene & Tropical Medicine, London, United Kingdom;"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Fletcher AE",
+              "lastName": "Fletcher",
+              "firstName": "Astrid E",
+              "initials": "AE",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Faculty of Epidemiology and Population Health, London School of Hygiene & Tropical Medicine, London, United Kingdom;"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Letley L",
+              "lastName": "Letley",
+              "firstName": "Louise",
+              "initials": "L",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Medical Research Council General Practice Research Framework, London, United Kingdom;"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Richards M",
+              "lastName": "Richards",
+              "firstName": "Marcus",
+              "initials": "M",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-9191-2192"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Medical Research Council Unit for Lifelong Health and Ageing at University College London, London, United Kingdom; and."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Whyte K",
+              "lastName": "Whyte",
+              "firstName": "Ken",
+              "initials": "K",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Faculty of Epidemiology and Population Health, London School of Hygiene & Tropical Medicine, London, United Kingdom;"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Uauy R",
+              "lastName": "Uauy",
+              "firstName": "Ricardo",
+              "initials": "R",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Faculty of Epidemiology and Population Health, London School of Hygiene & Tropical Medicine, London, United Kingdom;"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Mills K",
+              "lastName": "Mills",
+              "firstName": "Kerry",
+              "initials": "K",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Clinical Neurosciences, King's College, London, United Kingdom."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0001-6908-1273"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0001-9191-2192"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-2689-6939"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics"
+          ]
+        },
+        "journalInfo": {
+          "issue": "3",
+          "volume": "102",
+          "journalIssueId": 2318942,
+          "dateOfPublication": "2015 Sep",
+          "monthOfPublication": 9,
+          "yearOfPublication": 2015,
+          "journal": {
+            "medlineAbbreviation": "Am J Clin Nutr",
+            "title": "The American journal of clinical nutrition",
+            "essn": "1938-3207",
+            "issn": "0002-9165",
+            "isoabbreviation": "Am J Clin Nutr",
+            "nlmid": "0376027"
+          },
+          "printPublicationDate": "2015-09-01"
+        },
+        "pubYear": "2015",
+        "pageInfo": "639-647",
+        "abstractText": "<h4>Background</h4>Moderate vitamin B-12 deficiency is relatively common in older people. However, there is little robust evidence on the effect of vitamin B-12 supplementation on neurologic and cognitive outcomes in later life.<h4>Objective</h4>We investigated whether vitamin B-12 supplementation benefits neurologic and cognitive function in moderately vitamin B-12-deficient older people.<h4>Design</h4>We conducted a double-blind, randomized, placebo-controlled trial in 7 general practices in South East England, United Kingdom. Study participants were aged ≥75 y and had moderate vitamin B-12 deficiency (serum vitamin B-12 concentrations: 107-210 pmol/L) in the absence of anemia and received 1 mg crystalline vitamin B-12 or a matching placebo as a daily oral tablet for 12 mo. Peripheral motor and sensory nerve conduction, central motor conduction, a clinical neurologic examination, and cognitive function were assessed before and after treatment.<h4>Results</h4>A total of 201 participants were enrolled in the trial, and 191 subjects provided outcome data. Compared with baseline, allocation to vitamin B-12 was associated with a 177% increase in serum concentration of vitamin B-12 (641 compared with 231 pmol/L), a 331% increase in serum holotranscobalamin (240 compared with 56 pmol/L), and 17% lower serum homocysteine (14.2 compared with 17.1 μmol/L). In intention-to-treat analysis of covariance models, with adjustment for baseline neurologic function, there was no evidence of an effect of supplementation on the primary outcome of the posterior tibial compound muscle action potential amplitude at 12 mo (mean difference: -0.2 mV; 95% CI: -0.8, 0.3 mV). There was also no evidence of an effect on any secondary peripheral nerve or central motor function outcome, or on cognitive function or clinical examination.<h4>Conclusion</h4>Results of the trial do not support the hypothesis that the correction of moderate vitamin B-12 deficiency, in the absence of anemia and of neurologic and cognitive signs or symptoms, has beneficial effects on neurologic or cognitive function in later life. This trial was registered at www.isrctn.com as ISRCTN54195799.",
+        "affiliation": "Faculty of Epidemiology and Population Health, London School of Hygiene & Tropical Medicine, London, United Kingdom; alan.dangour@lshtm.ac.uk.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print-Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "Research Support, Non-U.S. Gov't",
+            "research-article",
+            "Randomized Controlled Trial",
+            "Journal Article"
+          ]
+        },
+        "grantsList": {
+          "grant": [
+            {
+              "agency": "National Institute for Health Research (NIHR)",
+              "grantId": "NF-SI-0513-10134",
+              "orderIn": 0
+            },
+            {
+              "agency": "National Institute for Health Research (NIHR)",
+              "acronym": "DH_",
+              "orderIn": 0
+            },
+            {
+              "agency": "King’s College Hospital Trust Research and Development",
+              "orderIn": 0
+            },
+            {
+              "agency": "National Health Service Research and Development",
+              "orderIn": 0
+            },
+            {
+              "agency": "Medical Research Council",
+              "acronym": "MRC_",
+              "grantId": "MR/L023784/1",
+              "orderIn": 0
+            },
+            {
+              "agency": "Medical Research Council",
+              "acronym": "MRC_",
+              "grantId": "MR/L023784/2",
+              "orderIn": 0
+            },
+            {
+              "agency": "Medical Research Council",
+              "acronym": "MRC_",
+              "grantId": "MC_UU_12019/3",
+              "orderIn": 0
+            },
+            {
+              "agency": "Food Standards Agency",
+              "grantId": "N05072",
+              "orderIn": 0
+            }
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Central Nervous System",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "DE",
+                    "qualifierName": "drug effects"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "ME",
+                    "qualifierName": "metabolism"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Vitamin B 12 Deficiency",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "BL",
+                    "qualifierName": "blood"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "DT",
+                    "qualifierName": "drug therapy"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Vitamin B 12",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "AD",
+                    "qualifierName": "administration & dosage"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "BL",
+                    "qualifierName": "blood"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Treatment Outcome"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Logistic Models"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Double-Blind Method"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Patient Compliance"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Cognition",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "DE",
+                    "qualifierName": "drug effects"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Dietary Supplements"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Aged"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Aged, 80 and over"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Male"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "United Kingdom"
+            }
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "Older People",
+            "Cognitive",
+            "Neurologic",
+            "Vitamin B-12",
+            "Peripheral And Central Nerve Conduction"
+          ]
+        },
+        "chemicalList": {
+          "chemical": [
+            {
+              "name": "Vitamin B 12",
+              "registryNumber": "P6YC3EG204"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "doi",
+              "site": "Unpaywall",
+              "url": "https://doi.org/10.3945/ajcn.115.110775"
+            },
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.3945/ajcn.115.110775"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC4548176"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "pdf",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC4548176?pdf=render"
+            }
+          ]
+        },
+        "commentCorrectionList": {
+          "commentCorrection": [
+            {
+              "source": "MED",
+              "id": "26269372",
+              "reference": "Am J Clin Nutr. 2015 Sep;102(3):529-30. doi: 10.3945/ajcn.115.118380.",
+              "type": "Comment in",
+              "orderIn": 1
+            }
+          ]
+        },
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 58,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasData": "N",
+        "license": "cc by",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2015-12-03",
+        "dateOfCreation": "2015-07-03",
+        "dateOfRevision": "2026-01-28",
+        "electronicPublicationDate": "2015-07-01",
+        "firstPublicationDate": "2015-07-01",
+        "firstIndexDate": "2015-07-04",
+        "fullTextReceivedDate": "2020-07-09",
+        "hasEvaluations": "N"
+      }
+    ]
+  }
+}

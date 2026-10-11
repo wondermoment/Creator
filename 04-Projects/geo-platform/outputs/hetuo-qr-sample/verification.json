@@ -1,0 +1,20 @@
+{
+  "article_id": "abcdc847b779a9ebfbe1c3d4",
+  "revision": 6,
+  "old_asset_id": "cc4e80da25067ca54f4a7330",
+  "new_asset_id": "b42607bca94bb3ce46b2e675",
+  "box": [
+    980,
+    630,
+    1080,
+    720
+  ],
+  "pixel_difference_bbox": [
+    984,
+    632,
+    1067,
+    712
+  ],
+  "original_preserved": true,
+  "other_articles_unchanged": true
+}

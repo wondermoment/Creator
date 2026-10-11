@@ -1,0 +1,15 @@
+{
+  "observedAt": "2026-10-06T02:52:14.970Z",
+  "route": "#commerce",
+  "action": "read-only manual catalog refresh",
+  "emptyMessage": true,
+  "newScript": true,
+  "refreshEnabled": true,
+  "status": [
+    "",
+    "",
+    ""
+  ],
+  "screenshot": "product-catalog-refresh-20261006.png",
+  "limits": "Live catalog is empty; abnormal responses and stale rows tested with synthetic Node fixtures only."
+}

@@ -1,0 +1,28 @@
+{
+  "repo": "kajisho5/ffmpeg-skill",
+  "commit": "a991599bfe3f072bac3835083f8bbb30efcd9a99",
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "paths": [
+    ".claude/skills/build-artifacts/SKILL.md",
+    ".claude/skills/ci-pipeline-synthesizer/SKILL.md",
+    ".claude/skills/code-review/SKILL.md",
+    ".claude/skills/concurrent-branches/SKILL.md",
+    ".claude/skills/cross-surface-changes/SKILL.md",
+    ".claude/skills/defect-reports/SKILL.md",
+    ".claude/skills/destructive-operations/SKILL.md",
+    ".claude/skills/git-hygiene/SKILL.md",
+    ".claude/skills/github-actions/SKILL.md",
+    ".claude/skills/mcp-server-design/SKILL.md",
+    ".claude/skills/release-management/SKILL.md",
+    ".claude/skills/reproducing-ci-locally/SKILL.md",
+    ".claude/skills/verifying-external-behavior/SKILL.md",
+    "LICENSE",
+    "SKILL.md"
+  ]
+}

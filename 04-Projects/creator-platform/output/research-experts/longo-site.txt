@@ -1,0 +1,1316 @@
+<!DOCTYPE html>
+<html lang="en-US" class="html_stretched responsive av-preloader-disabled av-default-lightbox  html_header_top html_logo_left html_main_nav_header html_menu_right html_large html_header_sticky html_header_shrinking html_header_topbar_active html_mobile_menu_phone html_header_searchicon html_content_align_center html_header_unstick_top_disabled html_header_stretch_disabled html_elegant-blog html_modern-blog html_av-overlay-side html_av-overlay-side-classic html_av-submenu-noclone html_entry_id_8365 av-no-preview html_text_menu_active ">
+<head>
+<meta charset="UTF-8">
+
+
+<!-- mobile setting -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<!-- Scripts/CSS and wp_head hook -->
+<!--IUB-COOKIE-SKIP-START--><script type="text/javascript">
+var _iub = _iub || [];
+_iub.csConfiguration = {"invalidateConsentWithoutLog":true,"cookiePolicyInOtherWindow":true,"askConsentAtCookiePolicyUpdate":true,"consentOnContinuedBrowsing":false,"perPurposeConsent":true,"lang":"en","siteId":2476262,"floatingPreferencesButtonDisplay":"bottom-right","cookiePolicyId":42138508, "banner":{ "acceptButtonDisplay":true,"customizeButtonDisplay":true,"customizeButtonColor":"#DADADA","customizeButtonCaptionColor":"#4D4D4D","rejectButtonDisplay":true,"listPurposes":true,"explicitWithdrawal":true,"position":"bottom","textColor":"black","backgroundColor":"white","closeButtonRejects":true }};
+</script>
+<script type="text/javascript" src="//cdn.iubenda.com/cs/iubenda_cs.js" charset="UTF-8" async></script>
+
+			<script>
+				var iCallback = function() {};
+				var _iub = _iub || {};
+
+				if ( typeof _iub.csConfiguration != 'undefined' ) {
+					if ( 'callback' in _iub.csConfiguration ) {
+						if ( 'onConsentGiven' in _iub.csConfiguration.callback )
+							iCallback = _iub.csConfiguration.callback.onConsentGiven;
+
+						_iub.csConfiguration.callback.onConsentGiven = function() {
+							iCallback();
+
+							/* separator */
+							jQuery('noscript._no_script_iub').each(function (a, b) { var el = jQuery(b); el.after(el.html()); });
+						}
+					}
+				}
+			</script><!--IUB-COOKIE-SKIP-END--><style type="text/css" id="wpml-ls-inline-styles-additional-css">#lang_sel img, #lang_sel_list img, #lang_sel_footer img { display: inline; }</style>
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+<link rel="alternate" hreflang="en" href="https://valterlongo.com/">
+<link rel="alternate" hreflang="it" href="https://valterlongo.com/it/">
+<link rel="alternate" hreflang="x-default" href="https://valterlongo.com/">
+
+	<!-- This site is optimized with the Yoast SEO plugin v28.6 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Home - Valter Longo</title>
+	<meta name="description" content="Dr. Valter Longo, Edna M. Jones Professor of Gerontology at USC, leads the Longevity Institute, a top research center for aging and age-related diseases">
+	<link rel="canonical" href="https://valterlongo.com/welcome/">
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="Home - Valter Longo">
+	<meta property="og:description" content="Dr. Valter Longo, Edna M. Jones Professor of Gerontology at USC, leads the Longevity Institute, a top research center for aging and age-related diseases">
+	<meta property="og:url" content="https://valterlongo.com/welcome/">
+	<meta property="og:site_name" content="Valter Longo">
+	<meta property="article:modified_time" content="2026-04-13T08:55:39+00:00">
+	<meta name="twitter:card" content="summary_large_image">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/valterlongo.com\/welcome\/","url":"https:\/\/valterlongo.com\/welcome\/","name":"Home - Valter Longo","isPartOf":{"@id":"https:\/\/valterlongo.com\/#website"},"datePublished":"2018-06-15T18:58:34+00:00","dateModified":"2026-04-13T08:55:39+00:00","description":"Dr. Valter Longo, Edna M. Jones Professor of Gerontology at USC, leads the Longevity Institute, a top research center for aging and age-related diseases","breadcrumb":{"@id":"https:\/\/valterlongo.com\/welcome\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/valterlongo.com\/welcome\/"]}]},{"@type":"BreadcrumbList","@id":"https:\/\/valterlongo.com\/welcome\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https:\/\/valterlongo.com\/#website","url":"https:\/\/valterlongo.com\/","name":"Valter Longo","description":"Valter D. Longo is an Italian-American biogerontologist and cell biologist known for his studies on the role of fasting and nutrient response genes on cellular protection aging and diseases and for proposing that longevity is regulated by similar genes and mechanisms in many eukaryotes.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/valterlongo.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="Valter Longo &raquo; Feed" href="https://valterlongo.com/feed/">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://valterlongo.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fvalterlongo.com%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://valterlongo.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fvalterlongo.com%2F&amp;format=xml">
+		<!-- This site uses the Google Analytics by ExactMetrics plugin v10.3.0 - Using Analytics tracking - https://www.exactmetrics.com/ -->
+		<!-- Note: ExactMetrics is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the ExactMetrics settings panel. -->
+					<!-- No tracking code set -->
+				<!-- / Google Analytics by ExactMetrics -->
+		
+<!-- google webfont font replacement -->
+
+			<script type="text/javascript">
+			if(!document.cookie.match(/aviaPrivacyGoogleWebfontsDisabled/)){
+				(function() {
+					var f = document.createElement('link');
+					
+					f.type 	= 'text/css';
+					f.rel 	= 'stylesheet';
+					f.href 	= '//fonts.googleapis.com/css?family=Terminal+Dosis%7COpen+Sans:400,600';
+					f.id 	= 'avia-google-webfont';
+					
+					document.getElementsByTagName('head')[0].appendChild(f);
+				})();
+			}
+			</script>
+			<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel="stylesheet" id="avia-grid-css" href="https://valterlongo.com/wp-content/themes/enfold/css/grid.css?ver=4.5.7" media="all">
+<link rel="stylesheet" id="avia-base-css" href="https://valterlongo.com/wp-content/themes/enfold/css/base.css?ver=4.5.7" media="all">
+<link rel="stylesheet" id="avia-layout-css" href="https://valterlongo.com/wp-content/themes/enfold/css/layout.css?ver=4.5.7" media="all">
+<link rel="stylesheet" id="avia-module-audioplayer-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/audio-player/audio-player.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-blog-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/blog/blog.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-postslider-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/postslider/postslider.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-button-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/buttons/buttons.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-buttonrow-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-button-fullwidth-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-catalogue-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/catalogue/catalogue.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-comments-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/comments/comments.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-contact-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contact/contact.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-slideshow-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-slideshow-contentpartner-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contentslider/contentslider.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-countdown-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/countdown/countdown.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-gallery-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery/gallery.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-gallery-hor-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-maps-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/google_maps/google_maps.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-gridrow-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/grid_row/grid_row.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-heading-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/heading/heading.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-rotator-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-hr-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/hr/hr.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-icon-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/icon/icon.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-iconbox-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/iconbox/iconbox.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-icongrid-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/icongrid/icongrid.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-iconlist-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/iconlist/iconlist.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-image-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image/image.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-hotspot-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-magazine-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/magazine/magazine.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-masonry-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-siteloader-css" href="https://valterlongo.com/wp-content/themes/enfold/css/avia-snippet-site-preloader.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-menu-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/menu/menu.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-modfule-notification-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/notification/notification.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-numbers-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/numbers/numbers.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-portfolio-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio/portfolio.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-progress-bar-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/progressbar/progressbar.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-promobox-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/promobox/promobox.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-sc-search-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/search/search.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-slideshow-accordion-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-slideshow-feature-image-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-slideshow-fullsize-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-slideshow-fullscreen-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-slideshow-ls-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_layerslider/slideshow_layerslider.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-social-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/social_share/social_share.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-tabsection-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tab_section/tab_section.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-table-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/table/table.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-tabs-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tabs/tabs.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-team-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/team/team.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-testimonials-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/testimonials/testimonials.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-timeline-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/timeline/timeline.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-toggles-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/toggles/toggles.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-module-video-css" href="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/video/video.css?ver=7.1.2" media="all">
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-break:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style^=border-color],[style*=";border-color"],[style*="; border-color"]){border-style:solid}html :where([style^=border-top-color],[style*=";border-top-color"],[style*="; border-top-color"]){border-top-style:solid}html :where([style^=border-right-color],[style*=";border-right-color"],[style*="; border-right-color"]){border-right-style:solid}html :where([style^=border-bottom-color],[style*=";border-bottom-color"],[style*="; border-bottom-color"]){border-bottom-style:solid}html :where([style^=border-left-color],[style*=";border-left-color"],[style*="; border-left-color"]){border-left-style:solid}html :where([style^=border-width],[style*=";border-width"],[style*="; border-width"]){border-style:solid}html :where([style^=border-top-width],[style*=";border-top-width"],[style*="; border-top-width"]){border-top-style:solid}html :where([style^=border-right-width],[style*=";border-right-width"],[style*="; border-right-width"]){border-right-style:solid}html :where([style^=border-bottom-width],[style*=";border-bottom-width"],[style*="; border-bottom-width"]){border-bottom-style:solid}html :where([style^=border-left-width],[style*=";border-left-width"],[style*="; border-left-width"]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<link rel="stylesheet" id="wp-theme-css" href="https://valterlongo.com/wp-includes/css/dist/theme/design-tokens.min.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="wp-components-css" href="https://valterlongo.com/wp-includes/css/dist/components/style.min.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="wp-preferences-css" href="https://valterlongo.com/wp-includes/css/dist/preferences/style.min.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="wp-block-editor-css" href="https://valterlongo.com/wp-includes/css/dist/block-editor/style.min.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="popup-maker-block-library-style-css" href="https://valterlongo.com/wp-content/plugins/popup-maker/dist/packages/block-library-style.css?ver=dbea705cfafe089d65f1" media="all">
+<link rel="stylesheet" id="awsm-ead-public-css" href="https://valterlongo.com/wp-content/plugins/embed-any-document/css/embed-public.min.css?ver=2.7.14" media="all">
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel="stylesheet" id="wpedon-css" href="https://valterlongo.com/wp-content/plugins/easy-paypal-donation/assets/css/wpedon.css?ver=1.5.6" media="all">
+<link rel="stylesheet" id="jquery-smooth-scroll-css" href="https://valterlongo.com/wp-content/plugins/jquery-smooth-scroll/css/style.css?ver=1.4.5" media="all">
+<link rel="stylesheet" id="cff-css" href="https://valterlongo.com/wp-content/plugins/custom-facebook-feed/assets/css/cff-style.min.css?ver=4.14.0" media="all">
+<link rel="stylesheet" id="sb-font-awesome-css" href="https://valterlongo.com/wp-content/plugins/custom-facebook-feed/assets/css/font-awesome.min.css?ver=4.7.0" media="all">
+<link rel="stylesheet" id="softlite-integration-widget-style-css" href="https://valterlongo.com/wp-content/plugins/softlite-io-integration/assets/css/minify/widget.min.css?ver=1.0.59" media="all">
+<link rel="stylesheet" id="avia-wpml-css" href="https://valterlongo.com/wp-content/themes/enfold/config-wpml/wpml-mod.css?ver=4.5.7" media="all">
+<link rel="stylesheet" id="avia-scs-css" href="https://valterlongo.com/wp-content/themes/enfold/css/shortcodes.css?ver=4.5.7" media="all">
+<link rel="stylesheet" id="avia-popup-css-css" href="https://valterlongo.com/wp-content/themes/enfold/js/aviapopup/magnific-popup.css?ver=4.5.7" media="screen">
+<link rel="stylesheet" id="avia-lightbox-css" href="https://valterlongo.com/wp-content/themes/enfold/css/avia-snippet-lightbox.css?ver=4.5.7" media="screen">
+<link rel="stylesheet" id="avia-widget-css-css" href="https://valterlongo.com/wp-content/themes/enfold/css/avia-snippet-widget.css?ver=4.5.7" media="screen">
+<link rel="stylesheet" id="mediaelement-css" href="https://valterlongo.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17" media="all">
+<link rel="stylesheet" id="wp-mediaelement-css" href="https://valterlongo.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=7.1.2" media="all">
+<link rel="stylesheet" id="avia-dynamic-css" href="https://valterlongo.com/wp-content/uploads/dynamic_avia/enfold.css?ver=5db74313ea083" media="all">
+<link rel="stylesheet" id="avia-custom-css" href="https://valterlongo.com/wp-content/themes/enfold/css/custom.css?ver=4.5.7" media="all">
+<link rel="stylesheet" id="popup-maker-site-css" href="//valterlongo.com/wp-content/uploads/pum/pum-site-styles.css?generated=1773150432&amp;ver=1.21.5" media="all">
+<script id="jquery-core-js" src="https://valterlongo.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://valterlongo.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="react-js" src="https://valterlongo.com/wp-includes/js/dist/vendor/react.min.js?ver=18.3.1.1"></script>
+<script id="react-dom-js" src="https://valterlongo.com/wp-includes/js/dist/vendor/react-dom.min.js?ver=18.3.1.1"></script>
+<script id="react-jsx-runtime-js" src="https://valterlongo.com/wp-includes/js/dist/vendor/react-jsx-runtime.min.js?ver=18.3.1"></script>
+<script id="wp-dom-ready-js" src="https://valterlongo.com/wp-includes/js/dist/dom-ready.min.js?ver=3fe927cab37bf38d6a23"></script>
+<script id="wp-hooks-js" src="https://valterlongo.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255"></script>
+<script id="wp-i18n-js" src="https://valterlongo.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="wp-a11y-js" src="https://valterlongo.com/wp-includes/js/dist/a11y.min.js?ver=31c6cec5a4ff7aff483d"></script>
+<script id="wp-deprecated-js" src="https://valterlongo.com/wp-includes/js/dist/deprecated.min.js?ver=fe587bac92b7d0ef760e"></script>
+<script id="wp-dom-js" src="https://valterlongo.com/wp-includes/js/dist/dom.min.js?ver=c95f94cbbc1ac3fde84f"></script>
+<script id="wp-escape-html-js" src="https://valterlongo.com/wp-includes/js/dist/escape-html.min.js?ver=87ebe53e97bba59805a5"></script>
+<script id="wp-element-js" src="https://valterlongo.com/wp-includes/js/dist/element.min.js?ver=4a4370b2b349066fd440"></script>
+<script id="wp-is-shallow-equal-js" src="https://valterlongo.com/wp-includes/js/dist/is-shallow-equal.min.js?ver=7ad271045c1fe60f5496"></script>
+<script id="wp-keycodes-js" src="https://valterlongo.com/wp-includes/js/dist/keycodes.min.js?ver=d0b4204e4bbeb412df6e"></script>
+<script id="wp-priority-queue-js" src="https://valterlongo.com/wp-includes/js/dist/priority-queue.min.js?ver=6c0aa59b65d55dfd509b"></script>
+<script id="wp-private-apis-js" src="https://valterlongo.com/wp-includes/js/dist/private-apis.min.js?ver=eb85f28c4c729bb4f002"></script>
+<script id="wp-undo-manager-js" src="https://valterlongo.com/wp-includes/js/dist/undo-manager.min.js?ver=4554fce6276d8910a4ae"></script>
+<script id="wp-compose-js" src="https://valterlongo.com/wp-includes/js/dist/compose.min.js?ver=0e8bde2a499ea6073b42"></script>
+<script id="moment-js" src="https://valterlongo.com/wp-includes/js/dist/vendor/moment.min.js?ver=2.30.1"></script>
+<script id="moment-js-after">
+moment.updateLocale( 'en_US', {"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"week":{"dow":1},"longDateFormat":{"LT":"g:i a","LTS":null,"L":null,"LL":"F j, Y","LLL":"F j, Y g:i a","LLLL":null}} );
+//# sourceURL=moment-js-after
+</script>
+<script id="wp-date-js" src="https://valterlongo.com/wp-includes/js/dist/date.min.js?ver=8173fc0fc12b7bb7eaf0"></script>
+<script id="wp-date-js-after">
+wp.date.setSettings( {"l10n":{"locale":"en_US","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"meridiem":{"am":"am","pm":"pm","AM":"AM","PM":"PM"},"relative":{"future":"%s from now","past":"%s ago","s":"a second","ss":"%d seconds","m":"a minute","mm":"%d minutes","h":"an hour","hh":"%d hours","d":"a day","dd":"%d days","M":"a month","MM":"%d months","y":"a year","yy":"%d years"},"startOfWeek":1},"formats":{"time":"g:i a","date":"F j, Y","datetime":"F j, Y g:i a","datetimeAbbreviated":"M j, Y g:i a"},"timezone":{"offset":1,"offsetFormatted":"1","string":"","abbr":""}} );
+//# sourceURL=wp-date-js-after
+</script>
+<script id="wp-html-entities-js" src="https://valterlongo.com/wp-includes/js/dist/html-entities.min.js?ver=a976ff3a0f00bc2999a3"></script>
+<script id="wp-primitives-js" src="https://valterlongo.com/wp-includes/js/dist/primitives.min.js?ver=44cc5a35c7b9fe07a838"></script>
+<script id="wp-redux-routine-js" src="https://valterlongo.com/wp-includes/js/dist/redux-routine.min.js?ver=acca2b4857d83ad1790e"></script>
+<script id="wp-data-js" src="https://valterlongo.com/wp-includes/js/dist/data.min.js?ver=14a216e0932d72c22976"></script>
+<script id="wp-data-js-after">
+( function() {
+	var userId = 0;
+	var storageKey = "WP_DATA_USER_" + userId;
+	wp.data
+		.use( wp.data.plugins.persistence, { storageKey: storageKey } );
+} )();
+//# sourceURL=wp-data-js-after
+</script>
+<script id="wp-rich-text-js" src="https://valterlongo.com/wp-includes/js/dist/rich-text.min.js?ver=3e5852e42cee1c239bae"></script>
+<script id="wp-theme-js" src="https://valterlongo.com/wp-includes/js/dist/theme.min.js?ver=56a75cc08ae66c1fcb7a"></script>
+<script id="wp-warning-js" src="https://valterlongo.com/wp-includes/js/dist/warning.min.js?ver=a0978839debc564a6608"></script>
+<script id="wp-components-js" src="https://valterlongo.com/wp-includes/js/dist/components.min.js?ver=9b751f17060211272a5c"></script>
+<script id="wp-autop-js" src="https://valterlongo.com/wp-includes/js/dist/autop.min.js?ver=4e10a18cb6f21a043fc0"></script>
+<script id="wp-blob-js" src="https://valterlongo.com/wp-includes/js/dist/blob.min.js?ver=c7582a735ddd2edc9731"></script>
+<script id="wp-block-serialization-default-parser-js" src="https://valterlongo.com/wp-includes/js/dist/block-serialization-default-parser.min.js?ver=4c6f3dd40077f7c17604"></script>
+<script id="wp-shortcode-js" src="https://valterlongo.com/wp-includes/js/dist/shortcode.min.js?ver=f6273476300cc5fad4cd"></script>
+<script id="wp-blocks-js" src="https://valterlongo.com/wp-includes/js/dist/blocks.min.js?ver=c0e57a630a0b6f6c3bb5"></script>
+<script id="wp-url-js" src="https://valterlongo.com/wp-includes/js/dist/url.min.js?ver=7b0de086d4ae11d55704"></script>
+<script id="wp-api-fetch-js" src="https://valterlongo.com/wp-includes/js/dist/api-fetch.min.js?ver=6f2a4faeee3c722b1e57"></script>
+<script id="wp-api-fetch-js-after">
+wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://valterlongo.com/wp-json/" ) );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "b8d22d045c" );
+wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
+wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
+wp.apiFetch.nonceEndpoint = "https://valterlongo.com/wp-admin/admin-ajax.php?action=rest-nonce";
+//# sourceURL=wp-api-fetch-js-after
+</script>
+<script id="wp-keyboard-shortcuts-js" src="https://valterlongo.com/wp-includes/js/dist/keyboard-shortcuts.min.js?ver=37da95806f2339bc80d0"></script>
+<script id="wp-preferences-persistence-js" src="https://valterlongo.com/wp-includes/js/dist/preferences-persistence.min.js?ver=a34abbdacd8f50f9acb1"></script>
+<script id="wp-preferences-js" src="https://valterlongo.com/wp-includes/js/dist/preferences.min.js?ver=5a169e3fc0e657f74172"></script>
+<script id="wp-preferences-js-after">
+( function() {
+				var serverData = false;
+				var userId = "0";
+				var persistenceLayer = wp.preferencesPersistence.__unstableCreatePersistenceLayer( serverData, userId );
+				var preferencesStore = wp.preferences.store;
+				wp.data.dispatch( preferencesStore ).setPersistenceLayer( persistenceLayer );
+			} ) ();
+//# sourceURL=wp-preferences-js-after
+</script>
+<script id="wp-commands-js" src="https://valterlongo.com/wp-includes/js/dist/commands.min.js?ver=1a4910212c7ed2355300"></script>
+<script id="wp-notices-js" src="https://valterlongo.com/wp-includes/js/dist/notices.min.js?ver=c09a068fdab0eb465e14"></script>
+<script id="wp-style-engine-js" src="https://valterlongo.com/wp-includes/js/dist/style-engine.min.js?ver=914befb08774033e6265"></script>
+<script id="wp-token-list-js" src="https://valterlongo.com/wp-includes/js/dist/token-list.min.js?ver=e86ab419d8302d57822c"></script>
+<script id="wp-upload-media-js" src="https://valterlongo.com/wp-includes/js/dist/upload-media.min.js?ver=a2c026d433c295fd5145"></script>
+<script id="wp-block-editor-js" src="https://valterlongo.com/wp-includes/js/dist/block-editor.min.js?ver=37e58da384b2558bd479"></script>
+<script id="wp-core-data-js" src="https://valterlongo.com/wp-includes/js/dist/core-data.min.js?ver=573f98dbff9f49ffeb0b"></script>
+<script id="wp-media-utils-js" src="https://valterlongo.com/wp-includes/js/dist/media-utils.min.js?ver=07c1c94f9b21baa97a96"></script>
+<script id="wp-patterns-js" src="https://valterlongo.com/wp-includes/js/dist/patterns.min.js?ver=be5af192f57cc14d340f"></script>
+<script id="wp-plugins-js" src="https://valterlongo.com/wp-includes/js/dist/plugins.min.js?ver=673d1e05ca49004ab160"></script>
+<script id="wp-server-side-render-js" src="https://valterlongo.com/wp-includes/js/dist/server-side-render.min.js?ver=83e806a0634df6b93530"></script>
+<script id="wp-viewport-js" src="https://valterlongo.com/wp-includes/js/dist/viewport.min.js?ver=a56e3489ed4faeac7720"></script>
+<script id="wp-wordcount-js" src="https://valterlongo.com/wp-includes/js/dist/wordcount.min.js?ver=f0b1f0e977b2ff6e0132"></script>
+<script id="wp-editor-js" src="https://valterlongo.com/wp-includes/js/dist/editor.min.js?ver=af070cfff88093363220"></script>
+<script id="wp-editor-js-after">
+Object.assign( window.wp.editor, window.wp.oldEditor );
+//# sourceURL=wp-editor-js-after
+</script>
+<script id="avia-wpml-script-js" src="https://valterlongo.com/wp-content/themes/enfold/config-wpml/wpml-mod.js?ver=4.5.7"></script>
+<script id="avia-compat-js" src="https://valterlongo.com/wp-content/themes/enfold/js/avia-compat.js?ver=4.5.7"></script>
+<script id="ai-js-js-extra">
+var MyAjax = {"ajaxurl":"https://valterlongo.com/wp-admin/admin-ajax.php","security":"beda98eca3"};
+//# sourceURL=ai-js-js-extra
+</script>
+<script id="ai-js-js" src="https://valterlongo.com/wp-content/plugins/advanced-iframe/js/ai.min.js?ver=528318"></script>
+<link rel="https://api.w.org/" href="https://valterlongo.com/wp-json/">
+<link rel="alternate" title="JSON" type="application/json" href="https://valterlongo.com/wp-json/wp/v2/pages/8365">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://valterlongo.com/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 7.1.2">
+<link rel="shortlink" href="https://valterlongo.com/">
+<meta name="generator" content="WPML ver:4.6.13 stt:1,27;">
+<script type="text/javascript">//<![CDATA[
+  function external_links_in_new_windows_loop() {
+    if (!document.links) {
+      document.links = document.getElementsByTagName('a');
+    }
+    var change_link = false;
+    var force = '';
+    var ignore = '';
+
+    for (var t=0; t<document.links.length; t++) {
+      var all_links = document.links[t];
+      change_link = false;
+      
+      if(document.links[t].hasAttribute('onClick') == false) {
+        // forced if the address starts with http (or also https), but does not link to the current domain
+        if(all_links.href.search(/^http/) != -1 && all_links.href.search('valterlongo.com') == -1 && all_links.href.search(/^#/) == -1) {
+          // console.log('Changed ' + all_links.href);
+          change_link = true;
+        }
+          
+        if(force != '' && all_links.href.search(force) != -1) {
+          // forced
+          // console.log('force ' + all_links.href);
+          change_link = true;
+        }
+        
+        if(ignore != '' && all_links.href.search(ignore) != -1) {
+          // console.log('ignore ' + all_links.href);
+          // ignored
+          change_link = false;
+        }
+
+        if(change_link == true) {
+          // console.log('Changed ' + all_links.href);
+          document.links[t].setAttribute('onClick', 'javascript:window.open(\'' + all_links.href.replace(/'/g, '') + '\', \'_blank\', \'noopener\'); return false;');
+          document.links[t].removeAttribute('target');
+        }
+      }
+    }
+  }
+  
+  // Load
+  function external_links_in_new_windows_load(func)
+  {  
+    var oldonload = window.onload;
+    if (typeof window.onload != 'function'){
+      window.onload = func;
+    } else {
+      window.onload = function(){
+        oldonload();
+        func();
+      }
+    }
+  }
+
+  external_links_in_new_windows_load(external_links_in_new_windows_loop);
+  //]]></script>
+
+<!-- Google tag (gtag.js) --> <!-- GA4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MS8H7QCE78" type="text/plain" class=" _iub_cs_activate" data-iub-purposes="5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MS8H7QCE78');
+</script>
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="alternate" type="application/rss+xml" title="Valter Longo RSS2 Feed" href="https://valterlongo.com/feed/">
+<link rel="pingback" href="https://valterlongo.com/xmlrpc.php">
+<!--[if lt IE 9]><script src="https://valterlongo.com/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]-->
+
+
+<!-- Meta Pixel Code -->
+<script type="text/plain" class=" _iub_cs_activate-inline" data-iub-purposes="3">
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js?v=next');
+</script>
+<!-- End Meta Pixel Code -->
+
+      <script type="text/javascript">
+        var url = window.location.origin + '?ob=open-bridge';
+        fbq('set', 'openbridge', '1582888371803618', url);
+      </script>
+    <script type="text/javascript">fbq('init', '1582888371803618', {}, {
+    "agent": "wordpress-7.1.2-3.0.13"
+})</script><script type="text/javascript">
+    fbq('track', 'PageView', []);
+  </script>
+<!-- Meta Pixel Code -->
+<noscript>
+<img height="1" width="1" style="display:none" alt="fbpx" src="https://www.facebook.com/tr?id=1582888371803618&amp;ev=PageView&amp;noscript=1">
+</noscript>
+<!-- End Meta Pixel Code -->
+
+<!-- To speed up the rendering and to display the site as fast as possible to the user we include some styles and scripts for above the fold content inline -->
+<script type="text/javascript">'use strict';var avia_is_mobile=!1;if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)&&'ontouchstart' in document.documentElement){avia_is_mobile=!0;document.documentElement.className+=' avia_mobile '}
+else{document.documentElement.className+=' avia_desktop '};document.documentElement.className+=' js_active ';(function(){var e=['-webkit-','-moz-','-ms-',''],n='';for(var t in e){if(e[t]+'transform' in document.documentElement.style){document.documentElement.className+=' avia_transform ';n=e[t]+'transform'};if(e[t]+'perspective' in document.documentElement.style)document.documentElement.className+=' avia_transform3d '};if(typeof document.getElementsByClassName=='function'&&typeof document.documentElement.getBoundingClientRect=='function'&&avia_is_mobile==!1){if(n&&window.innerHeight>0){setTimeout(function(){var e=0,o={},a=0,t=document.getElementsByClassName('av-parallax'),i=window.pageYOffset||document.documentElement.scrollTop;for(e=0;e<t.length;e++){t[e].style.top='0px';o=t[e].getBoundingClientRect();a=Math.ceil((window.innerHeight+i-o.top)*0.3);t[e].style[n]='translate(0px, '+a+'px)';t[e].style.top='auto';t[e].className+=' enabled-parallax '}},50)}}})();</script><link rel="icon" href="https://valterlongo.com/wp-content/uploads/2025/11/cropped-512-32x32.png" sizes="32x32">
+<link rel="icon" href="https://valterlongo.com/wp-content/uploads/2025/11/cropped-512-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://valterlongo.com/wp-content/uploads/2025/11/cropped-512-180x180.png">
+<meta name="msapplication-TileImage" content="https://valterlongo.com/wp-content/uploads/2025/11/cropped-512-270x270.png">
+<style id="wp-custom-css">
+.main_color .template-archives .tabcontainer a, #top .main_color .tabcontainer .tab:hover, #top .main_color .tabcontainer .tab.active_tab {
+    color: #FFA500;
+}
+
+.html_elegant-blog #top .post-entry .post-title, .html_elegant-blog .avia-content-slider .slide-entry-title {
+    text-align: left;
+    font-size: 20px;
+    text-transform: uppercase;
+    padding: 0px 0 15px;
+        padding-top: 0px;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+}
+#top #wrap_all .all_colors h1 {
+    color: #424242;
+    font-size: 53px;
+    text-transform: none;
+	  line-height: 58px
+}
+.main_color .sidebar_tab, .main_color .tabcontainer .tab {
+    color: #333333;
+	  font-weight: bold;
+	  font-size: 13px;
+}
+a#scroll-to-top {
+    background: url(../images/arrow.png) no-repeat center center;
+    width: 35px;
+    height: 35px;
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+    text-indent: -9999px;
+    font-size: 0;
+    cursor: pointer;
+    outline: 0;
+    visibility: hidden;
+}
+.widget {
+    clear: both;
+    position: relative;
+    padding: 15px 0px 15px 0px;
+    float: none;
+}
+div.wpforms-container-full .wpforms-form .wpforms-field {
+    padding: 0px 0;
+    clear: both;
+}
+.togglecontainer .single_toggle:first-child .toggler, .togglecontainer .taglist + .single_toggle .toggler {
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    font-size: 18px;
+	  font-weight: bold;
+	  padding-top: 15px;
+	  padding-bottom: 15px;
+}
+.avia-image-container img,
+.avia-image-container-inner,
+.avia_image,
+.avia_image img,
+.avia-frame,
+.avia-frame img {
+    border: none !important;
+    box-shadow: none !important;
+}
+
+</style>
+<style type="text/css">
+@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal; font-display: auto;
+src: url('https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot');
+src: url('https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?#iefix') format('embedded-opentype'), 
+url('https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff') format('woff'), 
+url('https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf') format('truetype'), 
+url('https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg#entypo-fontello') format('svg');
+} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
+
+@font-face {font-family: 'light_'; font-weight: normal; font-style: normal; font-display: auto;
+src: url('https://valterlongo.com/wp-content/uploads/avia_fonts/light_/light_.eot');
+src: url('https://valterlongo.com/wp-content/uploads/avia_fonts/light_/light_.eot?#iefix') format('embedded-opentype'), 
+url('https://valterlongo.com/wp-content/uploads/avia_fonts/light_/light_.woff') format('woff'), 
+url('https://valterlongo.com/wp-content/uploads/avia_fonts/light_/light_.ttf') format('truetype'), 
+url('https://valterlongo.com/wp-content/uploads/avia_fonts/light_/light_.svg#light_') format('svg');
+} #top .avia-font-light_, body .avia-font-light_, html body [data-av_iconfont='light_']:before{ font-family: 'light_'; }
+</style>
+
+<!--
+Debugging Info for Theme support: 
+
+Theme: Enfold
+Version: 4.5.7
+Installed: enfold
+AviaFramework Version: 5.0
+AviaBuilder Version: 0.9.5
+aviaElementManager Version: 1.0.1
+ML:768-PU:170-PLA:33
+WP:7.1.2
+Compress: CSS:disabled - JS:disabled
+Updates: enabled
+PLAu:29
+-->
+</head>
+
+
+
+
+<body data-rsssl="1" id="top" class="home wp-singular page-template-default page page-id-8365 wp-theme-enfold  rtl_columns stretched terminal_dosis open_sans" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+
+	
+	<div id="wrap_all">
+
+	
+<header id="header" class="all_colors header_color dark_bg_color  av_header_top av_logo_left av_main_nav_header av_menu_right av_large av_header_sticky av_header_shrinking av_header_stretch_disabled av_mobile_menu_phone av_header_searchicon av_header_unstick_top_disabled av_bottom_nav_disabled  av_header_border_disabled" role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+
+		<div id="header_meta" class="container_wrap container_wrap_meta  av_icon_active_right av_extra_header_active av_secondary_right av_entry_id_8365">
+		
+			      <div class="container">
+			      <ul class="noLightbox social_bookmarks icon_count_2">
+<li class="social_bookmarks_facebook av-social-link-facebook social_icon_1"><a target="_blank" aria-label="Link to Facebook" href="https://www.facebook.com/profvalterlongo/" aria-hidden="true" data-av_icon="&#59635;" data-av_iconfont="entypo-fontello" title="Facebook"><span class="avia_hidden_link_text">Facebook</span></a></li>
+<li class="social_bookmarks_instagram av-social-link-instagram social_icon_2"><a target="_blank" aria-label="Link to Instagram" href="https://www.instagram.com/prof_valterlongo/" aria-hidden="true" data-av_icon="&#59657;" data-av_iconfont="entypo-fontello" title="Instagram"><span class="avia_hidden_link_text">Instagram</span></a></li>
+</ul>
+<nav class="sub_menu" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><ul id="avia2-menu" class="menu">
+<li id="menu-item-5905" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5905"><a href="https://valterlongo.com/contact-us/">CONTACT US</a></li>
+</ul>
+<ul class="avia_wpml_language_switch avia_wpml_language_switch_extra">
+<li class="language_en avia_current_lang"><a href="https://valterlongo.com">	<span class="language_flag"><img title="English" src="https://valterlongo.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="English"></span>	<span class="language_native">English</span>	<span class="language_translated">English</span>	<span class="language_code">en</span></a></li>
+<li class="language_it "><a href="https://valterlongo.com/it/">	<span class="language_flag"><img title="Italiano" src="https://valterlongo.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.png" alt="Italiano"></span>	<span class="language_native">Italiano</span>	<span class="language_translated">Italian</span>	<span class="language_code">it</span></a></li>
+</ul></nav>			      </div>
+		</div>
+
+		<div id="header_main" class="container_wrap container_wrap_logo">
+	
+        <div class="container av-logo-container">
+<div class="inner-container">
+<span class="logo"><a href="https://valterlongo.com/"><img height="100" width="300" src="https://valterlongo.com/wp-content/uploads/2019/09/prof-valter-longo.png" alt="Valter Longo"></a></span><nav class="main_menu" data-selectname="Select a page" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><div class="avia-menu av-main-nav-wrap"><ul id="avia-menu" class="menu av-main-nav">
+<li id="menu-item-12219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-1"><a href="https://valterlongo.com/biography/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">BIOGRAPHY</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-6005" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-top-level menu-item-top-level-2">
+<a href="#" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">HOW TO STAY YOUNG</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-5991" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://valterlongo.com/daily-longevity-diet-for-adults/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Longevity Diet for Adults</span></a></li>
+	<li id="menu-item-11627" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://valterlongo.com/longevity-diet-in-pregnancy/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Longevity Diet in Pregnancy</span></a></li>
+	<li id="menu-item-11635" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://valterlongo.com/daily-longevity-diet-while-breastfeeding/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Longevity Diet While Breastfeeding</span></a></li>
+	<li id="menu-item-11642" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://valterlongo.com/daily-longevity-diet-for-children-and-adolescents/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Longevity Diet for Children and Adolescents</span></a></li>
+	<li id="menu-item-5994" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://valterlongo.com/exercise-and-longevity/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Exercise and Longevity</span></a></li>
+	<li id="menu-item-11285" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://valterlongo.com/fasting-mimicking-program-and-longevity/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Fasting Mimicking Program and Longevity</span></a></li>
+	<li id="menu-item-5998" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://valterlongo.com/recipes-of-longevity/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Recipes of Longevity</span></a></li>
+</ul>
+</li>
+<li id="menu-item-6006" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-top-level menu-item-top-level-3">
+<a href="#" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">FOR DOCTORS AND POTENTIAL PATIENTS</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-10376" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
+<a href="#" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Cancer</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-7373" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://valterlongo.com/cancer/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">For Patients</span></a></li>
+		<li id="menu-item-10377" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://valterlongo.com/cancer-for-doctors/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">For Doctors</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-10394" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
+<a href="#" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Neurodegenerative Diseases</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-7464" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://valterlongo.com/neurodegenerative-diseases/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">For Patients</span></a></li>
+		<li id="menu-item-10395" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://valterlongo.com/neurodegenerative-diseases-for-doctors/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">For Doctors</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-10402" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
+<a href="#" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Autoimmune Diseases</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-7372" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://valterlongo.com/autoimmune-diseases/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">For Patients</span></a></li>
+		<li id="menu-item-10403" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://valterlongo.com/autoimmune-diseases-for-doctors/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">For Doctors</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-10410" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
+<a href="#" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Cardiovascular Diseases</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-7374" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://valterlongo.com/cardiovascular-diseases/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">For Patients</span></a></li>
+		<li id="menu-item-10412" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://valterlongo.com/cardiovascular-diseases-for-doctors/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">For Doctors</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-10418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
+<a href="#" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Diabetes &amp; Obesity</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-7375" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://valterlongo.com/diabetes-obesity/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">For Patients</span></a></li>
+		<li id="menu-item-10419" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://valterlongo.com/diabetes-and-obesity-for-doctors/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">For Doctors</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-11365" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://valterlongo.com/scientific-articles/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Scientific Articles</span></a></li>
+</ul>
+</li>
+<li id="menu-item-12178" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-top-level menu-item-top-level-4">
+<a href="#" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">BOOKS</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-13265" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://valterlongo.com/professor-longos-new-book-fasting-cancer/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">New Book &ldquo;Fasting Cancer&rdquo;</span></a></li>
+	<li id="menu-item-12184" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://valterlongo.com/the-longevity-diet/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">The Longevity Diet</span></a></li>
+	<li id="menu-item-13358" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://valterlongo.com/at-longevitys-table/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">At Longevity&rsquo;s Table</span></a></li>
+	<li id="menu-item-13276" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://valterlongo.com/longevity-starts-in-childhood/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Longevity Starts in Childhood</span></a></li>
+</ul>
+</li>
+<li id="menu-item-13761" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-5"><a href="https://www.fastingandthelongevityrevolution.com/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">DOCUMENTARY</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-6007" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-top-level menu-item-top-level-6">
+<a href="#" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">MEDIA</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-7379" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://valterlongo.com/videos/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Videos</span></a></li>
+	<li id="menu-item-9047" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://valterlongo.com/latest-news/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Latest News</span></a></li>
+</ul>
+</li>
+<li id="menu-item-search" class="noMobile menu-item menu-item-search-dropdown menu-item-avia-special">
+							<a href="?s=" rel="nofollow" data-avia-search-tooltip="
+
+&lt;form action=&quot;https://valterlongo.com/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;input type=&quot;submit&quot; value=&quot;&#59395;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; /&gt;
+		&lt;input type=&quot;text&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; placeholder='Search' /&gt;
+			&lt;/div&gt;
+&lt;/form&gt;" aria-hidden="true" data-av_icon="&#59395;" data-av_iconfont="entypo-fontello"><span class="avia_hidden_link_text">Search</span></a>
+	        		   </li>
+<li class="av-burger-menu-main menu-item-avia-special ">
+	        			<a href="#">
+							<span class="av-hamburger av-hamburger--spin av-js-hamburger">
+					        <span class="av-hamburger-box">
+						          <span class="av-hamburger-inner"></span>
+						          <strong>Menu</strong>
+					        </span>
+							</span>
+						</a>
+	        		   </li>
+</ul></div></nav>
+</div> </div> 
+		<!-- end container_wrap-->
+		</div>
+		<div class="header_bg"></div>
+
+<!-- end header -->
+</header>
+		
+	<div id="main" class="all_colors" data-scroll-offset="116">
+
+	<div id="full_slider_1" class="avia-fullwidth-slider main_color avia-shadow   avia-builder-el-0  el_before_av_three_fifth  avia-builder-el-first   container_wrap fullsize" style=" "><div data-size="featured_large" data-lightbox_size="large" data-animation="fade" data-conditional_play="" data-ids="13827,13198,11872,9457" data-video_counter="0" data-autoplay="true" data-bg_slider="false" data-slide_height="" data-handle="av_slideshow_full" data-interval="5" data-class=" " data-css_id="" data-scroll_down="" data-control_layout="av-control-minimal" data-custom_markup="" data-perma_caption="" data-autoplay_stopper="" data-image_attachment="" data-min_height="500px" data-src="" data-position="top left" data-repeat="no-repeat" data-attach="scroll" data-stretch="" data-default-height="42" class="avia-slideshow avia-slideshow-1  av-control-minimal av-default-height-applied avia-slideshow-featured_large av_slideshow_full   avia-fade-slider " itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<ul class="avia-slideshow-inner " style="padding-bottom: 33.333333333333%;">
+<li class=" slide-1 "><div data-rel="slideshow-1" class="avia-slide-wrap ">
+<div class="caption_fullwidth av-slideshow-caption caption_left"><div class="container caption_container"><div class="slideshow_caption"><div class="slideshow_inner_caption"><div class="slideshow_align_caption">
+<h2 style="font-size:43px; " class="avia-caption-title  " itemprop="name">Fasting and the Longevity Revolution</h2>
+<div class="avia-caption-content  av_inherit_color" itemprop="description" style="font-size:15px; ">
+<p>A documentary by Academy Award nominees Barry Alexander Brown, Edward Norton, and Chiara Tilesi, inspired by the books of Dr. Valter Longo.</p>
+<p>Available On-Demand in English at fastingandthelongevityrevolution.com<br>
+Coming soon: dubbed in Italian and with subtitles in over 10 languages.</p>
+</div>
+<a href="https://fastingandthelongevityrevolution.com/" class="avia-slideshow-button avia-button avia-color-light " data-duration="800" data-easing="easeInOutQuad">Learn more</a>
+</div></div></div></div></div>
+<img src="https://valterlongo.com/wp-content/uploads/2025/08/Copertina-Peso-della-Longevita-3.webp" width="1500" height="500" title="Copertina Peso della Longevit&agrave;" alt="" itemprop="thumbnailUrl" style="min-height:500px; min-width:1500px; ">
+</div></li>
+<li class=" slide-2 "><div data-rel="slideshow-1" class="avia-slide-wrap ">
+<div class="caption_fullwidth av-slideshow-caption caption_right"><div class="container caption_container"><div class="slideshow_caption"><div class="slideshow_inner_caption"><div class="slideshow_align_caption">
+<h2 style="font-size:43px; " class="avia-caption-title  " itemprop="name">FASTING CANCER Released on February 4, 2025</h2>
+<div class="avia-caption-content  av_inherit_color" itemprop="description" style="font-size:16px; ">
+<p>Available in English, Italian, Portuguese, and Spanish</p>
+</div>
+<a href="https://valterlongo.com/professor-longos-new-book-fasting-cancer/" class="avia-slideshow-button avia-button avia-color-light " data-duration="800" data-easing="easeInOutQuad">Order Now</a>
+</div></div></div></div></div>
+<img src="https://valterlongo.com/wp-content/uploads/2024/10/Progetto-senza-titolo-19.jpg" width="1500" height="630" title="Progetto senza titolo (19)" alt="" itemprop="thumbnailUrl" style="min-height:500px; min-width:1191px; ">
+</div></li>
+<li class=" slide-3 "><div data-rel="slideshow-1" class="avia-slide-wrap ">
+<div class="caption_fullwidth av-slideshow-caption caption_left"><div class="container caption_container"><div class="slideshow_caption"><div class="slideshow_inner_caption"><div class="slideshow_align_caption">
+<h2 style="font-size:40px; " class="avia-caption-title  " itemprop="name">LONGEVITY STARTS IN CHILDHOOD (Forthcoming in English)</h2>
+<div class="avia-caption-content  av_inherit_color" itemprop="description" style="font-size:16px; ">
+<p>By Valter Longo &amp; A Team of Pediatric Nutritionists<br>
+________________________________________________<br>
+A guide to good NUTRITION FOR YOUR FAMILY.<br>
+For a long and healthy life free of disease</p>
+</div>
+<a href="https://valterlongo.com/longevity-starts-in-childhood/" class="avia-slideshow-button avia-button avia-color-light " data-duration="800" data-easing="easeInOutQuad">READ MORE ABOUT THE BOOK</a>
+</div></div></div></div></div>
+<img src="https://valterlongo.com/wp-content/uploads/2019/09/le-logevita-bambini-banner-01.jpg" width="1500" height="630" title="le-logevita-bambini-banner-01" alt="" itemprop="thumbnailUrl" style="min-height:500px; min-width:1191px; ">
+</div></li>
+<li class=" slide-4 "><div data-rel="slideshow-1" class="avia-slide-wrap ">
+<div class="caption_fullwidth av-slideshow-caption caption_left"><div class="container caption_container"><div class="slideshow_caption"><div class="slideshow_inner_caption"><div class="slideshow_align_caption">
+<h2 class="avia-caption-title  " itemprop="name">Promoting creative educational and scientific programs</h2>
+<div class="avia-caption-content  av_inherit_color" itemprop="description" style="font-size:17px; ">
+<p>aimed at ensuring healthy lives, improving well-being at all ages, and reducing mortality due to noncommunicable diseases such as cancer, diabetes, cardiovascular and neurodegenerative diseases, as well as obesity so that everyone &ndash; even patients without financial means &ndash; can benefit from new knowledge and reach a healthy longevity.</p>
+</div>
+<a href="" class="avia-slideshow-button avia-button avia-color-light " data-duration="800" data-easing="easeInOutQuad">Scientific Articles</a>
+</div></div></div></div></div>
+<img src="https://valterlongo.com/wp-content/uploads/2018/08/neuron-banner-1500x630.jpg" width="1500" height="630" title="neuron-banner" alt="" itemprop="thumbnailUrl" style="min-height:500px; min-width:1191px; ">
+</div></li>
+</ul>
+<div class="avia-slideshow-arrows avia-slideshow-controls">
+<a href="#prev" class="prev-slide" aria-hidden="true" data-av_icon="&#59516;" data-av_iconfont="entypo-fontello">Previous</a><a href="#next" class="next-slide" aria-hidden="true" data-av_icon="&#59517;" data-av_iconfont="entypo-fontello">Next</a>
+</div>
+<div class="avia-slideshow-dots avia-slideshow-controls">
+<a href="#1" class="goto-slide active">1</a><a href="#2" class="goto-slide ">2</a><a href="#3" class="goto-slide ">3</a><a href="#4" class="goto-slide ">4</a>
+</div>
+</div></div>
+<div id="after_full_slider_1" class="main_color av_default_container_wrap container_wrap fullsize" style=" "><div class="container">
+<div class="template-page content  av-content-full alpha units"><div class="post-entry post-entry-type-page post-entry-8365"><div class="entry-content-wrapper clearfix">
+<div class="flex_column av_three_fifth  flex_column_div av-zero-column-padding first  avia-builder-el-1  el_after_av_slideshow_full  el_before_av_two_fifth  avia-builder-el-first  " style="border-radius:0px; ">
+<section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="avia_textblock  " itemprop="text">
+<h2>Professor Valter Longo</h2>
+<p>Dr. Valter Longo is the Edna M. Jones Professor of Gerontology and Biological Sciences and Director of the Longevity Institute at the University of Southern California &ndash;Leonard Davis School of Gerontology, Los Angeles, one of the leading centers for research on aging and age-related disease.</p>
+<p><i><span lang="EN-US">Valter Longo donates 100% of his consulting fees from L-Nutra and book royalties to charity. At least 95% of his L-Nutra shares will be donated to charity. The remaining 5% may be donated or invested in socially responsible companies focused on healthy longevity. The shares issued to Longo based on these investments will also be donated to charity</span></i></p>
+</div></section>
+<div class="avia-button-wrap avia-button-left  avia-builder-el-3  el_after_av_textblock  avia-builder-el-last  "><a href="https://valterlongo.com/biography/" class="avia-button   avia-icon_select-no avia-color-theme-color avia-size-large avia-position-left "><span class="avia_iconbox_title">Read Full Biography</span></a></div>
+</div>
+<div class="flex_column av_two_fifth  flex_column_div av-zero-column-padding   avia-builder-el-4  el_after_av_three_fifth  el_before_av_section  avia-builder-el-last  " style="border-radius:0px; "><div class="avia-image-container  av-styling-    avia-builder-el-5  avia-builder-el-no-sibling   avia-align-right " itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject"><div class="avia-image-container-inner"><div class="avia-image-overlay-wrap"><img class="avia_image" src="https://valterlongo.com/wp-content/uploads/2021/06/Valter-longo.jpg" alt="Valter longo" title="Valter longo" height="1024" width="831" itemprop="thumbnailUrl"></div></div></div></div>
+</div></div></div>
+<!-- close content main div -->
+</div></div>
+<div id="av_section_1" class="avia-section main_color avia-section-default avia-no-border-styling avia-full-stretch av-section-color-overlay-active avia-bg-style-scroll  avia-builder-el-6  el_after_av_two_fifth  el_before_av_one_half    container_wrap fullsize" style="background-color: #7ebbc6; background-repeat: no-repeat; background-image: url(https://valterlongo.com/wp-content/uploads/2018/06/banner-02.png);background-attachment: scroll; background-position: top left;  " data-section-bg-repeat="stretch"><div class="av-section-color-overlay-wrap">
+<div class="av-section-color-overlay" style="opacity: 0.5; background-color: #000000; "></div>
+<div class="container">
+<div class="template-page content  av-content-full alpha units"><div class="post-entry post-entry-type-page post-entry-8365"><div class="entry-content-wrapper clearfix">
+<div style="height:5px" class="hr hr-invisible   avia-builder-el-7  el_before_av_heading  avia-builder-el-first  "><span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+<div style="padding-bottom:10px; color:#ffffff;" class="av-special-heading av-special-heading-h1 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-8  el_after_av_hr  el_before_av_hr   ">
+<h1 class="av-special-heading-tag " itemprop="headline">Valter Longo Foundation <span class="special_amp">&amp;</span> Create Cures Foundation</h1>
+<div class="special-heading-border"><div class="special-heading-inner-border" style="border-color:#ffffff"></div></div>
+</div>
+<div style="height:20px" class="hr hr-invisible   avia-builder-el-9  el_after_av_heading  el_before_av_textblock  "><span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+<section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="avia_textblock  " itemprop="text">
+<h3 style="text-align: center;"><span style="color: #ffffff;"><br>
+Professor Longo donates all the author profits from his books to research and non-profit programs, created by his Foundations, Fondazione Valter Longo in Milano and Create Cures Foundation in Los Angeles. These books include the best seller &ldquo;The Longevity Diet&rdquo; and the Italian books &ldquo;Alla tavola della longevit&agrave;&rdquo; (&ldquo;At Longevity&rsquo;s Table&rdquo;), &ldquo;La longevit&agrave; inizia da bambini&rdquo; (&ldquo;Longevity Begins in Childhood&rdquo;), and &ldquo;Il cancro a digiuno&rdquo; (&ldquo;Fasting Cancer&rdquo;) .</span></h3>
+</div></section>
+<div class="flex_column av_one_half  flex_column_div av-zero-column-padding first  avia-builder-el-11  el_after_av_textblock  el_before_av_one_half  column-top-margin" style="border-radius:0px; "><div class="avia-button-wrap avia-button-center  avia-builder-el-12  avia-builder-el-no-sibling  "><a href="http://fondazionevalterlongo.org" class="avia-button   avia-icon_select-no avia-color-light avia-size-x-large avia-position-center " target="_blank"><span class="avia_iconbox_title">VALTER LONGO FOUNDATION</span></a></div></div>
+<div class="flex_column av_one_half  flex_column_div av-zero-column-padding   avia-builder-el-13  el_after_av_one_half  el_before_av_hr  column-top-margin" style="border-radius:0px; "><div class="avia-button-wrap avia-button-center  avia-builder-el-14  avia-builder-el-no-sibling  "><a href="http://createcures.org" class="avia-button   avia-icon_select-no avia-color-light avia-size-x-large avia-position-center "><span class="avia_iconbox_title">CREATE CURES FOUNDATION</span></a></div></div>
+<div style="height:25px" class="hr hr-invisible   avia-builder-el-15  el_after_av_one_half  avia-builder-el-last  "><span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+</div></div></div>
+<!-- close content main div -->
+</div>
+</div></div>
+<div id="after_section_1" class="main_color av_default_container_wrap container_wrap fullsize" style=" "><div class="container">
+<div class="template-page content  av-content-full alpha units"><div class="post-entry post-entry-type-page post-entry-8365"><div class="entry-content-wrapper clearfix">
+<div class="flex_column av_one_half  flex_column_div av-zero-column-padding first  avia-builder-el-16  el_after_av_section  el_before_av_one_half  avia-builder-el-first  " style="border-radius:0px; "><div class="avia-image-container  av-styling-no-styling    avia-builder-el-17  avia-builder-el-no-sibling   avia-align-center " itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject"><div class="avia-image-container-inner"><div class="avia-image-overlay-wrap"><img class="avia_image" src="https://valterlongo.com/wp-content/uploads/2024/10/Senza-titolo-Post-Instagram.png" alt="" title="Fasting Cancer" height="1080" width="1080" itemprop="thumbnailUrl"></div></div></div></div>
+<div class="flex_column av_one_half  flex_column_div av-zero-column-padding   avia-builder-el-18  el_after_av_one_half  el_before_av_hr  " style="border-radius:0px; ">
+<div style="height:10px" class="hr hr-invisible   avia-builder-el-19  el_before_av_heading  avia-builder-el-first  "><span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+<div style="padding-bottom:10px; " class="av-special-heading av-special-heading-h1    avia-builder-el-20  el_after_av_hr  el_before_av_hr   ">
+<h1 class="av-special-heading-tag " itemprop="headline">Fasting Cancer</h1>
+<div class="special-heading-border"><div class="special-heading-inner-border"></div></div>
+</div>
+<div class="hr hr-short hr-left   avia-builder-el-21  el_after_av_heading  el_before_av_textblock  "><span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+<section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="avia_textblock  " itemprop="text">
+<p>Coming February 4, 2025 | Available in English, Italian, Portuguese, and Spanish</p>
+</div></section>
+<section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="avia_textblock  " itemprop="text">
+<h3><strong>How Fasting and Neurotechnology are revolutionizing the prevention and treatment of cancer.</strong></h3>
+</div></section>
+<div class="hr hr-short hr-left   avia-builder-el-24  el_after_av_textblock  el_before_av_textblock  "><span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+<section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="avia_textblock  " itemprop="text">
+<h4><em><span style="color: #ff6600;">Professor Longo donates all the author proceeds from this book to the non-profit Create Cures Foundation whose goal is to educate the public on nutrition and diet for children and adults, as well as to provide services to patients, and promote and conduct research aimed at identifying alternative and supplementary cures for serious diseases.</span></em></h4>
+</div></section>
+<div style="height:35px" class="hr hr-invisible   avia-builder-el-26  el_after_av_textblock  el_before_av_buttonrow  "><span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+<div class="avia-buttonrow-wrap avia-buttonrow-left   avia-builder-el-27  el_after_av_hr  avia-builder-el-last  ">
+<a href="https://valterlongo.com/professor-longos-new-book-fasting-cancer/" class="avia-button  avia-icon_select-no avia-color-theme-color avia-size-large " style="margin-bottom:5px; margin-right:5px; "><span class="avia_iconbox_title">Learn more</span></a>
+</div>
+</div>
+<div class="hr hr-default   avia-builder-el-28  el_after_av_one_half  el_before_av_one_half "><span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+<div class="flex_column av_one_half  flex_column_div av-zero-column-padding first  avia-builder-el-29  el_after_av_hr  el_before_av_one_half  " style="border-radius:0px; ">
+<div style="height:10px" class="hr hr-invisible   avia-builder-el-30  el_before_av_heading  avia-builder-el-first  "><span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+<div style="padding-bottom:10px; " class="av-special-heading av-special-heading-h1    avia-builder-el-31  el_after_av_hr  el_before_av_hr   ">
+<h1 class="av-special-heading-tag " itemprop="headline">Longevity Starts in Childhood</h1>
+<div class="special-heading-border"><div class="special-heading-inner-border"></div></div>
+</div>
+<div class="hr hr-short hr-left   avia-builder-el-32  el_after_av_heading  el_before_av_textblock  "><span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+<section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="avia_textblock  " itemprop="text">
+<p>Forthcoming in English | Available in Italian, Portuguese, and Spanish</p>
+</div></section>
+<section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="avia_textblock  " itemprop="text">
+<h3>A guide to good NUTRITION FOR YOUR FAMILY For a long and healthy life free of disease</h3>
+<h3>VALTER LONGO<br>
+and a team of pediatric nutritionists</h3>
+</div></section>
+<div class="hr hr-short hr-left   avia-builder-el-35  el_after_av_textblock  el_before_av_textblock  "><span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+<section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="avia_textblock  " itemprop="text">
+<h4><em><span style="color: #ff6600;">Professor Longo donates all the author proceeds from this book to the non-profit Create Cures Foundation whose goal is to educate the public on nutrition and diet for children and adults, as well as to provide services to patients, and promote and conduct research aimed at identifying alternative and supplementary cures for serious diseases.</span></em></h4>
+</div></section>
+<div style="height:35px" class="hr hr-invisible   avia-builder-el-37  el_after_av_textblock  el_before_av_buttonrow  "><span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+<div class="avia-buttonrow-wrap avia-buttonrow-left   avia-builder-el-38  el_after_av_hr  avia-builder-el-last  ">
+<a href="https://valterlongo.com/longevity-starts-in-childhood/" class="avia-button  avia-icon_select-no avia-color-theme-color avia-size-large " style="margin-bottom:5px; margin-right:5px; "><span class="avia_iconbox_title">Learn more</span></a>
+</div>
+</div>
+<div class="flex_column av_one_half  flex_column_div av-zero-column-padding   avia-builder-el-39  el_after_av_one_half  el_before_av_hr  " style="border-radius:0px; "><div class="avia-image-container  av-styling-    avia-builder-el-40  avia-builder-el-no-sibling   avia-align-left " itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject"><div class="avia-image-container-inner"><div class="avia-image-overlay-wrap"><img class="avia_image" src="https://valterlongo.com/wp-content/uploads/2019/09/le-logevita-bambini-book-2.jpg" alt="" title="le-logevita-bambini-book-2" height="755" width="600" itemprop="thumbnailUrl"></div></div></div></div>
+<div class="hr hr-default   avia-builder-el-41  el_after_av_one_half  el_before_av_one_half "><span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+<div class="flex_column av_one_half  flex_column_div av-zero-column-padding first  avia-builder-el-42  el_after_av_hr  el_before_av_one_half  " style="border-radius:0px; "><div class="avia-image-container  av-styling-    avia-builder-el-43  avia-builder-el-no-sibling   avia-align-center " itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject"><div class="avia-image-container-inner"><div class="avia-image-overlay-wrap"><img class="avia_image" src="https://valterlongo.com/wp-content/uploads/2018/01/the-longevity-diet-book-2.png" alt="" title="" height="600" width="600" itemprop="thumbnailUrl"></div></div></div></div>
+<div class="flex_column av_one_half  flex_column_div av-zero-column-padding   avia-builder-el-44  el_after_av_one_half  el_before_av_hr  " style="border-radius:0px; ">
+<div style="padding-bottom:10px; " class="av-special-heading av-special-heading-h1    avia-builder-el-45  el_before_av_hr  avia-builder-el-first   ">
+<h1 class="av-special-heading-tag " itemprop="headline">The Longevity Diet</h1>
+<div class="special-heading-border"><div class="special-heading-inner-border"></div></div>
+</div>
+<div class="hr hr-short hr-left   avia-builder-el-46  el_after_av_heading  el_before_av_textblock  "><span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+<section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="avia_textblock  " itemprop="text">
+<h3>From the scientist who revolutionized research on stem cells and aging and pioneered fasting-mimicking diets for healthy living to age 110 and beyond&hellip;</h3>
+<section class="av_textblock_section ">
+<div class="avia_textblock ">
+<h3><span style="color: #ff6600;">Can&nbsp;what&nbsp;you eat change&nbsp;how long&nbsp;and&nbsp;how well you&nbsp;live?</span></h3>
+</div>
+</section>
+<section class="av_textblock_section ">
+<div class="avia_textblock ">
+<p>The clinically proven answer is &ldquo;yes.&rdquo; And&nbsp;<em>The Longevity Diet</em>&nbsp;is easier to follow than you would think.</p>
+<p>The culmination of 25 years of global research on aging, nutrition, and disease, this unique combination of an easy-to-follow &ldquo;everyday&rdquo; diet and short periods of fasting-mimicking diet is the key to living to a healthy old age.</p>
+</div>
+</section>
+</div></section>
+<div class="avia-buttonrow-wrap avia-buttonrow-left   avia-builder-el-48  el_after_av_textblock  avia-builder-el-last  ">
+<a href="https://valterlongo.com/the-longevity-diet/" class="avia-button  avia-icon_select-no avia-color-theme-color avia-size-large " style="margin-bottom:5px; margin-right:5px; "><span class="avia_iconbox_title">Learn more</span></a>
+</div>
+</div>
+<div class="hr hr-default   avia-builder-el-49  el_after_av_one_half  el_before_av_one_half "><span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+<div class="flex_column av_one_half  flex_column_div av-zero-column-padding first  avia-builder-el-50  el_after_av_hr  el_before_av_one_half  " style="border-radius:0px; ">
+<div style="padding-bottom:10px; " class="av-special-heading av-special-heading-h1    avia-builder-el-51  el_before_av_hr  avia-builder-el-first   ">
+<h1 class="av-special-heading-tag " itemprop="headline">At Longevity&rsquo;s Table</h1>
+<div class="special-heading-border"><div class="special-heading-inner-border"></div></div>
+</div>
+<div class="hr hr-short hr-left   avia-builder-el-52  el_after_av_heading  el_before_av_textblock  "><span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+<section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="avia_textblock  " itemprop="text">
+<p>By Valter Longo Foundation</p>
+</div></section>
+<section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="avia_textblock  " itemprop="text">
+<section class="av_textblock_section ">
+<div class="avia_textblock ">
+<p><strong><i>Over 200 Recipes to Follow the Longevity Diet Every Day</i></strong></p>
+<p>A journey through tradition and science to discover the regions and dishes that promote longevity. Food is an essential ally for living a healthy and long life, and it can help reduce the risk of age-related diseases. In this book, readers embark on a journey through both tradition and science, exploring the most long-lived regions in Italy and the dishes that promote longevity.</p>
+<p>The book features over 200 traditional recipes from various regions of Italy, selected for their alignment with the Longevity Diet, and includes cooking methods designed to maximize their nutritional benefits.</p>
+</div>
+</section>
+<section class="av_textblock_section ">
+<div class="avia_textblock "></div>
+</section>
+</div></section>
+<div class="hr hr-short hr-left   avia-builder-el-55  el_after_av_textblock  el_before_av_textblock  "><span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+<section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="avia_textblock  " itemprop="text">
+<h4><em><span style="color: #ff6600;">All proceeds from the author are donated to the non-profit Valter Longo Foundation and Create Cures to support and fund educational programs and research on affordable integrated therapies for serious diseases, including cancer, Alzheimer&rsquo;s, cardiovascular diseases, diabetes, multiple sclerosis, Crohn&rsquo;s disease, and other conditions affecting both adults and children.</span></em></h4>
+</div></section>
+<div class="avia-buttonrow-wrap avia-buttonrow-left   avia-builder-el-57  el_after_av_textblock  avia-builder-el-last  ">
+<a href="https://valterlongo.com/the-longevity-diet/" class="avia-button  avia-icon_select-no avia-color-theme-color avia-size-large " style="margin-bottom:5px; margin-right:5px; "><span class="avia_iconbox_title">Learn more</span></a>
+</div>
+</div>
+<div class="flex_column av_one_half  flex_column_div av-zero-column-padding   avia-builder-el-58  el_after_av_one_half  el_before_av_section  avia-builder-el-last  " style="border-radius:0px; "><div class="avia-image-container  av-styling-    avia-builder-el-59  avia-builder-el-no-sibling   avia-align-left " itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject"><div class="avia-image-container-inner"><div class="avia-image-overlay-wrap"><img class="avia_image" src="https://valterlongo.com/wp-content/uploads/2024/11/At-Longevitys-Table.jpg" alt="" title="At-Longevity's-Table" height="755" width="600" itemprop="thumbnailUrl"></div></div></div></div>
+</div></div></div>
+<!-- close content main div -->
+</div></div>
+<div id="av_section_2" class="avia-section main_color avia-section-default avia-no-border-styling avia-bg-style-scroll  avia-builder-el-60  el_after_av_one_half  el_before_av_hr    av-desktop-hide av-medium-hide av-small-hide av-mini-hide container_wrap fullsize" style="background-repeat: no-repeat; background-image: url(https://valterlongo.com/wp-content/uploads/2018/06/banner-02.png);background-attachment: scroll; background-position: top left;  " data-section-bg-repeat="no-repeat"><div class="container">
+<div class="template-page content  av-content-full alpha units"><div class="post-entry post-entry-type-page post-entry-8365"><div class="entry-content-wrapper clearfix">
+	<div class="av_promobox  avia-button-yes  avia-builder-el-61  avia-builder-el-no-sibling  ">		<div class="avia-promocontent">
+<h3>Make a donation to support the Valter Longo Foundation projects and choose your way to give, your support will be essential to offer everyone the opportunity to live a long and healthy life.</h3>
+</div>
+<div class="avia-button-wrap avia-button-right "><a href="https://valterlongo.com/donate/" class="avia-button   avia-icon_select-no avia-color-orange avia-size-large avia-position-right "><span class="avia_iconbox_title">DONATE NOW</span></a></div>	</div>
+</div></div></div>
+<!-- close content main div -->
+</div></div>
+<div id="after_section_2" class="main_color av_default_container_wrap container_wrap fullsize" style=" "><div class="container">
+<div class="template-page content  av-content-full alpha units"><div class="post-entry post-entry-type-page post-entry-8365"><div class="entry-content-wrapper clearfix">
+<div style="height:50px" class="hr hr-invisible   avia-builder-el-62  el_after_av_section  el_before_av_two_third  avia-builder-el-first  "><span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+<div class="flex_column av_two_third  flex_column_div first  avia-builder-el-63  el_after_av_hr  el_before_av_one_third  " style="padding:0px 0px 10px 0px ; border-radius:0px; ">
+<div class="avia-image-container  av-styling-    avia-builder-el-64  el_before_av_hr  avia-builder-el-first  avia-align-left " itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject"><div class="avia-image-container-inner"><div class="avia-image-overlay-wrap"><img class="avia_image" src="https://valterlongo.com/wp-content/uploads/2018/08/latest-news-title.jpg" alt="" title="latest-news" height="25" width="242" itemprop="thumbnailUrl"></div></div></div>
+<div style="height:15px" class="hr hr-invisible   avia-builder-el-65  el_after_av_image  el_before_av_blog "><span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+<div data-autoplay="" data-interval="5" data-animation="fade" data-show_slide_delay="90" class="avia-content-slider avia-content-grid-active avia-content-slider1 avia-content-slider-odd  avia-builder-el-66  el_after_av_hr  avia-builder-el-last   " itemscope="itemscope" itemtype="https://schema.org/Blog"><div class="avia-content-slider-inner">
+<div class="slide-entry-wrap"><article class="slide-entry flex_column  post-entry post-entry-14222 slide-entry-overview slide-loop-1 slide-parity-odd  av_fullwidth first real-thumbnail" itemscope="itemscope" itemtype="https://schema.org/BlogPosting" itemprop="blogPost"><a href="https://valterlongo.com/the-independent-longevity-expert-says-this-diet-is-more-effective-than-ozempic-at-changing-the-human-body-2/" data-rel="slide-1" class="slide-image" title=""><img loading="lazy" decoding="async" width="688" height="321" src="https://valterlongo.com/wp-content/uploads/2025/11/Screenshot-2025-11-28-134440-688x321.png" class="attachment-entry_with_sidebar size-entry_with_sidebar wp-post-image" alt=""></a><div class="slide-content">
+<header class="entry-content-header"><h3 class="slide-entry-title entry-title " itemprop="headline"><a href="https://valterlongo.com/the-independent-longevity-expert-says-this-diet-is-more-effective-than-ozempic-at-changing-the-human-body-2/" title="The Independent | &ldquo;Longevity expert says this diet is more effective than Ozempic at changing the human body&rdquo;">The Independent | &ldquo;Longevity expert says this diet is more effective than Ozempic at changing the human body&rdquo;</a></h3>
+<span class="blog-categories minor-meta"><a href="https://valterlongo.com/category/news-en/" rel="tag">News-En</a> </span><span class="av-vertical-delimiter"></span></header><div class="slide-entry-excerpt entry-content" itemprop="text"><div class="read-more-link"><a href="https://valterlongo.com/the-independent-longevity-expert-says-this-diet-is-more-effective-than-ozempic-at-changing-the-human-body-2/" class="more-link">Read more<span class="more-link-arrow"></span></a></div></div>
+</div>
+<footer class="entry-footer"><div class="slide-meta"><time class="slide-meta-time updated" itemprop="datePublished" datetime="2025-12-01T17:28:34+01:00">December 1, 2025</time></div></footer><span class="hidden">
+			<span class="av-structured-data" itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+					   <span itemprop="url">https://valterlongo.com/wp-content/uploads/2025/11/Screenshot-2025-11-28-134440.png</span>
+					   <span itemprop="height">862</span>
+					   <span itemprop="width">688</span>
+				  </span><span class="av-structured-data" itemprop="publisher" itemtype="https://schema.org/Organization" itemscope="itemscope">
+				<span itemprop="name">Matteo Monteneri</span>
+				<span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+				   <span itemprop="url">https://valterlongo.com/wp-content/uploads/2019/09/prof-valter-longo.png</span>
+				 </span>
+			  </span><span class="av-structured-data" itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person"><span itemprop="name">Matteo Monteneri</span></span><span class="av-structured-data" itemprop="datePublished" datetime="2025-12-01T17:26:04+01:00">2025-12-01 17:28:34</span><span class="av-structured-data" itemprop="dateModified" itemtype="https://schema.org/dateModified">2025-12-01 17:28:34</span><span class="av-structured-data" itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage"><span itemprop="name">The Independent | &ldquo;Longevity expert says this diet is more effective than Ozempic at changing the human body&rdquo;</span></span></span></article></div>
+<div class="slide-entry-wrap"><article class="slide-entry flex_column  post-entry post-entry-14219 slide-entry-overview slide-loop-2 slide-parity-odd  av_fullwidth first real-thumbnail" itemscope="itemscope" itemtype="https://schema.org/BlogPosting" itemprop="blogPost"><a href="https://valterlongo.com/the-independent-longevity-expert-says-this-diet-is-more-effective-than-ozempic-at-changing-the-human-body/" data-rel="slide-1" class="slide-image" title=""><img loading="lazy" decoding="async" width="692" height="321" src="https://valterlongo.com/wp-content/uploads/2025/11/Screenshot-2025-11-28-123303-692x321.png" class="attachment-entry_with_sidebar size-entry_with_sidebar wp-post-image" alt=""></a><div class="slide-content">
+<header class="entry-content-header"><h3 class="slide-entry-title entry-title " itemprop="headline"><a href="https://valterlongo.com/the-independent-longevity-expert-says-this-diet-is-more-effective-than-ozempic-at-changing-the-human-body/" title="The Independent | &ldquo;Longevity expert says this diet is more effective than Ozempic at changing the human body&rdquo;">The Independent | &ldquo;Longevity expert says this diet is more effective than Ozempic at changing the human body&rdquo;</a></h3>
+<span class="blog-categories minor-meta"><a href="https://valterlongo.com/category/news-en/" rel="tag">News-En</a> </span><span class="av-vertical-delimiter"></span></header><div class="slide-entry-excerpt entry-content" itemprop="text"><div class="read-more-link"><a href="https://valterlongo.com/the-independent-longevity-expert-says-this-diet-is-more-effective-than-ozempic-at-changing-the-human-body/" class="more-link">Read more<span class="more-link-arrow"></span></a></div></div>
+</div>
+<footer class="entry-footer"><div class="slide-meta"><time class="slide-meta-time updated" itemprop="datePublished" datetime="2025-12-01T17:27:51+01:00">December 1, 2025</time></div></footer><span class="hidden">
+			<span class="av-structured-data" itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+					   <span itemprop="url">https://valterlongo.com/wp-content/uploads/2025/11/Screenshot-2025-11-28-123303.png</span>
+					   <span itemprop="height">864</span>
+					   <span itemprop="width">692</span>
+				  </span><span class="av-structured-data" itemprop="publisher" itemtype="https://schema.org/Organization" itemscope="itemscope">
+				<span itemprop="name">Matteo Monteneri</span>
+				<span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+				   <span itemprop="url">https://valterlongo.com/wp-content/uploads/2019/09/prof-valter-longo.png</span>
+				 </span>
+			  </span><span class="av-structured-data" itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person"><span itemprop="name">Matteo Monteneri</span></span><span class="av-structured-data" itemprop="datePublished" datetime="2025-12-01T17:26:04+01:00">2025-12-01 17:27:51</span><span class="av-structured-data" itemprop="dateModified" itemtype="https://schema.org/dateModified">2025-12-01 17:27:51</span><span class="av-structured-data" itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage"><span itemprop="name">The Independent | &ldquo;Longevity expert says this diet is more effective than Ozempic at changing the human body&rdquo;</span></span></span></article></div>
+<div class="slide-entry-wrap"><article class="slide-entry flex_column  post-entry post-entry-14214 slide-entry-overview slide-loop-3 slide-parity-odd  post-entry-last  av_fullwidth first real-thumbnail" itemscope="itemscope" itemtype="https://schema.org/BlogPosting" itemprop="blogPost"><a href="https://valterlongo.com/country-town-house-what-is-the-longevity-diet/" data-rel="slide-1" class="slide-image" title=""><img loading="lazy" decoding="async" width="692" height="321" src="https://valterlongo.com/wp-content/uploads/2025/11/Screenshot-2025-11-28-134257-692x321.png" class="attachment-entry_with_sidebar size-entry_with_sidebar wp-post-image" alt=""></a><div class="slide-content">
+<header class="entry-content-header"><h3 class="slide-entry-title entry-title " itemprop="headline"><a href="https://valterlongo.com/country-town-house-what-is-the-longevity-diet/" title="Country &amp; Town House | What Is The Longevity Diet?">Country &amp; Town House | What Is The Longevity Diet?</a></h3>
+<span class="blog-categories minor-meta"><a href="https://valterlongo.com/category/news-en/" rel="tag">News-En</a> </span><span class="av-vertical-delimiter"></span></header><div class="slide-entry-excerpt entry-content" itemprop="text"><div class="read-more-link"><a href="https://valterlongo.com/country-town-house-what-is-the-longevity-diet/" class="more-link">Read more<span class="more-link-arrow"></span></a></div></div>
+</div>
+<footer class="entry-footer"><div class="slide-meta"><time class="slide-meta-time updated" itemprop="datePublished" datetime="2025-12-01T17:26:04+01:00">December 1, 2025</time></div></footer><span class="hidden">
+			<span class="av-structured-data" itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+					   <span itemprop="url">https://valterlongo.com/wp-content/uploads/2025/11/Screenshot-2025-11-28-134257.png</span>
+					   <span itemprop="height">864</span>
+					   <span itemprop="width">692</span>
+				  </span><span class="av-structured-data" itemprop="publisher" itemtype="https://schema.org/Organization" itemscope="itemscope">
+				<span itemprop="name">Matteo Monteneri</span>
+				<span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+				   <span itemprop="url">https://valterlongo.com/wp-content/uploads/2019/09/prof-valter-longo.png</span>
+				 </span>
+			  </span><span class="av-structured-data" itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person"><span itemprop="name">Matteo Monteneri</span></span><span class="av-structured-data" itemprop="datePublished" datetime="2025-12-01T17:26:04+01:00">2025-12-01 17:26:04</span><span class="av-structured-data" itemprop="dateModified" itemtype="https://schema.org/dateModified">2025-12-01 17:26:04</span><span class="av-structured-data" itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage"><span itemprop="name">Country &amp; Town House | What Is The Longevity Diet?</span></span></span></article></div>
+</div></div>
+</div>
+<div class="flex_column av_one_third  flex_column_div av-zero-column-padding   avia-builder-el-67  el_after_av_two_third  el_before_av_section  avia-builder-el-last  " style="border-radius:0px; ">
+<div class="avia-image-container  av-styling-    avia-builder-el-68  el_before_av_hr  avia-builder-el-first  avia-align-left " itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject"><div class="avia-image-container-inner"><div class="avia-image-overlay-wrap"><img class="avia_image" src="https://valterlongo.com/wp-content/uploads/2018/08/videos-2.jpg" alt="" title="videos-2" height="25" width="132" itemprop="thumbnailUrl"></div></div></div>
+<div style="height:15px" class="hr hr-invisible   avia-builder-el-69  el_after_av_image  el_before_av_blog "><span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+<div data-autoplay="" data-interval="5" data-animation="fade" data-show_slide_delay="90" class="avia-content-slider avia-content-grid-active avia-content-slider2 avia-content-slider-odd  avia-builder-el-70  el_after_av_hr  avia-builder-el-last   " itemscope="itemscope" itemtype="https://schema.org/Blog"><div class="avia-content-slider-inner">
+<div class="slide-entry-wrap"><article class="slide-entry flex_column  post-entry post-entry-13472 slide-entry-overview slide-loop-1 slide-parity-odd  av_fullwidth first real-thumbnail" itemscope="itemscope" itemtype="https://schema.org/BlogPosting" itemprop="blogPost"><a href="https://valterlongo.com/how-to-eat-healthy/" data-rel="slide-2" class="slide-image" title=""><img loading="lazy" decoding="async" width="845" height="321" src="https://valterlongo.com/wp-content/uploads/2024/10/Screenshot-2024-10-15-alle-16.20.03-845x321.png" class="attachment-entry_with_sidebar size-entry_with_sidebar wp-post-image" alt=""></a><div class="slide-content">
+<header class="entry-content-header"><h3 class="slide-entry-title entry-title " itemprop="headline"><a href="https://valterlongo.com/how-to-eat-healthy/" title="How to eat healthy? Go back to your grandparents and great-grandparents' table and eat the healthy foods they used to eat.">How to eat healthy? Go back to your grandparents and great-grandparents' table and eat the healthy foods they used to eat.</a></h3>
+<span class="blog-categories minor-meta"><a href="https://valterlongo.com/category/media-coverage-2/" rel="tag">Media Coverage</a>, <a href="https://valterlongo.com/category/uncategorized/" rel="tag">Uncategorized</a> </span><span class="av-vertical-delimiter"></span></header><div class="slide-entry-excerpt entry-content" itemprop="text"><div class="read-more-link"><a href="https://valterlongo.com/how-to-eat-healthy/" class="more-link">Read more<span class="more-link-arrow"></span></a></div></div>
+</div>
+<footer class="entry-footer"><div class="slide-meta"><time class="slide-meta-time updated" itemprop="datePublished" datetime="2024-10-15T15:20:45+01:00">October 15, 2024</time></div></footer><span class="hidden">
+			<span class="av-structured-data" itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+					   <span itemprop="url">https://valterlongo.com/wp-content/uploads/2024/10/Screenshot-2024-10-15-alle-16.20.03.png</span>
+					   <span itemprop="height">484</span>
+					   <span itemprop="width">852</span>
+				  </span><span class="av-structured-data" itemprop="publisher" itemtype="https://schema.org/Organization" itemscope="itemscope">
+				<span itemprop="name">Marco Capace</span>
+				<span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+				   <span itemprop="url">https://valterlongo.com/wp-content/uploads/2019/09/prof-valter-longo.png</span>
+				 </span>
+			  </span><span class="av-structured-data" itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person"><span itemprop="name">Marco Capace</span></span><span class="av-structured-data" itemprop="datePublished" datetime="2024-10-15T15:08:29+01:00">2024-10-15 15:20:45</span><span class="av-structured-data" itemprop="dateModified" itemtype="https://schema.org/dateModified">2024-10-15 15:20:45</span><span class="av-structured-data" itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage"><span itemprop="name">How to eat healthy? Go back to your grandparents and great-grandparents' table and eat the healthy foods they used to eat.</span></span></span></article></div>
+<div class="slide-entry-wrap"><article class="slide-entry flex_column  post-entry post-entry-13465 slide-entry-overview slide-loop-2 slide-parity-odd  av_fullwidth first real-thumbnail" itemscope="itemscope" itemtype="https://schema.org/BlogPosting" itemprop="blogPost"><a href="https://valterlongo.com/can-fasting-really-make-you-live-longer-listen-to-this-abc-tv-interview-with-professor-longo/" data-rel="slide-2" class="slide-image" title=""><img loading="lazy" decoding="async" width="845" height="321" src="https://valterlongo.com/wp-content/uploads/2024/10/Screenshot-2024-10-15-alle-16.14.25-845x321.png" class="attachment-entry_with_sidebar size-entry_with_sidebar wp-post-image" alt=""></a><div class="slide-content">
+<header class="entry-content-header"><h3 class="slide-entry-title entry-title " itemprop="headline"><a href="https://valterlongo.com/can-fasting-really-make-you-live-longer-listen-to-this-abc-tv-interview-with-professor-longo/" title="Can fasting really make you live longer? Listen to this ABC TV Interview with Professor Longo.">Can fasting really make you live longer? Listen to this ABC TV Interview with Professor Longo.</a></h3>
+<span class="blog-categories minor-meta"><a href="https://valterlongo.com/category/media-coverage-2/" rel="tag">Media Coverage</a>, <a href="https://valterlongo.com/category/uncategorized/" rel="tag">Uncategorized</a> </span><span class="av-vertical-delimiter"></span></header><div class="slide-entry-excerpt entry-content" itemprop="text"><div class="read-more-link"><a href="https://valterlongo.com/can-fasting-really-make-you-live-longer-listen-to-this-abc-tv-interview-with-professor-longo/" class="more-link">Read more<span class="more-link-arrow"></span></a></div></div>
+</div>
+<footer class="entry-footer"><div class="slide-meta"><time class="slide-meta-time updated" itemprop="datePublished" datetime="2024-10-15T15:15:56+01:00">October 15, 2024</time></div></footer><span class="hidden">
+			<span class="av-structured-data" itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+					   <span itemprop="url">https://valterlongo.com/wp-content/uploads/2024/10/Screenshot-2024-10-15-alle-16.14.25.png</span>
+					   <span itemprop="height">788</span>
+					   <span itemprop="width">1352</span>
+				  </span><span class="av-structured-data" itemprop="publisher" itemtype="https://schema.org/Organization" itemscope="itemscope">
+				<span itemprop="name">Marco Capace</span>
+				<span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+				   <span itemprop="url">https://valterlongo.com/wp-content/uploads/2019/09/prof-valter-longo.png</span>
+				 </span>
+			  </span><span class="av-structured-data" itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person"><span itemprop="name">Marco Capace</span></span><span class="av-structured-data" itemprop="datePublished" datetime="2024-10-15T15:08:29+01:00">2024-10-15 15:15:56</span><span class="av-structured-data" itemprop="dateModified" itemtype="https://schema.org/dateModified">2024-10-15 15:16:26</span><span class="av-structured-data" itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage"><span itemprop="name">Can fasting really make you live longer? Listen to this ABC TV Interview with Professor Longo.</span></span></span></article></div>
+<div class="slide-entry-wrap"><article class="slide-entry flex_column  post-entry post-entry-13450 slide-entry-overview slide-loop-3 slide-parity-odd  post-entry-last  av_fullwidth first real-thumbnail" itemscope="itemscope" itemtype="https://schema.org/BlogPosting" itemprop="blogPost"><a href="https://valterlongo.com/penguin-books-uk-professor-valter-longo-explains-the-beneficial-effects-of-a-periodic-fasting-mimicking-diet/" data-rel="slide-2" class="slide-image" title=""><img loading="lazy" decoding="async" width="845" height="321" src="https://valterlongo.com/wp-content/uploads/2024/10/Screenshot-2024-10-15-alle-16.09.36-845x321.png" class="attachment-entry_with_sidebar size-entry_with_sidebar wp-post-image" alt=""></a><div class="slide-content">
+<header class="entry-content-header"><h3 class="slide-entry-title entry-title " itemprop="headline"><a href="https://valterlongo.com/penguin-books-uk-professor-valter-longo-explains-the-beneficial-effects-of-a-periodic-fasting-mimicking-diet/" title="Penguin Books UK. Professor Valter Longo explains the beneficial effects of a periodic fasting-mimicking diet">Penguin Books UK. Professor Valter Longo explains the beneficial effects of a periodic fasting-mimicking diet</a></h3>
+<span class="blog-categories minor-meta"><a href="https://valterlongo.com/category/media-coverage-2/" rel="tag">Media Coverage</a>, <a href="https://valterlongo.com/category/uncategorized/" rel="tag">Uncategorized</a> </span><span class="av-vertical-delimiter"></span></header><div class="slide-entry-excerpt entry-content" itemprop="text"><div class="read-more-link"><a href="https://valterlongo.com/penguin-books-uk-professor-valter-longo-explains-the-beneficial-effects-of-a-periodic-fasting-mimicking-diet/" class="more-link">Read more<span class="more-link-arrow"></span></a></div></div>
+</div>
+<footer class="entry-footer"><div class="slide-meta"><time class="slide-meta-time updated" itemprop="datePublished" datetime="2024-10-15T15:08:29+01:00">October 15, 2024</time></div></footer><span class="hidden">
+			<span class="av-structured-data" itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+					   <span itemprop="url">https://valterlongo.com/wp-content/uploads/2024/10/Screenshot-2024-10-15-alle-16.09.36.png</span>
+					   <span itemprop="height">788</span>
+					   <span itemprop="width">1352</span>
+				  </span><span class="av-structured-data" itemprop="publisher" itemtype="https://schema.org/Organization" itemscope="itemscope">
+				<span itemprop="name">Marco Capace</span>
+				<span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+				   <span itemprop="url">https://valterlongo.com/wp-content/uploads/2019/09/prof-valter-longo.png</span>
+				 </span>
+			  </span><span class="av-structured-data" itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person"><span itemprop="name">Marco Capace</span></span><span class="av-structured-data" itemprop="datePublished" datetime="2024-10-15T15:08:29+01:00">2024-10-15 15:08:29</span><span class="av-structured-data" itemprop="dateModified" itemtype="https://schema.org/dateModified">2024-10-15 15:12:06</span><span class="av-structured-data" itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage"><span itemprop="name">Penguin Books UK. Professor Valter Longo explains the beneficial effects of a periodic fasting-mimicking diet</span></span></span></article></div>
+</div></div>
+</div>
+</div></div></div>
+<!-- close content main div -->
+</div></div>
+<div id="av_section_3" class="avia-section main_color avia-section-default avia-no-shadow av-parallax-section av-section-color-overlay-active avia-bg-style-parallax  avia-builder-el-71  el_after_av_one_third  el_before_av_hr    av-desktop-hide av-medium-hide av-small-hide av-mini-hide container_wrap fullsize" style=" " data-section-bg-repeat="no-repeat">
+<div class="av-parallax" data-avia-parallax-ratio="0.3"><div class="av-parallax-inner main_color  avia-full-stretch" style="background-repeat: no-repeat; background-image: url(https://valterlongo.com/wp-content/uploads/2018/09/375561.jpg);background-attachment: scroll; background-position: top left; "></div></div>
+<div class="av-section-color-overlay-wrap">
+<div class="av-section-color-overlay" style="opacity: 0.7; background-color: #000000; "></div>
+<div class="container">
+<div class="template-page content  av-content-full alpha units"><div class="post-entry post-entry-type-page post-entry-8365"><div class="entry-content-wrapper clearfix">
+<div class="flex_column av_two_third  flex_column_div av-zero-column-padding first  avia-builder-el-72  el_before_av_one_third  avia-builder-el-first  " style="border-radius:0px; "><section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="avia_textblock  " itemprop="text"><h2 style="padding-left: 30px;">
+<span style="color: #ffffff;">Join our email list to keep&nbsp;up to date&nbsp;with the Foundation projects and new advances in disease prevention and treatment.</span>
+</h2></div></section></div>
+<div class="flex_column av_one_third  flex_column_div av-zero-column-padding   avia-builder-el-74  el_after_av_two_third  avia-builder-el-last  " style="border-radius:0px; ">
+<div style="height:27px" class="hr hr-invisible   avia-builder-el-75  el_before_av_button  avia-builder-el-first "><span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+<div class="avia-button-wrap avia-button-center  avia-builder-el-76  el_after_av_hr  avia-builder-el-last "><a href="https://valterlongo.com/#join" class="avia-button   avia-icon_select-no avia-color-theme-color-highlight avia-size-x-large avia-position-center "><span class="avia_iconbox_title">Join</span></a></div>
+</div>
+</div></div></div>
+<!-- close content main div -->
+</div>
+</div>
+</div>
+<div id="after_section_3" class="main_color av_default_container_wrap container_wrap fullsize" style=" "><div class="container">
+<div class="template-page content  av-content-full alpha units"><div class="post-entry post-entry-type-page post-entry-8365"><div class="entry-content-wrapper clearfix">
+<div style="height:30px" class="hr hr-invisible   avia-builder-el-77  el_after_av_section  el_before_av_image  avia-builder-el-first "><span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+<div class="avia-image-container  av-styling-    avia-builder-el-78  el_after_av_hr  el_before_av_one_full  avia-align-center " itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject"><div class="avia-image-container-inner"><div class="avia-image-overlay-wrap"><img class="avia_image" src="https://valterlongo.com/wp-content/uploads/2018/08/dosctorandpatients.jpg" alt="" title="dosctorandpatients" height="26" width="664" itemprop="thumbnailUrl"></div></div></div>
+<div class="flex_column av_one_full  flex_column_div av-zero-column-padding first  avia-builder-el-79  el_after_av_image  el_before_av_two_fifth  " style="border-radius:0px; ">
+<div style="height:30px" class="hr hr-invisible   avia-builder-el-80  el_before_av_masonry_gallery  avia-builder-el-no-sibling "><span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+<div id="av-masonry-1" class="av-masonry  noHover av-fixed-size av-large-gap av-hover-overlay-active av-masonry-animation-active av-masonry-col-5 av-caption-always av-caption-style-overlay av-masonry-gallery   av-orientation-portrait-large  "><div class="av-masonry-container isotope av-js-disabled ">
+<div class="av-masonry-entry isotope-item av-masonry-item-no-image "></div>
+<a href="https://valterlongo.com/cancer/" id="av-masonry-1-item-6561" data-av-masonry-item="6561" class="av-masonry-entry isotope-item post-6561 attachment type-attachment status-inherit hentry  av-masonry-item-with-image" title="Cancer" itemprop="thumbnailUrl"><div class="av-inner-masonry-sizer"></div>
+<figure class="av-inner-masonry main_color"><div class="av-masonry-outerimage-container"><div class="av-masonry-image-container" style="background-image: url(https://valterlongo.com/wp-content/uploads/2018/01/cancer-cover-en.jpg);" title="Cancer"></div></div>
+<figcaption class="av-inner-masonry-content site-background"><div class="av-inner-masonry-content-pos"><div class="av-inner-masonry-content-pos-content">
+<div class="avia-arrow"></div>
+<h3 class="av-masonry-entry-title entry-title " itemprop="headline">Cancer</h3>
+</div></div></figcaption></figure></a><!--end av-masonry entry--><a href="https://valterlongo.com/neurodegenerative-diseases/" id="av-masonry-1-item-6559" data-av-masonry-item="6559" class="av-masonry-entry isotope-item post-6559 attachment type-attachment status-inherit hentry  av-masonry-item-with-image" title="Neurodegenerative Diseases" itemprop="thumbnailUrl"><div class="av-inner-masonry-sizer"></div>
+<figure class="av-inner-masonry main_color"><div class="av-masonry-outerimage-container"><div class="av-masonry-image-container" style="background-image: url(https://valterlongo.com/wp-content/uploads/2018/01/neurodegenerative-diseases-cover-en.jpg);" title="Neurodegenerative Diseases"></div></div>
+<figcaption class="av-inner-masonry-content site-background"><div class="av-inner-masonry-content-pos"><div class="av-inner-masonry-content-pos-content">
+<div class="avia-arrow"></div>
+<h3 class="av-masonry-entry-title entry-title " itemprop="headline">Neurodegenerative Diseases</h3>
+</div></div></figcaption></figure></a><!--end av-masonry entry--><a href="https://valterlongo.com/autoimmune-diseases/" id="av-masonry-1-item-6557" data-av-masonry-item="6557" class="av-masonry-entry isotope-item post-6557 attachment type-attachment status-inherit hentry  av-masonry-item-with-image" title="Autoimmune Diseases" itemprop="thumbnailUrl"><div class="av-inner-masonry-sizer"></div>
+<figure class="av-inner-masonry main_color"><div class="av-masonry-outerimage-container"><div class="av-masonry-image-container" style="background-image: url(https://valterlongo.com/wp-content/uploads/2018/01/autoimmune-diseases-cover-en.jpg);" title="Autoimmune Diseases"></div></div>
+<figcaption class="av-inner-masonry-content site-background"><div class="av-inner-masonry-content-pos"><div class="av-inner-masonry-content-pos-content">
+<div class="avia-arrow"></div>
+<h3 class="av-masonry-entry-title entry-title " itemprop="headline">Autoimmune Diseases</h3>
+</div></div></figcaption></figure></a><!--end av-masonry entry--><a href="https://valterlongo.com/cardiovascular-diseases/" id="av-masonry-1-item-6558" data-av-masonry-item="6558" class="av-masonry-entry isotope-item post-6558 attachment type-attachment status-inherit hentry  av-masonry-item-with-image" title="Cardiovascular Diseases" itemprop="thumbnailUrl"><div class="av-inner-masonry-sizer"></div>
+<figure class="av-inner-masonry main_color"><div class="av-masonry-outerimage-container"><div class="av-masonry-image-container" style="background-image: url(https://valterlongo.com/wp-content/uploads/2018/01/cardiovascular-diseases-cover-en.jpg);" title="Cardiovascular Diseases"></div></div>
+<figcaption class="av-inner-masonry-content site-background"><div class="av-inner-masonry-content-pos"><div class="av-inner-masonry-content-pos-content">
+<div class="avia-arrow"></div>
+<h3 class="av-masonry-entry-title entry-title " itemprop="headline">Cardiovascular Diseases</h3>
+</div></div></figcaption></figure></a><!--end av-masonry entry--><a href="https://valterlongo.com/diabetes-obesity/" id="av-masonry-1-item-6562" data-av-masonry-item="6562" class="av-masonry-entry isotope-item post-6562 attachment type-attachment status-inherit hentry  av-masonry-item-with-image" title="Diabetes &amp; Obesity" itemprop="thumbnailUrl"><div class="av-inner-masonry-sizer"></div>
+<figure class="av-inner-masonry main_color"><div class="av-masonry-outerimage-container"><div class="av-masonry-image-container" style="background-image: url(https://valterlongo.com/wp-content/uploads/2018/01/diabetes-obesity-cover-en.jpg);" title="Diabetes &amp; Obesity"></div></div>
+<figcaption class="av-inner-masonry-content site-background"><div class="av-inner-masonry-content-pos"><div class="av-inner-masonry-content-pos-content">
+<div class="avia-arrow"></div>
+<h3 class="av-masonry-entry-title entry-title " itemprop="headline">Diabetes &amp; Obesity</h3>
+</div></div></figcaption></figure></a><!--end av-masonry entry-->
+</div></div>
+<div style="height:25px" class="hr hr-invisible   avia-builder-el-82  el_after_av_masonry_gallery  avia-builder-el-no-sibling "><span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+</div>
+<div class="flex_column av_two_fifth  flex_column_div av-zero-column-padding first  avia-builder-el-83  el_after_av_one_full  el_before_av_three_fifth  column-top-margin" style="border-radius:0px; "><div class="avia-image-container  av-styling-    avia-builder-el-84  avia-builder-el-no-sibling   avia-align-center " itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject"><div class="avia-image-container-inner"><div class="avia-image-overlay-wrap"><a href="https://valterlongo.com/bmi-calculator/" class="avia_image"><img class="avia_image " src="https://valterlongo.com/wp-content/uploads/2019/09/bmi-eng.jpg" alt="" title="bmi-eng" itemprop="thumbnailUrl"></a></div></div></div></div>
+<div class="flex_column av_three_fifth  flex_column_div av-zero-column-padding   avia-builder-el-85  el_after_av_two_fifth  el_before_av_section  avia-builder-el-last  column-top-margin" style="border-radius:0px; ">
+<div class="avia-image-container  av-styling-    avia-builder-el-86  el_before_av_hr  avia-builder-el-first  avia-align-left " itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject"><div class="avia-image-container-inner"><div class="avia-image-overlay-wrap"><img class="avia_image" src="https://valterlongo.com/wp-content/uploads/2018/08/articles2.jpg" alt="" title="articles2" height="25" width="368" itemprop="thumbnailUrl"></div></div></div>
+<div style="height:20px" class="hr hr-invisible   avia-builder-el-87  el_after_av_image  el_before_av_textblock "><span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+<section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="avia_textblock  " itemprop="text">
+<span class="av_font_icon avia_animate_when_visible avia-icon-animate  av-icon-style-  av-no-color avia-icon-pos-left " style=""><span class="av-icon-char" style="font-size:40px;line-height:40px;" aria-hidden="true" data-av_icon="&#59468;" data-av_iconfont="entypo-fontello"></span></span>
+<p class="font_7">Choi, I.Y., C. Lee, and V.D. Longo, Nutrition and fasting mimicking diets in the prevention and treatment of autoimmune diseases and immunosenescence. Mol Cell Endocrinol, 2017.&nbsp; <a href="https://www.dropbox.com/s/qleuvel52csi951/Choi-2017-Nutrition%20and%20fasting%20mimicking%20die1.pdf?dl=0" rel="noopener undefined" data-content="https://www.dropbox.com/s/qleuvel52csi951/Choi-2017-Nutrition%20and%20fasting%20mimicking%20die1.pdf?dl=0" data-type="external">PDF</a></p>
+<div style=" margin-top:0px; margin-bottom:10px;" class="hr hr-custom hr-center hr-icon-no   avia-builder-el-90  el_after_av_font_icon  avia-builder-el-last "><span class="hr-inner   inner-border-av-border-thin" style=" width:%100;"><span class="hr-inner-style"></span></span></div>
+</div></section>
+<section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="avia_textblock  " itemprop="text">
+<span class="av_font_icon avia_animate_when_visible avia-icon-animate  av-icon-style-  av-no-color avia-icon-pos-left " style=""><span class="av-icon-char" style="font-size:40px;line-height:40px;" aria-hidden="true" data-av_icon="&#59468;" data-av_iconfont="entypo-fontello"></span></span>
+<p class="font_7">Wei, M., et al., Fasting-mimicking diet and markers/risk factors for aging, diabetes, cancer, and cardiovascular disease. Sci Transl Med, 2017. 9(377).&nbsp;<a href="https://www.dropbox.com/sh/kmdr7c0k7wjpp4n/AACvUUrJIH5Wq_9cTtwRLd1Ka/2017-02-15_Wei_Fasting-mimicking%20diet%20and%20markers.pdf?dl=0" rel="noopener undefined" data-content="https://www.dropbox.com/sh/kmdr7c0k7wjpp4n/AACvUUrJIH5Wq_9cTtwRLd1Ka/2017-02-15_Wei_Fasting-mimicking%20diet%20and%20markers.pdf?dl=0" data-type="external">PDF</a></p>
+</div></section>
+<div class="avia-button-wrap avia-button-left  avia-builder-el-93  el_after_av_textblock  avia-builder-el-last  "><a href="https://valterlongo.com/scientific-articles/" class="avia-button av-icon-on-hover  avia-icon_select-yes-left-icon avia-color-dark avia-size-small avia-position-left "><span class="avia_button_icon avia_button_icon_left " aria-hidden="true" data-av_icon="&#59525;" data-av_iconfont="entypo-fontello"></span><span class="avia_iconbox_title">View All Articles</span></a></div>
+</div>
+</div></div></div>
+<!-- close content main div -->
+</div></div>
+<div id="join" class="avia-section main_color avia-section-default avia-shadow avia-bg-style-scroll  avia-builder-el-94  el_after_av_three_fifth  el_before_av_one_half   av-arrow-down-section container_wrap fullsize" style="background-color: #f7f7f7;  ">
+<div class="container">
+<div class="template-page content  av-content-full alpha units"><div class="post-entry post-entry-type-page post-entry-8365"><div class="entry-content-wrapper clearfix">
+<div style="padding-bottom:10px; " class="av-special-heading av-special-heading-h2  blockquote classic-quote  avia-builder-el-95  el_before_av_textblock  avia-builder-el-first   ">
+<h2 class="av-special-heading-tag " itemprop="headline">Contact the Create Cures Foundation</h2>
+<div class="special-heading-border"><div class="special-heading-inner-border"></div></div>
+</div>
+<section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="avia_textblock  " itemprop="text">
+<h2 style="text-align: center;"><a href="mailto:info@createcures.org">info@createcures.org</a></h2>
+</div></section>
+<div class="flex_column av_one_fifth  flex_column_div av-zero-column-padding first  avia-builder-el-97  el_after_av_textblock  el_before_av_one_fifth  column-top-margin" style="border-radius:0px; "></div>
+<div class="flex_column av_one_fifth  flex_column_div av-zero-column-padding   avia-builder-el-98  el_after_av_one_fifth  avia-builder-el-last  column-top-margin" style="border-radius:0px; "></div>
+</div></div></div>
+<!-- close content main div -->
+</div>
+<div class="av-extra-border-element border-extra-arrow-down"><div class="av-extra-border-outer"><div class="av-extra-border-inner" style="background-color:#f7f7f7;"></div></div></div>
+</div>
+<div id="after_section_4" class="main_color av_default_container_wrap container_wrap fullsize" style=" ">
+<div class="container">
+<div class="template-page content  av-content-full alpha units"><div class="post-entry post-entry-type-page post-entry-8365"><div class="entry-content-wrapper clearfix">
+<div class="flex_column av_one_half  flex_column_div av-zero-column-padding first  avia-builder-el-99  el_after_av_section  el_before_av_one_third  avia-builder-el-first  " style="border-radius:0px; "></div>
+<div class="flex_column av_one_third  flex_column_div av-zero-column-padding   avia-builder-el-100  el_after_av_one_half  el_before_av_one_third  " style="border-radius:0px; "></div>
+<div class="flex_column av_one_third  flex_column_div av-zero-column-padding first  avia-builder-el-101  el_after_av_one_third  el_before_av_one_full  column-top-margin" style="border-radius:0px; "></div>
+<div class="flex_column av_one_full  flex_column_div av-zero-column-padding first  avia-builder-el-102  el_after_av_one_third  avia-builder-el-last  column-top-margin" style="border-radius:0px; "></div>
+</div></div></div>
+<!-- close content main div --> <!-- section close by builder template -->		</div>
+<!--end builder template-->
+</div>
+<!-- close default .container_wrap element -->						<div class="container_wrap footer_color" id="footer">
+
+					<div class="container">
+
+						<div class="flex_column av_one_fourth  first el_before_av_one_fourth"><section id="nav_menu-21" class="widget clearfix widget_nav_menu"><h3 class="widgettitle">HOW TO STAY YOUNG</h3>
+<div class="menu-how-to-stay-young-eng-container"><ul id="menu-how-to-stay-young-eng" class="menu">
+<li id="menu-item-7480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7480"><a href="https://valterlongo.com/daily-longevity-diet-for-adults/">Longevity Diet for Adults</a></li>
+<li id="menu-item-11795" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11795"><a href="https://valterlongo.com/longevity-diet-in-pregnancy/">Longevity Diet in Pregnancy</a></li>
+<li id="menu-item-11794" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11794"><a href="https://valterlongo.com/daily-longevity-diet-while-breastfeeding/">Longevity Diet While Breastfeeding</a></li>
+<li id="menu-item-11793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11793"><a href="https://valterlongo.com/daily-longevity-diet-for-children-and-adolescents/">Longevity Diet for Children and Adolescents</a></li>
+<li id="menu-item-7481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7481"><a href="https://valterlongo.com/exercise-and-longevity/">Exercise and Longevity</a></li>
+<li id="menu-item-11796" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11796"><a href="https://valterlongo.com/fasting-mimicking-program-and-longevity/">Fasting Mimicking Program and Longevity</a></li>
+<li id="menu-item-7483" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7483"><a href="https://valterlongo.com/recipes-of-longevity/">Recipes of Longevity</a></li>
+</ul></div>
+<span class="seperator extralight-border"></span></section></div>
+<div class="flex_column av_one_fourth  el_after_av_one_fourth  el_before_av_one_fourth "><section id="nav_menu-18" class="widget clearfix widget_nav_menu"><h3 class="widgettitle">FOR DOCTORS &amp; POTENTIAL PATIENTS</h3>
+<div class="menu-for-doctors-and-potential-patents-eng-container"><ul id="menu-for-doctors-and-potential-patents-eng" class="menu">
+<li id="menu-item-7489" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7489"><a href="https://valterlongo.com/cancer/">Cancer</a></li>
+<li id="menu-item-7492" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7492"><a href="https://valterlongo.com/neurodegenerative-diseases/">Neurodegenerative Diseases</a></li>
+<li id="menu-item-7488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7488"><a href="https://valterlongo.com/autoimmune-diseases/">Autoimmune Diseases</a></li>
+<li id="menu-item-7490" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7490"><a href="https://valterlongo.com/cardiovascular-diseases/">Cardiovascular Diseases</a></li>
+<li id="menu-item-7491" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7491"><a href="https://valterlongo.com/diabetes-obesity/">Diabetes &amp; Obesity</a></li>
+<li id="menu-item-11797" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11797"><a href="https://valterlongo.com/scientific-articles/">Scientific Articles</a></li>
+</ul></div>
+<span class="seperator extralight-border"></span></section></div>
+<div class="flex_column av_one_fourth  el_after_av_one_fourth  el_before_av_one_fourth ">
+<section id="nav_menu-26" class="widget clearfix widget_nav_menu"><h3 class="widgettitle">BOOKS</h3>
+<div class="menu-books-container"><ul id="menu-books" class="menu">
+<li id="menu-item-12333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12333"><a href="https://valterlongo.com/longevity-starts-in-childhood/">La longevit&agrave; inizia da bambini</a></li>
+<li id="menu-item-13610" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13610"><a href="https://valterlongo.com/at-longevitys-table/">At Longevity&rsquo;s Table</a></li>
+<li id="menu-item-13612" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13612"><a href="https://valterlongo.com/longevity-starts-in-childhood/">Longevity starts in Childhood</a></li>
+<li id="menu-item-13615" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13615"><a href="https://valterlongo.com/the-longevity-diet/">The Longevity Diet</a></li>
+</ul></div>
+<span class="seperator extralight-border"></span></section><section id="nav_menu-24" class="widget clearfix widget_nav_menu"><h3 class="widgettitle">MEDIA</h3>
+<div class="menu-media-eng-container"><ul id="menu-media-eng" class="menu">
+<li id="menu-item-7502" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7502"><a href="https://valterlongo.com/videos/">Videos</a></li>
+<li id="menu-item-11798" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11798"><a href="https://valterlongo.com/latest-news/">Latest News</a></li>
+<li id="menu-item-7503" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7503"><a href="https://valterlongo.com/what-they-are-saying-about-us/">What They are Saying</a></li>
+</ul></div>
+<span class="seperator extralight-border"></span></section>
+</div>
+<div class="flex_column av_one_fourth  el_after_av_one_fourth  el_before_av_one_fourth ">
+<section id="custom_html-14" class="widget_text widget clearfix widget_custom_html"><div class="textwidget custom-html-widget"><a href="https://valterlongo.com/biography/">Biograpy</a></div>
+<span class="seperator extralight-border"></span></section><section id="custom_html-10" class="widget_text widget clearfix widget_custom_html"><div class="textwidget custom-html-widget"><a href="https://valterlongo.com/contact-us/">Contact Us</a></div>
+<span class="seperator extralight-border"></span></section><section id="custom_html-12" class="widget_text widget clearfix widget_custom_html"><div class="textwidget custom-html-widget">
+<a href="https://www.iubenda.com/privacy-policy/42138508" class="iubenda-white no-brand iubenda-noiframe iubenda-embed iubenda-noiframe " title="Privacy Policy ">Privacy Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script><a href="https://www.iubenda.com/privacy-policy/42138508/cookie-policy" class="iubenda-white no-brand iubenda-noiframe iubenda-embed iubenda-noiframe " title="Cookie Policy ">Cookie Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
+</div>
+<span class="seperator extralight-border"></span></section>
+</div>
+
+					</div>
+
+
+				<!-- ####### END FOOTER CONTAINER ####### -->
+				</div>
+
+	
+
+
+			
+
+			
+				<footer class="container_wrap socket_color" id="socket" role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter">
+                    <div class="container">
+
+                        <span class="copyright">Valter Longo &copy; 2019 </span>
+
+                        <ul class="noLightbox social_bookmarks icon_count_2">
+<li class="social_bookmarks_facebook av-social-link-facebook social_icon_1"><a target="_blank" aria-label="Link to Facebook" href="https://www.facebook.com/profvalterlongo/" aria-hidden="true" data-av_icon="&#59635;" data-av_iconfont="entypo-fontello" title="Facebook"><span class="avia_hidden_link_text">Facebook</span></a></li>
+<li class="social_bookmarks_instagram av-social-link-instagram social_icon_2"><a target="_blank" aria-label="Link to Instagram" href="https://www.instagram.com/prof_valterlongo/" aria-hidden="true" data-av_icon="&#59657;" data-av_iconfont="entypo-fontello" title="Instagram"><span class="avia_hidden_link_text">Instagram</span></a></li>
+</ul>
+                    </div>
+
+	            <!-- ####### END SOCKET CONTAINER ####### -->
+				</footer>
+
+
+					<!-- end main -->
+		</div>
+		
+		<!-- end wrap_all -->
+</div>
+
+<a href="#top" title="Scroll to top" id="scroll-top-link" aria-hidden="true" data-av_icon="&#59510;" data-av_iconfont="entypo-fontello"><span class="avia_hidden_link_text">Scroll to top</span></a>
+
+<div id="fb-root"></div>
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/enfold/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<!-- Custom Facebook Feed JS -->
+<script type="text/javascript">var cffajaxurl = "https://valterlongo.com/wp-admin/admin-ajax.php";
+var cfflinkhashtags = "true";
+</script>
+				<a id="scroll-to-top" href="#" title="Scroll to Top">Top</a>
+				<div id="pum-14382" role="dialog" aria-modal="false" class="pum pum-overlay pum-theme-14226 pum-theme-tema-predefinito popmake-overlay pum-click-to-close auto_open click_open" data-popmake='{"id":14382,"slug":"information-request","theme_id":14226,"cookies":[{"event":"on_popup_close","settings":{"name":"pum-14382","time":"1 hour","path":true}}],"triggers":[{"type":"auto_open","settings":{"cookie_name":["pum-14382"],"delay":"5000"}},{"type":"click_open","settings":{"extra_selectors":"","cookie_name":null}}],"mobile_disabled":null,"tablet_disabled":null,"meta":{"display":{"stackable":false,"overlay_disabled":false,"scrollable_content":false,"disable_reposition":false,"size":"custom","responsive_min_width":"0%","responsive_min_width_unit":false,"responsive_max_width":"100%","responsive_max_width_unit":false,"custom_width":"450px","custom_width_unit":false,"custom_height":"380px","custom_height_unit":false,"custom_height_auto":"1","location":"center top","position_from_trigger":false,"position_top":"100","position_left":"0","position_bottom":"0","position_right":"0","position_fixed":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","overlay_zindex":false,"zindex":"1999999999"},"close":{"text":"X","button_delay":"0","overlay_click":"1","esc_press":"1","f4_press":false},"click_open":[]}}'>
+
+	<div id="popmake-14382" class="pum-container popmake theme-14226 size-custom">
+
+				
+				
+		
+				<div class="pum-content popmake-content" tabindex="0">
+			<p><iframe id="fepziQ7j9D3djta8A1GF" style="border: none; width: 100%;" title="survey" src="https://link.createcures.org/widget/survey/fepziQ7j9D3djta8A1GF" scrolling="no"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">&#65279;</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">&#65279;</span></iframe><br>
+<script src="https://link.msgsndr.com/js/form_embed.js"></script></p>
+		</div>
+
+				
+							<button type="button" class="pum-close popmake-close" aria-label="Close">
+			X			</button>
+		
+	</div>
+
+</div>
+<div id="pum-14246" role="dialog" aria-modal="false" class="pum pum-overlay pum-theme-14226 pum-theme-tema-predefinito popmake-overlay pum-click-to-close click_open" data-popmake='{"id":14246,"slug":"longevity-movement-ep-01","theme_id":14226,"cookies":[],"triggers":[{"type":"click_open","settings":{"extra_selectors":"","cookie_name":null}}],"mobile_disabled":null,"tablet_disabled":null,"meta":{"display":{"stackable":false,"overlay_disabled":false,"scrollable_content":false,"disable_reposition":false,"size":"medium","responsive_min_width":"0%","responsive_min_width_unit":false,"responsive_max_width":"100%","responsive_max_width_unit":false,"custom_width":"640px","custom_width_unit":false,"custom_height":"380px","custom_height_unit":false,"custom_height_auto":false,"location":"center","position_from_trigger":false,"position_top":"100","position_left":"0","position_bottom":"0","position_right":"0","position_fixed":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","overlay_zindex":false,"zindex":"1999999999"},"close":{"text":"Close","button_delay":"0","overlay_click":"1","esc_press":"1","f4_press":false},"click_open":[]}}'>
+
+	<div id="popmake-14246" class="pum-container popmake theme-14226 pum-responsive pum-responsive-medium responsive size-medium">
+
+				
+				
+		
+				<div class="pum-content popmake-content" tabindex="0">
+			<p><iframe width="560" height="315" src="//cdn.iubenda.com/cookie_solution/empty.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen suppressedsrc="https://www.youtube.com/embed/YDvy0cJT8HA?si=363kUkiQFBCfog4Q" class=" _iub_cs_activate" data-iub-purposes="3"></iframe></p>
+		</div>
+
+				
+							<button type="button" class="pum-close popmake-close" aria-label="Close">
+			Close			</button>
+		
+	</div>
+
+</div>
+<script>function loadScript(a){var b=document.getElementsByTagName("head")[0],c=document.createElement("script");c.type="text/javascript",c.src="https://tracker.metricool.com/resources/be.js",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:"af9b91f9db1579e9c53a6289ed32f714"})});</script>
+ <script type="text/javascript">
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+    avia_framework_globals.frameworkUrl = 'https://valterlongo.com/wp-content/themes/enfold/framework/';
+    avia_framework_globals.installedAt = 'https://valterlongo.com/wp-content/themes/enfold/';
+    avia_framework_globals.ajaxurl = 'https://valterlongo.com/wp-admin/admin-ajax.php?lang=en';
+/* ]]> */ 
+</script>
+ 
+ <script id="wp-importmap" type="importmap">
+{"imports":{"@wordpress/route":"https://valterlongo.com/wp-includes/js/dist/script-modules/route/index.min.js?ver=ef851c0f4dda0d1dd359","@wordpress/video-conversion/worker":"https://valterlongo.com/wp-includes/js/dist/script-modules/video-conversion/worker.min.js?ver=4d3627c45251ceb4f9a2","@wordpress/vips/worker":"https://valterlongo.com/wp-includes/js/dist/script-modules/vips/worker.min.js?ver=7e33cd8c4128731126e8","@wordpress/latex-to-mathml":"https://valterlongo.com/wp-includes/js/dist/script-modules/latex-to-mathml/index.min.js?ver=662cb0e7f68d2a21cd68"}}
+</script>
+    <!-- Meta Pixel Event Code -->
+    <script type="text/javascript">
+        document.addEventListener( 'wpcf7mailsent', function( event ) {
+        if( "fb_pxl_code" in event.detail.apiResponse){
+          eval(event.detail.apiResponse.fb_pxl_code);
+        }
+      }, false );
+    </script>
+    <!-- End Meta Pixel Event Code -->
+    <div id="fb-pxl-ajax-code"></div>
+<script id="avia-default-js" src="https://valterlongo.com/wp-content/themes/enfold/js/avia.js?ver=4.5.7"></script>
+<script id="avia-shortcodes-js" src="https://valterlongo.com/wp-content/themes/enfold/js/shortcodes.js?ver=4.5.7"></script>
+<script id="avia-module-audioplayer-js" src="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/audio-player/audio-player.js?ver=7.1.2"></script>
+<script id="avia-module-contact-js" src="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contact/contact.js?ver=7.1.2"></script>
+<script id="avia-module-slideshow-js" src="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow.js?ver=7.1.2"></script>
+<script id="avia-module-countdown-js" src="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/countdown/countdown.js?ver=7.1.2"></script>
+<script id="avia-module-gallery-js" src="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery/gallery.js?ver=7.1.2"></script>
+<script id="avia-module-gallery-hor-js" src="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.js?ver=7.1.2"></script>
+<script id="avia-module-rotator-js" src="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.js?ver=7.1.2"></script>
+<script id="avia-module-icongrid-js" src="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/icongrid/icongrid.js?ver=7.1.2"></script>
+<script id="avia-module-iconlist-js" src="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/iconlist/iconlist.js?ver=7.1.2"></script>
+<script id="avia-module-hotspot-js" src="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.js?ver=7.1.2"></script>
+<script id="avia-module-magazine-js" src="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/magazine/magazine.js?ver=7.1.2"></script>
+<script id="avia-module-isotope-js" src="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio/isotope.js?ver=7.1.2"></script>
+<script id="avia-module-masonry-js" src="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.js?ver=7.1.2"></script>
+<script id="avia-module-menu-js" src="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/menu/menu.js?ver=7.1.2"></script>
+<script id="avia-mofdule-notification-js" src="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/notification/notification.js?ver=7.1.2"></script>
+<script id="avia-module-numbers-js" src="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/numbers/numbers.js?ver=7.1.2"></script>
+<script id="avia-module-portfolio-js" src="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio/portfolio.js?ver=7.1.2"></script>
+<script id="avia-module-progress-bar-js" src="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/progressbar/progressbar.js?ver=7.1.2"></script>
+<script id="avia-module-slideshow-video-js" src="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow-video.js?ver=7.1.2"></script>
+<script id="avia-module-slideshow-accordion-js" src="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.js?ver=7.1.2"></script>
+<script id="avia-module-slideshow-fullscreen-js" src="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.js?ver=7.1.2"></script>
+<script id="avia-module-slideshow-ls-js" src="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_layerslider/slideshow_layerslider.js?ver=7.1.2"></script>
+<script id="avia-module-tabsection-js" src="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tab_section/tab_section.js?ver=7.1.2"></script>
+<script id="avia-module-tabs-js" src="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tabs/tabs.js?ver=7.1.2"></script>
+<script id="avia-module-testimonials-js" src="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/testimonials/testimonials.js?ver=7.1.2"></script>
+<script id="avia-module-timeline-js" src="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/timeline/timeline.js?ver=7.1.2"></script>
+<script id="avia-module-toggles-js" src="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/toggles/toggles.js?ver=7.1.2"></script>
+<script id="avia-module-video-js" src="https://valterlongo.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/video/video.js?ver=7.1.2"></script>
+<script id="awsm-ead-pdf-object-js" src="https://valterlongo.com/wp-content/plugins/embed-any-document/js/pdfobject.min.js?ver=2.7.14"></script>
+<script id="awsm-ead-public-js-extra">
+var eadPublic = [];
+//# sourceURL=awsm-ead-public-js-extra
+</script>
+<script id="awsm-ead-public-js" src="https://valterlongo.com/wp-content/plugins/embed-any-document/js/embed-public.min.js?ver=2.7.14"></script>
+<script id="wpedon-js-extra">
+var wpedon = {"ajaxUrl":"https://valterlongo.com/wp-admin/admin-ajax.php","nonce":"81458bb135","opens":"2","cancel":"https://valterlongo.com/annulla","return":"https://valterlongo.com/grazie"};
+//# sourceURL=wpedon-js-extra
+</script>
+<script id="wpedon-js" src="https://valterlongo.com/wp-content/plugins/easy-paypal-donation/assets/js/wpedon.js?ver=1.5.6"></script>
+<script id="jquery-smooth-scroll-js" src="https://valterlongo.com/wp-content/plugins/jquery-smooth-scroll/js/script.min.js?ver=1.4.5"></script>
+<script id="cffscripts-js" src="https://valterlongo.com/wp-content/plugins/custom-facebook-feed/assets/js/cff-scripts.min.js?ver=4.14.0"></script>
+<script id="swiper-js" src="https://valterlongo.com/wp-content/plugins/softlite-io-integration/assets/js/minify/swiper.min.js?ver=1.0.59"></script>
+<script id="softlite-main-script-js" src="https://valterlongo.com/wp-content/plugins/softlite-io-integration/assets/js/minify/main.min.js?ver=1.0.59"></script>
+<script id="avia-popup-js-js" src="https://valterlongo.com/wp-content/themes/enfold/js/aviapopup/jquery.magnific-popup.min.js?ver=4.5.7"></script>
+<script id="avia-lightbox-activation-js" src="https://valterlongo.com/wp-content/themes/enfold/js/avia-snippet-lightbox.js?ver=4.5.7"></script>
+<script id="avia-megamenu-js" src="https://valterlongo.com/wp-content/themes/enfold/js/avia-snippet-megamenu.js?ver=4.5.7"></script>
+<script id="avia-sticky-header-js" src="https://valterlongo.com/wp-content/themes/enfold/js/avia-snippet-sticky-header.js?ver=4.5.7"></script>
+<script id="avia-widget-js-js" src="https://valterlongo.com/wp-content/themes/enfold/js/avia-snippet-widget.js?ver=4.5.7"></script>
+<script id="mediaelement-core-js-before">
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https://get.adobe.com/flashplayer/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left/Right Arrow keys to advance one second, Up/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+//# sourceURL=mediaelement-core-js-before
+</script>
+<script id="mediaelement-core-js" src="https://valterlongo.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17"></script>
+<script id="mediaelement-migrate-js" src="https://valterlongo.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=7.1.2"></script>
+<script id="mediaelement-js-extra">
+var _wpmejsSettings = {"pluginPath":"/wp-includes/js/mediaelement/","classPrefix":"mejs-","stretching":"responsive","audioShortcodeLibrary":"mediaelement","videoShortcodeLibrary":"mediaelement"};
+//# sourceURL=mediaelement-js-extra
+</script>
+<script id="wp-mediaelement-js" src="https://valterlongo.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=7.1.2"></script>
+<script id="jquery-ui-core-js-before">
+jQuery.uiBackCompat = true;
+//# sourceURL=jquery-ui-core-js-before
+</script>
+<script id="jquery-ui-core-js" src="https://valterlongo.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2"></script>
+<script id="popup-maker-site-js-extra">
+var pum_vars = {"version":"1.21.5","pm_dir_url":"https://valterlongo.com/wp-content/plugins/popup-maker/","ajaxurl":"https://valterlongo.com/wp-admin/admin-ajax.php","restapi":"https://valterlongo.com/wp-json/pum/v1","rest_nonce":null,"default_theme":"14226","debug_mode":"","disable_tracking":"","home_url":"/","message_position":"top","core_sub_forms_enabled":"1","popups":[],"cookie_domain":"","analytics_enabled":"1","analytics_route":"analytics","analytics_api":"https://valterlongo.com/wp-json/pum/v1"};
+var pum_sub_vars = {"ajaxurl":"https://valterlongo.com/wp-admin/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-14382":{"triggers":[{"type":"auto_open","settings":{"cookie_name":["pum-14382"],"delay":"5000"}}],"cookies":[{"event":"on_popup_close","settings":{"name":"pum-14382","time":"1 hour","path":true}}],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"14226","size":"custom","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"450px","custom_height_auto":true,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":true,"close_on_esc_press":true,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"tema-predefinito","id":14382,"slug":"information-request"},"pum-14246":{"triggers":[],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"14226","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":true,"close_on_esc_press":true,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"tema-predefinito","id":14246,"slug":"longevity-movement-ep-01"}};
+//# sourceURL=popup-maker-site-js-extra
+</script>
+<script id="popup-maker-site-js" src="//valterlongo.com/wp-content/uploads/pum/pum-site-scripts.js?defer&amp;generated=1773150432&amp;ver=1.21.5"></script>
+<script id="avia_google_maps_front_script-js" src="https://valterlongo.com/wp-content/themes/enfold/framework/js/conditional_load/avia_google_maps_front.js?ver=4.5.7"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://valterlongo.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.2"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://valterlongo.com/wp-includes/js/wp-emoji-loader.min.js
+</script>
+
+			<script>
+			if(document.cookie.match(/aviaPrivacyGoogleTrackingDisabled/)){ window['ga-disable-UA-91195705-1'] = true; }
+			</script><script type="text/plain" class=" _iub_cs_activate-inline" data-iub-purposes="4">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-91195705-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
+<!-- Parsed with iubenda experimental class in 0.0203 sec. -->

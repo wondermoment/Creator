@@ -1,0 +1,39 @@
+{
+  "id": "new-what-is-health",
+  "requested_title": "何谓健康",
+  "query": "What Is Health Peter Sterling",
+  "checked": "2026-10-06",
+  "sources": [
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL20765180W",
+      "title": "What Is Health?",
+      "authors": [
+        "Peter Sterling"
+      ],
+      "year": 2020,
+      "description": "",
+      "subjects": [
+        "Neurosciences",
+        "Brain",
+        "Evolution"
+      ]
+    },
+    {
+      "type": "library",
+      "url": "https://openlibrary.org/works/OL21213446W",
+      "title": "What Is Health? - Allostasis and the Evolution of Human Design",
+      "authors": [
+        "Peter Sterling"
+      ],
+      "year": 2019,
+      "description": "",
+      "subjects": [
+        "Physiology"
+      ]
+    }
+  ],
+  "errors": [
+    "Wikipedia: HTTP Error 429: Too Many Requests"
+  ]
+}

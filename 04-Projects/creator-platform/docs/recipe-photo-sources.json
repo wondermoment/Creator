@@ -1,0 +1,98 @@
+{
+  "berry-yogurt": {
+    "credit": "Unsplash",
+    "referenceDish": "Yogurt and fruit",
+    "url": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&w=1000&q=85",
+    "source": "https://unsplash.com/photos/1488477181946-6428a0291777"
+  },
+  "mackerel-rice": {
+    "credit": "TheMealDB",
+    "referenceDish": "Baked salmon with fennel & tomatoes",
+    "url": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+    "source": "https://www.themealdb.com/meal/52959"
+  },
+  "edamame-quinoa": {
+    "credit": "TheMealDB",
+    "referenceDish": "Sweet potato salad",
+    "url": "https://www.themealdb.com/images/media/meals/z458v91763817681.jpg",
+    "source": "https://www.themealdb.com/meal/53275"
+  },
+  "walnut-buckwheat": {
+    "credit": "TheMealDB",
+    "referenceDish": "Noodle bowl salad",
+    "url": "https://www.themealdb.com/images/media/meals/zry07j1763779321.jpg",
+    "source": "https://www.themealdb.com/meal/53245"
+  },
+  "red-bean-oats": {
+    "credit": "TheMealDB",
+    "referenceDish": "Jamaican Cornmeal Porridge",
+    "url": "https://www.themealdb.com/images/media/meals/sng9bm1765320170.jpg",
+    "source": "https://www.themealdb.com/meal/53363"
+  },
+  "tofu-wrap": {
+    "credit": "TheMealDB",
+    "referenceDish": "Chickpea Fajitas",
+    "url": "https://www.themealdb.com/images/media/meals/tvtxpq1511464705.jpg",
+    "source": "https://www.themealdb.com/meal/52870"
+  },
+  "lentil-curry": {
+    "credit": "TheMealDB",
+    "referenceDish": "Smoky Lentil Chili with Squash",
+    "url": "https://www.themealdb.com/images/media/meals/uwxqwy1483389553.jpg",
+    "source": "https://www.themealdb.com/meal/52784"
+  },
+  "sweetpotato-chickpea": {
+    "credit": "TheMealDB",
+    "referenceDish": "Sweet potato salad",
+    "url": "https://www.themealdb.com/images/media/meals/z458v91763817681.jpg",
+    "source": "https://www.themealdb.com/meal/53275"
+  },
+  "sardine-pasta": {
+    "credit": "TheMealDB",
+    "referenceDish": "Mediterranean Pasta Salad",
+    "url": "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg",
+    "source": "https://www.themealdb.com/meal/52777"
+  },
+  "whitebean-soup": {
+    "credit": "TheMealDB",
+    "referenceDish": "Easy White Bean Soup",
+    "url": "https://www.themealdb.com/images/media/meals/p5nzbk1782680889.jpg",
+    "source": "https://www.themealdb.com/meal/53486"
+  },
+  "lemon-chicken": {
+    "credit": "TheMealDB",
+    "referenceDish": "Chicken Basquaise",
+    "url": "https://www.themealdb.com/images/media/meals/wruvqv1511880994.jpg",
+    "source": "https://www.themealdb.com/meal/52934"
+  },
+  "egg-tomato-pan": {
+    "credit": "TheMealDB",
+    "referenceDish": "Chinese Tomato Egg Stir Fry",
+    "url": "https://www.themealdb.com/images/media/meals/rwvw8q1765660071.jpg",
+    "source": "https://www.themealdb.com/meal/53372"
+  },
+  "shrimp-tofu": {
+    "credit": "TheMealDB",
+    "referenceDish": "Egg Drop Soup",
+    "url": "https://www.themealdb.com/images/media/meals/1529446137.jpg",
+    "source": "https://www.themealdb.com/meal/52955"
+  },
+  "chicken-mushroom": {
+    "credit": "TheMealDB",
+    "referenceDish": "Chicken Congee",
+    "url": "https://www.themealdb.com/images/media/meals/1529446352.jpg",
+    "source": "https://www.themealdb.com/meal/52956"
+  },
+  "sesame-spinach": {
+    "credit": "TheMealDB",
+    "referenceDish": "Tofu, greens & cashew stir-fry",
+    "url": "https://www.themealdb.com/images/media/meals/minfsc1763766806.jpg",
+    "source": "https://www.themealdb.com/meal/53240"
+  },
+  "egg-corn": {
+    "credit": "TheMealDB",
+    "referenceDish": "Egg Foo Young",
+    "url": "https://www.themealdb.com/images/media/meals/47y6ii1765658818.jpg",
+    "source": "https://www.themealdb.com/meal/53370"
+  }
+}

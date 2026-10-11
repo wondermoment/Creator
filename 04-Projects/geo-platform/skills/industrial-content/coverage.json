@@ -1,0 +1,56 @@
+{
+  "timestamp": "2026-10-04T20:48:23.293977+00:00",
+  "visited": 726,
+  "articles": 483,
+  "errors": 0,
+  "queued": 0,
+  "limit": 2500,
+  "linked_graph_exhausted": true,
+  "unvisited": [],
+  "duplicate_text_groups": [
+    [
+      "https://www.hqhf.com/display_248.html",
+      "https://www.hqhf.com/display_249.html",
+      "https://www.hqhf.com/display_601.html",
+      "https://www.hqhf.com/display_611.html",
+      "https://www.hqhf.com/display_683.html",
+      "https://www.hqhf.com/display_762.html",
+      "https://www.hqhf.com/display_1133.html",
+      "https://www.hqhf.com/display_1134.html",
+      "https://www.hqhf.com/display_1135.html",
+      "https://www.hqhf.com/display_688.html",
+      "https://www.hqhf.com/display_689.html",
+      "https://www.hqhf.com/display_738.html",
+      "https://www.hqhf.com/display_726.html",
+      "https://www.hqhf.com/display_800.html",
+      "https://www.hqhf.com/display_812.html",
+      "https://www.hqhf.com/display_813.html",
+      "https://www.hqhf.com/display_814.html",
+      "https://www.hqhf.com/display_815.html",
+      "https://www.hqhf.com/display_825.html",
+      "https://www.hqhf.com/display_826.html",
+      "https://www.hqhf.com/display_563.html",
+      "https://www.hqhf.com/display_535.html",
+      "https://www.hqhf.com/display_566.html",
+      "https://www.hqhf.com/display_191.html",
+      "https://www.hqhf.com/display_295.html"
+    ],
+    [
+      "https://www.hqhf.com/display_1096.html",
+      "https://www.hqhf.com/display_1097.html"
+    ],
+    [
+      "https://www.hqhf.com/display_885.html",
+      "https://www.hqhf.com/display_891.html"
+    ]
+  ],
+  "robots": {
+    "url": "https://www.hqhf.com/robots.txt",
+    "status": 404
+  },
+  "sitemap": {
+    "url": "https://www.hqhf.com/sitemap.xml",
+    "status": 404
+  },
+  "coverage_limit": "Public same-domain pages reachable via homepage navigation, catalog pagination and article previous/next links. No claim about orphan URLs, unlinked articles, private pages or image-only text. No OCR or attachment downloads."
+}

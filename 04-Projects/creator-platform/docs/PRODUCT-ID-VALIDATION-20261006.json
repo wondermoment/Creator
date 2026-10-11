@@ -1,0 +1,27 @@
+{
+  "observed_at_utc": "2026-10-05T23:50:35.060408+00:00",
+  "server_pid": 42748,
+  "read_only_http": {
+    "/api/commerce/catalog": {
+      "status": 200,
+      "shape_ok": true
+    },
+    "/api/commerce/snapshot": {
+      "status": 200,
+      "shape_ok": true,
+      "sandbox": true
+    },
+    "/": {
+      "status": 200,
+      "new_script_version": true
+    }
+  },
+  "backend_test_executions": 16,
+  "distinct_backend_tests": 9,
+  "frontend_suites": [
+    "product-id-escaping",
+    "form-async"
+  ],
+  "model_calls": 0,
+  "live_mutations": 0
+}

@@ -1,0 +1,33 @@
+{
+  "scope": "Native Edge download and localStorage; synthetic page/records; nonpersistent isolated context; all network intercepted",
+  "source_sha256": "6b45052cdfb437f5688b0dfb5262b9030295903f08beffa6cae3f7dd7096209b",
+  "checks": [
+    {
+      "case": "valid records downloaded; exact raw strings preserved; unrelated storage excluded; zero storage mutation",
+      "pass": true
+    },
+    {
+      "case": "damaged records downloaded; exact raw strings preserved; unrelated storage excluded; zero storage mutation",
+      "pass": true
+    },
+    {
+      "case": "empty storage creates no download; status and button recover",
+      "pass": true
+    }
+  ],
+  "browser": "154.0.4258.53",
+  "pass": true,
+  "page_errors": [],
+  "intercepted_requests": [
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:8765/__synthetic_backup__"
+    }
+  ],
+  "download_count": 2,
+  "limitations": [
+    "Synthetic page, not full product end-to-end",
+    "Export is not import/restore validation or transactional snapshot",
+    "Browser access denial/download blocking only covered by synthetic unit tests"
+  ]
+}

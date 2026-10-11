@@ -1,0 +1,29 @@
+{
+  "method": "Native image_gen through local ChatGPT login, two independent calls; WebP format conversion only, no compositing",
+  "modelVersion": "Not verified",
+  "prompt": "output/imagegen/testing-liver-apoe-prompt.txt",
+  "images": [
+    {
+      "id": "test-liver",
+      "original": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a10bf9-6c25-7380-98cb-193a9da3f6af\\exec-d680da96-b723-4d41-a560-9f88697e3b22.png",
+      "file": "frontend\\assets\\testing\\test-liver-science.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "4a34d4234fa38ff2d0eca1872a490cd9f7d85312bb5b86108f7183de755ffdac",
+      "review": "Reviewed original image: accurate requested Chinese headings/footer, no patient values or promised efficacy. Educational schematic only."
+    },
+    {
+      "id": "test-apoe",
+      "original": "C:\\Users\\pc02a\\Creator\\04-Projects\\geo-platform\\.runtime\\codex-local\\generated_images\\01a10bf9-6c25-7380-98cb-193a9da3f6af\\exec-cc410160-58ad-42f8-a14a-144e4513d692.png",
+      "file": "frontend\\assets\\testing\\test-apoe-science.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "36f22662dfb63778dc87ec6c86f40c9de5ce2a43ea1517957ba6812aae766ac7",
+      "review": "Reviewed original image: accurate requested Chinese headings/footer, no patient values or promised efficacy. Educational schematic only."
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "book": {
+    "id": "hou-2",
+    "number": 2,
+    "title": "未来简史",
+    "category": "生命基础",
+    "author": "尤瓦尔·赫拉利"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E6%9C%AA%E6%9D%A5%E7%AE%80%E5%8F%B2",
+  "results": [
+    {
+      "title": "未来简史：从智人到智神",
+      "author": "尤瓦尔·赫拉利",
+      "url": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771"
+    },
+    {
+      "title": "未来简史：从科技发展到文明终端",
+      "author": "[英]约翰·汉兹",
+      "url": "https://weread.qq.com/web/reader/4f432730813abbc60g01921b"
+    },
+    {
+      "title": "未来简史",
+      "author": "余晨",
+      "url": "https://weread.qq.com/web/bookDetail/3e9325f0811e4e6d8g018631"
+    },
+    {
+      "title": "未来简史·人类简史（套装）【重印版】",
+      "author": "尤瓦尔·赫拉利",
+      "url": "https://weread.qq.com/web/reader/a3332ad05d0eaea33643cfd"
+    },
+    {
+      "title": "人工智能未来简史——基于脑机接口的超人制造愿景",
+      "author": "杨义先",
+      "url": "https://weread.qq.com/web/reader/b9832fc0813ab6ff8g01998f"
+    },
+    {
+      "title": "HR的未来简史",
+      "author": "唐秋勇等",
+      "url": "https://weread.qq.com/web/reader/c9e326507159f0efc9e65a9"
+    },
+    {
+      "title": "人类的明天(北大官微推荐！一部关乎你每天生活的未来简史)",
+      "author": "席里尔·迪翁",
+      "url": "https://weread.qq.com/web/reader/be7327b0715a143fbe75987"
+    },
+    {
+      "title": "新未来简史：区块链、人工智能、大数据陷阱与数字化生活",
+      "author": "王骥",
+      "url": "https://weread.qq.com/web/reader/0bb32580716ce8000bb9b2c"
+    },
+    {
+      "title": "30分钟读懂《未来简史》",
+      "author": "Fiberead 利民·邓",
+      "url": "https://weread.qq.com/web/reader/2a232c60719850742a2b924"
+    },
+    {
+      "title": "超图解未来简史",
+      "author": "王宇琨 董志道",
+      "url": "https://weread.qq.com/web/reader/7ba32370813abbf68g011776"
+    },
+    {
+      "title": "密码简史：穿越远古 展望未来",
+      "author": "杨义先",
+      "url": "https://weread.qq.com/web/reader/07332fd0721a48690736051"
+    },
+    {
+      "title": "未来生活简史",
+      "author": "罗伊·泽扎纳",
+      "url": "https://weread.qq.com/web/reader/1f332e50725668f81f3045c"
+    },
+    {
+      "title": "万物简史：从宇宙大爆炸到人类未来",
+      "author": "王宇",
+      "url": "https://weread.qq.com/web/reader/ff032cb0813ab9c7dg01785c"
+    },
+    {
+      "title": "时间简史与生命未来",
+      "author": "李山花",
+      "url": "https://weread.qq.com/web/reader/279328f0813aba775g0189f0"
+    },
+    {
+      "title": "商界（2021年合集）",
+      "author": "商界",
+      "url": "https://weread.qq.com/web/reader/b6832ea0813ab6a9dg01479a"
+    },
+    {
+      "title": "梁冬说庄子·逍遥游",
+      "author": "梁冬",
+      "url": "https://weread.qq.com/web/reader/43e32dc0813ab86cag01419a"
+    },
+    {
+      "title": "马克思主义哲学评论（第3辑）",
+      "author": "陈新夏 杨生平主编 黄志军执行主编",
+      "url": "https://weread.qq.com/web/reader/edb32c607166b580edb21f1"
+    },
+    {
+      "title": "项目式学习的教学研究与实践",
+      "author": "田树林 刘强",
+      "url": "https://weread.qq.com/web/reader/c0332310813ab8e25g0148e6"
+    },
+    {
+      "title": "左手画圆 右手画方",
+      "author": "邓耿",
+      "url": "https://weread.qq.com/web/reader/cf432b2071a4955fcf44336"
+    },
+    {
+      "title": "元宇宙革命与矩阵陷阱：科技大集成和文明大考",
+      "author": "王骥",
+      "url": "https://weread.qq.com/web/reader/ad132780813ab752dg01687c"
+    },
+    {
+      "title": "重构建：新时代转型升级实践论",
+      "author": "王克",
+      "url": "https://weread.qq.com/web/reader/2b3321a0813ab6f46g019728"
+    },
+    {
+      "title": "从月球看地球Ⅱ：洞见中国经济与商业新动能",
+      "author": "长江商学院",
+      "url": "https://weread.qq.com/web/reader/f8e32ef05e2f8ef8ec6ec70"
+    },
+    {
+      "title": "投资的维度：智能时代的股权投融资解析",
+      "author": "杨文 谢艳",
+      "url": "https://weread.qq.com/web/reader/650320505e25dd65027a675"
+    },
+    {
+      "title": "认知颠覆",
+      "author": "程驿",
+      "url": "https://weread.qq.com/web/reader/ddf327d071691c40ddfff95"
+    },
+    {
+      "title": "读书是一辈子的事",
+      "author": "樊登",
+      "url": "https://weread.qq.com/web/reader/bf132d405e130ebf124a2cd"
+    },
+    {
+      "title": "放下心中的尺子：《庄子》哲学50讲",
+      "author": "林光华",
+      "url": "https://weread.qq.com/web/reader/d9932e60719ad26ed991fe4"
+    },
+    {
+      "title": "超链接学习者之认知旅程 下卷",
+      "author": "鲍小雄",
+      "url": "https://weread.qq.com/web/reader/71232f90813ab9387g01813e"
+    },
+    {
+      "title": "校长先读：中国中小学校长基础阅读书目·导赏手册",
+      "author": "朱永新 卢志文",
+      "url": "https://weread.qq.com/web/reader/1c632160813ab8586g011c5a"
+    },
+    {
+      "title": "畅销书经典案例研究",
+      "author": "张文红",
+      "url": "https://weread.qq.com/web/reader/bad329f0813ab7430g0169fb"
+    },
+    {
+      "title": "出海北美: 突围高端市场的全流程指南",
+      "author": "徐怀玉",
+      "url": "https://weread.qq.com/web/reader/43d323f0813abbd15g010736"
+    },
+    {
+      "title": "国际传播与媒介发展论集",
+      "author": "朱颖",
+      "url": "https://weread.qq.com/web/reader/049328907214057b049baae"
+    },
+    {
+      "title": "深度医疗",
+      "author": "埃里克·托普",
+      "url": "https://weread.qq.com/web/reader/f2432b4072103ce3f2470bb"
+    },
+    {
+      "title": "影响商业的50本书",
+      "author": "吴晓波",
+      "url": "https://weread.qq.com/web/reader/14732f4071d8d604147696d"
+    },
+    {
+      "title": "交易员的自我修养系列合集（全8册）",
+      "author": "陈侃迪 徐华康 杨楠",
+      "url": "https://weread.qq.com/web/reader/e9d32150813ab6d00g010cb2"
+    },
+    {
+      "title": "聚势：开创全球科技、商业、经济新趋势",
+      "author": "谢雨钢",
+      "url": "https://weread.qq.com/web/reader/89332300813aba89ag013449"
+    },
+    {
+      "title": "大夏书系· 《3-6岁儿童学习与发展指南》案例式解读（第二版）",
+      "author": "管旅华",
+      "url": "https://weread.qq.com/web/reader/f4e32730813ab8b0dg0117cd"
+    },
+    {
+      "title": "中国经济2017-2021(套装共5册)",
+      "author": "王德培",
+      "url": "https://weread.qq.com/web/reader/e16322f0813ab6d11g012e05"
+    },
+    {
+      "title": "中国经济发展史（全五册）",
+      "author": "王德培",
+      "url": "https://weread.qq.com/web/reader/f153241071a2c859f1570bc"
+    },
+    {
+      "title": "交易员的自我修养：中国顶级交易员访谈实录（曾宪锋）（中国顶级交易员访谈丛书）",
+      "author": "曾宪锋",
+      "url": "https://weread.qq.com/web/reader/d8f32080813ab6cfdg0152bf"
+    },
+    {
+      "title": "人类思想简史（一本书读尽哲学星空里的大神）",
+      "author": "赵哲先",
+      "url": "https://weread.qq.com/web/reader/084324e0813ab7d69g0185e9"
+    },
+    {
+      "title": "意识简史",
+      "author": "段玉聪",
+      "url": "https://weread.qq.com/web/reader/31132bb0813abba7bg0115e4"
+    },
+    {
+      "title": "谁的青春不热血",
+      "author": "董冬冬",
+      "url": "https://weread.qq.com/web/reader/17d3252071679c0f17d9f27"
+    },
+    {
+      "title": "不完美，更幸福：跳出家庭与事业平衡的陷阱",
+      "author": "安柏",
+      "url": "https://weread.qq.com/web/reader/487329b07186d8454872d0f"
+    },
+    {
+      "title": "站在大师的肩膀看世界（套装共12册）",
+      "author": "肖恩·B.卡罗尔 克尔·加扎尼加 等",
+      "url": "https://weread.qq.com/web/reader/75632130813ab7a0dg014ae1"
+    },
+    {
+      "title": "有些缤纷，有些静默",
+      "author": "何万敏",
+      "url": "https://weread.qq.com/web/reader/ceb323d0813ab70f1g013278"
+    },
+    {
+      "title": "寻找爱情：女性精神觉醒的经典读本  （套装共15册）",
+      "author": "岸見一郎 古賀史健 小仓广 等",
+      "url": "https://weread.qq.com/web/reader/87532c10813ab70a1g010ab1"
+    },
+    {
+      "title": "于是我问我的心：我所经历的写作课",
+      "author": "简洁",
+      "url": "https://weread.qq.com/web/reader/d7632e30813ab82c3g013ea3"
+    },
+    {
+      "title": "思维进阶：常态课不能绕过的素养",
+      "author": "田树林 刘强",
+      "url": "https://weread.qq.com/web/reader/5e332b10813ab8d13g015a08"
+    },
+    {
+      "title": "程序化广告的道与术：数据技术时代的营销变革",
+      "author": "陈韵博",
+      "url": "https://weread.qq.com/web/reader/b4a328a07297298ab4acd2c"
+    },
+    {
+      "title": "懂点前沿科技",
+      "author": "周忠和 郑永和 主编",
+      "url": "https://weread.qq.com/web/reader/4a832670813abb516g010d83"
+    },
+    {
+      "title": "世上为什么要有图书馆（微信读书特别版）",
+      "author": "杨素秋",
+      "url": "https://weread.qq.com/web/reader/8df32450813aba2fcg014514"
+    },
+    {
+      "title": "文明、现代化、价值投资与中国",
+      "author": "李录",
+      "url": "https://weread.qq.com/web/reader/6f5323f071bd7f7b6f521e8"
+    },
+    {
+      "title": "十三邀：我们时代的头脑与心灵 （全四辑）",
+      "author": "许知远",
+      "url": "https://weread.qq.com/web/reader/b7832700813ab7b6fg01283d"
+    },
+    {
+      "title": "十三邀3：我们都在给大问题做注脚",
+      "author": "许知远",
+      "url": "https://weread.qq.com/web/reader/92832720813ab7b6eg0181e2"
+    }
+  ]
+}

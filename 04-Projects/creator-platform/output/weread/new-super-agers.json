@@ -1,0 +1,13 @@
+{
+  "book": {
+    "id": "new-super-agers",
+    "number": 52,
+    "title": "长寿真相：保持年轻和活力的关键策略",
+    "category": "长寿抗衰",
+    "edition": "中信出版集团",
+    "author": "埃里克·托波尔（Eric Topol）"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E9%95%BF%E5%AF%BF%E7%9C%9F%E7%9B%B8%EF%BC%9A%E4%BF%9D%E6%8C%81%E5%B9%B4%E8%BD%BB%E5%92%8C%E6%B4%BB%E5%8A%9B%E7%9A%84%E5%85%B3%E9%94%AE%E7%AD%96%E7%95%A5",
+  "results": []
+}

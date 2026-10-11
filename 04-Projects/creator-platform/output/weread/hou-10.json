@@ -1,0 +1,18 @@
+{
+  "book": {
+    "id": "hou-10",
+    "number": 10,
+    "title": "长寿：逆转衰老的科学饮食",
+    "category": "长寿抗衰",
+    "author": "Michael Greger"
+  },
+  "status": 200,
+  "search": "https://weread.qq.com/web/search/books?keyword=%E9%95%BF%E5%AF%BF%EF%BC%9A%E9%80%86%E8%BD%AC%E8%A1%B0%E8%80%81%E7%9A%84%E7%A7%91%E5%AD%A6%E9%A5%AE%E9%A3%9F",
+  "results": [
+    {
+      "title": "长寿：逆转和延缓衰老的科学饮食（上下册）",
+      "author": "迈克尔·格雷格",
+      "url": "https://weread.qq.com/web/reader/ea232aa0813aba50fg015668"
+    }
+  ]
+}
